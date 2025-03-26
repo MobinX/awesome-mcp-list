@@ -1,6 +1,6 @@
 # Awesome MCP Servers - Concise List
 
-Note that this list is continnuesly updating and improving. Please star this repo . It really worth to bookmark
+Note that this list is continnuesly updating and improving. Please star this repo . It really worth to bookmark.
 
 ### 📂 Browser controll
 
