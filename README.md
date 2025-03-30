@@ -227,4 +227,13 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
-comming soon.............
+
+## Star History
+
+<a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
+ </picture>
+</a>
