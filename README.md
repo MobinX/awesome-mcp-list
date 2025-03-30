@@ -4,227 +4,227 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 📂 Browser Control
 
--   **[@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)**: Integrates with macOS Shortcuts for automation via MCP.
--   **[@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing)**: Implements minimal web browsing using Azure OpenAI and Playwright.
--   **[@pskill9/web-search](https://github.com/pskill9/web-search)**: Provides web search capabilities using Google results without requiring API keys.
--   **[@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server)**: Packages `browser-use` as an MCP server, with Docker support for Chromium and VNC.
--   **[@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp)**: Leverages Playwright via Python, optimized for large language models.
--   **[@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright)**: Utilizes Playwright for web automation and data extraction within an MCP framework.
--   **[@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright)**: Controls web browsers via Playwright through MCP commands.
--   **[modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)**: Automates web interactions and scraping using Puppeteer (part of the official servers collection).
--   **[@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)**: Extracts subtitles and transcripts from YouTube videos for AI processing.
+-   **[@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** [![GitHub stars](https://img.shields.io/github/stars/recursechat/mcp-server-apple-shortcuts?style=social)](https://github.com/recursechat/mcp-server-apple-shortcuts): Integrates with macOS Shortcuts for automation via MCP.
+-   **[@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing)** [![GitHub stars](https://img.shields.io/github/stars/kimtth/mcp-aoai-web-browsing?style=social)](https://github.com/kimtth/mcp-aoai-web-browsing): Implements minimal web browsing using Azure OpenAI and Playwright.
+-   **[@pskill9/web-search](https://github.com/pskill9/web-search)** [![GitHub stars](https://img.shields.io/github/stars/pskill9/web-search?style=social)](https://github.com/pskill9/web-search): Provides web search capabilities using Google results without requiring API keys.
+-   **[@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/co-browser/browser-use-mcp-server?style=social)](https://github.com/co-browser/browser-use-mcp-server): Packages `browser-use` as an MCP server, with Docker support for Chromium and VNC.
+-   **[@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp)** [![GitHub stars](https://img.shields.io/github/stars/blackwhite084/playwright-plus-python-mcp?style=social)](https://github.com/blackwhite084/playwright-plus-python-mcp): Leverages Playwright via Python, optimized for large language models.
+-   **[@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright)** [![GitHub stars](https://img.shields.io/github/stars/executeautomation/mcp-playwright?style=social)](https://github.com/executeautomation/mcp-playwright): Utilizes Playwright for web automation and data extraction within an MCP framework.
+-   **[@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright)** [![GitHub stars](https://img.shields.io/github/stars/Automata-Labs-team/MCP-Server-Playwright?style=social)](https://github.com/Automata-Labs-team/MCP-Server-Playwright): Controls web browsers via Playwright through MCP commands.
+-   **[modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Automates web interactions and scraping using Puppeteer (part of the official servers collection).
+-   **[@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)** [![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=social)](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Extracts subtitles and transcripts from YouTube videos for AI processing.
 
 ### 🎨 Art & Culture
 
--   **[burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp)**: Enables AI-driven video editing, analysis, and search within a video collection.
--   **[r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp)**: Connects to the Rijksmuseum API for accessing art collections and details.
--   **[yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp)**: Provides information on anime and manga through integration with the AniList API.
+-   **[burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp)** [![GitHub stars](https://img.shields.io/github/stars/burningion/video-editing-mcp?style=social)](https://github.com/burningion/video-editing-mcp): Enables AI-driven video editing, analysis, and search within a video collection.
+-   **[r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp)** [![GitHub stars](https://img.shields.io/github/stars/r-huijts/rijksmuseum-mcp?style=social)](https://github.com/r-huijts/rijksmuseum-mcp): Connects to the Rijksmuseum API for accessing art collections and details.
+-   **[yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yuna0x0/anilist-mcp?style=social)](https://github.com/yuna0x0/anilist-mcp): Provides information on anime and manga through integration with the AniList API.
 
 ### ☁️ Cloud Platforms
 
--   **[cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)**: Integrates with various Cloudflare services like Workers and KV.
--   **[alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server)**: Enables secure execution of AWS CLI commands and prompt templates within Docker.
--   **[strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)**: Manages Kubernetes clusters through MCP interactions (Go implementation).
--   **[@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes)**: Controls Kubernetes pods, deployments, and services (TypeScript implementation).
--   **[manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server)**: Manages Kubernetes and OpenShift with specialized cluster interaction tools (Java implementation).
--   **[wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye)**: Provides Kubernetes management features and application health analysis.
--   **[johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp)**: Accesses Netskope Private Access components and provides setup details.
--   **[nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)**: Allows AI assistants to control Terraform environments for infrastructure management.
+-   **[cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** [![GitHub stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=social)](https://github.com/cloudflare/mcp-server-cloudflare): Integrates with various Cloudflare services like Workers and KV.
+-   **[alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/alexei-led/aws-mcp-server?style=social)](https://github.com/alexei-led/aws-mcp-server): Enables secure execution of AWS CLI commands and prompt templates within Docker.
+-   **[strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** [![GitHub stars](https://img.shields.io/github/stars/strowk/mcp-k8s-go?style=social)](https://github.com/strowk/mcp-k8s-go): Manages Kubernetes clusters through MCP interactions (Go implementation).
+-   **[@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** [![GitHub stars](https://img.shields.io/github/stars/Flux159/mcp-server-kubernetes?style=social)](https://github.com/Flux159/mcp-server-kubernetes): Controls Kubernetes pods, deployments, and services (TypeScript implementation).
+-   **[manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/manusa/kubernetes-mcp-server?style=social)](https://github.com/manusa/kubernetes-mcp-server): Manages Kubernetes and OpenShift with specialized cluster interaction tools (Java implementation).
+-   **[wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye)** [![GitHub stars](https://img.shields.io/github/stars/wenhuwang/mcp-k8s-eye?style=social)](https://github.com/wenhuwang/mcp-k8s-eye): Provides Kubernetes management features and application health analysis.
+-   **[johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp)** [![GitHub stars](https://img.shields.io/github/stars/johnneerdael/netskope-mcp?style=social)](https://github.com/johnneerdael/netskope-mcp): Accesses Netskope Private Access components and provides setup details.
+-   **[nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)** [![GitHub stars](https://img.shields.io/github/stars/nwiizo/tfmcp?style=social)](https://github.com/nwiizo/tfmcp): Allows AI assistants to control Terraform environments for infrastructure management.
 
 ### 🖥️ Command Line
 
--   **[ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp)**: Provides iTerm2 terminal access for command execution and output analysis.
--   **[g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands)**: Executes arbitrary commands and scripts via MCP.
--   **[MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server)**: Offers a command-line interface with configurable security policies.
--   **[tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server)**: Securely executes shell commands through the Model Context Protocol.
+-   **[ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ferrislucas/iterm-mcp?style=social)](https://github.com/ferrislucas/iterm-mcp): Provides iTerm2 terminal access for command execution and output analysis.
+-   **[g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands)** [![GitHub stars](https://img.shields.io/github/stars/g0t4/mcp-server-commands?style=social)](https://github.com/g0t4/mcp-server-commands): Executes arbitrary commands and scripts via MCP.
+-   **[MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/MladenSU/cli-mcp-server?style=social)](https://github.com/MladenSU/cli-mcp-server): Offers a command-line interface with configurable security policies.
+-   **[tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server)** [![GitHub stars](https://img.shields.io/github/stars/tumf/mcp-shell-server?style=social)](https://github.com/tumf/mcp-shell-server): Securely executes shell commands through the Model Context Protocol.
 
 ### 💬 Communication
 
--   **[zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp)**: Manages Google Tasks lists and items via MCP.
--   **[hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server)**: Safely queries and analyzes iMessage conversations, including attachments.
--   **[modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)**: Manages Slack channels and messages (part of the official servers collection).
--   **[keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server)**: Connects and allows interaction with Bluesky social network instances.
--   **[MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite)**: Interacts with Gmail and Google Calendar.
--   **[adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit)**: Accesses Twitter search and timeline data.
--   **[gotoolkits/mcp-wecombot-server](https://github.com/gotoolkits/mcp-wecombot-server.git)**: Sends messages to WeCom group robots. (*Note: Link ends with .git*)
--   **[AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp)**: Enables interaction with the Nostr protocol, including posting notes.
--   **[elie222/inbox-zero-mcp](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server)**: Manages Gmail, identifying emails needing replies or follow-ups (part of the Inbox Zero project).
--   **[carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp)**: Securely accesses, analyzes, sends, and receives iMessages on macOS.
--   **[sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp)**: Interacts with the VRChat API to retrieve user, world, and avatar information.
--   **[arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks)**: Interfaces with the Google Tasks API for task management.
+-   **[zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/gtasks-mcp?style=social)](https://github.com/zcaceres/gtasks-mcp): Manages Google Tasks lists and items via MCP.
+-   **[hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/imessage-query-fastmcp-mcp-server?style=social)](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server): Safely queries and analyzes iMessage conversations, including attachments.
+-   **[modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Manages Slack channels and messages (part of the official servers collection).
+-   **[keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server)** [![GitHub stars](https://img.shields.io/github/stars/keturiosakys/bluesky-context-server?style=social)](https://github.com/keturiosakys/bluesky-context-server): Connects and allows interaction with Bluesky social network instances.
+-   **[MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite)** [![GitHub stars](https://img.shields.io/github/stars/MarkusPfundstein/mcp-gsuite?style=social)](https://github.com/MarkusPfundstein/mcp-gsuite): Interacts with Gmail and Google Calendar.
+-   **[adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit)** [![GitHub stars](https://img.shields.io/github/stars/adhikasp/mcp-twikit?style=social)](https://github.com/adhikasp/mcp-twikit): Accesses Twitter search and timeline data.
+-   **[gotoolkits/mcp-wecombot-server](https://github.com/gotoolkits/mcp-wecombot-server.git)** [![GitHub stars](https://img.shields.io/github/stars/gotoolkits/mcp-wecombot-server?style=social)](https://github.com/gotoolkits/mcp-wecombot-server): Sends messages to WeCom group robots. (*Note: Link ends with .git*)
+-   **[AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp)** [![GitHub stars](https://img.shields.io/github/stars/AbdelStark/nostr-mcp?style=social)](https://github.com/AbdelStark/nostr-mcp): Enables interaction with the Nostr protocol, including posting notes.
+-   **[elie222/inbox-zero-mcp](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/elie222/inbox-zero?style=social)](https://github.com/elie222/inbox-zero): Manages Gmail, identifying emails needing replies or follow-ups (part of the Inbox Zero project).
+-   **[carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp)** [![GitHub stars](https://img.shields.io/github/stars/carterlasalle/mac_messages_mcp?style=social)](https://github.com/carterlasalle/mac_messages_mcp): Securely accesses, analyzes, sends, and receives iMessages on macOS.
+-   **[sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sawa-zen/vrchat-mcp?style=social)](https://github.com/sawa-zen/vrchat-mcp): Interacts with the VRChat API to retrieve user, world, and avatar information.
+-   **[arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks)** [![GitHub stars](https://img.shields.io/github/stars/arpitbatra123/mcp-googletasks?style=social)](https://github.com/arpitbatra123/mcp-googletasks): Interfaces with the Google Tasks API for task management.
 
 ### 👤 Customer Data Platforms
 
--   **[sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server)**: Accesses and updates user profiles on an Apache Unomi CDP server.
--   **[OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP)**: Connects various Open Data sources to LLMs via MCP.
--   **[@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic)**: Connects to iaptic to retrieve customer purchase and app revenue data.
+-   **[sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server)** [![GitHub stars](https://img.shields.io/github/stars/sergehuber/inoyu-mcp-unomi-server?style=social)](https://github.com/sergehuber/inoyu-mcp-unomi-server): Accesses and updates user profiles on an Apache Unomi CDP server.
+-   **[OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP)** [![GitHub stars](https://img.shields.io/github/stars/OpenDataMCP/OpenDataMCP?style=social)](https://github.com/OpenDataMCP/OpenDataMCP): Connects various Open Data sources to LLMs via MCP.
+-   **[@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic)** [![GitHub stars](https://img.shields.io/github/stars/iaptic/mcp-server-iaptic?style=social)](https://github.com/iaptic/mcp-server-iaptic): Connects to iaptic to retrieve customer purchase and app revenue data.
 
 ### 🗄️ Databases
 
--   **[aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server)**: Provides access to Tablestore, including document management and semantic search.
--   **[cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server)**: Enables interaction with Elasticsearch clusters.
--   **[domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server)**: Provides read/write access to Airtable databases, including schema inspection.
--   **[rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp)**: Directly connects AI tools to Airtable for comprehensive data manipulation.
--   **[LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery)**: Allows querying and schema inspection of BigQuery databases.
--   **[c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb)**: Provides access to TiDB databases, including schema inspection and querying.
--   **[ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server)**: Enables direct access and querying of Google BigQuery.
--   **[ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse)**: Offers schema inspection and querying capabilities for ClickHouse databases.
+-   **[aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/aliyun/alibabacloud-tablestore-mcp-server?style=social)](https://github.com/aliyun/alibabacloud-tablestore-mcp-server): Provides access to Tablestore, including document management and semantic search.
+-   **[cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/cr7258/elasticsearch-mcp-server?style=social)](https://github.com/cr7258/elasticsearch-mcp-server): Enables interaction with Elasticsearch clusters.
+-   **[domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/domdomegg/airtable-mcp-server?style=social)](https://github.com/domdomegg/airtable-mcp-server): Provides read/write access to Airtable databases, including schema inspection.
+-   **[rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp)** [![GitHub stars](https://img.shields.io/github/stars/rashidazarang/airtable-mcp?style=social)](https://github.com/rashidazarang/airtable-mcp): Directly connects AI tools to Airtable for comprehensive data manipulation.
+-   **[LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery)** [![GitHub stars](https://img.shields.io/github/stars/LucasHild/mcp-server-bigquery?style=social)](https://github.com/LucasHild/mcp-server-bigquery): Allows querying and schema inspection of BigQuery databases.
+-   **[c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb)** [![GitHub stars](https://img.shields.io/github/stars/c4pt0r/mcp-server-tidb?style=social)](https://github.com/c4pt0r/mcp-server-tidb): Provides access to TiDB databases, including schema inspection and querying.
+-   **[ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server)** [![GitHub stars](https://img.shields.io/github/stars/ergut/mcp-bigquery-server?style=social)](https://github.com/ergut/mcp-bigquery-server): Enables direct access and querying of Google BigQuery.
+-   **[ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse)** [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/mcp-clickhouse?style=social)](https://github.com/ClickHouse/mcp-clickhouse): Offers schema inspection and querying capabilities for ClickHouse databases.
 -   **[get-convex/convex-mcp-server](https://stack.convex.dev/convex-mcp-server)**: Introspects Convex tables, functions, and allows one-off queries. (*Note: Links to Convex Stack page*)
--   **[@gannonh/firebase-mcp](https://github.com/gannonh/firebase-mcp)**: Provides access to Firebase services like Auth, Firestore, and Storage.
--   **[jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus)**: Manages Apache Kafka topics and queries streaming data via Timeplus SQL.
--   **[@fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server)**: Offers a Fireproof ledger database with multi-user synchronization.
--   **[designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server)**: Provides secure MySQL database operations with configurable access controls.
--   **[f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server)**: Offers secure MySQL database interaction.
--   **[FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server)**: Provides a high-performance multi-database server (MySQL & PostgreSQL) with tools for query execution, transactions, and schema exploration.
--   **[modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)**: Enables querying and schema inspection of PostgreSQL databases (part of the official servers collection).
--   **[modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite)**: Provides SQLite database operations with built-in analysis (part of the official servers collection).
--   **[@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase)**: Manages Supabase projects and organizations.
--   **[@alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server)**: Supports SQL query execution and database exploration within Supabase.
--   **[ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb)**: Integrates with DuckDB, offering schema inspection and query features.
--   **[Dataring-engineering/mcp-server-trino](https://github.com/Dataring-engineering/mcp-server-trino)**: Connects to Trino Clusters for querying and data access.
--   **[furey/mongodb-lens](https://github.com/furey/mongodb-lens)**: Provides a fully-featured MCP server for MongoDB Databases.
--   **[QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp)**: Enables direct interaction with MongoDB databases.
--   **[kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server)**: Interacts with MongoDB databases.
--   **[tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird)**: Integrates with Tinybird, providing query and API capabilities.
--   **[KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server)**: Integrates with VikingDB for vector store and search functionalities.
--   **[neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)**: Enables Model Context Protocol interactions with Neo4j databases.
--   **[niledatabase/nile-mcp-server](https://github.com/niledatabase/nile-mcp-server)**: Manages and queries Postgres databases, tenants, users, and auth using LLMs via Nile.
--   **[isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server)**: Integrates with Snowflake with read/write operations and insight tracking.
--   **[hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server)**: Provides safe, read-only access to SQLite databases with query validation.
--   **[sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone)**: Integrates with Pinecone, offering vector search capabilities.
--   **[runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy)**: Provides universal SQLAlchemy-based database integration, supporting multiple database types.
--   **[quarkiverse/quarkus-mcp-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc)**: Connects to any JDBC-compatible database (part of Quarkus MCP Servers).
--   **[pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server)**: Allows querying and analyzing of Azure Data Explorer databases.
--   **[pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server)**: Provides querying and analysis of Prometheus monitoring system.
--   **[neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon)**: Enables creating and managing Postgres databases with Neon Serverless Postgres.
--   **[XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server)**: Supports fetching database data via natural language queries, powered by XiyanSQL.
--   **[bytebase/dbhub](https://github.com/bytebase/dbhub)**: Provides a universal database MCP server with support for mainstream databases.
--   **[GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server)**: Enables querying of GreptimeDB.
--   **[idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server)**: Executes queries against InfluxDB OSS API v2.
--   **[xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets)**: Interacts with Google Sheets, providing create, read, update, and manage functionalities.
+-   **[@gannonh/firebase-mcp](https://github.com/gannonh/firebase-mcp)** [![GitHub stars](https://img.shields.io/github/stars/gannonh/firebase-mcp?style=social)](https://github.com/gannonh/firebase-mcp): Provides access to Firebase services like Auth, Firestore, and Storage.
+-   **[jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus)** [![GitHub stars](https://img.shields.io/github/stars/jovezhong/mcp-timeplus?style=social)](https://github.com/jovezhong/mcp-timeplus): Manages Apache Kafka topics and queries streaming data via Timeplus SQL.
+-   **[@fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server)** [![GitHub stars](https://img.shields.io/github/stars/fireproof-storage/mcp-database-server?style=social)](https://github.com/fireproof-storage/mcp-database-server): Offers a Fireproof ledger database with multi-user synchronization.
+-   **[designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server)** [![GitHub stars](https://img.shields.io/github/stars/designcomputer/mysql_mcp_server?style=social)](https://github.com/designcomputer/mysql_mcp_server): Provides secure MySQL database operations with configurable access controls.
+-   **[f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server)** [![GitHub stars](https://img.shields.io/github/stars/f4ww4z/mcp-mysql-server?style=social)](https://github.com/f4ww4z/mcp-mysql-server): Offers secure MySQL database interaction.
+-   **[FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/FreePeak/db-mcp-server?style=social)](https://github.com/FreePeak/db-mcp-server): Provides a high-performance multi-database server (MySQL & PostgreSQL) with tools for query execution, transactions, and schema exploration.
+-   **[modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Enables querying and schema inspection of PostgreSQL databases (part of the official servers collection).
+-   **[modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides SQLite database operations with built-in analysis (part of the official servers collection).
+-   **[@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase)** [![GitHub stars](https://img.shields.io/github/stars/joshuarileydev/supabase?style=social)](https://github.com/joshuarileydev/supabase): Manages Supabase projects and organizations.
+-   **[@alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/alexander-zuev/supabase-mcp-server?style=social)](https://github.com/alexander-zuev/supabase-mcp-server): Supports SQL query execution and database exploration within Supabase.
+-   **[ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb)** [![GitHub stars](https://img.shields.io/github/stars/ktanaka101/mcp-server-duckdb?style=social)](https://github.com/ktanaka101/mcp-server-duckdb): Integrates with DuckDB, offering schema inspection and query features.
+-   **[Dataring-engineering/mcp-server-trino](https://github.com/Dataring-engineering/mcp-server-trino)** [![GitHub stars](https://img.shields.io/github/stars/Dataring-engineering/mcp-server-trino?style=social)](https://github.com/Dataring-engineering/mcp-server-trino): Connects to Trino Clusters for querying and data access.
+-   **[furey/mongodb-lens](https://github.com/furey/mongodb-lens)** [![GitHub stars](https://img.shields.io/github/stars/furey/mongodb-lens?style=social)](https://github.com/furey/mongodb-lens): Provides a fully-featured MCP server for MongoDB Databases.
+-   **[QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/mongo-mcp?style=social)](https://github.com/QuantGeekDev/mongo-mcp): Enables direct interaction with MongoDB databases.
+-   **[kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server)** [![GitHub stars](https://img.shields.io/github/stars/kiliczsh/mcp-mongo-server?style=social)](https://github.com/kiliczsh/mcp-mongo-server): Interacts with MongoDB databases.
+-   **[tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird)** [![GitHub stars](https://img.shields.io/github/stars/tinybirdco/mcp-tinybird?style=social)](https://github.com/tinybirdco/mcp-tinybird): Integrates with Tinybird, providing query and API capabilities.
+-   **[KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/KashiwaByte/vikingdb-mcp-server?style=social)](https://github.com/KashiwaByte/vikingdb-mcp-server): Integrates with VikingDB for vector store and search functionalities.
+-   **[neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j)** [![GitHub stars](https://img.shields.io/github/stars/neo4j-contrib/mcp-neo4j?style=social)](https://github.com/neo4j-contrib/mcp-neo4j): Enables Model Context Protocol interactions with Neo4j databases.
+-   **[niledatabase/nile-mcp-server](https://github.com/niledatabase/nile-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/niledatabase/nile-mcp-server?style=social)](https://github.com/niledatabase/nile-mcp-server): Manages and queries Postgres databases, tenants, users, and auth using LLMs via Nile.
+-   **[isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server)** [![GitHub stars](https://img.shields.io/github/stars/isaacwasserman/mcp-snowflake-server?style=social)](https://github.com/isaacwasserman/mcp-snowflake-server): Integrates with Snowflake with read/write operations and insight tracking.
+-   **[hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/sqlite-explorer-fastmcp-mcp-server?style=social)](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server): Provides safe, read-only access to SQLite databases with query validation.
+-   **[sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone)** [![GitHub stars](https://img.shields.io/github/stars/sirmews/mcp-pinecone?style=social)](https://github.com/sirmews/mcp-pinecone): Integrates with Pinecone, offering vector search capabilities.
+-   **[runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy)** [![GitHub stars](https://img.shields.io/github/stars/runekaagaard/mcp-alchemy?style=social)](https://github.com/runekaagaard/mcp-alchemy): Provides universal SQLAlchemy-based database integration, supporting multiple database types.
+-   **[quarkiverse/quarkus-mcp-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc)** [![GitHub stars](https://img.shields.io/github/stars/quarkiverse/quarkus-mcp-servers?style=social)](https://github.com/quarkiverse/quarkus-mcp-servers): Connects to any JDBC-compatible database (part of Quarkus MCP Servers).
+-   **[pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/pab1it0/adx-mcp-server?style=social)](https://github.com/pab1it0/adx-mcp-server): Allows querying and analyzing of Azure Data Explorer databases.
+-   **[pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/pab1it0/prometheus-mcp-server?style=social)](https://github.com/pab1it0/prometheus-mcp-server): Provides querying and analysis of Prometheus monitoring system.
+-   **[neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon)** [![GitHub stars](https://img.shields.io/github/stars/neondatabase/mcp-server-neon?style=social)](https://github.com/neondatabase/mcp-server-neon): Enables creating and managing Postgres databases with Neon Serverless Postgres.
+-   **[XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server)** [![GitHub stars](https://img.shields.io/github/stars/XGenerationLab/xiyan_mcp_server?style=social)](https://github.com/XGenerationLab/xiyan_mcp_server): Supports fetching database data via natural language queries, powered by XiyanSQL.
+-   **[bytebase/dbhub](https://github.com/bytebase/dbhub)** [![GitHub stars](https://img.shields.io/github/stars/bytebase/dbhub?style=social)](https://github.com/bytebase/dbhub): Provides a universal database MCP server with support for mainstream databases.
+-   **[GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/GreptimeTeam/greptimedb-mcp-server?style=social)](https://github.com/GreptimeTeam/greptimedb-mcp-server): Enables querying of GreptimeDB.
+-   **[idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/idoru/influxdb-mcp-server?style=social)](https://github.com/idoru/influxdb-mcp-server): Executes queries against InfluxDB OSS API v2.
+-   **[xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets)** [![GitHub stars](https://img.shields.io/github/stars/xing5/mcp-google-sheets?style=social)](https://github.com/xing5/mcp-google-sheets): Interacts with Google Sheets, providing create, read, update, and manage functionalities.
 
 ### 💻 Developer Tools
 
--   **[21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp)**: Generates UI components based on 21st.dev design principles.
--   **[Comet-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp)**: Enables querying of LLM observability data captured by Opik.
--   **[GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)**: Gives coding agents direct access to Figma data.
--   **[QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp)**: Manages Docker containers via MCP.
--   **[r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server)**: Integrates with Xcode for project management and build automation.
--   **[snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server)**: Connects to HTTP/REST APIs using an OpenAPI specification.
--   **[JetBrains/mcpProxy](https://github.com/JetBrains/mcpProxy)**: Connects to JetBrains IDEs for development tasks.
--   **[tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor)**: Provides a line-oriented text file editor, optimized for LLM interaction.
--   **[@joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server)**: Controls iOS Simulators.
--   **[@joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server)**: Communicates with the App Store Connect API.
--   **[@delano/postman-mcp-server](https://github.com/delano/postman-mcp-server)**: Interacts with the Postman API.
--   **[@haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)**: Manipulates Excel workbooks, including data, formatting, and charts.
--   **[ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild)**: Builds iOS Xcode workspace/project and feedbacks errors to LLMs.
--   **[@jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you)**: Enables automatic debugging via breakpoints and expression evaluation.
--   **[@Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI)**: Securely stores and accesses API keys across projects using the macOS Keychain.
--   **[@xzq-xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server)**: Implements an MCP server for JVM-based environments.
--   **[@yangkyeongmo/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow)**: Connects to Apache Airflow using the official client.
--   **[hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind)**: Controls Android devices, enabling UI automation and debugging.
--   **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)**: Integrates with the Rootly incident management platform.
--   **[YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server)**: Generates interactive mindmaps.
--   **[SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code)**: Implements Claude Code capabilities using MCP, enabling code understanding and project analysis.
+-   **[21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp)** [![GitHub stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=social)](https://github.com/21st-dev/magic-mcp): Generates UI components based on 21st.dev design principles.
+-   **[Comet-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik-mcp?style=social)](https://github.com/comet-ml/opik-mcp): Enables querying of LLM observability data captured by Opik.
+-   **[GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** [![GitHub stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=social)](https://github.com/GLips/Figma-Context-MCP): Gives coding agents direct access to Figma data.
+-   **[QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/docker-mcp?style=social)](https://github.com/QuantGeekDev/docker-mcp): Manages Docker containers via MCP.
+-   **[r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/r-huijts/xcode-mcp-server?style=social)](https://github.com/r-huijts/xcode-mcp-server): Integrates with Xcode for project management and build automation.
+-   **[snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/snaggle-ai/openapi-mcp-server?style=social)](https://github.com/snaggle-ai/openapi-mcp-server): Connects to HTTP/REST APIs using an OpenAPI specification.
+-   **[JetBrains/mcpProxy](https://github.com/JetBrains/mcpProxy)** [![GitHub stars](https://img.shields.io/github/stars/JetBrains/mcpProxy?style=social)](https://github.com/JetBrains/mcpProxy): Connects to JetBrains IDEs for development tasks.
+-   **[tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor)** [![GitHub stars](https://img.shields.io/github/stars/tumf/mcp-text-editor?style=social)](https://github.com/tumf/mcp-text-editor): Provides a line-oriented text file editor, optimized for LLM interaction.
+-   **[@joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/JoshuaRileyDev/simulator-mcp-server?style=social)](https://github.com/JoshuaRileyDev/simulator-mcp-server): Controls iOS Simulators.
+-   **[@joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/JoshuaRileyDev/app-store-connect-mcp-server?style=social)](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server): Communicates with the App Store Connect API.
+-   **[@delano/postman-mcp-server](https://github.com/delano/postman-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/delano/postman-mcp-server?style=social)](https://github.com/delano/postman-mcp-server): Interacts with the Postman API.
+-   **[@haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server?style=social)](https://github.com/haris-musa/excel-mcp-server): Manipulates Excel workbooks, including data, formatting, and charts.
+-   **[ShenghaiWang/xcodebuild](https://github.com/ShenghaiWang/xcodebuild)** [![GitHub stars](https://img.shields.io/github/stars/ShenghaiWang/xcodebuild?style=social)](https://github.com/ShenghaiWang/xcodebuild): Builds iOS Xcode workspace/project and feedbacks errors to LLMs.
+-   **[@jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you)** [![GitHub stars](https://img.shields.io/github/stars/jasonjmcghee/claude-debugs-for-you?style=social)](https://github.com/jasonjmcghee/claude-debugs-for-you): Enables automatic debugging via breakpoints and expression evaluation.
+-   **[@Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI)** [![GitHub stars](https://img.shields.io/github/stars/Jktfe/serveMyAPI?style=social)](https://github.com/Jktfe/serveMyAPI): Securely stores and accesses API keys across projects using the macOS Keychain.
+-   **[@xzq-xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/xzq-xu/jvm-mcp-server?style=social)](https://github.com/xzq-xu/jvm-mcp-server): Implements an MCP server for JVM-based environments.
+-   **[@yangkyeongmo/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow)** [![GitHub stars](https://img.shields.io/github/stars/yangkyeongmo/mcp-server-apache-airflow?style=social)](https://github.com/yangkyeongmo/mcp-server-apache-airflow): Connects to Apache Airflow using the official client.
+-   **[hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/droidmind?style=social)](https://github.com/hyperb1iss/droidmind): Controls Android devices, enabling UI automation and debugging.
+-   **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** [![GitHub stars](https://img.shields.io/github/stars/Rootly-AI-Labs/Rootly-MCP-server?style=social)](https://github.com/Rootly-AI-Labs/Rootly-MCP-server): Integrates with the Rootly incident management platform.
+-   **[YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/YuChenSSR/mindmap-mcp-server?style=social)](https://github.com/YuChenSSR/mindmap-mcp-server): Generates interactive mindmaps.
+-   **[SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code)** [![GitHub stars](https://img.shields.io/github/stars/SDGLBL/mcp-claude-code?style=social)](https://github.com/SDGLBL/mcp-claude-code): Implements Claude Code capabilities using MCP, enabling code understanding and project analysis.
 
 ### 🧮 Data Science Tools
 
--   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)**: Uses Chronulus AI for forecasting and predictions.
--   **[@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)**: Enables autonomous data exploration on `.csv`-based datasets.
+-   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
+-   **[@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** [![GitHub stars](https://img.shields.io/github/stars/reading-plus-ai/mcp-server-data-exploration?style=social)](https://github.com/reading-plus-ai/mcp-server-data-exploration): Enables autonomous data exploration on `.csv`-based datasets.
 
 ### 📂 File Systems
 
--   **[modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)**: Provides direct access to the local file system (part of the official servers collection).
--   **[modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive)**: Integrates with Google Drive for file listing and searching (part of the official servers collection).
--   **[hmk/box-mcp-server](https://github.com/hmk/box-mcp-server)**: Provides listing, reading and searching files on Box.
--   **[mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server)**: Provides local file system access (Golang implementation).
--   **[mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search)**: Provides fast Windows file search using Everything SDK.
--   **[cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py)**: Shares code context with LLMs via MCP or clipboard.
--   **[quarkiverse/quarkus-mcp-filesystem](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem)**: Provides file system browsing and editing (part of Quarkus MCP Servers, Java implementation).
--   **[Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal)**: Accesses various storage services via Apache OpenDAL.
+-   **[modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides direct access to the local file system (part of the official servers collection).
+-   **[modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Integrates with Google Drive for file listing and searching (part of the official servers collection).
+-   **[hmk/box-mcp-server](https://github.com/hmk/box-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/hmk/box-mcp-server?style=social)](https://github.com/hmk/box-mcp-server): Provides listing, reading and searching files on Box.
+-   **[mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server)** [![GitHub stars](https://img.shields.io/github/stars/mark3labs/mcp-filesystem-server?style=social)](https://github.com/mark3labs/mcp-filesystem-server): Provides local file system access (Golang implementation).
+-   **[mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search)** [![GitHub stars](https://img.shields.io/github/stars/mamertofabian/mcp-everything-search?style=social)](https://github.com/mamertofabian/mcp-everything-search): Provides fast Windows file search using Everything SDK.
+-   **[cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py)** [![GitHub stars](https://img.shields.io/github/stars/cyberchitta/llm-context.py?style=social)](https://github.com/cyberchitta/llm-context.py): Shares code context with LLMs via MCP or clipboard.
+-   **[quarkiverse/quarkus-mcp-filesystem](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem)** [![GitHub stars](https://img.shields.io/github/stars/quarkiverse/quarkus-mcp-servers?style=social)](https://github.com/quarkiverse/quarkus-mcp-servers): Provides file system browsing and editing (part of Quarkus MCP Servers, Java implementation).
+-   **[Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal)** [![GitHub stars](https://img.shields.io/github/stars/Xuanwo/mcp-server-opendal?style=social)](https://github.com/Xuanwo/mcp-server-opendal): Accesses various storage services via Apache OpenDAL.
 
 ### 💰 Finance & Fintech
 
--   **[heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)**: Provides access to web3 AI agents for blockchain analysis and smart contract auditing.
--   **[@base/base-mcp](https://github.com/base/base-mcp)**: Integrates with Base Network for onchain tools and Coinbase API interactions.
--   **[QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp)**: Provides real-time cryptocurrency market data from CoinCap.
--   **[anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server)**: Fetches cryptocurrency listings and quotes from the Coinmarket API.
--   **[berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp)**: Fetches stock and crypto information from Alpha Vantage.
--   **[ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent)**: Handles trading activities on Tastytrade via the Tastyworks API.
--   **[ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent)**: Fetches stock market data and options recommendations from Yahoo Finance.
--   **[mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server)**: Provides blockchain services for 30+ EVM networks.
--   **[Bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/)**: Uses Bankless Onchain API for smart contract interaction and querying transaction data.
--   **[kukapay/cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server)**: Delivers cryptocurrency news to AI agents via CryptoPanic.
--   **[kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp)**: Tracks cryptocurrency whale transactions.
--   **[kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp)**: Provides real-time and historical Crypto Fear & Greed Index data.
--   **[kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp)**: Bridges Dune Analytics data to AI agents.
--   **[kukapay/pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp)**: Tracks newly created pools on Pancake Swap.
--   **[kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp)**: Tracks newly created liquidity pools on Uniswap.
--   **[kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp)**: Automates token swaps on Uniswap DEX.
--   **[kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp)**: Allows AI agents to mint ERC-20 tokens.
--   **[kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp)**: Provides indexed blockchain data from The Graph to AI agents.
+-   **[heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/heurist-network/heurist-mesh-mcp-server?style=social)](https://github.com/heurist-network/heurist-mesh-mcp-server): Provides access to web3 AI agents for blockchain analysis and smart contract auditing.
+-   **[@base/base-mcp](https://github.com/base/base-mcp)** [![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=social)](https://github.com/base/base-mcp): Integrates with Base Network for onchain tools and Coinbase API interactions.
+-   **[QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=social)](https://github.com/QuantGeekDev/coincap-mcp): Provides real-time cryptocurrency market data from CoinCap.
+-   **[anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/anjor/coinmarket-mcp-server?style=social)](https://github.com/anjor/coinmarket-mcp-server): Fetches cryptocurrency listings and quotes from the Coinmarket API.
+-   **[berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp)** [![GitHub stars](https://img.shields.io/github/stars/berlinbra/alpha-vantage-mcp?style=social)](https://github.com/berlinbra/alpha-vantage-mcp): Fetches stock and crypto information from Alpha Vantage.
+-   **[ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent)** [![GitHub stars](https://img.shields.io/github/stars/ferdousbhai/tasty-agent?style=social)](https://github.com/ferdousbhai/tasty-agent): Handles trading activities on Tastytrade via the Tastyworks API.
+-   **[ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent)** [![GitHub stars](https://img.shields.io/github/stars/ferdousbhai/investor-agent?style=social)](https://github.com/ferdousbhai/investor-agent): Fetches stock market data and options recommendations from Yahoo Finance.
+-   **[mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/mcpdotdirect/evm-mcp-server?style=social)](https://github.com/mcpdotdirect/evm-mcp-server): Provides blockchain services for 30+ EVM networks.
+-   **[Bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/)** [![GitHub stars](https://img.shields.io/github/stars/Bankless/onchain-mcp?style=social)](https://github.com/Bankless/onchain-mcp): Uses Bankless Onchain API for smart contract interaction and querying transaction data.
+-   **[kukapay/cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/cryptopanic-mcp-server?style=social)](https://github.com/kukapay/cryptopanic-mcp-server): Delivers cryptocurrency news to AI agents via CryptoPanic.
+-   **[kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/whale-tracker-mcp?style=social)](https://github.com/kukapay/whale-tracker-mcp): Tracks cryptocurrency whale transactions.
+-   **[kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-feargreed-mcp?style=social)](https://github.com/kukapay/crypto-feargreed-mcp): Provides real-time and historical Crypto Fear & Greed Index data.
+-   **[kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/dune-analytics-mcp?style=social)](https://github.com/kukapay/dune-analytics-mcp): Bridges Dune Analytics data to AI agents.
+-   **[kukapay/pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/pancakeswap-poolspy-mcp?style=social)](https://github.com/kukapay/pancakeswap-poolspy-mcp): Tracks newly created pools on Pancake Swap.
+-   **[kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/uniswap-poolspy-mcp?style=social)](https://github.com/kukapay/uniswap-poolspy-mcp): Tracks newly created liquidity pools on Uniswap.
+-   **[kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/uniswap-trader-mcp?style=social)](https://github.com/kukapay/uniswap-trader-mcp): Automates token swaps on Uniswap DEX.
+-   **[kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/token-minter-mcp?style=social)](https://github.com/kukapay/token-minter-mcp): Allows AI agents to mint ERC-20 tokens.
+-   **[kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/thegraph-mcp?style=social)](https://github.com/kukapay/thegraph-mcp): Provides indexed blockchain data from The Graph to AI agents.
 
 ### 🎮 Gaming
 
--   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)**: Interacts with the Godot game engine for editing, running, and managing scenes.
--   **[rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/)**: Offers real-time Fantasy Premier League data and analysis.
--   **[CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)**: Integrates with the Unity3D Game Engine via MCP.
+-   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
+-   **[rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/)** [![GitHub stars](https://img.shields.io/github/stars/rishijatia/fantasy-pl-mcp?style=social)](https://github.com/rishijatia/fantasy-pl-mcp): Offers real-time Fantasy Premier League data and analysis.
+-   **[CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)** [![GitHub stars](https://img.shields.io/github/stars/CoderGamester/mcp-unity?style=social)](https://github.com/CoderGamester/mcp-unity): Integrates with the Unity3D Game Engine via MCP.
 
 ### 🧠 Knowledge & Memory
 
--   **[modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)**: Provides a knowledge graph-based persistent memory system (part of the official servers collection).
--   **[CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh)**: Provides enhanced graph-based memory focused on AI role-play.
--   **[topoteretes/cognee-mcp](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp)**: Manages AI memory using graph/vector stores, with ingestion from 30+ data sources (part of Cognee project).
--   **[@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs)**: Retrieves and processes documentation using vector search.
--   **[@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero)**: Connects LLMs to Zotero Cloud collections and sources.
--   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)**: Ingests data from various sources into a Graphlit project for searching and retrieval.
+-   **[modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides a knowledge graph-based persistent memory system (part of the official servers collection).
+-   **[CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh)** [![GitHub stars](https://img.shields.io/github/stars/CheMiguel23/MemoryMesh?style=social)](https://github.com/CheMiguel23/MemoryMesh): Provides enhanced graph-based memory focused on AI role-play.
+-   **[topoteretes/cognee-mcp](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp)** [![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)](https://github.com/topoteretes/cognee): Manages AI memory using graph/vector stores, with ingestion from 30+ data sources (part of Cognee project).
+-   **[@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/mcp-ragdocs?style=social)](https://github.com/hannesrudolph/mcp-ragdocs): Retrieves and processes documentation using vector search.
+-   **[@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero)** [![GitHub stars](https://img.shields.io/github/stars/kaliaboi/mcp-zotero?style=social)](https://github.com/kaliaboi/mcp-zotero): Connects LLMs to Zotero Cloud collections and sources.
+-   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
 
 ### 🗺️ Location Services
 
--   **[modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)**: Provides location services, routing, and place details from Google Maps (part of the official servers collection).
--   **[webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo)**: Offers geocoding capabilities using various services.
--   **[@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo)**: Provides IP address geolocation and network information via ipinfo.io.
--   **[jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp)**: Integrates QGIS Desktop with Claude AI for project creation and code execution.
--   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)**: Enables nearby place searches using IP-based location detection.
+-   **[modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides location services, routing, and place details from Google Maps (part of the official servers collection).
+-   **[webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo)** [![GitHub stars](https://img.shields.io/github/stars/webcoderz/MCP-Geo?style=social)](https://github.com/webcoderz/MCP-Geo): Offers geocoding capabilities using various services.
+-   **[@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo)** [![GitHub stars](https://img.shields.io/github/stars/briandconnelly/mcp-server-ipinfo?style=social)](https://github.com/briandconnelly/mcp-server-ipinfo): Provides IP address geolocation and network information via ipinfo.io.
+-   **[jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp)** [![GitHub stars](https://img.shields.io/github/stars/jjsantos01/qgis_mcp?style=social)](https://github.com/jjsantos01/qgis_mcp): Integrates QGIS Desktop with Claude AI for project creation and code execution.
+-   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
 
 ### 🎯 Marketing
 
--   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)**: Provides a set of marketing tools from Open Strategy Partners.
+-   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
 
 ### 📊 Monitoring
 
--   **[modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry)**: Integrates with Sentry.io for error tracking (part of the official servers collection).
--   **[MindscapeHQ/mcp-server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun)**: Integrates with Raygun API for crash reporting.
--   **[metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server)**: Queries and interacts with Kubernetes environments monitored by Metoro.
--   **[grafana/mcp-grafana](https://github.com/grafana/mcp-grafana)**: Searches dashboards and queries datasources in Grafana.
--   **[pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp)**: Accesses OpenTelemetry traces and metrics through Logfire.
--   **[seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor)**: Provides system monitoring via MCP, exposing various metrics.
--   **[hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp)**: Provides intelligent, prompt-based analysis of AI-generated code across multiple dimensions.
+-   **[modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Integrates with Sentry.io for error tracking (part of the official servers collection).
+-   **[MindscapeHQ/mcp-server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun)** [![GitHub stars](https://img.shields.io/github/stars/MindscapeHQ/mcp-server-raygun?style=social)](https://github.com/MindscapeHQ/mcp-server-raygun): Integrates with Raygun API for crash reporting.
+-   **[metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/metoro-io/metoro-mcp-server?style=social)](https://github.com/metoro-io/metoro-mcp-server): Queries and interacts with Kubernetes environments monitored by Metoro.
+-   **[grafana/mcp-grafana](https://github.com/grafana/mcp-grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/mcp-grafana?style=social)](https://github.com/grafana/mcp-grafana): Searches dashboards and queries datasources in Grafana.
+-   **[pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/logfire-mcp?style=social)](https://github.com/pydantic/logfire-mcp): Accesses OpenTelemetry traces and metrics through Logfire.
+-   **[seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor)** [![GitHub stars](https://img.shields.io/github/stars/seekrays/mcp-monitor?style=social)](https://github.com/seekrays/mcp-monitor): Provides system monitoring via MCP, exposing various metrics.
+-   **[hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/lucidity-mcp?style=social)](https://github.com/hyperb1iss/lucidity-mcp): Provides intelligent, prompt-based analysis of AI-generated code across multiple dimensions.
 
 ### 🔎 Search
 
--   **[modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)**: Performs web searches using Brave's Search API (part of the official servers collection).
--   **[@angheljf/nyt](https://github.com/angheljf/nyt)**: Searches articles using the NYTimes API.
--   **[ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi)**: Integrates with the Kagi search API.
--   **[exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)**: Provides access to the Exa AI Search API.
--   **[fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp)**: Performs searches via search1api.
--   **[Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily)**: Integrates with Tavily AI search API.
--   **[blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)**: Searches research papers on ArXiv.
--   **[mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch)**: Performs deep web research using Google search.
--   **[andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv)**: Allows searching and reading papers from arXiv.
--   **[andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)**: Allows searching and reading papers from PubMed.
+-   **[modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Performs web searches using Brave's Search API (part of the official servers collection).
+-   **[@angheljf/nyt](https://github.com/angheljf/nyt)** [![GitHub stars](https://img.shields.io/github/stars/angheljf/nyt?style=social)](https://github.com/angheljf/nyt): Searches articles using the NYTimes API.
+-   **[ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi)** [![GitHub stars](https://img.shields.io/github/stars/ac3xx/mcp-servers-kagi?style=social)](https://github.com/ac3xx/mcp-servers-kagi): Integrates with the Kagi search API.
+-   **[exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server?style=social)](https://github.com/exa-labs/exa-mcp-server): Provides access to the Exa AI Search API.
+-   **[fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp)** [![GitHub stars](https://img.shields.io/github/stars/fatwang2/search1api-mcp?style=social)](https://github.com/fatwang2/search1api-mcp): Performs searches via search1api.
+-   **[Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily)** [![GitHub stars](https://img.shields.io/github/stars/Tomatio13/mcp-server-tavily?style=social)](https://github.com/Tomatio13/mcp-server-tavily): Integrates with Tavily AI search API.
+-   **[blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/blazickjp/arxiv-mcp-server?style=social)](https://github.com/blazickjp/arxiv-mcp-server): Searches research papers on ArXiv.
+-   **[mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch)** [![GitHub stars](https://img.shields.io/github/stars/mzxrai/mcp-webresearch?style=social)](https://github.com/mzxrai/mcp-webresearch): Performs deep web research using Google search.
+-   **[andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv)** [![GitHub stars](https://img.shields.io/github/stars/andybrandt/mcp-simple-arxiv?style=social)](https://github.com/andybrandt/mcp-simple-arxiv): Allows searching and reading papers from arXiv.
+-   **[andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)** [![GitHub stars](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=social)](https://github.com/andybrandt/mcp-simple-pubmed): Allows searching and reading papers from PubMed.
 
 ### 🛠️ Utilities
 
--   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)**: Fetches JSON, text, and HTML data flexibly from URLs.
--   **[modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)**: Efficiently fetches and processes web content (part of the official servers collection).
--   **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)**: Converts various file types and web content to Markdown.
--   **[@sammcj/mcp-package-version](https://github.com/sammcj/mcp-package-version)**: Helps LLMs suggest the latest stable package versions.
--   **[@vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc)**: Converts document formats using Pandoc.
--   **[@pskill9/website-downloader](https://github.com/pskill9/website-downloader)**: Downloads entire websites using wget, preserving structure.
--   **[@lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse)**: Allows multiple isolated instances of MCP servers to coexist.
--   **[@j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer)**: Provides SQL analysis, linting, and dialect conversion using SQLGlot.
--   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)**: Provides AI summarization for multiple content types.
--   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)**: Provides the current time in any timezone.
+-   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp?style=social)](https://github.com/zcaceres/fetch-mcp): Fetches JSON, text, and HTML data flexibly from URLs.
+-   **[modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Efficiently fetches and processes web content (part of the official servers collection).
+-   **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/markdownify-mcp?style=social)](https://github.com/zcaceres/markdownify-mcp): Converts various file types and web content to Markdown.
+-   **[@sammcj/mcp-package-version](https://github.com/sammcj/mcp-package-version)** [![GitHub stars](https://img.shields.io/github/stars/sammcj/mcp-package-version?style=social)](https://github.com/sammcj/mcp-package-version): Helps LLMs suggest the latest stable package versions.
+-   **[@vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc)** [![GitHub stars](https://img.shields.io/github/stars/vivekVells/mcp-pandoc?style=social)](https://github.com/vivekVells/mcp-pandoc): Converts document formats using Pandoc.
+-   **[@pskill9/website-downloader](https://github.com/pskill9/website-downloader)** [![GitHub stars](https://img.shields.io/github/stars/pskill9/website-downloader?style=social)](https://github.com/pskill9/website-downloader): Downloads entire websites using wget, preserving structure.
+-   **[@lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse)** [![GitHub stars](https://img.shields.io/github/stars/lamemind/mcp-server-multiverse?style=social)](https://github.com/lamemind/mcp-server-multiverse): Allows multiple isolated instances of MCP servers to coexist.
+-   **[@j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer)** [![GitHub stars](https://img.shields.io/github/stars/j4c0bs/mcp-server-sql-analyzer?style=social)](https://github.com/j4c0bs/mcp-server-sql-analyzer): Provides SQL analysis, linting, and dialect conversion using SQLGlot.
+-   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
+-   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
 comming soon.............
