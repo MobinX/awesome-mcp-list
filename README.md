@@ -102,6 +102,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/GreptimeTeam/greptimedb-mcp-server?style=social)](https://github.com/GreptimeTeam/greptimedb-mcp-server): Enables querying of GreptimeDB.
 -   **[idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/idoru/influxdb-mcp-server?style=social)](https://github.com/idoru/influxdb-mcp-server): Executes queries against InfluxDB OSS API v2.
 -   **[xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets)** [![GitHub stars](https://img.shields.io/github/stars/xing5/mcp-google-sheets?style=social)](https://github.com/xing5/mcp-google-sheets): Interacts with Google Sheets, providing create, read, update, and manage functionalities.
+-   **[edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/edwinbernadus/nocodb-mcp-server?style=social)](https://github.com/edwinbernadus/nocodb-mcp-server): Support create, read, update, and delete on NocoDB Database
 
 ### 💻 Developer Tools
 
