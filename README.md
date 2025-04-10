@@ -126,6 +126,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** [![GitHub stars](https://img.shields.io/github/stars/Rootly-AI-Labs/Rootly-MCP-server?style=social)](https://github.com/Rootly-AI-Labs/Rootly-MCP-server): Integrates with the Rootly incident management platform.
 -   **[YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/YuChenSSR/mindmap-mcp-server?style=social)](https://github.com/YuChenSSR/mindmap-mcp-server): Generates interactive mindmaps.
 -   **[SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code)** [![GitHub stars](https://img.shields.io/github/stars/SDGLBL/mcp-claude-code?style=social)](https://github.com/SDGLBL/mcp-claude-code): Implements Claude Code capabilities using MCP, enabling code understanding and project analysis.
+-   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
+-   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 
 ### 🧮 Data Science Tools
 
