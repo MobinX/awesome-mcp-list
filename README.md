@@ -126,6 +126,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** [![GitHub stars](https://img.shields.io/github/stars/Rootly-AI-Labs/Rootly-MCP-server?style=social)](https://github.com/Rootly-AI-Labs/Rootly-MCP-server): Integrates with the Rootly incident management platform.
 -   **[YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/YuChenSSR/mindmap-mcp-server?style=social)](https://github.com/YuChenSSR/mindmap-mcp-server): Generates interactive mindmaps.
 -   **[SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code)** [![GitHub stars](https://img.shields.io/github/stars/SDGLBL/mcp-claude-code?style=social)](https://github.com/SDGLBL/mcp-claude-code): Implements Claude Code capabilities using MCP, enabling code understanding and project analysis.
+-   **[TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp)** [![GitHub stars](https://img.shields.io/github/stars/TencentEdgeOne/edgeone-pages-mcp?style=social)]([https://github.com/SDGLBL/mcp-claude-code](https://github.com/TencentEdgeOne/edgeone-pages-mcp)): A MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 
 ### 🧮 Data Science Tools
 
