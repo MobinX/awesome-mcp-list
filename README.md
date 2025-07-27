@@ -40,6 +40,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💬 Communication
 
+-   **[jean-technologies/smartlead-mcp-server-local](https://github.com/jean-technologies/smartlead-mcp-server-local)** [![GitHub stars](https://img.shields.io/github/stars/jean-technologies/gtasks-mcp?style=social)](https://github.com/jean-technologies/smartlead-mcp-server-local): MCP server for Smartlead. Also works with n8n and workflow automation platforms.
 -   **[zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/gtasks-mcp?style=social)](https://github.com/zcaceres/gtasks-mcp): Manages Google Tasks lists and items via MCP.
 -   **[hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/imessage-query-fastmcp-mcp-server?style=social)](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server): Safely queries and analyzes iMessage conversations, including attachments.
 -   **[modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Manages Slack channels and messages (part of the official servers collection).
