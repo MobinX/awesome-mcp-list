@@ -188,6 +188,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp)** [![GitHub stars](https://img.shields.io/github/stars/jjsantos01/qgis_mcp?style=social)](https://github.com/jjsantos01/qgis_mcp): Integrates QGIS Desktop with Claude AI for project creation and code execution.
 -   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
 
+-   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
+
 ### 🎯 Marketing
 
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
