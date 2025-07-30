@@ -216,6 +216,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch)** [![GitHub stars](https://img.shields.io/github/stars/mzxrai/mcp-webresearch?style=social)](https://github.com/mzxrai/mcp-webresearch): Performs deep web research using Google search.
 -   **[andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv)** [![GitHub stars](https://img.shields.io/github/stars/andybrandt/mcp-simple-arxiv?style=social)](https://github.com/andybrandt/mcp-simple-arxiv): Allows searching and reading papers from arXiv.
 -   **[andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)** [![GitHub stars](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=social)](https://github.com/andybrandt/mcp-simple-pubmed): Allows searching and reading papers from PubMed.
+-   **[shopsavvy/shopsavvy-mcp-server](https://github.com/shopsavvy/shopsavvy-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/shopsavvy/shopsavvy-mcp-server?style=social)](https://github.com/shopsavvy/shopsavvy-mcp-server): Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 
 ### 🛠️ Utilities
 
