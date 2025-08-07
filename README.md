@@ -144,6 +144,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py)** [![GitHub stars](https://img.shields.io/github/stars/cyberchitta/llm-context.py?style=social)](https://github.com/cyberchitta/llm-context.py): Shares code context with LLMs via MCP or clipboard.
 -   **[quarkiverse/quarkus-mcp-filesystem](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem)** [![GitHub stars](https://img.shields.io/github/stars/quarkiverse/quarkus-mcp-servers?style=social)](https://github.com/quarkiverse/quarkus-mcp-servers): Provides file system browsing and editing (part of Quarkus MCP Servers, Java implementation).
 -   **[Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal)** [![GitHub stars](https://img.shields.io/github/stars/Xuanwo/mcp-server-opendal?style=social)](https://github.com/Xuanwo/mcp-server-opendal): Accesses various storage services via Apache OpenDAL.
+-   **[@jeannier/homebrew-mcp](https://github.com/jeannier/homebrew-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jeannier/homebrew-mcp?style=social)](https://github.com/jeannier/homebrew-mcp): Control your macOS Homebrew setup using natural language via this MCP server. Simply manage your packages, or ask for suggestions, troubleshoot brew issues etc.
 
 ### 💰 Finance & Fintech
 
