@@ -53,6 +53,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp)** [![GitHub stars](https://img.shields.io/github/stars/carterlasalle/mac_messages_mcp?style=social)](https://github.com/carterlasalle/mac_messages_mcp): Securely accesses, analyzes, sends, and receives iMessages on macOS.
 -   **[sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sawa-zen/vrchat-mcp?style=social)](https://github.com/sawa-zen/vrchat-mcp): Interacts with the VRChat API to retrieve user, world, and avatar information.
 -   **[arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks)** [![GitHub stars](https://img.shields.io/github/stars/arpitbatra123/mcp-googletasks?style=social)](https://github.com/arpitbatra123/mcp-googletasks): Interfaces with the Google Tasks API for task management.
+-   **[Eclipse-XV/twitch-mcp](https://github.com/Eclipse-XV/twitch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Eclipse-XV/twitch-mcp?style=social)](https://github.com/Eclipse-XV/twitch-mcp): Allows Twitch streamers to automate channel point predictions, trigger stream events, and extend interactive chat functionality.
 
 ### 👤 Customer Data Platforms
 
