@@ -234,8 +234,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🤖 Robotics & Physical AI
 
--   **[Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel)** [![GitHub stars](https://img.shields.io/github/stars/Extelligence-ai/bagel?style=social)](https://github.com/Extelligence-ai/bagel): Bagel🥯 is ChatGPT for physical data. Just ask questions and get answers from your robots and drones. No Fuss.
-
+-   **[Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel)🥯** [![GitHub stars](https://img.shields.io/github/stars/Extelligence-ai/bagel?style=social)](https://github.com/Extelligence-ai/bagel): ChatGPT for physical data. Troubleshoot your robots and drones with natural language. No fuss.
 
 ## Star History
 
