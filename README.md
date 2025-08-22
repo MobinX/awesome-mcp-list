@@ -232,6 +232,9 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
+### 🤖 Robotics & Physical AI
+
+-   **[Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel)🥯** [![GitHub stars](https://img.shields.io/github/stars/Extelligence-ai/bagel?style=social)](https://github.com/Extelligence-ai/bagel): ChatGPT for physical data. Troubleshoot your robots and drones with natural language. No fuss.
 
 ## Star History
 
