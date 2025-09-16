@@ -2,6 +2,11 @@
 
 Note that this list is continuously updating and improving. Please star this repo if you find it useful – it's worth bookmarking!
 
+https://www.aiprotocolshub.com/ai-store AI Protocols Hub integrates this list and displays it on the frontend.
+
+![](https://pub-a41d841be1dd42ce99040089a6618158.r2.dev/tg_image_1802510409.png)
+
+
 ### 📂 Browser Control
 
 -   **[@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** [![GitHub stars](https://img.shields.io/github/stars/recursechat/mcp-server-apple-shortcuts?style=social)](https://github.com/recursechat/mcp-server-apple-shortcuts): Integrates with macOS Shortcuts for automation via MCP.
