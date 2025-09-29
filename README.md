@@ -194,6 +194,7 @@ Note that this list is continuously updating and improving. Please star this rep
 ### 🎯 Marketing
 
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
+-   **[VibeMarketing](https://vibemarketing.ninja/mcp)** [![Website](https://img.shields.io/badge/Website-vibemarketing.ninja-blue)](https://vibemarketing.ninja/mcp): Social media scheduling for X/Twitter and LinkedIn with AI-powered content generation. OAuth authentication, schedule posts, manage accounts, subscription tracking.
 
 ### 📊 Monitoring
 
