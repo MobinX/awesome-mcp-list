@@ -242,3 +242,5 @@ Note that this list is continuously updating and improving. Please star this rep
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
  </picture>
 </a>
+
+- [AgentsKB](https://agentskb.com) - Give your AI agent expert-level knowledge. Pre-researched answers your agent can trust. Free tier included.
