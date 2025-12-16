@@ -194,6 +194,8 @@ Note that this list is continuously updating and improving. Please star this rep
 ### 🎯 Marketing
 
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
+-   **[leadfuze/mcp-server](https://github.com/leadfuze/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/leadfuze/mcp-server?style=social)](https://github.com/leadfuze/mcp-server): Contact + company enrichment from email/LinkedIn URL with email validation. Hosted MCP: https://mcp.leadfuze.com/mcp (API key required).
+
 
 ### 📊 Monitoring
 
