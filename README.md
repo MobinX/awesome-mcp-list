@@ -166,6 +166,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/token-minter-mcp?style=social)](https://github.com/kukapay/token-minter-mcp): Allows AI agents to mint ERC-20 tokens.
 -   **[kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/thegraph-mcp?style=social)](https://github.com/kukapay/thegraph-mcp): Provides indexed blockchain data from The Graph to AI agents.
 
+### 🏃 Fitness & Sports
+
+-   **[JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=social)](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks training data including fitness metrics (CTL/ATL/TSB), workout history, and power/pace personal records for endurance athletes.
+
 ### 🎮 Gaming
 
 -   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
