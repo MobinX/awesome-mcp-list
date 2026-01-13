@@ -20,6 +20,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp)** [![GitHub stars](https://img.shields.io/github/stars/r-huijts/rijksmuseum-mcp?style=social)](https://github.com/r-huijts/rijksmuseum-mcp): Connects to the Rijksmuseum API for accessing art collections and details.
 -   **[yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yuna0x0/anilist-mcp?style=social)](https://github.com/yuna0x0/anilist-mcp): Provides information on anime and manga through integration with the AniList API.
 
+### 🤖 AI Agents & Frameworks
+
+-   **[MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/MervinPraison/praisonai-mcp?style=social)](https://github.com/MervinPraison/praisonai-mcp): AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations.
+
 ### ☁️ Cloud Platforms
 
 -   **[cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** [![GitHub stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=social)](https://github.com/cloudflare/mcp-server-cloudflare): Integrates with various Cloudflare services like Workers and KV.
