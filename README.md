@@ -147,6 +147,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💰 Finance & Fintech
 
+-   **[RioBot-Grind/agentfund-mcp](https://github.com/RioBot-Grind/agentfund-mcp)** [![GitHub stars](https://img.shields.io/github/stars/RioBot-Grind/agentfund-mcp?style=social)](https://github.com/RioBot-Grind/agentfund-mcp): Crowdfunding platform for AI agents on Base chain. Milestone-based escrow enabling agents to raise funds and get paid autonomously.
 -   **[heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/heurist-network/heurist-mesh-mcp-server?style=social)](https://github.com/heurist-network/heurist-mesh-mcp-server): Provides access to web3 AI agents for blockchain analysis and smart contract auditing.
 -   **[@base/base-mcp](https://github.com/base/base-mcp)** [![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=social)](https://github.com/base/base-mcp): Integrates with Base Network for onchain tools and Coinbase API interactions.
 -   **[QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=social)](https://github.com/QuantGeekDev/coincap-mcp): Provides real-time cryptocurrency market data from CoinCap.
