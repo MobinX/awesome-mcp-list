@@ -165,6 +165,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/uniswap-trader-mcp?style=social)](https://github.com/kukapay/uniswap-trader-mcp): Automates token swaps on Uniswap DEX.
 -   **[kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/token-minter-mcp?style=social)](https://github.com/kukapay/token-minter-mcp): Allows AI agents to mint ERC-20 tokens.
 -   **[kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/thegraph-mcp?style=social)](https://github.com/kukapay/thegraph-mcp): Provides indexed blockchain data from The Graph to AI agents.
+-   **[agentc22/x402engine-mcp](https://github.com/agentc22/x402engine-mcp)** [![GitHub stars](https://img.shields.io/github/stars/agentc22/x402engine-mcp?style=social)](https://github.com/agentc22/x402engine-mcp): Provides 50+ pay-per-call APIs for AI agents including image generation, code execution, transcription, crypto data, wallet analytics, and IPFS via HTTP 402 micropayments with USDC and USDm.
 
 ### 🎮 Gaming
 
