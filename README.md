@@ -19,6 +19,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp)** [![GitHub stars](https://img.shields.io/github/stars/burningion/video-editing-mcp?style=social)](https://github.com/burningion/video-editing-mcp): Enables AI-driven video editing, analysis, and search within a video collection.
 -   **[r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp)** [![GitHub stars](https://img.shields.io/github/stars/r-huijts/rijksmuseum-mcp?style=social)](https://github.com/r-huijts/rijksmuseum-mcp): Connects to the Rijksmuseum API for accessing art collections and details.
 -   **[yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yuna0x0/anilist-mcp?style=social)](https://github.com/yuna0x0/anilist-mcp): Provides information on anime and manga through integration with the AniList API.
+-   **[austenstone/myinstants-mcp](https://github.com/austenstone/myinstants-mcp)** [![GitHub stars](https://img.shields.io/github/stars/austenstone/myinstants-mcp?style=social)](https://github.com/austenstone/myinstants-mcp): A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories. `npx myinstants-mcp`
 
 ### ☁️ Cloud Platforms
 
