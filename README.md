@@ -180,6 +180,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/mcp-ragdocs?style=social)](https://github.com/hannesrudolph/mcp-ragdocs): Retrieves and processes documentation using vector search.
 -   **[@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero)** [![GitHub stars](https://img.shields.io/github/stars/kaliaboi/mcp-zotero?style=social)](https://github.com/kaliaboi/mcp-zotero): Connects LLMs to Zotero Cloud collections and sources.
 -   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
+-   **[CanopyHQ/phloem](https://github.com/CanopyHQ/phloem)** [![GitHub stars](https://img.shields.io/github/stars/CanopyHQ/phloem?style=social)](https://github.com/CanopyHQ/phloem): Local-first AI memory with causal graphs, citation verification, and zero network connections.
 
 ### 🗺️ Location Services
 
