@@ -128,6 +128,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** [![GitHub stars](https://img.shields.io/github/stars/Rootly-AI-Labs/Rootly-MCP-server?style=social)](https://github.com/Rootly-AI-Labs/Rootly-MCP-server): Integrates with the Rootly incident management platform.
 -   **[YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/YuChenSSR/mindmap-mcp-server?style=social)](https://github.com/YuChenSSR/mindmap-mcp-server): Generates interactive mindmaps.
 -   **[SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code)** [![GitHub stars](https://img.shields.io/github/stars/SDGLBL/mcp-claude-code?style=social)](https://github.com/SDGLBL/mcp-claude-code): Implements Claude Code capabilities using MCP, enabling code understanding and project analysis.
+-   **[HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy)** [![GitHub stars](https://img.shields.io/github/stars/HendryAvila/Hoofy?style=social)](https://github.com/HendryAvila/Hoofy): Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline, and Clarity Gate. 32 MCP tools. Single Go binary.
 
 ### 🧮 Data Science Tools
 
@@ -180,6 +181,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/mcp-ragdocs?style=social)](https://github.com/hannesrudolph/mcp-ragdocs): Retrieves and processes documentation using vector search.
 -   **[@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero)** [![GitHub stars](https://img.shields.io/github/stars/kaliaboi/mcp-zotero?style=social)](https://github.com/kaliaboi/mcp-zotero): Connects LLMs to Zotero Cloud collections and sources.
 -   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
+-   **[HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy)** [![GitHub stars](https://img.shields.io/github/stars/HendryAvila/Hoofy?style=social)](https://github.com/HendryAvila/Hoofy): Persistent memory across AI sessions with SQLite + FTS5 + knowledge graph with typed relations. 17 memory tools for save, search, context, timeline, sessions, and graph traversal.
 
 ### 🗺️ Location Services
 
