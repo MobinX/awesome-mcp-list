@@ -193,6 +193,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🎯 Marketing
 
+-   **[bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp)** [![GitHub stars](https://img.shields.io/github/stars/bzsasson/screaming-frog-mcp?style=social)](https://github.com/bzsasson/screaming-frog-mcp): MCP server for Screaming Frog SEO Spider — list saved crawls, export SEO audit data, read and filter results, and manage crawl storage through natural language.
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
 
 ### 📊 Monitoring
