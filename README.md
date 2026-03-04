@@ -233,6 +233,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
 
+- **[fredpsantos33/mcp-iteratools](https://github.com/fredpsantos33/mcp-iteratools)** [![GitHub stars](https://img.shields.io/github/stars/fredpsantos33/mcp-iteratools?style=social)](https://github.com/fredpsantos33/mcp-iteratools): Multi-tool MCP server with 20+ tools: image generation (Flux), scraping, TTS, OCR, QR codes, PDF, translation, charts, weather, crypto prices, and more. Hosted API with x402 pay-per-use micropayments.
+
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
