@@ -193,6 +193,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🎯 Marketing
 
+-   **[henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp)** [![GitHub stars](https://img.shields.io/github/stars/henu-wang/geoscore-mcp?style=social)](https://github.com/henu-wang/geoscore-mcp): AI search optimization (GEO). Scans websites for AI search readiness, generates llms.txt, Schema.org fixes, and meta tag optimizations.
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
 
 ### 📊 Monitoring
