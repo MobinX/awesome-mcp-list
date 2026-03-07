@@ -193,6 +193,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🎯 Marketing
 
+-   **[nicofains1/agentic-ads](https://github.com/nicofains1/agentic-ads)** [![GitHub stars](https://img.shields.io/github/stars/nicofains1/agentic-ads?style=social)](https://github.com/nicofains1/agentic-ads): Ad monetization SDK for MCP servers. Publishers earn 70% revenue share on contextual affiliate ads in USDC on Base.
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
 
 ### 📊 Monitoring
