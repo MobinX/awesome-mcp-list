@@ -166,6 +166,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/token-minter-mcp?style=social)](https://github.com/kukapay/token-minter-mcp): Allows AI agents to mint ERC-20 tokens.
 -   **[kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/thegraph-mcp?style=social)](https://github.com/kukapay/thegraph-mcp): Provides indexed blockchain data from The Graph to AI agents.
 
+- [OBSD LaunchPad MCP](https://github.com/thryxagi/obsd-launchpad) 📇 ☁️ - Full token lifecycle MCP for AI agents on Base. 12 tools: deploy, buy, sell, claim fees, quotes, referral program, and analytics via `npx obsd-launchpad-mcp`. Treasury-backed floor price, 37.5% passive OBSD income.
+
 ### 🎮 Gaming
 
 -   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
