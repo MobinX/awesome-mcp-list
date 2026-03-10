@@ -128,6 +128,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** [![GitHub stars](https://img.shields.io/github/stars/Rootly-AI-Labs/Rootly-MCP-server?style=social)](https://github.com/Rootly-AI-Labs/Rootly-MCP-server): Integrates with the Rootly incident management platform.
 -   **[YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/YuChenSSR/mindmap-mcp-server?style=social)](https://github.com/YuChenSSR/mindmap-mcp-server): Generates interactive mindmaps.
 -   **[SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code)** [![GitHub stars](https://img.shields.io/github/stars/SDGLBL/mcp-claude-code?style=social)](https://github.com/SDGLBL/mcp-claude-code): Implements Claude Code capabilities using MCP, enabling code understanding and project analysis.
+-   **[deadpixel/roundtable-dashboard](https://github.com/deadpixel/roundtable-dashboard)** [![GitHub stars](https://img.shields.io/github/stars/deadpixel/roundtable-dashboard?style=social)](https://github.com/deadpixel/roundtable-dashboard): Multi-model AI debate platform — GPT-4o, Claude, Gemini & 200+ models discuss, then synthesize insight. Tools: consult, review_code, debug, architect, plan_implementation, assess_tradeoffs.
 
 ### 🧮 Data Science Tools
 
