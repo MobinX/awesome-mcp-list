@@ -184,6 +184,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/mcp-ragdocs?style=social)](https://github.com/hannesrudolph/mcp-ragdocs): Retrieves and processes documentation using vector search.
 -   **[@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero)** [![GitHub stars](https://img.shields.io/github/stars/kaliaboi/mcp-zotero?style=social)](https://github.com/kaliaboi/mcp-zotero): Connects LLMs to Zotero Cloud collections and sources.
 -   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
+-   **[omega-memory/core](https://github.com/omega-memory/core)** [![GitHub stars](https://img.shields.io/github/stars/omega-memory/core?style=social)](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval (95.4%). Local-first with zero cloud dependency.
 
 ### 🗺️ Location Services
 
