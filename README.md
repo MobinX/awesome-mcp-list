@@ -19,6 +19,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp)** [![GitHub stars](https://img.shields.io/github/stars/burningion/video-editing-mcp?style=social)](https://github.com/burningion/video-editing-mcp): Enables AI-driven video editing, analysis, and search within a video collection.
 -   **[r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp)** [![GitHub stars](https://img.shields.io/github/stars/r-huijts/rijksmuseum-mcp?style=social)](https://github.com/r-huijts/rijksmuseum-mcp): Connects to the Rijksmuseum API for accessing art collections and details.
 -   **[yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yuna0x0/anilist-mcp?style=social)](https://github.com/yuna0x0/anilist-mcp): Provides information on anime and manga through integration with the AniList API.
+-   **[austenstone/myinstants-mcp](https://github.com/austenstone/myinstants-mcp)** [![GitHub stars](https://img.shields.io/github/stars/austenstone/myinstants-mcp?style=social)](https://github.com/austenstone/myinstants-mcp): A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories. `npx myinstants-mcp`
 
 ### ☁️ Cloud Platforms
 
@@ -37,6 +38,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands)** [![GitHub stars](https://img.shields.io/github/stars/g0t4/mcp-server-commands?style=social)](https://github.com/g0t4/mcp-server-commands): Executes arbitrary commands and scripts via MCP.
 -   **[MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/MladenSU/cli-mcp-server?style=social)](https://github.com/MladenSU/cli-mcp-server): Offers a command-line interface with configurable security policies.
 -   **[tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server)** [![GitHub stars](https://img.shields.io/github/stars/tumf/mcp-shell-server?style=social)](https://github.com/tumf/mcp-shell-server): Securely executes shell commands through the Model Context Protocol.
+-   **[amol21p/mcp-interactive-terminal](https://github.com/amol21p/mcp-interactive-terminal)** [![GitHub stars](https://img.shields.io/github/stars/amol21p/mcp-interactive-terminal?style=social)](https://github.com/amol21p/mcp-interactive-terminal): Real interactive terminal sessions for REPLs, SSH, database clients, and any interactive CLI — with clean text output, smart completion detection, and multi-layer security.
 
 ### 💬 Communication
 
@@ -54,6 +56,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sawa-zen/vrchat-mcp?style=social)](https://github.com/sawa-zen/vrchat-mcp): Interacts with the VRChat API to retrieve user, world, and avatar information.
 -   **[arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks)** [![GitHub stars](https://img.shields.io/github/stars/arpitbatra123/mcp-googletasks?style=social)](https://github.com/arpitbatra123/mcp-googletasks): Interfaces with the Google Tasks API for task management.
 -   **[Eclipse-XV/twitch-mcp](https://github.com/Eclipse-XV/twitch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Eclipse-XV/twitch-mcp?style=social)](https://github.com/Eclipse-XV/twitch-mcp): Allows Twitch streamers to automate channel point predictions, trigger stream events, and extend interactive chat functionality.
+-   **[@taskade/mcp](https://github.com/taskade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp): Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, and workflow automations. Includes OpenAPI-to-MCP codegen.
 
 ### 👤 Customer Data Platforms
 
@@ -104,6 +107,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/GreptimeTeam/greptimedb-mcp-server?style=social)](https://github.com/GreptimeTeam/greptimedb-mcp-server): Enables querying of GreptimeDB.
 -   **[idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/idoru/influxdb-mcp-server?style=social)](https://github.com/idoru/influxdb-mcp-server): Executes queries against InfluxDB OSS API v2.
 -   **[xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets)** [![GitHub stars](https://img.shields.io/github/stars/xing5/mcp-google-sheets?style=social)](https://github.com/xing5/mcp-google-sheets): Interacts with Google Sheets, providing create, read, update, and manage functionalities.
+-   **[edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/edwinbernadus/nocodb-mcp-server?style=social)](https://github.com/edwinbernadus/nocodb-mcp-server): Support create, read, update, and delete on NocoDB Database
 
 ### 💻 Developer Tools
 
@@ -128,6 +132,9 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** [![GitHub stars](https://img.shields.io/github/stars/Rootly-AI-Labs/Rootly-MCP-server?style=social)](https://github.com/Rootly-AI-Labs/Rootly-MCP-server): Integrates with the Rootly incident management platform.
 -   **[YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/YuChenSSR/mindmap-mcp-server?style=social)](https://github.com/YuChenSSR/mindmap-mcp-server): Generates interactive mindmaps.
 -   **[SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code)** [![GitHub stars](https://img.shields.io/github/stars/SDGLBL/mcp-claude-code?style=social)](https://github.com/SDGLBL/mcp-claude-code): Implements Claude Code capabilities using MCP, enabling code understanding and project analysis.
+-   **[semgrep/mcp](https://github.com/semgrep/mcp)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/mcp?style=social)](https://github.com/semgrep/mcp): A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
+-   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
+-   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 
 ### 🧮 Data Science Tools
 
@@ -165,6 +172,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/uniswap-trader-mcp?style=social)](https://github.com/kukapay/uniswap-trader-mcp): Automates token swaps on Uniswap DEX.
 -   **[kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/token-minter-mcp?style=social)](https://github.com/kukapay/token-minter-mcp): Allows AI agents to mint ERC-20 tokens.
 -   **[kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/thegraph-mcp?style=social)](https://github.com/kukapay/thegraph-mcp): Provides indexed blockchain data from The Graph to AI agents.
+-   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
 
 ### 🎮 Gaming
 
@@ -181,12 +189,14 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero)** [![GitHub stars](https://img.shields.io/github/stars/kaliaboi/mcp-zotero?style=social)](https://github.com/kaliaboi/mcp-zotero): Connects LLMs to Zotero Cloud collections and sources.
 -   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
 -   **[CanopyHQ/phloem](https://github.com/CanopyHQ/phloem)** [![GitHub stars](https://img.shields.io/github/stars/CanopyHQ/phloem?style=social)](https://github.com/CanopyHQ/phloem): Local-first AI memory with causal graphs, citation verification, and zero network connections.
+-   **[omega-memory/core](https://github.com/omega-memory/core)** [![GitHub stars](https://img.shields.io/github/stars/omega-memory/core?style=social)](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval (95.4%). Local-first with zero cloud dependency.
 
 ### 🗺️ Location Services
 
 -   **[modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides location services, routing, and place details from Google Maps (part of the official servers collection).
 -   **[webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo)** [![GitHub stars](https://img.shields.io/github/stars/webcoderz/MCP-Geo?style=social)](https://github.com/webcoderz/MCP-Geo): Offers geocoding capabilities using various services.
 -   **[@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo)** [![GitHub stars](https://img.shields.io/github/stars/briandconnelly/mcp-server-ipinfo?style=social)](https://github.com/briandconnelly/mcp-server-ipinfo): Provides IP address geolocation and network information via ipinfo.io.
+-   **[@iplocate/mcp-server](https://github.com/iplocate/mcp-server-iplocate)** [![GitHub stars](https://img.shields.io/github/stars/iplocate/mcp-server-iplocate?style=social)](https://github.com/iplocate/mcp-server-iplocate): Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 -   **[jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp)** [![GitHub stars](https://img.shields.io/github/stars/jjsantos01/qgis_mcp?style=social)](https://github.com/jjsantos01/qgis_mcp): Integrates QGIS Desktop with Claude AI for project creation and code execution.
 -   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
 
