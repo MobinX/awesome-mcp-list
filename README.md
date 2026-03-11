@@ -37,6 +37,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands)** [![GitHub stars](https://img.shields.io/github/stars/g0t4/mcp-server-commands?style=social)](https://github.com/g0t4/mcp-server-commands): Executes arbitrary commands and scripts via MCP.
 -   **[MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/MladenSU/cli-mcp-server?style=social)](https://github.com/MladenSU/cli-mcp-server): Offers a command-line interface with configurable security policies.
 -   **[tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server)** [![GitHub stars](https://img.shields.io/github/stars/tumf/mcp-shell-server?style=social)](https://github.com/tumf/mcp-shell-server): Securely executes shell commands through the Model Context Protocol.
+-   **[amol21p/mcp-interactive-terminal](https://github.com/amol21p/mcp-interactive-terminal)** [![GitHub stars](https://img.shields.io/github/stars/amol21p/mcp-interactive-terminal?style=social)](https://github.com/amol21p/mcp-interactive-terminal): Real interactive terminal sessions for REPLs, SSH, database clients, and any interactive CLI — with clean text output, smart completion detection, and multi-layer security.
 
 ### 💬 Communication
 
