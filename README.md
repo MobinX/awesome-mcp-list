@@ -40,6 +40,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💬 Communication
 
+-   **[jean-technologies/smartlead-mcp-server-local](https://github.com/jean-technologies/smartlead-mcp-server-local)** [![GitHub stars](https://img.shields.io/github/stars/jean-technologies/gtasks-mcp?style=social)](https://github.com/jean-technologies/smartlead-mcp-server-local): MCP server for Smartlead. Also works with n8n and workflow automation platforms.
 -   **[zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/gtasks-mcp?style=social)](https://github.com/zcaceres/gtasks-mcp): Manages Google Tasks lists and items via MCP.
 -   **[hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/imessage-query-fastmcp-mcp-server?style=social)](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server): Safely queries and analyzes iMessage conversations, including attachments.
 -   **[modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Manages Slack channels and messages (part of the official servers collection).
@@ -52,6 +53,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp)** [![GitHub stars](https://img.shields.io/github/stars/carterlasalle/mac_messages_mcp?style=social)](https://github.com/carterlasalle/mac_messages_mcp): Securely accesses, analyzes, sends, and receives iMessages on macOS.
 -   **[sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sawa-zen/vrchat-mcp?style=social)](https://github.com/sawa-zen/vrchat-mcp): Interacts with the VRChat API to retrieve user, world, and avatar information.
 -   **[arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks)** [![GitHub stars](https://img.shields.io/github/stars/arpitbatra123/mcp-googletasks?style=social)](https://github.com/arpitbatra123/mcp-googletasks): Interfaces with the Google Tasks API for task management.
+-   **[Eclipse-XV/twitch-mcp](https://github.com/Eclipse-XV/twitch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Eclipse-XV/twitch-mcp?style=social)](https://github.com/Eclipse-XV/twitch-mcp): Allows Twitch streamers to automate channel point predictions, trigger stream events, and extend interactive chat functionality.
 
 ### 👤 Customer Data Platforms
 
@@ -102,6 +104,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/GreptimeTeam/greptimedb-mcp-server?style=social)](https://github.com/GreptimeTeam/greptimedb-mcp-server): Enables querying of GreptimeDB.
 -   **[idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/idoru/influxdb-mcp-server?style=social)](https://github.com/idoru/influxdb-mcp-server): Executes queries against InfluxDB OSS API v2.
 -   **[xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets)** [![GitHub stars](https://img.shields.io/github/stars/xing5/mcp-google-sheets?style=social)](https://github.com/xing5/mcp-google-sheets): Interacts with Google Sheets, providing create, read, update, and manage functionalities.
+-   **[edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/edwinbernadus/nocodb-mcp-server?style=social)](https://github.com/edwinbernadus/nocodb-mcp-server): Support create, read, update, and delete on NocoDB Database
 
 ### 💻 Developer Tools
 
@@ -127,6 +130,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/YuChenSSR/mindmap-mcp-server?style=social)](https://github.com/YuChenSSR/mindmap-mcp-server): Generates interactive mindmaps.
 -   **[SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code)** [![GitHub stars](https://img.shields.io/github/stars/SDGLBL/mcp-claude-code?style=social)](https://github.com/SDGLBL/mcp-claude-code): Implements Claude Code capabilities using MCP, enabling code understanding and project analysis.
 -   **[semgrep/mcp](https://github.com/semgrep/mcp)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/mcp?style=social)](https://github.com/semgrep/mcp): A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
+-   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
+-   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 
 ### 🧮 Data Science Tools
 
@@ -185,8 +190,11 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides location services, routing, and place details from Google Maps (part of the official servers collection).
 -   **[webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo)** [![GitHub stars](https://img.shields.io/github/stars/webcoderz/MCP-Geo?style=social)](https://github.com/webcoderz/MCP-Geo): Offers geocoding capabilities using various services.
 -   **[@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo)** [![GitHub stars](https://img.shields.io/github/stars/briandconnelly/mcp-server-ipinfo?style=social)](https://github.com/briandconnelly/mcp-server-ipinfo): Provides IP address geolocation and network information via ipinfo.io.
+-   **[@iplocate/mcp-server](https://github.com/iplocate/mcp-server-iplocate)** [![GitHub stars](https://img.shields.io/github/stars/iplocate/mcp-server-iplocate?style=social)](https://github.com/iplocate/mcp-server-iplocate): Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 -   **[jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp)** [![GitHub stars](https://img.shields.io/github/stars/jjsantos01/qgis_mcp?style=social)](https://github.com/jjsantos01/qgis_mcp): Integrates QGIS Desktop with Claude AI for project creation and code execution.
 -   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
+
+-   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 
 ### 🎯 Marketing
 
@@ -214,6 +222,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch)** [![GitHub stars](https://img.shields.io/github/stars/mzxrai/mcp-webresearch?style=social)](https://github.com/mzxrai/mcp-webresearch): Performs deep web research using Google search.
 -   **[andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv)** [![GitHub stars](https://img.shields.io/github/stars/andybrandt/mcp-simple-arxiv?style=social)](https://github.com/andybrandt/mcp-simple-arxiv): Allows searching and reading papers from arXiv.
 -   **[andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)** [![GitHub stars](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=social)](https://github.com/andybrandt/mcp-simple-pubmed): Allows searching and reading papers from PubMed.
+-   **[shopsavvy/shopsavvy-mcp-server](https://github.com/shopsavvy/shopsavvy-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/shopsavvy/shopsavvy-mcp-server?style=social)](https://github.com/shopsavvy/shopsavvy-mcp-server): Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 
 ### 🛠️ Utilities
 
