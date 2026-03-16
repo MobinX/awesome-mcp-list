@@ -185,6 +185,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/8144225309/superscalar-mcp?style=social)](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server — query protocol architecture, estimate UTXO savings, and explore channel factory infrastructure.
 -   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
 
+### 🏃 Fitness & Sports
+
+-   **[JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=social)](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks training data including fitness metrics (CTL/ATL/TSB), workout history, and power/pace personal records for endurance athletes.
+
 ### 🎮 Gaming
 
 -   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
