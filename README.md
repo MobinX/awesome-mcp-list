@@ -22,6 +22,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yuna0x0/anilist-mcp?style=social)](https://github.com/yuna0x0/anilist-mcp): Provides information on anime and manga through integration with the AniList API.
 -   **[austenstone/myinstants-mcp](https://github.com/austenstone/myinstants-mcp)** [![GitHub stars](https://img.shields.io/github/stars/austenstone/myinstants-mcp?style=social)](https://github.com/austenstone/myinstants-mcp): A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories. `npx myinstants-mcp`
 
+### 🤖 AI Agents & Frameworks
+
+-   **[MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/MervinPraison/praisonai-mcp?style=social)](https://github.com/MervinPraison/praisonai-mcp): AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations.
+
 ### ☁️ Cloud Platforms
 
 -   **[cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** [![GitHub stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=social)](https://github.com/cloudflare/mcp-server-cloudflare): Integrates with various Cloudflare services like Workers and KV.
