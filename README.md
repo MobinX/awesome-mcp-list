@@ -218,6 +218,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp)** [![GitHub stars](https://img.shields.io/github/stars/henu-wang/geoscore-mcp?style=social)](https://github.com/henu-wang/geoscore-mcp): AI search optimization (GEO). Scans websites for AI search readiness, generates llms.txt, Schema.org fixes, and meta tag optimizations.
 -   **[bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp)** [![GitHub stars](https://img.shields.io/github/stars/bzsasson/screaming-frog-mcp?style=social)](https://github.com/bzsasson/screaming-frog-mcp): MCP server for Screaming Frog SEO Spider — list saved crawls, export SEO audit data, read and filter results, and manage crawl storage through natural language.
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
+-   **[leadfuze/mcp-server](https://github.com/leadfuze/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/leadfuze/mcp-server?style=social)](https://github.com/leadfuze/mcp-server): Contact + company enrichment from email/LinkedIn URL with email validation. Hosted MCP: https://mcp.leadfuze.com/mcp (API key required).
+
 
 ### 📊 Monitoring
 
