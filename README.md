@@ -59,6 +59,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sawa-zen/vrchat-mcp?style=social)](https://github.com/sawa-zen/vrchat-mcp): Interacts with the VRChat API to retrieve user, world, and avatar information.
 -   **[arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks)** [![GitHub stars](https://img.shields.io/github/stars/arpitbatra123/mcp-googletasks?style=social)](https://github.com/arpitbatra123/mcp-googletasks): Interfaces with the Google Tasks API for task management.
 -   **[Eclipse-XV/twitch-mcp](https://github.com/Eclipse-XV/twitch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Eclipse-XV/twitch-mcp?style=social)](https://github.com/Eclipse-XV/twitch-mcp): Allows Twitch streamers to automate channel point predictions, trigger stream events, and extend interactive chat functionality.
+-   **[synapbus/synapbus](https://github.com/synapbus/synapbus)** [![GitHub stars](https://img.shields.io/github/stars/synapbus/synapbus?style=social)](https://github.com/synapbus/synapbus): MCP-native agent-to-agent messaging hub with channels, DMs, semantic search, task auction, and web UI.
 -   **[@taskade/mcp](https://github.com/taskade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp): Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, and workflow automations. Includes OpenAPI-to-MCP codegen.
 
 ### 👤 Customer Data Platforms
@@ -249,6 +250,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🛠️ Utilities
 
+-   **[smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go)** [![GitHub stars](https://img.shields.io/github/stars/smart-mcp-proxy/mcpproxy-go?style=social)](https://github.com/smart-mcp-proxy/mcpproxy-go): Open-source MCP gateway with BM25 tool discovery, quarantine-based security, Docker isolation, and OAuth 2.1.
 -   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp?style=social)](https://github.com/zcaceres/fetch-mcp): Fetches JSON, text, and HTML data flexibly from URLs.
 -   **[modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Efficiently fetches and processes web content (part of the official servers collection).
 -   **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/markdownify-mcp?style=social)](https://github.com/zcaceres/markdownify-mcp): Converts various file types and web content to Markdown.
