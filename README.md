@@ -24,6 +24,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### ☁️ Cloud Platforms
 
+-   **[Labs64/NetLicensing-MCP](https://github.com/Labs64/NetLicensing-MCP)** [![GitHub stars](https://img.shields.io/github/stars/Labs64/NetLicensing-MCP?style=social)](https://github.com/Labs64/NetLicensing-MCP): The official NetLicensing MCP Server is a natural language interface that enables agentic applications to manage the full software licensing lifecycle in Labs64 NetLicensing 👉🏼 without writing a single API call.
 -   **[cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** [![GitHub stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare?style=social)](https://github.com/cloudflare/mcp-server-cloudflare): Integrates with various Cloudflare services like Workers and KV.
 -   **[isgudtek/mycrab-mcp](https://github.com/isgudtek/mycrab-mcp)** [![GitHub stars](https://img.shields.io/github/stars/isgudtek/mycrab-mcp?style=social)](https://github.com/isgudtek/mycrab-mcp): Instant public HTTPS Cloudflare tunnels for AI agents. Free ephemeral URLs in 60s or permanent custom subdomains via Solana micropayment. Install with `uvx mycrab-mcp`.
 -   **[alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/alexei-led/aws-mcp-server?style=social)](https://github.com/alexei-led/aws-mcp-server): Enables secure execution of AWS CLI commands and prompt templates within Docker.
