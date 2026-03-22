@@ -261,6 +261,11 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
 
+### 🔒 Security
+
+-   **[ClawSec](https://clawsec.cc)**: Security audit platform for AI agent skills and MCP servers. Performs 5-tier analysis including static analysis, pattern matching, LLM semantic review, Firecracker sandbox execution, and LLM audit to detect malicious patterns, data exfiltration, and prompt injection. Database of 30,000+ audited skills with Trust Scores.
+-   **[ClawSearch](https://clawsearch.cc)**: Safe MCP server and AI agent skill discovery platform. Searches a curated database of security-audited skills with Trust Scores, knowledge graph relationships, and safety ratings. Available as a web UI, REST API, and CLI tool (`npx clawsearch`).
+
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
