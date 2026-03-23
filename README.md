@@ -60,6 +60,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks)** [![GitHub stars](https://img.shields.io/github/stars/arpitbatra123/mcp-googletasks?style=social)](https://github.com/arpitbatra123/mcp-googletasks): Interfaces with the Google Tasks API for task management.
 -   **[Eclipse-XV/twitch-mcp](https://github.com/Eclipse-XV/twitch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Eclipse-XV/twitch-mcp?style=social)](https://github.com/Eclipse-XV/twitch-mcp): Allows Twitch streamers to automate channel point predictions, trigger stream events, and extend interactive chat functionality.
 -   **[@taskade/mcp](https://github.com/taskade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp): Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, and workflow automations. Includes OpenAPI-to-MCP codegen.
+-   **[TourAround/LystBot](https://github.com/TourAround/LystBot)** [![GitHub stars](https://img.shields.io/github/stars/TourAround/LystBot?style=social)](https://github.com/TourAround/LystBot): AI-powered list management MCP server. Create grocery lists, todos, and packing lists, check items off, and share with family. 10 tools for full list lifecycle. Free iOS + Android app.
 
 ### 👤 Customer Data Platforms
 
