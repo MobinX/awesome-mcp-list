@@ -212,6 +212,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
 
 -   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
+-   **[ticketlens/ticketlens-experiences-mcp](https://github.com/ticketlens/ticketlens-experiences-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ticketlens/ticketlens-experiences-mcp?style=social)](https://github.com/ticketlens/ticketlens-experiences-mcp): Search tours, tickets, attractions, and activities for AI travel planners via hosted MCP or REST.
 
 ### 🎯 Marketing
 
