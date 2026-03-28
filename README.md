@@ -249,7 +249,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🛠️ Utilities
 
--   **[Useful AI MCP Server](https://github.com/useful-ai/useful-ai-mcp)** : A dynamic utility server with 165+ pre-built tools (unit conversion, data normalization, parsing, and more). No API key required — call via SSE or HTTP.
+-   **[Useful AI](https://github.com/uAI-solana/useful-ai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/uAI-solana/useful-ai-mcp?style=social)](https://github.com/uAI-solana/useful-ai-mcp): Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`
 
 -   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp?style=social)](https://github.com/zcaceres/fetch-mcp): Fetches JSON, text, and HTML data flexibly from URLs.
 -   **[modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Efficiently fetches and processes web content (part of the official servers collection).
