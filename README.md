@@ -234,6 +234,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[IteraTools](https://github.com/fredpsantos33/mcp-iteratools)** [![GitHub stars](https://img.shields.io/github/stars/fredpsantos33/mcp-iteratools?style=social)](https://github.com/fredpsantos33/mcp-iteratools): ☁️ Pay-per-use multi-tool API with MCP support — image generation (Flux), web scraping, OCR, TTS, QR codes, weather, crypto, charts, URL shortener, PDF generation, maps, and 80+ more tools. x402 micropayments protocol.
 
 
+-   **[fredpsantos33/mcp-iteratools](https://github.com/fredpsantos33/mcp-iteratools)** [![GitHub stars](https://img.shields.io/github/stars/fredpsantos33/mcp-iteratools?style=social)](https://github.com/fredpsantos33/mcp-iteratools): Multi-tool API with 80+ tools: image generation, web scraping, TTS, OCR, QR codes, weather, crypto, charts, and more. Pay-per-use with x402 micropayments.
+
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
