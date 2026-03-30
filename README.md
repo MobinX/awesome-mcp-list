@@ -247,6 +247,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[shopsavvy/shopsavvy-mcp-server](https://github.com/shopsavvy/shopsavvy-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/shopsavvy/shopsavvy-mcp-server?style=social)](https://github.com/shopsavvy/shopsavvy-mcp-server): Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 -   **[Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack)** [![GitHub stars](https://img.shields.io/github/stars/Pattyboi101/indiestack?style=social)](https://github.com/Pattyboi101/indiestack): Search 130+ indie SaaS tools from your AI coding assistant. Install via `pip install indiestack`.
 
+### 🔒 Security
+
+-   **[bottobot/defense-mcp-server](https://github.com/bottobot/defense-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/bottobot/defense-mcp-server?style=social)](https://github.com/bottobot/defense-mcp-server): Provides 31 defensive security tools with 250+ actions for Linux system hardening, compliance auditing, firewall management, vulnerability scanning, and incident response. Dry-run by default.
+
 ### 🛠️ Utilities
 
 -   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp?style=social)](https://github.com/zcaceres/fetch-mcp): Fetches JSON, text, and HTML data flexibly from URLs.
