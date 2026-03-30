@@ -259,6 +259,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer)** [![GitHub stars](https://img.shields.io/github/stars/j4c0bs/mcp-server-sql-analyzer?style=social)](https://github.com/j4c0bs/mcp-server-sql-analyzer): Provides SQL analysis, linting, and dialect conversion using SQLGlot.
 -   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
+-   **[MCP Trust Kit](https://github.com/aak204/MCP-Trust-Kit)** [![GitHub stars](https://img.shields.io/github/stars/aak204/MCP-Trust-Kit?style=social)](https://github.com/aak204/MCP-Trust-Kit): Deterministic CI scanner and surface-risk scoring for MCP servers.
 
 
 ## Star History
