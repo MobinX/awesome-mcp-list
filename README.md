@@ -114,6 +114,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💻 Developer Tools
 
+-   **[@rendoc/mcp-server](https://github.com/yoryocoruxo-ai/rendoc)** [![GitHub stars](https://img.shields.io/github/stars/yoryocoruxo-ai/rendoc?style=social)](https://github.com/yoryocoruxo-ai/rendoc): Generate professional PDF documents from HTML templates and dynamic data. Features template management, live preview, and API usage tracking via rendoc.dev.
 -   **[21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp)** [![GitHub stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=social)](https://github.com/21st-dev/magic-mcp): Generates UI components based on 21st.dev design principles.
 -   **[cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)** [![GitHub stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex-code?style=social)](https://github.com/cocoindex-io/cocoindex-code): A super light-weight embedded MCP server for coding agents. Uses tree-sitter for code search and indexing, saves 70% tokens and improves speed.
 -   **[Comet-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik-mcp?style=social)](https://github.com/comet-ml/opik-mcp): Enables querying of LLM observability data captured by Opik.
