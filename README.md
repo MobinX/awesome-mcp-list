@@ -201,6 +201,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
 -   **[CanopyHQ/phloem](https://github.com/CanopyHQ/phloem)** [![GitHub stars](https://img.shields.io/github/stars/CanopyHQ/phloem?style=social)](https://github.com/CanopyHQ/phloem): Local-first AI memory with causal graphs, citation verification, and zero network connections.
 -   **[omega-memory/core](https://github.com/omega-memory/core)** [![GitHub stars](https://img.shields.io/github/stars/omega-memory/core?style=social)](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval (95.4%). Local-first with zero cloud dependency.
+- [varunajaytawde28-design/smm-sync](https://github.com/varunajaytawde28-design/smm-sync)** [![GitHub stars](https://img.shields.io/github/stars/varunajaytawde28-design/smm-sync?style=social)](https://github.com/varunajaytawde28-design/smm-sync): Persistent decision memory and contradiction detection for AI coding agents. Enforces architectural consistency across sessions via Kuzu graph database, PreToolUse session blocking, and a FastAPI dashboard for human resolution.
 
 ### 🗺️ Location Services
 
