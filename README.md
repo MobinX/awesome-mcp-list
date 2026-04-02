@@ -143,6 +143,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 
+-   **[COSAI-Labs/toolpipe-mcp-server](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/COSAI-Labs/make-money-30day-challenge?style=social)](https://github.com/COSAI-Labs/make-money-30day-challenge): 230+ developer utility tools via MCP: JSON, QR codes, hashing, UUID, DNS, WHOIS, PDF generation, code review, fake data, web scraping, SEO, and more. Install: `npx @cosai-labs/toolpipe-mcp-server`. [toolpipe.dev](https://toolpipe.dev)
+
 ### 🧮 Data Science Tools
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
