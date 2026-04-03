@@ -148,6 +148,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
 -   **[@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** [![GitHub stars](https://img.shields.io/github/stars/reading-plus-ai/mcp-server-data-exploration?style=social)](https://github.com/reading-plus-ai/mcp-server-data-exploration): Enables autonomous data exploration on `.csv`-based datasets.
 
+-   **[Whatsonyourmind/oraclaw](https://github.com/Whatsonyourmind/oraclaw)** [![GitHub stars](https://img.shields.io/github/stars/Whatsonyourmind/oraclaw?style=social)](https://github.com/Whatsonyourmind/oraclaw): Decision intelligence with 12 MCP tools: multi-armed bandits, Monte Carlo simulation, constraint solving (LP/MIP), anomaly detection, graph analytics (PageRank, communities), Bayesian inference. 19 algorithms, all sub-5ms.
+
 ### 📂 File Systems
 
 -   **[modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides direct access to the local file system (part of the official servers collection).
