@@ -184,6 +184,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp)** [![GitHub stars](https://img.shields.io/github/stars/OzorOwn/defi-mcp?style=social)](https://github.com/OzorOwn/defi-mcp): DeFi & crypto MCP server — token prices, wallet balances, gas prices, DEX swap quotes across 7 chains.
 -   **[8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/8144225309/superscalar-mcp?style=social)](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server — query protocol architecture, estimate UTXO savings, and explore channel factory infrastructure.
 -   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
+-   **[Aigen-Protocol/aigen-protocol](https://github.com/Aigen-Protocol/aigen-protocol)** [![GitHub stars](https://img.shields.io/github/stars/Aigen-Protocol/aigen-protocol?style=social)](https://github.com/Aigen-Protocol/aigen-protocol): Real-time token safety analysis for AI agents. 27 scam pattern detection, honeypot simulation via DEX swap testing, safety scoring across 6 EVM chains. 38 MCP tools including DeFi yields, gas prices, and agent economy features.
 
 ### 🎮 Gaming
 
