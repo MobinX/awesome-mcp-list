@@ -2,6 +2,7 @@
 
 Note that this list is continuously updating and improving. Please star this repo if you find it useful – it's worth bookmarking!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 specialized agent system prompts for Claude Code leveraging MCP servers for orchestration, security auditing, trading, and automation.
 ### 📂 Browser Control
 
 -   **[@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** [![GitHub stars](https://img.shields.io/github/stars/recursechat/mcp-server-apple-shortcuts?style=social)](https://github.com/recursechat/mcp-server-apple-shortcuts): Integrates with macOS Shortcuts for automation via MCP.
