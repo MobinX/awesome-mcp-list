@@ -229,6 +229,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/logfire-mcp?style=social)](https://github.com/pydantic/logfire-mcp): Accesses OpenTelemetry traces and metrics through Logfire.
 -   **[seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor)** [![GitHub stars](https://img.shields.io/github/stars/seekrays/mcp-monitor?style=social)](https://github.com/seekrays/mcp-monitor): Provides system monitoring via MCP, exposing various metrics.
 -   **[hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/lucidity-mcp?style=social)](https://github.com/hyperb1iss/lucidity-mcp): Provides intelligent, prompt-based analysis of AI-generated code across multiple dimensions.
+-   **[@voidly/mcp-server](https://github.com/voidly-ai/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/voidly-ai/mcp-server?style=social)](https://github.com/voidly-ai/mcp-server): 83 tools for global internet censorship monitoring (119 countries, 19.6M samples), ML-powered incident detection, and E2E encrypted agent-to-agent messaging with Double Ratchet, X3DH, and post-quantum crypto. Install via `npx @voidly/mcp-server`.
 
 ### 🔎 Search
 
