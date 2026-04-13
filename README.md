@@ -249,8 +249,6 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🛠️ Utilities
 
--   **[Useful AI](https://github.com/uAI-solana/useful-ai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/uAI-solana/useful-ai-mcp?style=social)](https://github.com/uAI-solana/useful-ai-mcp): Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`
-
 -   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp?style=social)](https://github.com/zcaceres/fetch-mcp): Fetches JSON, text, and HTML data flexibly from URLs.
 -   **[modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Efficiently fetches and processes web content (part of the official servers collection).
 -   **[zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/markdownify-mcp?style=social)](https://github.com/zcaceres/markdownify-mcp): Converts various file types and web content to Markdown.
@@ -260,6 +258,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse)** [![GitHub stars](https://img.shields.io/github/stars/lamemind/mcp-server-multiverse?style=social)](https://github.com/lamemind/mcp-server-multiverse): Allows multiple isolated instances of MCP servers to coexist.
 -   **[@j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer)** [![GitHub stars](https://img.shields.io/github/stars/j4c0bs/mcp-server-sql-analyzer?style=social)](https://github.com/j4c0bs/mcp-server-sql-analyzer): Provides SQL analysis, linting, and dialect conversion using SQLGlot.
 -   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
+-   **[uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/uAI-solana/useful-ai-mcp?style=social)](https://github.com/uAI-solana/useful-ai-mcp): Fully dynamic MCP server exposing 200+ shared utility tools for AI agents (unit conversion, math, parsing, text processing, and more). Tool list updates automatically. No auth required. Endpoint: `https://api.usefulai.fun/mcp`.
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
 
