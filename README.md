@@ -185,6 +185,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/8144225309/superscalar-mcp?style=social)](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server — query protocol architecture, estimate UTXO savings, and explore channel factory infrastructure.
 -   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
 
+-   **[vdalhambra/financekit-mcp](https://github.com/vdalhambra/financekit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/vdalhambra/financekit-mcp?style=social)](https://github.com/vdalhambra/financekit-mcp): Real-time stock market intelligence with 17 tools — quotes, technical analysis (RSI/MACD/Bollinger/ADX/Stochastic) returning structured BULLISH/BEARISH verdicts, portfolio risk metrics (VaR, Sharpe, Sortino, Beta), crypto via CoinGecko, and options chains.
+
 ### 🎮 Gaming
 
 -   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
@@ -218,6 +220,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp)** [![GitHub stars](https://img.shields.io/github/stars/henu-wang/geoscore-mcp?style=social)](https://github.com/henu-wang/geoscore-mcp): AI search optimization (GEO). Scans websites for AI search readiness, generates llms.txt, Schema.org fixes, and meta tag optimizations.
 -   **[bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp)** [![GitHub stars](https://img.shields.io/github/stars/bzsasson/screaming-frog-mcp?style=social)](https://github.com/bzsasson/screaming-frog-mcp): MCP server for Screaming Frog SEO Spider — list saved crawls, export SEO audit data, read and filter results, and manage crawl storage through natural language.
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
+
+-   **[vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/vdalhambra/siteaudit-mcp?style=social)](https://github.com/vdalhambra/siteaudit-mcp): Full website audits in 11 tools — SEO score, Lighthouse performance, security headers, WCAG accessibility, Schema.org validation, and competitor site comparisons.
 
 ### 📊 Monitoring
 
