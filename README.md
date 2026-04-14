@@ -114,6 +114,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💻 Developer Tools
 
+-   **[asynkor/asynkor](https://github.com/asynkor/asynkor)** [![GitHub stars](https://img.shields.io/github/stars/asynkor/asynkor?style=social)](https://github.com/asynkor/asynkor): Coordination layer for AI agent teams. File leasing prevents overwrites, shared memory compounds learnings, cross-machine sync eliminates merge conflicts. One MCP server, any IDE.
 -   **[21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp)** [![GitHub stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=social)](https://github.com/21st-dev/magic-mcp): Generates UI components based on 21st.dev design principles.
 -   **[cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)** [![GitHub stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex-code?style=social)](https://github.com/cocoindex-io/cocoindex-code): A super light-weight embedded MCP server for coding agents. Uses tree-sitter for code search and indexing, saves 70% tokens and improves speed.
 -   **[Comet-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik-mcp?style=social)](https://github.com/comet-ml/opik-mcp): Enables querying of LLM observability data captured by Opik.
