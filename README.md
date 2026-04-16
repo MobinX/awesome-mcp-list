@@ -246,6 +246,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[c5huracan/meyhem](https://github.com/c5huracan/meyhem)** [![GitHub stars](https://img.shields.io/github/stars/c5huracan/meyhem?style=social)](https://github.com/c5huracan/meyhem): Agent-native search that blends multiple engines, dedupes results, and ranks by task-completion outcomes. No API key required.
 -   **[shopsavvy/shopsavvy-mcp-server](https://github.com/shopsavvy/shopsavvy-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/shopsavvy/shopsavvy-mcp-server?style=social)](https://github.com/shopsavvy/shopsavvy-mcp-server): Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 -   **[Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack)** [![GitHub stars](https://img.shields.io/github/stars/Pattyboi101/indiestack?style=social)](https://github.com/Pattyboi101/indiestack): Search 130+ indie SaaS tools from your AI coding assistant. Install via `pip install indiestack`.
+-   **[Not Human Search](https://nothumansearch.ai/.well-known/mcp.json)**: AI tool discovery engine. Search 8,600+ AI tools and MCP servers with agentic scoring. Verify MCP endpoints, get site details, and monitor changes via JSON-RPC. Listed in the official MCP registry.
+-   **[AI Dev Jobs](https://aidevboard.com/.well-known/mcp.json)**: AI/ML job search MCP server. Search 5,600+ AI/ML jobs, filter by company/location/salary, and get job details programmatically via JSON-RPC. Listed in the official MCP registry.
 
 ### 🛠️ Utilities
 
