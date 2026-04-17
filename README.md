@@ -60,6 +60,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks)** [![GitHub stars](https://img.shields.io/github/stars/arpitbatra123/mcp-googletasks?style=social)](https://github.com/arpitbatra123/mcp-googletasks): Interfaces with the Google Tasks API for task management.
 -   **[Eclipse-XV/twitch-mcp](https://github.com/Eclipse-XV/twitch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Eclipse-XV/twitch-mcp?style=social)](https://github.com/Eclipse-XV/twitch-mcp): Allows Twitch streamers to automate channel point predictions, trigger stream events, and extend interactive chat functionality.
 -   **[@taskade/mcp](https://github.com/taskade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp): Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, and workflow automations. Includes OpenAPI-to-MCP codegen.
+-   **[virtualsms-io/mcp-server](https://github.com/virtualsms-io/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/virtualsms-io/mcp-server?style=social)](https://github.com/virtualsms-io/mcp-server): Get real physical-SIM virtual phone numbers and receive SMS/OTP codes across 145+ countries and 700+ services. 12 MCP tools for number discovery, purchase, cancellation, and code extraction.
 
 ### 👤 Customer Data Platforms
 
