@@ -4,6 +4,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 📂 Browser Control
 
+-   **[BytesAgain](https://github.com/bytesagain/ai-skills)** - Search 60,000+ AI agent skills via MCP SSE or REST API. 7 languages. Free, no auth. Endpoint: `https://bytesagain.com/api/mcp/sse`
 -   **[@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** [![GitHub stars](https://img.shields.io/github/stars/recursechat/mcp-server-apple-shortcuts?style=social)](https://github.com/recursechat/mcp-server-apple-shortcuts): Integrates with macOS Shortcuts for automation via MCP.
 -   **[@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing)** [![GitHub stars](https://img.shields.io/github/stars/kimtth/mcp-aoai-web-browsing?style=social)](https://github.com/kimtth/mcp-aoai-web-browsing): Implements minimal web browsing using Azure OpenAI and Playwright.
 -   **[@pskill9/web-search](https://github.com/pskill9/web-search)** [![GitHub stars](https://img.shields.io/github/stars/pskill9/web-search?style=social)](https://github.com/pskill9/web-search): Provides web search capabilities using Google results without requiring API keys.
