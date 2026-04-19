@@ -212,6 +212,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
 
 -   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
+-   **[xmpuspus/ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp)** [![GitHub stars](https://img.shields.io/github/stars/xmpuspus/ph-civic-data-mcp?style=social)](https://github.com/xmpuspus/ph-civic-data-mcp): Philippine government data as MCP tools — PHIVOLCS earthquakes + volcano alerts, PAGASA weather + typhoons, PhilGEPS procurement, PSA 2020 Census + poverty, AQICN air quality. Install: `uvx ph-civic-data-mcp`.
 
 ### 🎯 Marketing
 
