@@ -229,6 +229,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/logfire-mcp?style=social)](https://github.com/pydantic/logfire-mcp): Accesses OpenTelemetry traces and metrics through Logfire.
 -   **[seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor)** [![GitHub stars](https://img.shields.io/github/stars/seekrays/mcp-monitor?style=social)](https://github.com/seekrays/mcp-monitor): Provides system monitoring via MCP, exposing various metrics.
 -   **[hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/lucidity-mcp?style=social)](https://github.com/hyperb1iss/lucidity-mcp): Provides intelligent, prompt-based analysis of AI-generated code across multiple dimensions.
+-   **[JoeyBrar/agentseal-mcp](https://github.com/JoeyBrar/agentseal-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JoeyBrar/agentseal-mcp?style=social)](https://github.com/JoeyBrar/agentseal-mcp): Action logs for AI agents, recording every action in a SHA-256 hash chain for verifiable audit trails.
 
 ### 🔎 Search
 
