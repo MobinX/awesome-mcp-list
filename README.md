@@ -270,3 +270,5 @@ Note that this list is continuously updating and improving. Please star this rep
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
  </picture>
 </a>
+
+| [Overboard Studio](https://github.com/alona-iaig/overboard-claude-plugin) | AI collaborative whiteboard — create boards, diagrams, flowcharts from AI conversations. 17 MCP tools, OAuth 2.0, free. | TypeScript |
