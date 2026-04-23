@@ -270,3 +270,5 @@ Note that this list is continuously updating and improving. Please star this rep
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
  </picture>
 </a>
+
+- [google-maps-scraper-mcp](https://github.com/khadinakbaronline/google-maps-scraper-mcp) — Google Maps MCP — scrape B2B leads, emails, phones, ratings and reviews inside any AI agent.
