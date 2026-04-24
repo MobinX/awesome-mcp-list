@@ -21,6 +21,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp)** [![GitHub stars](https://img.shields.io/github/stars/r-huijts/rijksmuseum-mcp?style=social)](https://github.com/r-huijts/rijksmuseum-mcp): Connects to the Rijksmuseum API for accessing art collections and details.
 -   **[yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yuna0x0/anilist-mcp?style=social)](https://github.com/yuna0x0/anilist-mcp): Provides information on anime and manga through integration with the AniList API.
 -   **[austenstone/myinstants-mcp](https://github.com/austenstone/myinstants-mcp)** [![GitHub stars](https://img.shields.io/github/stars/austenstone/myinstants-mcp?style=social)](https://github.com/austenstone/myinstants-mcp): A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories. `npx myinstants-mcp`
+-   **[AnveVoice](https://anvevoice.app)**: Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency, and one-line embed. Free tier available.
 
 ### ☁️ Cloud Platforms
 
