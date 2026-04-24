@@ -261,6 +261,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
 
+### 🔒 Security
+
+-   **[Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent)** [![GitHub stars](https://img.shields.io/github/stars/Agnuxo1/EnigmAgent?style=social)](https://github.com/Agnuxo1/EnigmAgent): AES-256-GCM + Argon2id encrypted local vault MCP server. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
+
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
