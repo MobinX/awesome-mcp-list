@@ -142,6 +142,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[semgrep/mcp](https://github.com/semgrep/mcp)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/mcp?style=social)](https://github.com/semgrep/mcp): A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 -   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
+-   **[sean-sunagaku/promptlint-mcp](https://github.com/sean-sunagaku/promptlint-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sean-sunagaku/promptlint-mcp?style=social)](https://github.com/sean-sunagaku/promptlint-mcp): Static linter for AI prompts. Catches contradictions, redundancy, ambiguity, long examples, and politeness fluff in system prompts and agent instructions. CLI + MCP server. Zero network, MIT.
 
 ### 🧮 Data Science Tools
 
