@@ -184,6 +184,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp)** [![GitHub stars](https://img.shields.io/github/stars/OzorOwn/defi-mcp?style=social)](https://github.com/OzorOwn/defi-mcp): DeFi & crypto MCP server — token prices, wallet balances, gas prices, DEX swap quotes across 7 chains.
 -   **[8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/8144225309/superscalar-mcp?style=social)](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server — query protocol architecture, estimate UTXO savings, and explore channel factory infrastructure.
 -   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
+-   **[dioptx/web3-docs](https://github.com/dioptx/web3-docs)** [![GitHub stars](https://img.shields.io/github/stars/dioptx/web3-docs?style=social)](https://github.com/dioptx/web3-docs): Indexes 1,767 blockchain protocol proposals (EIPs, BIPs, ADRs, CIPs, RFCs) across 10 chains plus a canonical contract-address registry for 19 protocols on major EVM chains. Local SQLite + FTS5, fork-aware (Cancun/Taproot lookups), no API keys.
 
 ### 🎮 Gaming
 
