@@ -142,6 +142,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[semgrep/mcp](https://github.com/semgrep/mcp)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/mcp?style=social)](https://github.com/semgrep/mcp): A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 -   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
+-   **[dejuknow/md-redline](https://github.com/dejuknow/md-redline)** [![GitHub stars](https://img.shields.io/github/stars/dejuknow/md-redline?style=social)](https://github.com/dejuknow/md-redline): Inline review comments for markdown specs and design docs. Agents request human review mid-task via MCP and pause until you send feedback. Comments stored as invisible HTML markers in the markdown file itself.
 
 ### 🧮 Data Science Tools
 
