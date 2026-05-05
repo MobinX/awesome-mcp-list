@@ -142,6 +142,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[semgrep/mcp](https://github.com/semgrep/mcp)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/mcp?style=social)](https://github.com/semgrep/mcp): A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 -   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
+-   **[agentprobe](https://agentprobe.fly.dev)**: Probes any seller URL for agentic commerce readiness. Returns a score and grade (NOT_READY/PARTIAL/AGENT_READY/CERTIFIED) across 13 checks including llms.txt, OpenAPI, MCP endpoint, payment rails, and fulfillment proof. One MCP tool: probe_site(url).
 
 ### 🧮 Data Science Tools
 
