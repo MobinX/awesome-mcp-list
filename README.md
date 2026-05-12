@@ -201,6 +201,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
 -   **[CanopyHQ/phloem](https://github.com/CanopyHQ/phloem)** [![GitHub stars](https://img.shields.io/github/stars/CanopyHQ/phloem?style=social)](https://github.com/CanopyHQ/phloem): Local-first AI memory with causal graphs, citation verification, and zero network connections.
 -   **[omega-memory/core](https://github.com/omega-memory/core)** [![GitHub stars](https://img.shields.io/github/stars/omega-memory/core?style=social)](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval (95.4%). Local-first with zero cloud dependency.
+-   **[dakera-ai/dakera-mcp](https://github.com/dakera-ai/dakera-mcp)** [![GitHub stars](https://img.shields.io/github/stars/dakera-ai/dakera-mcp?style=social)](https://github.com/dakera-ai/dakera-mcp): Self-hosted MCP-native agent memory server with 83 tools for decay-weighted episodic memory. RocksDB + HNSW backend, 87.8% LoCoMo benchmark. Multi-SDK (Python/JS/Rust/Go), Docker Compose deployment, fully offline.
 
 ### 🗺️ Location Services
 
