@@ -162,6 +162,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💰 Finance & Fintech
 
+-   **[Whatsonyourmind/modelforge](https://github.com/Whatsonyourmind/modelforge)** [![GitHub stars](https://img.shields.io/github/stars/Whatsonyourmind/modelforge?style=social)](https://github.com/Whatsonyourmind/modelforge): Bulge-tier financial model factory — spec → live-formula Excel workbook (LBO/DCF/M&A/IPO/restructuring/project finance/NPL/structured credit). Every cell live-formulated, every number source-traced. 7 jurisdictions tax pack (IT/US/UK/DE/FR/ES/JP). `pip install modelforge-finance[mcp]`.
 -   **[heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/heurist-network/heurist-mesh-mcp-server?style=social)](https://github.com/heurist-network/heurist-mesh-mcp-server): Provides access to web3 AI agents for blockchain analysis and smart contract auditing.
 -   **[@base/base-mcp](https://github.com/base/base-mcp)** [![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=social)](https://github.com/base/base-mcp): Integrates with Base Network for onchain tools and Coinbase API interactions.
 -   **[QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=social)](https://github.com/QuantGeekDev/coincap-mcp): Provides real-time cryptocurrency market data from CoinCap.
