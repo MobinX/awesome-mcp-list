@@ -261,6 +261,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
 
+- **[MEOK Governance Suite](https://github.com/CSOAI-ORG)** - 38 AI compliance MCPs covering EU AI Act, DORA, NIS2, CRA, MDR, FDA SaMD, MiCA, AML, Basel III, MiFID II, COPPA/FERPA, watermarking + C2PA, AI-BOM, bias detection, prompt-injection firewall, CISA KEV, MITRE ATT&CK/ATLAS, SLSA, Sigstore. HMAC-signed attestations. `npx meok-setup --pack governance`.
+
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
