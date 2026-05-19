@@ -270,3 +270,8 @@ Note that this list is continuously updating and improving. Please star this rep
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
  </picture>
 </a>
+
+<!-- Added 2026-05-18 -->
+- [Infinihash KYT](https://github.com/Infinihash/infinihash-kyt-mcp) — Blockchain compliance: screen wallets against OFAC SDN, threat intel, stablecoin freezes; open compliance cases; generate FinCEN-aligned SAR drafts. Free tier (100 screenings/month, no credit card). 10 tools, Python, MIT.
+- [MyAi](https://github.com/myaitoken/myai-mcp) — Decentralized AI inference on Base. OpenAI-compatible chat completions routed through community GPU providers, paid in $MYAI tokens. v0.2.0 zero-config (auto-issues free key on first call). 6 tools, Python, MIT.
+
