@@ -65,6 +65,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server)** [![GitHub stars](https://img.shields.io/github/stars/sergehuber/inoyu-mcp-unomi-server?style=social)](https://github.com/sergehuber/inoyu-mcp-unomi-server): Accesses and updates user profiles on an Apache Unomi CDP server.
 -   **[OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP)** [![GitHub stars](https://img.shields.io/github/stars/OpenDataMCP/OpenDataMCP?style=social)](https://github.com/OpenDataMCP/OpenDataMCP): Connects various Open Data sources to LLMs via MCP.
+-   **[sankaHQ/sanka-mcp](https://github.com/sankaHQ/sanka-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sankaHQ/sanka-mcp?style=social)](https://github.com/sankaHQ/sanka-mcp): Hosted remote MCP server for Sanka API, connecting AI agents to CRM and back-office workflows.
 -   **[@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic)** [![GitHub stars](https://img.shields.io/github/stars/iaptic/mcp-server-iaptic?style=social)](https://github.com/iaptic/mcp-server-iaptic): Connects to iaptic to retrieve customer purchase and app revenue data.
 
 ### 🗄️ Databases
