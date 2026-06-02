@@ -202,6 +202,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[CanopyHQ/phloem](https://github.com/CanopyHQ/phloem)** [![GitHub stars](https://img.shields.io/github/stars/CanopyHQ/phloem?style=social)](https://github.com/CanopyHQ/phloem): Local-first AI memory with causal graphs, citation verification, and zero network connections.
 -   **[omega-memory/core](https://github.com/omega-memory/core)** [![GitHub stars](https://img.shields.io/github/stars/omega-memory/core?style=social)](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval (95.4%). Local-first with zero cloud dependency.
 
+### ⚖️ Legal & Compliance
+
+-   **[Cleo-Labs-IA/skills_library](https://github.com/Cleo-Labs-IA/skills_library)** [![GitHub stars](https://img.shields.io/github/stars/Cleo-Labs-IA/skills_library?style=social)](https://github.com/Cleo-Labs-IA/skills_library): Product-compliance MCP server exposing 45 production-grade compliance skills (cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability) as MCP resources, prompts, and tools. `npx -y @cleo-labs/skills-mcp@latest`. MIT.
+
 ### 🗺️ Location Services
 
 -   **[modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides location services, routing, and place details from Google Maps (part of the official servers collection).
