@@ -184,6 +184,9 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp)** [![GitHub stars](https://img.shields.io/github/stars/OzorOwn/defi-mcp?style=social)](https://github.com/OzorOwn/defi-mcp): DeFi & crypto MCP server — token prices, wallet balances, gas prices, DEX swap quotes across 7 chains.
 -   **[8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/8144225309/superscalar-mcp?style=social)](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server — query protocol architecture, estimate UTXO savings, and explore channel factory infrastructure.
 -   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
+-   **[danishashko/yahoo-finance-mcp](https://github.com/danishashko/yahoo-finance-mcp)** [![GitHub stars](https://img.shields.io/github/stars/danishashko/yahoo-finance-mcp?style=social)](https://github.com/danishashko/yahoo-finance-mcp) - Real-time Yahoo Finance market data: quotes, history, financials, analyst ratings, options, holders, dividends, news, market status. 13 tools, no API key. `npx yahoo-finance-mcp-server`.
+-   **[danishashko/fred-economic-mcp](https://github.com/danishashko/fred-economic-mcp)** [![GitHub stars](https://img.shields.io/github/stars/danishashko/fred-economic-mcp?style=social)](https://github.com/danishashko/fred-economic-mcp) - Federal Reserve economic data (FRED): 800k+ series incl. GDP, inflation, unemployment, rates. 6 tools. `npx fred-economic-mcp`.
+-   **[danishashko/edgar-mcp](https://github.com/danishashko/edgar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/danishashko/edgar-mcp?style=social)](https://github.com/danishashko/edgar-mcp) - SEC EDGAR filings & XBRL financials: company search, 10-K/10-Q/8-K, financial facts, full-text search. 6 tools, no API key. `npx edgar-mcp`.
 
 ### 🎮 Gaming
 
@@ -212,6 +215,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
 
 -   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
+-   **[danishashko/geocode-mcp](https://github.com/danishashko/geocode-mcp)** [![GitHub stars](https://img.shields.io/github/stars/danishashko/geocode-mcp?style=social)](https://github.com/danishashko/geocode-mcp) - Geocoding via OpenStreetMap Nominatim: forward/reverse geocoding, place search, distance. 4 tools, no API key. `npx geocode-mcp`.
 
 ### 🎯 Marketing
 
