@@ -66,6 +66,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server)** [![GitHub stars](https://img.shields.io/github/stars/sergehuber/inoyu-mcp-unomi-server?style=social)](https://github.com/sergehuber/inoyu-mcp-unomi-server): Accesses and updates user profiles on an Apache Unomi CDP server.
 -   **[OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP)** [![GitHub stars](https://img.shields.io/github/stars/OpenDataMCP/OpenDataMCP?style=social)](https://github.com/OpenDataMCP/OpenDataMCP): Connects various Open Data sources to LLMs via MCP.
 -   **[@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic)** [![GitHub stars](https://img.shields.io/github/stars/iaptic/mcp-server-iaptic?style=social)](https://github.com/iaptic/mcp-server-iaptic): Connects to iaptic to retrieve customer purchase and app revenue data.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ### 🗄️ Databases
 
