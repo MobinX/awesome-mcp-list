@@ -259,6 +259,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer)** [![GitHub stars](https://img.shields.io/github/stars/j4c0bs/mcp-server-sql-analyzer?style=social)](https://github.com/j4c0bs/mcp-server-sql-analyzer): Provides SQL analysis, linting, and dialect conversion using SQLGlot.
 -   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
+-   **[dochost](https://dochost.io/mcp)**: Hosted remote MCP server (Streamable HTTP) that publishes Markdown or HTML to a clean, public, shareable link straight from your AI assistant — no copy-paste. OAuth sign-in, no API keys. Connect with `claude mcp add --transport http dochost https://dochost.io/api/mcp`.
 
 
 ## Star History
