@@ -185,6 +185,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/8144225309/superscalar-mcp?style=social)](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server — query protocol architecture, estimate UTXO savings, and explore channel factory infrastructure.
 -   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
 
+### 🛒 E-Commerce
+
+- [giuseppesocci-bot/kalicart-global](https://github.com/giuseppesocci-bot/kalicart-global) 📇 ☁️ 🍎 🪟 🐧 - MCP server for agentic commerce. Gives AI agents access to a federated catalog of WooCommerce stores — one connection, multiple merchants, real inventory.
+
 ### 🎮 Gaming
 
 -   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
