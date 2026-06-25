@@ -143,7 +143,12 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 
+
+-   **[@Dusheh/myclaw-toolkit](https://github.com/Dusheh/myclaw-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/Dusheh/myclaw-toolkit?style=social)](https://github.com/Dusheh/myclaw-toolkit): 23-in-1 developer utility MCP server with web search, exchange rates, crypto prices, QR codes, UUIDs, RSS feeds, and more. Install via `npx myclaw-toolkit`.
+
 ### 🧮 Data Science Tools
+
+
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
 -   **[@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** [![GitHub stars](https://img.shields.io/github/stars/reading-plus-ai/mcp-server-data-exploration?style=social)](https://github.com/reading-plus-ai/mcp-server-data-exploration): Enables autonomous data exploration on `.csv`-based datasets.
