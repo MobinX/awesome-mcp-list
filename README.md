@@ -142,6 +142,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[semgrep/mcp](https://github.com/semgrep/mcp)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/mcp?style=social)](https://github.com/semgrep/mcp): A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 -   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
+-   **[mybolide/mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit)** [![GitHub stars](https://img.shields.io/github/stars/mybolide/mcp-probe-kit?style=social)](https://github.com/mybolide/mcp-probe-kit): Spec-driven dev workflow MCP (30 tools): `start_feature` / `start_bugfix` / `start_ui` orchestration, auto Skill + AGENTS.md bootstrap, cross-repo vector memory (Qdrant), GitNexus code graph, quality gates. Universal MCP client support. `npx -y mcp-probe-kit@latest`
 
 ### 🧮 Data Science Tools
 
