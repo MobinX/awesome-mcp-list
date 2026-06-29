@@ -218,6 +218,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp)** [![GitHub stars](https://img.shields.io/github/stars/henu-wang/geoscore-mcp?style=social)](https://github.com/henu-wang/geoscore-mcp): AI search optimization (GEO). Scans websites for AI search readiness, generates llms.txt, Schema.org fixes, and meta tag optimizations.
 -   **[bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp)** [![GitHub stars](https://img.shields.io/github/stars/bzsasson/screaming-frog-mcp?style=social)](https://github.com/bzsasson/screaming-frog-mcp): MCP server for Screaming Frog SEO Spider — list saved crawls, export SEO audit data, read and filter results, and manage crawl storage through natural language.
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
+-   **[estevecastells/llmpulse-mcp](https://github.com/estevecastells/llmpulse-mcp)** [![GitHub stars](https://img.shields.io/github/stars/estevecastells/llmpulse-mcp?style=social)](https://github.com/estevecastells/llmpulse-mcp): AI search visibility (GEO/AEO): brand mentions, citations, share of voice, and AI-referred traffic across ChatGPT, Perplexity, Gemini, and Google AI Overviews.
 
 ### 📊 Monitoring
 
@@ -259,6 +260,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer)** [![GitHub stars](https://img.shields.io/github/stars/j4c0bs/mcp-server-sql-analyzer?style=social)](https://github.com/j4c0bs/mcp-server-sql-analyzer): Provides SQL analysis, linting, and dialect conversion using SQLGlot.
 -   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
+-   **[estevecastells/domscan-mcp](https://github.com/estevecastells/domscan-mcp)** [![GitHub stars](https://img.shields.io/github/stars/estevecastells/domscan-mcp?style=social)](https://github.com/estevecastells/domscan-mcp): Domain intelligence: availability across 1500+ TLDs, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security, and typosquatting/brand protection.
 
 
 ## Star History
