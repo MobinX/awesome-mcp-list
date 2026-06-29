@@ -261,6 +261,11 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
 
+
+## Related Resources
+
+- [Skill Hub](https://github.com/rdone4425/skill) — 4133+ AI Agent Skills & MCP Tools directory with 22 categories. Filter by platform (Claude Code, Codex, Cursor, Hermes). [Live](https://skill.442595.xyz/)
+
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
