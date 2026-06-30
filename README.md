@@ -164,6 +164,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/uniswap-trader-mcp?style=social)](https://github.com/kukapay/uniswap-trader-mcp): Automates token swaps on Uniswap DEX.
 -   **[kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/token-minter-mcp?style=social)](https://github.com/kukapay/token-minter-mcp): Allows AI agents to mint ERC-20 tokens.
 -   **[kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/thegraph-mcp?style=social)](https://github.com/kukapay/thegraph-mcp): Provides indexed blockchain data from The Graph to AI agents.
+-   **[bankbridge-money/bankbridge-plugin](https://github.com/bankbridge-money/bankbridge-plugin)** [![GitHub stars](https://img.shields.io/github/stars/bankbridge-money/bankbridge-plugin?style=social)](https://github.com/bankbridge-money/bankbridge-plugin): Read-only bank access for AI agents via hosted MCP server. 12 tools — balances, transactions, recurring charges, monthly cashflow, holdings — for Claude, ChatGPT, Cursor, Gemini, Codex. Plaid-backed.
 
 ### 🎮 Gaming
 
