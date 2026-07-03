@@ -159,6 +159,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[quarkiverse/quarkus-mcp-filesystem](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem)** [![GitHub stars](https://img.shields.io/github/stars/quarkiverse/quarkus-mcp-servers?style=social)](https://github.com/quarkiverse/quarkus-mcp-servers): Provides file system browsing and editing (part of Quarkus MCP Servers, Java implementation).
 -   **[Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal)** [![GitHub stars](https://img.shields.io/github/stars/Xuanwo/mcp-server-opendal?style=social)](https://github.com/Xuanwo/mcp-server-opendal): Accesses various storage services via Apache OpenDAL.
 -   **[PSPDFKit/nutrient-dws-mcp-server](https://github.com/PSPDFKit/nutrient-dws-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/PSPDFKit/nutrient-dws-mcp-server?style=social)](https://github.com/PSPDFKit/nutrient-dws-mcp-server): MCP server for Nutrient Document Web Services API for conversion, merge, redact, sign, OCR, watermark, and extraction workflows.
+-   **[hushvert/mcp](https://github.com/hushvert/mcp)** [![GitHub stars](https://img.shields.io/github/stars/hushvert/mcp?style=social)](https://github.com/hushvert/mcp): File conversion for AI agents via the hushvert hosted API - office docs to PDF, PDF to Word, document interchange (Markdown/HTML/EPUB/LaTeX), and audio/video transcodes. Tools: convert_file, convert_poll, list_formats, check_usage.
 
 ### 💰 Finance & Fintech
 
