@@ -270,3 +270,7 @@ Note that this list is continuously updating and improving. Please star this rep
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
  </picture>
 </a>
+
+
+## MCP Servers
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
