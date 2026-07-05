@@ -229,6 +229,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/logfire-mcp?style=social)](https://github.com/pydantic/logfire-mcp): Accesses OpenTelemetry traces and metrics through Logfire.
 -   **[seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor)** [![GitHub stars](https://img.shields.io/github/stars/seekrays/mcp-monitor?style=social)](https://github.com/seekrays/mcp-monitor): Provides system monitoring via MCP, exposing various metrics.
 -   **[hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/lucidity-mcp?style=social)](https://github.com/hyperb1iss/lucidity-mcp): Provides intelligent, prompt-based analysis of AI-generated code across multiple dimensions.
+-   **[ryan-knowone/quota-dashboard-mcp](https://github.com/ryan-knowone/quota-dashboard-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ryan-knowone/quota-dashboard-mcp?style=social)](https://github.com/ryan-knowone/quota-dashboard-mcp): Local MCP server for real-time AI subscription quota across Claude Code Max, Kimi, and Z.ai. Tokens stay on your machine; install with `npx -y ryan-knowone/quota-dashboard-mcp`.
 
 ### 🔎 Search
 
