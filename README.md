@@ -268,5 +268,6 @@ Note that this list is continuously updating and improving. Please star this rep
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MobinX/awesome-mcp-list&type=Date" />
+- [context-kit](https://github.com/JDDavenport/context-kit) - MCP resource server exposing Personal Context Artifacts (PCA files: wiki, mental-models, voice, protocols) to Claude Desktop and any MCP client. Zero dependencies (stdlib only), one-command install.
  </picture>
 </a>
