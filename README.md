@@ -163,6 +163,7 @@ Note that this list is continuously updating and improving. Please star this rep
 ### 💰 Finance & Fintech
 
 -   **[heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/heurist-network/heurist-mesh-mcp-server?style=social)](https://github.com/heurist-network/heurist-mesh-mcp-server): Provides access to web3 AI agents for blockchain analysis and smart contract auditing.
+- [AgentServices](https://github.com/vbkotecha/aiservices-api) — Paid APIs for AI agents. Crypto prices, DeFi yields, indicators, dispute resolution. x402 on Base. MCP at agentservices.to/mcp.
 -   **[@base/base-mcp](https://github.com/base/base-mcp)** [![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=social)](https://github.com/base/base-mcp): Integrates with Base Network for onchain tools and Coinbase API interactions.
 -   **[QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=social)](https://github.com/QuantGeekDev/coincap-mcp): Provides real-time cryptocurrency market data from CoinCap.
 -   **[anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/anjor/coinmarket-mcp-server?style=social)](https://github.com/anjor/coinmarket-mcp-server): Fetches cryptocurrency listings and quotes from the Coinmarket API.
