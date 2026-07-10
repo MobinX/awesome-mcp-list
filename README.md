@@ -147,6 +147,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
 -   **[@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** [![GitHub stars](https://img.shields.io/github/stars/reading-plus-ai/mcp-server-data-exploration?style=social)](https://github.com/reading-plus-ai/mcp-server-data-exploration): Enables autonomous data exploration on `.csv`-based datasets.
+-   **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/azmartone67/dchub-mcp-server?style=social)](https://github.com/azmartone67/dchub-mcp-server): Live data-center, power-grid, fiber, gas & M&A intelligence for AI agents — DC Hub Power Index (300+ markets), ISO grid telemetry, fiber routes, 70 tools. Remote MCP at https://dchub.cloud/mcp — query and cite.
 
 ### 📂 File Systems
 
