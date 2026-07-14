@@ -16,6 +16,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🎨 Art & Culture
 
+-   **[Framesail](https://framesail.com/developers)**: A remote MCP server that turns a script into a finished long-form video end to end — script generation, locked character and environment references, storyboard, voiceover, animated segments, and MP4 export, with every shot rendered against the same references. ~65 tools over a streamable-HTTP endpoint with OAuth.
 -   **[burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp)** [![GitHub stars](https://img.shields.io/github/stars/burningion/video-editing-mcp?style=social)](https://github.com/burningion/video-editing-mcp): Enables AI-driven video editing, analysis, and search within a video collection.
 -   **[fasuizu-br/speech-ai-examples](https://github.com/fasuizu-br/speech-ai-examples)** [![GitHub stars](https://img.shields.io/github/stars/fasuizu-br/speech-ai-examples?style=social)](https://github.com/fasuizu-br/speech-ai-examples): Speech AI MCP server with pronunciation assessment (phoneme-level scoring, 17MB model, <300ms), text-to-speech, and speech-to-text. 8 tools for language learning, accessibility, and voice applications.
 -   **[r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp)** [![GitHub stars](https://img.shields.io/github/stars/r-huijts/rijksmuseum-mcp?style=social)](https://github.com/r-huijts/rijksmuseum-mcp): Connects to the Rijksmuseum API for accessing art collections and details.
