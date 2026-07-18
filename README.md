@@ -162,6 +162,8 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💰 Finance & Fintech
 
+-   **[kindrat86/sipi-bot](https://github.com/kindrat86/sipi-bot)** [![GitHub stars](https://img.shields.io/github/stars/kindrat86/sipi-bot?style=social)](https://github.com/kindrat86/sipi-bot): Pre-spend firewall for autonomous AI agents — approves, blocks, or flags every transaction against configurable spend rules (per-transaction caps, velocity limits, merchant allowlists) in under 5ms. MCP server, HTTP API, CLI. 53/53 eval. MIT.
+
 -   **[heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/heurist-network/heurist-mesh-mcp-server?style=social)](https://github.com/heurist-network/heurist-mesh-mcp-server): Provides access to web3 AI agents for blockchain analysis and smart contract auditing.
 -   **[@base/base-mcp](https://github.com/base/base-mcp)** [![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=social)](https://github.com/base/base-mcp): Integrates with Base Network for onchain tools and Coinbase API interactions.
 -   **[QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=social)](https://github.com/QuantGeekDev/coincap-mcp): Provides real-time cryptocurrency market data from CoinCap.
