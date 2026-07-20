@@ -163,6 +163,7 @@ Note that this list is continuously updating and improving. Please star this rep
 ### 💰 Finance & Fintech
 
 -   **[heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/heurist-network/heurist-mesh-mcp-server?style=social)](https://github.com/heurist-network/heurist-mesh-mcp-server): Provides access to web3 AI agents for blockchain analysis and smart contract auditing.
+- [AgentServices](https://github.com/vbkotecha/aiservices-api) — Paid APIs for AI agents. Crypto prices, DeFi yields, indicators, dispute resolution. x402 on Base. MCP at agentservices.to/mcp.
 -   **[@base/base-mcp](https://github.com/base/base-mcp)** [![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=social)](https://github.com/base/base-mcp): Integrates with Base Network for onchain tools and Coinbase API interactions.
 -   **[QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=social)](https://github.com/QuantGeekDev/coincap-mcp): Provides real-time cryptocurrency market data from CoinCap.
 -   **[anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/anjor/coinmarket-mcp-server?style=social)](https://github.com/anjor/coinmarket-mcp-server): Fetches cryptocurrency listings and quotes from the Coinmarket API.
@@ -184,6 +185,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp)** [![GitHub stars](https://img.shields.io/github/stars/OzorOwn/defi-mcp?style=social)](https://github.com/OzorOwn/defi-mcp): DeFi & crypto MCP server — token prices, wallet balances, gas prices, DEX swap quotes across 7 chains.
 -   **[8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/8144225309/superscalar-mcp?style=social)](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server — query protocol architecture, estimate UTXO savings, and explore channel factory infrastructure.
 -   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
+-   **[vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api)** [![GitHub stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=social)](https://github.com/vbkotecha/aiservices-api): 54-service x402-paid crypto/market data API platform with 37 MCP tools. Live at api.agentservices.to. Agents pay per-call via HTTP 402 micropayments.
 
 ### 🎮 Gaming
 
