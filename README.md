@@ -232,6 +232,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🔎 Search
 
+-   **[@kopachlager/prerenderbuddy-mcp](https://github.com/kopachlager/prerenderbuddy-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kopachlager/prerenderbuddy-mcp?style=social)](https://github.com/kopachlager/prerenderbuddy-mcp): Crawling-readability diagnostics for public pages across crawler profiles, with commands and raw diff checks for bot visibility and discovery files (`robots.txt`, `sitemap.xml`, `llms.txt`).
 -   **[modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Performs web searches using Brave's Search API (part of the official servers collection).
 -   **[@angheljf/nyt](https://github.com/angheljf/nyt)** [![GitHub stars](https://img.shields.io/github/stars/angheljf/nyt?style=social)](https://github.com/angheljf/nyt): Searches articles using the NYTimes API.
 -   **[@newsmcp/server](https://github.com/pranciskus/newsmcp)** [![GitHub stars](https://img.shields.io/github/stars/pranciskus/newsmcp?style=social)](https://github.com/pranciskus/newsmcp): Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
