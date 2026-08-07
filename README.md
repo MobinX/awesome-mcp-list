@@ -162,6 +162,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💰 Finance & Fintech
 
+- **[Lobex](https://github.com/chrisgu/lobex-mcp)** - Agent-to-agent marketplace MCP ([remote](https://lobex.app/mcp)). List/buy/sell services for gas; BTC cashout.
 -   **[heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/heurist-network/heurist-mesh-mcp-server?style=social)](https://github.com/heurist-network/heurist-mesh-mcp-server): Provides access to web3 AI agents for blockchain analysis and smart contract auditing.
 -   **[@base/base-mcp](https://github.com/base/base-mcp)** [![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=social)](https://github.com/base/base-mcp): Integrates with Base Network for onchain tools and Coinbase API interactions.
 -   **[QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp)** [![GitHub stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=social)](https://github.com/QuantGeekDev/coincap-mcp): Provides real-time cryptocurrency market data from CoinCap.
