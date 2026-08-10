@@ -33,6 +33,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye)** [![GitHub stars](https://img.shields.io/github/stars/wenhuwang/mcp-k8s-eye?style=social)](https://github.com/wenhuwang/mcp-k8s-eye): Provides Kubernetes management features and application health analysis.
 -   **[johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp)** [![GitHub stars](https://img.shields.io/github/stars/johnneerdael/netskope-mcp?style=social)](https://github.com/johnneerdael/netskope-mcp): Accesses Netskope Private Access components and provides setup details.
 -   **[nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)** [![GitHub stars](https://img.shields.io/github/stars/nwiizo/tfmcp?style=social)](https://github.com/nwiizo/tfmcp): Allows AI assistants to control Terraform environments for infrastructure management.
+-   **[muskanbandta23/zopnight-mcp](https://github.com/muskanbandta23/zopnight-mcp)** [![GitHub stars](https://img.shields.io/github/stars/muskanbandta23/zopnight-mcp?style=social)](https://github.com/muskanbandta23/zopnight-mcp): Read-only cloud cost and infrastructure governance across AWS, Azure and GCP. 85 tools over a hosted remote endpoint at `https://api.zop.dev/mcp-server`. [Docs](https://zop.dev/learn/mcp-server?utm_source=mobinx-awesome-mcp-list&utm_medium=listing&utm_campaign=mcp-directory).
 
 ### 🖥️ Command Line
 
