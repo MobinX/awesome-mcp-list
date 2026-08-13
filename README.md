@@ -33,6 +33,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye)** [![GitHub stars](https://img.shields.io/github/stars/wenhuwang/mcp-k8s-eye?style=social)](https://github.com/wenhuwang/mcp-k8s-eye): Provides Kubernetes management features and application health analysis.
 -   **[johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp)** [![GitHub stars](https://img.shields.io/github/stars/johnneerdael/netskope-mcp?style=social)](https://github.com/johnneerdael/netskope-mcp): Accesses Netskope Private Access components and provides setup details.
 -   **[nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)** [![GitHub stars](https://img.shields.io/github/stars/nwiizo/tfmcp?style=social)](https://github.com/nwiizo/tfmcp): Allows AI assistants to control Terraform environments for infrastructure management.
+-   **[harvis-io/harvis-dev-mcp](https://github.com/harvis-io/harvis-dev-mcp)** [![GitHub stars](https://img.shields.io/github/stars/harvis-io/harvis-dev-mcp?style=social)](https://github.com/harvis-io/harvis-dev-mcp): Deploys static sites from AI agents via harvis.dev and returns a live URL in seconds, no account or API key required.
 
 ### 🖥️ Command Line
 
