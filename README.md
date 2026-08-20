@@ -142,6 +142,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[semgrep/mcp](https://github.com/semgrep/mcp)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/mcp?style=social)](https://github.com/semgrep/mcp): A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 -   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
+-   **[mjaskolski/developer-toolkit-mcp](https://github.com/mjaskolski/developer-toolkit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/mjaskolski/developer-toolkit-mcp?style=social)](https://github.com/mjaskolski/developer-toolkit-mcp): Remote read-only MCP endpoint over 950+ AI-development guides (Cursor, Claude Code, Codex) in EN+PL — search and fetch full articles. No account, no API key. Streamable HTTP: https://developertoolkit.ai/mcp
 
 ### 🧮 Data Science Tools
 
@@ -201,6 +202,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
 -   **[CanopyHQ/phloem](https://github.com/CanopyHQ/phloem)** [![GitHub stars](https://img.shields.io/github/stars/CanopyHQ/phloem?style=social)](https://github.com/CanopyHQ/phloem): Local-first AI memory with causal graphs, citation verification, and zero network connections.
 -   **[omega-memory/core](https://github.com/omega-memory/core)** [![GitHub stars](https://img.shields.io/github/stars/omega-memory/core?style=social)](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval (95.4%). Local-first with zero cloud dependency.
+-   **[mjaskolski/wondel-skills-mcp](https://github.com/mjaskolski/wondel-skills-mcp)** [![GitHub stars](https://img.shields.io/github/stars/mjaskolski/wondel-skills-mcp?style=social)](https://github.com/mjaskolski/wondel-skills-mcp): Remote read-only MCP server over 50 book-based agent skills and 12 guided journeys — routes a task to the right framework (recommend_skills) and serves the real SKILL.md in-session (load_skill). No install, no account, no auth. Streamable HTTP: https://skills.wondel.ai/mcp
 
 ### 🗺️ Location Services
 
