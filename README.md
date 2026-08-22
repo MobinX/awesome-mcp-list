@@ -213,6 +213,8 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 
+-   **[RevList/pocket-drives-mcp](https://github.com/RevList/pocket-drives-mcp)** [![GitHub stars](https://img.shields.io/github/stars/RevList/pocket-drives-mcp?style=social)](https://github.com/RevList/pocket-drives-mcp): Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Remote at https://pocketdrives.ai/mcp.
+
 ### 🎯 Marketing
 
 -   **[henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp)** [![GitHub stars](https://img.shields.io/github/stars/henu-wang/geoscore-mcp?style=social)](https://github.com/henu-wang/geoscore-mcp): AI search optimization (GEO). Scans websites for AI search readiness, generates llms.txt, Schema.org fixes, and meta tag optimizations.
