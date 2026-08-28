@@ -41,6 +41,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/MladenSU/cli-mcp-server?style=social)](https://github.com/MladenSU/cli-mcp-server): Offers a command-line interface with configurable security policies.
 -   **[tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server)** [![GitHub stars](https://img.shields.io/github/stars/tumf/mcp-shell-server?style=social)](https://github.com/tumf/mcp-shell-server): Securely executes shell commands through the Model Context Protocol.
 -   **[amol21p/mcp-interactive-terminal](https://github.com/amol21p/mcp-interactive-terminal)** [![GitHub stars](https://img.shields.io/github/stars/amol21p/mcp-interactive-terminal?style=social)](https://github.com/amol21p/mcp-interactive-terminal): Real interactive terminal sessions for REPLs, SSH, database clients, and any interactive CLI — with clean text output, smart completion detection, and multi-layer security.
+-   **[sandbaseai/cli](https://github.com/sandbaseai/cli)** [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)](https://github.com/sandbaseai/cli): Local MCP bridge CLI that lets supported AI clients discover and run 2,000+ AI models and APIs.
 
 ### 💬 Communication
 
