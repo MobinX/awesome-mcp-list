@@ -295,6 +295,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@rog0x/mcp-web-tools](https://github.com/rog0x/mcp-web-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-web-tools?style=social)](https://github.com/rog0x/mcp-web-tools): Web scraping, content extraction, site monitoring, and search for AI agents.
 -   **[@rog0x/mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-seo-tools?style=social)](https://github.com/rog0x/mcp-seo-tools): SEO analysis — meta tags, keywords, link checking, and sitemap generation.
 -   **[octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp)** [![GitHub stars](https://img.shields.io/github/stars/octoco-ltd/sheetsdata-mcp?style=social)](https://github.com/octoco-ltd/sheetsdata-mcp): Electronic component datasheet search — specs, pinouts, and package info extracted from manufacturer PDFs.
+-   **[tuanone123/hotlikeshop-mcp](https://github.com/tuanone123/hotlikeshop-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tuanone123/hotlikeshop-mcp?style=social)](https://github.com/tuanone123/hotlikeshop-mcp): E-commerce marketplace MCP for social-media & digital accounts, proxies and services. Search, compare and view best-sellers, then buy in chat via a safe quote->confirm flow (the AI can never spend on its own). Free keyless lookup; remote Streamable HTTP. Docs: https://hotlikeshop.com/ai
 
 ### 🛠️ Utilities
 
