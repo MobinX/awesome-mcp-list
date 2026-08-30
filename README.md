@@ -69,6 +69,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@taskade/mcp](https://github.com/taskade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp): Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, and workflow automations. Includes OpenAPI-to-MCP codegen.
 -   **[@bifrost-mcp/rippling-mcp](https://github.com/bifrost-mcp/rippling-mcp)** [![GitHub stars](https://img.shields.io/github/stars/bifrost-mcp/rippling-mcp?style=social)](https://github.com/bifrost-mcp/rippling-mcp): Integrates with Rippling HR, IT, and Finance platform for employee and company management.
 -   **[synapbus/synapbus](https://github.com/synapbus/synapbus)** [![GitHub stars](https://img.shields.io/github/stars/synapbus/synapbus?style=social)](https://github.com/synapbus/synapbus): MCP-native agent-to-agent messaging hub with channels, DMs, semantic search, task auction, and web UI.
+-   **[TourAround/LystBot](https://github.com/TourAround/LystBot)** [![GitHub stars](https://img.shields.io/github/stars/TourAround/LystBot?style=social)](https://github.com/TourAround/LystBot): AI-powered list management for grocery lists, to-dos, and shared packing lists.
 
 ### 👤 Customer Data Platforms
 
