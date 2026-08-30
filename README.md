@@ -68,6 +68,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[Eclipse-XV/twitch-mcp](https://github.com/Eclipse-XV/twitch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Eclipse-XV/twitch-mcp?style=social)](https://github.com/Eclipse-XV/twitch-mcp): Allows Twitch streamers to automate channel point predictions, trigger stream events, and extend interactive chat functionality.
 -   **[@taskade/mcp](https://github.com/taskade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp): Official Taskade MCP server with 50+ tools for managing workspaces, projects, tasks, custom AI agents, and workflow automations. Includes OpenAPI-to-MCP codegen.
 -   **[@bifrost-mcp/rippling-mcp](https://github.com/bifrost-mcp/rippling-mcp)** [![GitHub stars](https://img.shields.io/github/stars/bifrost-mcp/rippling-mcp?style=social)](https://github.com/bifrost-mcp/rippling-mcp): Integrates with Rippling HR, IT, and Finance platform for employee and company management.
+-   **[synapbus/synapbus](https://github.com/synapbus/synapbus)** [![GitHub stars](https://img.shields.io/github/stars/synapbus/synapbus?style=social)](https://github.com/synapbus/synapbus): MCP-native agent-to-agent messaging hub with channels, DMs, semantic search, task auction, and web UI.
 
 ### 👤 Customer Data Platforms
 
@@ -293,6 +294,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 -   **[signbee/mcp](https://github.com/signbee/mcp)** [![GitHub stars](https://img.shields.io/github/stars/signbee/mcp?style=social)](https://github.com/signbee/mcp): Document signing for AI agents — send markdown or PDF contracts for two-party e-signing with certified delivery.
+-   **[smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go)** [![GitHub stars](https://img.shields.io/github/stars/smart-mcp-proxy/mcpproxy-go?style=social)](https://github.com/smart-mcp-proxy/mcpproxy-go): Open-source MCP gateway with BM25 tool discovery, quarantine-based security, Docker isolation, and OAuth 2.1.
 
 ### 🤖 Robotics & Physical AI
 
