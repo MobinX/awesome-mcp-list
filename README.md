@@ -121,6 +121,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets)** [![GitHub stars](https://img.shields.io/github/stars/xing5/mcp-google-sheets?style=social)](https://github.com/xing5/mcp-google-sheets): Interacts with Google Sheets, providing create, read, update, and manage functionalities.
 -   **[edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/edwinbernadus/nocodb-mcp-server?style=social)](https://github.com/edwinbernadus/nocodb-mcp-server): Support create, read, update, and delete on NocoDB Database
 -   **[theSharque/panopticum](https://github.com/theSharque/panopticum)** [![GitHub stars](https://img.shields.io/github/stars/theSharque/panopticum?style=social)](https://github.com/theSharque/panopticum): Control system for managing databases (MongoDB, Redis, ClickHouse, PostgreSQL) in Kubernetes via MCP.
+-   **[@rog0x/mcp-database-tools](https://github.com/rog0x/mcp-database-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-database-tools?style=social)](https://github.com/rog0x/mcp-database-tools): SQL formatting, schema visualization, migration generation, and query optimization for AI agents.
 
 ### 💻 Developer Tools
 
@@ -162,6 +163,13 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 -   **[TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp)** [![GitHub stars](https://img.shields.io/github/stars/TencentEdgeOne/edgeone-pages-mcp?style=social)](https://github.com/TencentEdgeOne/edgeone-pages-mcp): Deploy HTML content to EdgeOne Pages and obtain a publicly accessible URL.
 -   **[Writbase/writbase](https://github.com/Writbase/writbase)** [![GitHub stars](https://img.shields.io/github/stars/Writbase/writbase?style=social)](https://github.com/Writbase/writbase): MCP-native task management for AI agent fleets with multi-agent permissions.
+-   **[@rog0x/mcp-git-tools](https://github.com/rog0x/mcp-git-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-git-tools?style=social)](https://github.com/rog0x/mcp-git-tools): Git analytics — log, diff, blame, branch stats, and commit insights for AI agents.
+-   **[@rog0x/mcp-github-tools](https://github.com/rog0x/mcp-github-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-github-tools?style=social)](https://github.com/rog0x/mcp-github-tools): GitHub analytics — repos, PRs, issues, releases, and contributor activity via MCP.
+-   **[@rog0x/mcp-docker-tools](https://github.com/rog0x/mcp-docker-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-docker-tools?style=social)](https://github.com/rog0x/mcp-docker-tools): Docker management — containers, images, Dockerfile generation and analysis.
+-   **[@rog0x/mcp-npm-tools](https://github.com/rog0x/mcp-npm-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-npm-tools?style=social)](https://github.com/rog0x/mcp-npm-tools): npm utilities — package search, audit, bundle analysis, and dependency checking.
+-   **[@rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-testing-tools?style=social)](https://github.com/rog0x/mcp-testing-tools): Test generation — unit tests, mocks, and coverage analysis for multiple frameworks.
+-   **[@rog0x/mcp-api-tools](https://github.com/rog0x/mcp-api-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-api-tools?style=social)](https://github.com/rog0x/mcp-api-tools): API development — HTTP client, JWT decode, header analysis, and endpoint testing.
+-   **[@rog0x/mcp-lint-tools](https://github.com/rog0x/mcp-lint-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-lint-tools?style=social)](https://github.com/rog0x/mcp-lint-tools): Code quality — style checking, naming conventions, and complexity analysis.
 
 ### 🧮 Data Science Tools
 
@@ -281,6 +289,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack)** [![GitHub stars](https://img.shields.io/github/stars/Pattyboi101/indiestack?style=social)](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — 3,000+ indie creations across 25 categories with 15 MCP tools. Install via `uvx --from indiestack indiestack-mcp`.
 -   **[uju777/coupang-mcp](https://github.com/uju777/coupang-mcp)** [![GitHub stars](https://img.shields.io/github/stars/uju777/coupang-mcp?style=social)](https://github.com/uju777/coupang-mcp): Product search for Coupang e-commerce with Rocket Delivery filtering.
 -   **[uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search)** [![GitHub stars](https://img.shields.io/github/stars/uju777/mcp-server-naver-search?style=social)](https://github.com/uju777/mcp-server-naver-search): Naver Search integration for Shopping, Cafe, and News.
+-   **[@rog0x/mcp-web-tools](https://github.com/rog0x/mcp-web-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-web-tools?style=social)](https://github.com/rog0x/mcp-web-tools): Web scraping, content extraction, site monitoring, and search for AI agents.
+-   **[@rog0x/mcp-seo-tools](https://github.com/rog0x/mcp-seo-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-seo-tools?style=social)](https://github.com/rog0x/mcp-seo-tools): SEO analysis — meta tags, keywords, link checking, and sitemap generation.
 
 ### 🛠️ Utilities
 
@@ -297,6 +307,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 -   **[signbee/mcp](https://github.com/signbee/mcp)** [![GitHub stars](https://img.shields.io/github/stars/signbee/mcp?style=social)](https://github.com/signbee/mcp): Document signing for AI agents — send markdown or PDF contracts for two-party e-signing with certified delivery.
 -   **[smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go)** [![GitHub stars](https://img.shields.io/github/stars/smart-mcp-proxy/mcpproxy-go?style=social)](https://github.com/smart-mcp-proxy/mcpproxy-go): Open-source MCP gateway with BM25 tool discovery, quarantine-based security, Docker isolation, and OAuth 2.1.
+-   **[@rog0x/mcp-json-tools](https://github.com/rog0x/mcp-json-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-json-tools?style=social)](https://github.com/rog0x/mcp-json-tools): JSON/YAML/CSV data tools — validate, diff, transform, and convert between formats.
+-   **[@rog0x/mcp-regex-tools](https://github.com/rog0x/mcp-regex-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-regex-tools?style=social)](https://github.com/rog0x/mcp-regex-tools): Regex utilities — test, explain, replace, and generate patterns for AI agents.
+-   **[@rog0x/mcp-crypto-tools](https://github.com/rog0x/mcp-crypto-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-crypto-tools?style=social)](https://github.com/rog0x/mcp-crypto-tools): Cryptography tools — hashing, encoding, UUID generation, and password analysis.
+-   **[@rog0x/mcp-markdown-tools](https://github.com/rog0x/mcp-markdown-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-markdown-tools?style=social)](https://github.com/rog0x/mcp-markdown-tools): Markdown utilities — TOC generation, linting, formatting, and HTML conversion.
 
 ### 🤖 Robotics & Physical AI
 
