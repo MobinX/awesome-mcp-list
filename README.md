@@ -36,6 +36,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🖥️ Command Line
 
+-   **[sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness)** [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social)](https://github.com/sandbaseai/sandbase-harness): Self-hosted MCP runtime for agent sessions, tool calls, approvals, credentials, audit/replay, and Docker/Kubernetes sandboxed execution.
 -   **[ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ferrislucas/iterm-mcp?style=social)](https://github.com/ferrislucas/iterm-mcp): Provides iTerm2 terminal access for command execution and output analysis.
 -   **[g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands)** [![GitHub stars](https://img.shields.io/github/stars/g0t4/mcp-server-commands?style=social)](https://github.com/g0t4/mcp-server-commands): Executes arbitrary commands and scripts via MCP.
 -   **[MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/MladenSU/cli-mcp-server?style=social)](https://github.com/MladenSU/cli-mcp-server): Offers a command-line interface with configurable security policies.
