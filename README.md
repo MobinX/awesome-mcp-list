@@ -204,6 +204,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)** [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=social)](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers and tools for HTTP-native USDC payments on EVM chains.
 -   **[RioTheGreat-ai/agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp)** [![GitHub stars](https://img.shields.io/github/stars/RioTheGreat-ai/agentfund-mcp?style=social)](https://github.com/RioTheGreat-ai/agentfund-mcp): Crowdfunding platform and milestone-based escrow for AI agents on Base chain.
 -   **[lightningfaucet/lightning-wallet-mcp](https://github.com/lightningfaucet/lightning-wallet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lightningfaucet/lightning-wallet-mcp?style=social)](https://github.com/lightningfaucet/lightning-wallet-mcp): Bitcoin wallet integration with Lightning Network payments and L402 protocol support.
+-   **[Frihet-io/frihet-mcp](https://github.com/Frihet-io/frihet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Frihet-io/frihet-mcp?style=social)](https://github.com/Frihet-io/frihet-mcp): AI-powered ERP and business management for invoicing, tax compliance, expenses, banking, and CRM.
 
 ### 🏃 Fitness & Sports
 
