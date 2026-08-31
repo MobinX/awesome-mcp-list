@@ -173,6 +173,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-testing-tools?style=social)](https://github.com/rog0x/mcp-testing-tools): Test generation — unit tests, mocks, and coverage analysis for multiple frameworks.
 -   **[@rog0x/mcp-api-tools](https://github.com/rog0x/mcp-api-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-api-tools?style=social)](https://github.com/rog0x/mcp-api-tools): API development — HTTP client, JWT decode, header analysis, and endpoint testing.
 -   **[@rog0x/mcp-lint-tools](https://github.com/rog0x/mcp-lint-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-lint-tools?style=social)](https://github.com/rog0x/mcp-lint-tools): Code quality — style checking, naming conventions, and complexity analysis.
+-   **[open-qr/openqr](https://github.com/open-qr/openqr)** [![GitHub stars](https://img.shields.io/github/stars/open-qr/openqr?style=social)](https://github.com/open-qr/openqr): Hosted QR code MCP server (17 tools) plus a free REST API — generate QR codes and create, edit and track dynamic (editable) QR codes with scan analytics. Remote endpoint `https://openqr.uk/mcp` or `npx -y @open-qr/mcp`, free API key from openqr.uk.
 
 ### 🧮 Data Science Tools
 
