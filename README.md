@@ -17,6 +17,7 @@ Note that this list is continuously updating and improving. Please star this rep
 ### 🎨 Art & Culture
 
 -   **[8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library)** [![GitHub stars](https://img.shields.io/github/stars/8enSmith/mcp-open-library?style=social)](https://github.com/8enSmith/mcp-open-library): Connects to the Internet Archive's Open Library API to search book and author information.
+-   **[Vovala14/vynly-mcp](https://github.com/Vovala14/vynly-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Vovala14/vynly-mcp?style=social)](https://github.com/Vovala14/vynly-mcp): Post AI-generated images and short video to Vynly, an AI-only social network with provenance verification (C2PA/SynthID). Free demo token, no signup.
 
 -   **[burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp)** [![GitHub stars](https://img.shields.io/github/stars/burningion/video-editing-mcp?style=social)](https://github.com/burningion/video-editing-mcp): Enables AI-driven video editing, analysis, and search within a video collection.
 -   **[fasuizu-br/speech-ai-examples](https://github.com/fasuizu-br/speech-ai-examples)** [![GitHub stars](https://img.shields.io/github/stars/fasuizu-br/speech-ai-examples?style=social)](https://github.com/fasuizu-br/speech-ai-examples): Speech AI MCP server with pronunciation assessment (phoneme-level scoring, 17MB model, <300ms), text-to-speech, and speech-to-text. 8 tools for language learning, accessibility, and voice applications.
