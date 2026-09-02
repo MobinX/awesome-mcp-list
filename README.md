@@ -51,6 +51,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💬 Communication
 
+-   **[process-street/process-street-mcp](https://github.com/process-street/process-street-mcp)** [![GitHub stars](https://img.shields.io/github/stars/process-street/process-street-mcp?style=social)](https://github.com/process-street/process-street-mcp): Connects AI agents to Process Street workflows, tasks, runs, data sets, and operational records through the official hosted MCP server.
 -   **[jean-technologies/smartlead-mcp-server-local](https://github.com/jean-technologies/smartlead-mcp-server-local)** [![GitHub stars](https://img.shields.io/github/stars/jean-technologies/gtasks-mcp?style=social)](https://github.com/jean-technologies/smartlead-mcp-server-local): MCP server for Smartlead. Also works with n8n and workflow automation platforms.
 -   **[zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/gtasks-mcp?style=social)](https://github.com/zcaceres/gtasks-mcp): Manages Google Tasks lists and items via MCP.
 -   **[hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/imessage-query-fastmcp-mcp-server?style=social)](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server): Safely queries and analyzes iMessage conversations, including attachments.
