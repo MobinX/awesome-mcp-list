@@ -178,6 +178,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
 -   **[@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** [![GitHub stars](https://img.shields.io/github/stars/reading-plus-ai/mcp-server-data-exploration?style=social)](https://github.com/reading-plus-ai/mcp-server-data-exploration): Enables autonomous data exploration on `.csv`-based datasets.
+-   **[@shubham303/meelu-analytics-mcp](https://github.com/shubham303/meelu-analytics-mcp)** [![GitHub stars](https://img.shields.io/github/stars/shubham303/meelu-analytics-mcp?style=social)](https://github.com/shubham303/meelu-analytics-mcp): Deterministic analysis of `.csv` datasets — 45 tools for profiling, statistical testing, ML, forecasting and causal inference; picks the right test from the data and rates its own confidence.
 
 ### 📂 File Systems
 
