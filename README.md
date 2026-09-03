@@ -235,6 +235,7 @@ Note that this list is continuously updating and improving. Please star this rep
 ### 🧠 Knowledge & Memory
 
 -   **[modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides a knowledge graph-based persistent memory system (part of the official servers collection).
+-   **[n3wth/r3](https://github.com/n3wth/r3)** [![GitHub stars](https://img.shields.io/github/stars/n3wth/r3?style=social)](https://github.com/n3wth/r3): Persistent memory for AI assistants (MCP).
 -   **[CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh)** [![GitHub stars](https://img.shields.io/github/stars/CheMiguel23/MemoryMesh?style=social)](https://github.com/CheMiguel23/MemoryMesh): Provides enhanced graph-based memory focused on AI role-play.
 -   **[topoteretes/cognee-mcp](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp)** [![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)](https://github.com/topoteretes/cognee): Manages AI memory using graph/vector stores, with ingestion from 30+ data sources (part of Cognee project).
 -   **[@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs)** [![GitHub stars](https://img.shields.io/github/stars/hannesrudolph/mcp-ragdocs?style=social)](https://github.com/hannesrudolph/mcp-ragdocs): Retrieves and processes documentation using vector search.
