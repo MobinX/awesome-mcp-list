@@ -224,6 +224,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🏃 Fitness & Sports
 
+-   **[JacobiusMakes/parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp?style=social)](https://github.com/JacobiusMakes/parlay-api-mcp): Connects MCP clients to ParlayAPI for sports odds, player props, public event discovery, and account usage. Account data tools use each user's own API key and account allowances.
 -   **[JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=social)](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks fitness metrics, workout history, and personal records for endurance athletes.
 
 ### 🎮 Gaming
