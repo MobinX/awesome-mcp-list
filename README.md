@@ -316,6 +316,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@rog0x/mcp-crypto-tools](https://github.com/rog0x/mcp-crypto-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-crypto-tools?style=social)](https://github.com/rog0x/mcp-crypto-tools): Cryptography tools — hashing, encoding, UUID generation, and password analysis.
 -   **[@rog0x/mcp-markdown-tools](https://github.com/rog0x/mcp-markdown-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-markdown-tools?style=social)](https://github.com/rog0x/mcp-markdown-tools): Markdown utilities — TOC generation, linting, formatting, and HTML conversion.
 -   **[Markgatcha/universal-mcp-toolkit](https://github.com/Markgatcha/universal-mcp-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/Markgatcha/universal-mcp-toolkit?style=social)](https://github.com/Markgatcha/universal-mcp-toolkit): All-in-one MCP toolkit bundling 15+ servers (filesystem, browser automation, GitHub, weather, search) into a single zero-config install.
+-   **[theluckystrike/mcp-servers](https://github.com/theluckystrike/mcp-servers)**: Office-suite bundle of MCP servers for freelance and back-office work: invoices, spreadsheets, PDFs, time tracking, expense tracking, resumes, contracts, and more. Hosted option at [mcp.zovo.one](https://mcp.zovo.one).
 
 ### 🤖 Robotics & Physical AI
 
