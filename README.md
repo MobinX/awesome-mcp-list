@@ -173,6 +173,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-testing-tools?style=social)](https://github.com/rog0x/mcp-testing-tools): Test generation — unit tests, mocks, and coverage analysis for multiple frameworks.
 -   **[@rog0x/mcp-api-tools](https://github.com/rog0x/mcp-api-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-api-tools?style=social)](https://github.com/rog0x/mcp-api-tools): API development — HTTP client, JWT decode, header analysis, and endpoint testing.
 -   **[@rog0x/mcp-lint-tools](https://github.com/rog0x/mcp-lint-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-lint-tools?style=social)](https://github.com/rog0x/mcp-lint-tools): Code quality — style checking, naming conventions, and complexity analysis.
+-   **[Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** [![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social)](https://github.com/Continuum-AI-Corp/OrcaReplay): Exposes recorded coding-agent runs so an agent can read what an earlier run really sent, ran and changed, replay it offline with the network off, or fork it from a checkpoint onto a different model.
 
 ### 🧮 Data Science Tools
 
