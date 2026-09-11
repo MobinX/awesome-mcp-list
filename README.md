@@ -27,6 +27,7 @@ Note that this list is continuously updating and improving. Please star this rep
 ### 🤖 AI Agents & Frameworks
 
 -   **[MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/MervinPraison/praisonai-mcp?style=social)](https://github.com/MervinPraison/praisonai-mcp): AI Agent framework with built-in MCP tools for search, memory, workflows, code execution, and file operations.
+-   **[aniketshaw748-hub/groundtruth](https://github.com/aniketshaw748-hub/groundtruth)** [![GitHub stars](https://img.shields.io/github/stars/aniketshaw748-hub/groundtruth?style=social)](https://github.com/aniketshaw748-hub/groundtruth): Ask real humans a question mid-task and get their verbatim answers back, for questions the web genuinely cannot answer. Remote MCP, nothing to install; replies carry a respondent count and per-person attribution and are never aggregated into sentiment.
 
 ### ☁️ Cloud Platforms
 
