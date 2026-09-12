@@ -173,6 +173,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-testing-tools?style=social)](https://github.com/rog0x/mcp-testing-tools): Test generation — unit tests, mocks, and coverage analysis for multiple frameworks.
 -   **[@rog0x/mcp-api-tools](https://github.com/rog0x/mcp-api-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-api-tools?style=social)](https://github.com/rog0x/mcp-api-tools): API development — HTTP client, JWT decode, header analysis, and endpoint testing.
 -   **[@rog0x/mcp-lint-tools](https://github.com/rog0x/mcp-lint-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-lint-tools?style=social)](https://github.com/rog0x/mcp-lint-tools): Code quality — style checking, naming conventions, and complexity analysis.
+-   **[zambodotdev/zambo-mcp](https://github.com/zambodotdev/zambo-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zambodotdev/zambo-mcp?style=social)](https://github.com/zambodotdev/zambo-mcp): 100+ native MCP tools over one zero-auth remote endpoint — code audit, strategy, lead generation, onchain scoring, credit discovery, prompt defense. Solo-built AI infrastructure by Brennan Zambo. Free 20 calls/tool/day, no signup.
 
 ### 🧮 Data Science Tools
 
