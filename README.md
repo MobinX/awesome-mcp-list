@@ -253,6 +253,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
 
 -   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
+-   **[jocarrd/aemet-mcp](https://github.com/jocarrd/aemet-client/tree/main/packages/aemet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jocarrd/aemet-client?style=social)](https://github.com/jocarrd/aemet-client): Spanish weather from AEMET, the national meteorological agency: municipal forecasts, CAP warnings, station observations, climate records, and beach, mountain and marine forecasts.
 
 ### 🎯 Marketing
 
