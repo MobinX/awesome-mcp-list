@@ -253,6 +253,10 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[vdalhambra/financekit-mcp](https://github.com/vdalhambra/financekit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/vdalhambra/financekit-mcp?style=social)](https://github.com/vdalhambra/financekit-mcp): Real-time stock market intelligence with 17 tools — quotes, technical analysis (RSI/MACD/Bollinger/ADX/Stochastic) returning structured BULLISH/BEARISH verdicts, portfolio risk metrics (VaR, Sharpe, Sortino, Beta), crypto via CoinGecko, and options chains.
 
+### 🛒 E-Commerce
+
+- [giuseppesocci-bot/kalicart-global](https://github.com/giuseppesocci-bot/kalicart-global) 📇 ☁️ 🍎 🪟 🐧 - MCP server for agentic commerce. Gives AI agents access to a federated catalog of WooCommerce stores — one connection, multiple merchants, real inventory.
+
 ### 🎮 Gaming
 
 -   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
