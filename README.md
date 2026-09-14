@@ -526,6 +526,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[MCP Trust Kit](https://github.com/aak204/MCP-Trust-Kit)** [![GitHub stars](https://img.shields.io/github/stars/aak204/MCP-Trust-Kit?style=social)](https://github.com/aak204/MCP-Trust-Kit): Deterministic CI scanner and surface-risk scoring for MCP servers.
 -   **[kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics)** [![GitHub stars](https://img.shields.io/github/stars/kame6493-del/mcp-diagnostics?style=social)](https://github.com/kame6493-del/mcp-diagnostics): Website and server diagnostics — DNS, SSL, HTTP headers, and related checks via MCP.
 -   **[degen0root/panchanga_api](https://github.com/degen0root/panchanga_api)** [![GitHub stars](https://img.shields.io/github/stars/degen0root/panchanga_api?style=social)](https://github.com/degen0root/panchanga_api): Vedic (Jyotish) astrology MCP server — panchanga, kundali, dasha, compatibility, muhurta, and festivals. Remote SSE.
+-   **[zyli5313/dochost-mcp](https://github.com/zyli5313/dochost-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zyli5313/dochost-mcp?style=social)](https://github.com/zyli5313/dochost-mcp): Publishes Markdown or HTML to a clean, public, shareable link. Hosted remote server over Streamable HTTP with OAuth sign-in, no API keys.
 
 ### 🤖 Robotics & Physical AI
 
