@@ -334,6 +334,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel)** [![GitHub stars](https://img.shields.io/github/stars/Extelligence-ai/bagel?style=social)](https://github.com/Extelligence-ai/bagel): Troubleshoot robots and drones using natural language to process physical telemetry and sensor data.
 
+-   **[fredpsantos33/mcp-iteratools](https://github.com/fredpsantos33/mcp-iteratools)** [![GitHub stars](https://img.shields.io/github/stars/fredpsantos33/mcp-iteratools?style=social)](https://github.com/fredpsantos33/mcp-iteratools): Multi-tool API with MCP support: image generation (Flux), web scraping, TTS, OCR, QR codes, weather, crypto, charts, and 80+ more tools. Pay-per-use with x402 micropayments.
 
 ## Star History
 
