@@ -351,6 +351,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kame6493-del/kabu-mcp](https://github.com/kame6493-del/kabu-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kame6493-del/kabu-mcp?style=social)](https://github.com/kame6493-del/kabu-mcp): Japanese and global stock-market data MCP server for Claude, Cursor, and other MCP clients.
 -   **[CryptoGenesisSecurity/erc-token-safety-score](https://github.com/CryptoGenesisSecurity/erc-token-safety-score)** [![GitHub stars](https://img.shields.io/github/stars/CryptoGenesisSecurity/erc-token-safety-score?style=social)](https://github.com/CryptoGenesisSecurity/erc-token-safety-score): Token safety oracle for AI agents — honeypot detection, scam patterns, LP lock verification across 6 EVM chains.
 -   **[Luckkyyy23/omni-service-node](https://github.com/Luckkyyy23/omni-service-node)** [![GitHub stars](https://img.shields.io/github/stars/Luckkyyy23/omni-service-node?style=social)](https://github.com/Luckkyyy23/omni-service-node): Pay-per-call data marketplace for AI agents (USDC on Base): trading signals, macro, crypto/DeFi, whale tracking, SEC filings, and more.
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted Streamable HTTP MCP server: free `scan_token` tool returns A+–F token-safety grades across Solana and 8 EVM chains; paid tools settle per call in USDC via x402.
 
 ### 🏃 Fitness & Sports
 
