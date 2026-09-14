@@ -194,7 +194,12 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[Muvon/octocode](https://github.com/Muvon/octocode)** [![GitHub stars](https://img.shields.io/github/stars/Muvon/octocode?style=social)](https://github.com/Muvon/octocode): Rust semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter parsing, ast-grep structural search, code signatures view. 13+ languages. Local-first.
 
+
+-   **[@Dusheh/myclaw-toolkit](https://github.com/Dusheh/myclaw-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/Dusheh/myclaw-toolkit?style=social)](https://github.com/Dusheh/myclaw-toolkit): 23-in-1 developer utility MCP server with web search, exchange rates, crypto prices, QR codes, UUIDs, RSS feeds, and more. Install via `npx myclaw-toolkit`.
+
 ### 🧮 Data Science Tools
+
+
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
 -   **[@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** [![GitHub stars](https://img.shields.io/github/stars/reading-plus-ai/mcp-server-data-exploration?style=social)](https://github.com/reading-plus-ai/mcp-server-data-exploration): Enables autonomous data exploration on `.csv`-based datasets.
