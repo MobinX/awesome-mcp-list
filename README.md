@@ -66,6 +66,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 💬 Communication
 
+-   **[process-street/process-street-mcp](https://github.com/process-street/process-street-mcp)** [![GitHub stars](https://img.shields.io/github/stars/process-street/process-street-mcp?style=social)](https://github.com/process-street/process-street-mcp): Connects AI agents to Process Street workflows, tasks, runs, data sets, and operational records through the official hosted MCP server.
 -   **[jean-technologies/smartlead-mcp-server-local](https://github.com/jean-technologies/smartlead-mcp-server-local)** [![GitHub stars](https://img.shields.io/github/stars/jean-technologies/gtasks-mcp?style=social)](https://github.com/jean-technologies/smartlead-mcp-server-local): MCP server for Smartlead. Also works with n8n and workflow automation platforms.
 -   **[meharajM/whatsapp-mcp](https://github.com/meharajM/whatsapp-mcp)** [![GitHub stars](https://img.shields.io/github/stars/meharajM/whatsapp-mcp?style=social)](https://github.com/meharajM/whatsapp-mcp): Human-in-the-loop approvals and notifications for AI agents via WhatsApp. Enables Cursor, Claude Code, and autonomous AI agents to reach users when they are away from their computers.
 -   **[zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/gtasks-mcp?style=social)](https://github.com/zcaceres/gtasks-mcp): Manages Google Tasks lists and items via MCP.
