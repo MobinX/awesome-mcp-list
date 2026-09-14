@@ -238,6 +238,8 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=social)](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks fitness metrics, workout history, and personal records for endurance athletes.
 
+-   **[vdalhambra/financekit-mcp](https://github.com/vdalhambra/financekit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/vdalhambra/financekit-mcp?style=social)](https://github.com/vdalhambra/financekit-mcp): Real-time stock market intelligence with 17 tools — quotes, technical analysis (RSI/MACD/Bollinger/ADX/Stochastic) returning structured BULLISH/BEARISH verdicts, portfolio risk metrics (VaR, Sharpe, Sortino, Beta), crypto via CoinGecko, and options chains.
+
 ### 🎮 Gaming
 
 -   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
@@ -276,6 +278,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp)** [![GitHub stars](https://img.shields.io/github/stars/bzsasson/screaming-frog-mcp?style=social)](https://github.com/bzsasson/screaming-frog-mcp): MCP server for Screaming Frog SEO Spider — list saved crawls, export SEO audit data, read and filter results, and manage crawl storage through natural language.
 -   **[open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools)** [![GitHub stars](https://img.shields.io/github/stars/open-strategy-partners/osp_marketing_tools?style=social)](https://github.com/open-strategy-partners/osp_marketing_tools): Provides a set of marketing tools from Open Strategy Partners.
 -   **[leadfuze/mcp-server](https://github.com/leadfuze/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/leadfuze/mcp-server?style=social)](https://github.com/leadfuze/mcp-server): Contact and company enrichment from email and LinkedIn URLs with email validation.
+
+-   **[vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/vdalhambra/siteaudit-mcp?style=social)](https://github.com/vdalhambra/siteaudit-mcp): Full website audits in 11 tools — SEO score, Lighthouse performance, security headers, WCAG accessibility, Schema.org validation, and competitor site comparisons.
 
 ### 📊 Monitoring
 
