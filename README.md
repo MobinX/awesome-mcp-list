@@ -27,6 +27,7 @@ Note that this list is continuously updating and improving. Please star this rep
 ### 🤖 AI Agents & Frameworks
 
 -   **[MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/MervinPraison/praisonai-mcp?style=social)](https://github.com/MervinPraison/praisonai-mcp): AI Agent framework with built-in MCP tools for search, memory, workflows, code execution, and file operations.
+-   **[sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness)** [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social)](https://github.com/sandbaseai/sandbase-harness): Local-first, self-hosted AI-agent runtime and MCP bridge with persistent sessions, approvals, credentials, audit/replay, and selectable execution backends.
 
 ### ☁️ Cloud Platforms
 
