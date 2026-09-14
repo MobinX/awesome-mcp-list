@@ -221,6 +221,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[RioTheGreat-ai/agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp)** [![GitHub stars](https://img.shields.io/github/stars/RioTheGreat-ai/agentfund-mcp?style=social)](https://github.com/RioTheGreat-ai/agentfund-mcp): Crowdfunding platform and milestone-based escrow for AI agents on Base chain.
 -   **[lightningfaucet/lightning-wallet-mcp](https://github.com/lightningfaucet/lightning-wallet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lightningfaucet/lightning-wallet-mcp?style=social)](https://github.com/lightningfaucet/lightning-wallet-mcp): Bitcoin wallet integration with Lightning Network payments and L402 protocol support.
 -   **[Frihet-io/frihet-mcp](https://github.com/Frihet-io/frihet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Frihet-io/frihet-mcp?style=social)](https://github.com/Frihet-io/frihet-mcp): AI-powered ERP and business management for invoicing, tax compliance, expenses, banking, and CRM.
+-   **[foretak/registry-mcp](https://github.com/foretak/registry-mcp)** [![GitHub stars](https://img.shields.io/github/stars/foretak/registry-mcp?style=social)](https://github.com/foretak/registry-mcp): Looks up a company at Norway's Brønnøysundregistrene, the UK's Companies House, or Sweden's Bolagsverket by its national identifier — identity, filings and accounts data; no UBO or fraud screening.
 
 ### 🏃 Fitness & Sports
 
