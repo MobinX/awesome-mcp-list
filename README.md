@@ -279,6 +279,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🧠 Knowledge & Memory
 
+-   **[Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis)** [![GitHub stars](https://img.shields.io/github/stars/Bevel-Software/Hexis?style=social)](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, exposed through a remote OAuth MCP server.
 -   **[modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides a knowledge graph-based persistent memory system (part of the official servers collection).
 -   **[maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence)** [![GitHub stars](https://img.shields.io/github/stars/maxbaluev/accreted-intelligence?style=social)](https://github.com/maxbaluev/accreted-intelligence): Local-first Work Model memory for coding agents; exposes `acc_retrieve` and `acc_act` over MCP so Claude Code, Codex, OpenCode, Cursor, and other clients can retrieve scored memory, record actions, and learn from real outcomes.
 -   **[CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh)** [![GitHub stars](https://img.shields.io/github/stars/CheMiguel23/MemoryMesh?style=social)](https://github.com/CheMiguel23/MemoryMesh): Provides enhanced graph-based memory focused on AI role-play.
