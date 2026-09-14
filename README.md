@@ -314,6 +314,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 -   **[jocarrd/aemet-mcp](https://github.com/jocarrd/aemet-client/tree/main/packages/aemet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jocarrd/aemet-client?style=social)](https://github.com/jocarrd/aemet-client): Spanish weather from AEMET, the national meteorological agency: municipal forecasts, CAP warnings, station observations, climate records, and beach, mountain and marine forecasts.
 
+-   **[RevList/pocket-drives-mcp](https://github.com/RevList/pocket-drives-mcp)** [![GitHub stars](https://img.shields.io/github/stars/RevList/pocket-drives-mcp?style=social)](https://github.com/RevList/pocket-drives-mcp): Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Remote at https://pocketdrives.ai/mcp.
+
 ### 🎯 Marketing
 
 -   **[chrisgu/agentiq-mcp](https://github.com/chrisgu/agentiq-mcp)** [![GitHub stars](https://img.shields.io/github/stars/chrisgu/agentiq-mcp?style=social)](https://github.com/chrisgu/agentiq-mcp): AgentIQ MCP for [MoltAd](https://moltad.net) — publishers earn credits via `deliver_ad` after `list_placement` ([setup](https://moltad.net/publishers)). Remote `https://moltad.net/mcp`.
