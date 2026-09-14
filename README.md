@@ -268,6 +268,10 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[contextstream/mcp-server](https://github.com/contextstream/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/contextstream/mcp-server?style=social)](https://github.com/contextstream/mcp-server): Shared project memory / MCP for AI coding agents so Cursor, Claude, Codex, Grok, and others share context across tools.
 
+### ⚖️ Legal & Compliance
+
+-   **[Cleo-Labs-IA/skills_library](https://github.com/Cleo-Labs-IA/skills_library)** [![GitHub stars](https://img.shields.io/github/stars/Cleo-Labs-IA/skills_library?style=social)](https://github.com/Cleo-Labs-IA/skills_library): Product-compliance MCP server exposing 45 production-grade compliance skills (cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability) as MCP resources, prompts, and tools. `npx -y @cleo-labs/skills-mcp@latest`. MIT.
+
 ### 🗺️ Location Services
 
 -   **[modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides location services, routing, and place details from Google Maps (part of the official servers collection).
