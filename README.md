@@ -222,6 +222,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[RioTheGreat-ai/agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp)** [![GitHub stars](https://img.shields.io/github/stars/RioTheGreat-ai/agentfund-mcp?style=social)](https://github.com/RioTheGreat-ai/agentfund-mcp): Crowdfunding platform and milestone-based escrow for AI agents on Base chain.
 -   **[lightningfaucet/lightning-wallet-mcp](https://github.com/lightningfaucet/lightning-wallet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lightningfaucet/lightning-wallet-mcp?style=social)](https://github.com/lightningfaucet/lightning-wallet-mcp): Bitcoin wallet integration with Lightning Network payments and L402 protocol support.
 -   **[Frihet-io/frihet-mcp](https://github.com/Frihet-io/frihet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Frihet-io/frihet-mcp?style=social)](https://github.com/Frihet-io/frihet-mcp): AI-powered ERP and business management for invoicing, tax compliance, expenses, banking, and CRM.
+-   **[foretak/registry-mcp](https://github.com/foretak/registry-mcp)** [![GitHub stars](https://img.shields.io/github/stars/foretak/registry-mcp?style=social)](https://github.com/foretak/registry-mcp): Looks up a company at Norway's Brønnøysundregistrene, the UK's Companies House, or Sweden's Bolagsverket by its national identifier — identity, filings and accounts data; no UBO or fraud screening.
 
 ### 🏃 Fitness & Sports
 
@@ -243,6 +244,9 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/graphlit/graphlit-mcp-server?style=social)](https://github.com/graphlit/graphlit-mcp-server): Ingests data from various sources into a Graphlit project for searching and retrieval.
 -   **[CanopyHQ/phloem](https://github.com/CanopyHQ/phloem)** [![GitHub stars](https://img.shields.io/github/stars/CanopyHQ/phloem?style=social)](https://github.com/CanopyHQ/phloem): Local-first AI memory with causal graphs, citation verification, and zero network connections.
 -   **[omega-memory/core](https://github.com/omega-memory/core)** [![GitHub stars](https://img.shields.io/github/stars/omega-memory/core?style=social)](https://github.com/omega-memory/core): Persistent memory for AI coding agents with semantic search, auto-capture, intelligent forgetting, and cross-session learning. #1 on LongMemEval (95.4%). Local-first with zero cloud dependency.
+-   **[stonianua/neither-mcp](https://github.com/stonianua/neither-mcp)** [![GitHub stars](https://img.shields.io/github/stars/stonianua/neither-mcp?style=social)](https://github.com/stonianua/neither-mcp): Hosted company-context graph for AI agents — decisions and memory with supersession; MCP server for Cursor and Claude Desktop (`npx -y @neitherai/mcp-server@latest`).
+
+-   **[contextstream/mcp-server](https://github.com/contextstream/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/contextstream/mcp-server?style=social)](https://github.com/contextstream/mcp-server): Shared project memory / MCP for AI coding agents so Cursor, Claude, Codex, Grok, and others share context across tools.
 
 ### 🗺️ Location Services
 
@@ -254,6 +258,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kukapay/nearby-search-mcp?style=social)](https://github.com/kukapay/nearby-search-mcp): Enables nearby place searches using IP-based location detection.
 
 -   **[IP2Location.io]** [![GitHub stars](https://img.shields.io/github/stars/ip2location/mcp-ip2location-io?style=social)](https://github.com/ip2location/mcp-ip2location-io): - IP2Location.io API integration to retrieve the geolocation information for an IP address.
+-   **[jocarrd/aemet-mcp](https://github.com/jocarrd/aemet-client/tree/main/packages/aemet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jocarrd/aemet-client?style=social)](https://github.com/jocarrd/aemet-client): Spanish weather from AEMET, the national meteorological agency: municipal forecasts, CAP warnings, station observations, climate records, and beach, mountain and marine forecasts.
 
 ### 🎯 Marketing
 
