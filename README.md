@@ -13,6 +13,7 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright)** [![GitHub stars](https://img.shields.io/github/stars/Automata-Labs-team/MCP-Server-Playwright?style=social)](https://github.com/Automata-Labs-team/MCP-Server-Playwright): Controls web browsers via Playwright through MCP commands.
 -   **[modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Automates web interactions and scraping using Puppeteer (part of the official servers collection).
 -   **[@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)** [![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=social)](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Extracts subtitles and transcripts from YouTube videos for AI processing.
+-   **[@achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp)** [![GitHub stars](https://img.shields.io/github/stars/achiya-automation/safari-mcp?style=social)](https://github.com/achiya-automation/safari-mcp): Native Safari browser automation for AI agents via AppleScript — 80 tools, zero overhead, keeps logins, runs silently in background. macOS only.
 
 ### 🎨 Art & Culture
 
