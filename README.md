@@ -313,6 +313,9 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/lucidity-mcp?style=social)](https://github.com/hyperb1iss/lucidity-mcp): Provides intelligent, prompt-based analysis of AI-generated code across multiple dimensions.
 -   **[unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp)** [![GitHub stars](https://img.shields.io/github/stars/unitedideas/resolve-mcp?style=social)](https://github.com/unitedideas/resolve-mcp): Structured error recovery playbooks with retry strategies and backoff schedules for 20+ services.
 
+
+-   **[@iPythoning/domain-monitor-mcp-server](https://github.com/iPythoning/domain-monitor-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/iPythoning/domain-monitor-mcp-server?style=social)](https://github.com/iPythoning/domain-monitor-mcp-server): Domain WHOIS and SSL certificate monitoring via RDAP and crt.sh — single or batch domain checks with severity classification. Zero API keys, stdio transport. Install: `npx domain-monitor-mcp-server`.
+
 ### 🔎 Search
 
 -   **[modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Performs web searches using Brave's Search API (part of the official servers collection).
