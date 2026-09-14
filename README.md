@@ -271,6 +271,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🏃 Fitness & Sports
 
+-   **[JacobiusMakes/parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp?style=social)](https://github.com/JacobiusMakes/parlay-api-mcp): Connects MCP clients to ParlayAPI for sports odds, player props, public event discovery, and account usage. Account data tools use each user's own API key and account allowances.
 -   **[JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=social)](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks fitness metrics, workout history, and personal records for endurance athletes.
 
 -   **[vdalhambra/financekit-mcp](https://github.com/vdalhambra/financekit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/vdalhambra/financekit-mcp?style=social)](https://github.com/vdalhambra/financekit-mcp): Real-time stock market intelligence with 17 tools — quotes, technical analysis (RSI/MACD/Bollinger/ADX/Stochastic) returning structured BULLISH/BEARISH verdicts, portfolio risk metrics (VaR, Sharpe, Sortino, Beta), crypto via CoinGecko, and options chains.
