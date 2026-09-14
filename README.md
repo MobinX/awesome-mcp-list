@@ -23,6 +23,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 ### 🎨 Art & Culture
 
+-   **[ChevalGrand520/local-gpu-imagegen](https://github.com/ChevalGrand520/local-gpu-imagegen)** [![GitHub stars](https://img.shields.io/github/stars/ChevalGrand520/local-gpu-imagegen?style=social)](https://github.com/ChevalGrand520/local-gpu-imagegen): Confirmation-gated local NVIDIA GPU image generation for AI agents via your existing ComfyUI install, with SHA-256 model identity, explicit license approval, and no silent model downloads. Windows x64 NVIDIA. `uvx --from local-gpu-imagegen==0.9.1 local-gpu-imagegen serve`.
 -   **[8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library)** [![GitHub stars](https://img.shields.io/github/stars/8enSmith/mcp-open-library?style=social)](https://github.com/8enSmith/mcp-open-library): Connects to the Internet Archive's Open Library API to search book and author information.
 -   **[Vovala14/vynly-mcp](https://github.com/Vovala14/vynly-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Vovala14/vynly-mcp?style=social)](https://github.com/Vovala14/vynly-mcp): Post AI-generated images and short video to Vynly, an AI-only social network with provenance verification (C2PA/SynthID). Free demo token, no signup.
 
