@@ -17,6 +17,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)** [![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=social)](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Extracts subtitles and transcripts from YouTube videos for AI processing.
 -   **[@achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp)** [![GitHub stars](https://img.shields.io/github/stars/achiya-automation/safari-mcp?style=social)](https://github.com/achiya-automation/safari-mcp): Native Safari browser automation for AI agents via AppleScript — 80 tools, zero overhead, keeps logins, runs silently in background. macOS only.
 
+### 📱 Mobile Device Control
+
+-   **[ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent)** [![GitHub stars](https://img.shields.io/github/stars/ghost-in-the-droid/android-agent?style=social)](https://github.com/ghost-in-the-droid/android-agent): Give any LLM agent a real Android or iPhone as its body. 62 MCP tools: tap, swipe, screenshot, screen-tree reading, app launch, on-device inference (llama.cpp, MediaPipe, MLX), Docker+KVM emulator pools. Works with Claude Code, Cursor, LangChain, and any MCP client. `pip install ghost-in-the-droid`
+
 ### 🎨 Art & Culture
 
 -   **[8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library)** [![GitHub stars](https://img.shields.io/github/stars/8enSmith/mcp-open-library?style=social)](https://github.com/8enSmith/mcp-open-library): Connects to the Internet Archive's Open Library API to search book and author information.
