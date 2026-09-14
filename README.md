@@ -185,6 +185,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@rog0x/mcp-api-tools](https://github.com/rog0x/mcp-api-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-api-tools?style=social)](https://github.com/rog0x/mcp-api-tools): API development — HTTP client, JWT decode, header analysis, and endpoint testing.
 -   **[@rog0x/mcp-lint-tools](https://github.com/rog0x/mcp-lint-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-lint-tools?style=social)](https://github.com/rog0x/mcp-lint-tools): Code quality — style checking, naming conventions, and complexity analysis.
 
+-   **[Muvon/octocode](https://github.com/Muvon/octocode)** [![GitHub stars](https://img.shields.io/github/stars/Muvon/octocode?style=social)](https://github.com/Muvon/octocode): Rust semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter parsing, ast-grep structural search, code signatures view. 13+ languages. Local-first.
+
 ### 🧮 Data Science Tools
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
