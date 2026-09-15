@@ -407,6 +407,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 -   **[Cleo-Labs-IA/skills_library](https://github.com/Cleo-Labs-IA/skills_library)** [![GitHub stars](https://img.shields.io/github/stars/Cleo-Labs-IA/skills_library?style=social)](https://github.com/Cleo-Labs-IA/skills_library): Product-compliance MCP server exposing 45 production-grade compliance skills (cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability) as MCP resources, prompts, and tools. `npx -y @cleo-labs/skills-mcp@latest`. MIT.
 -   **[0xbrainkid/agentfolio-mcp-server](https://github.com/0xbrainkid/agentfolio-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/0xbrainkid/agentfolio-mcp-server?style=social)](https://github.com/0xbrainkid/agentfolio-mcp-server): AI agent identity verification, trust scores, and marketplace access via Solana Agent Trust Protocol (SATP).
+-   **[Built-AI/prism-mcp](https://github.com/Built-AI/prism-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Built-AI/prism-mcp?style=social)](https://github.com/Built-AI/prism-mcp): Every deadline in a lease, mortgage, insurance policy or HOA document, with its date, what happens if it is missed, and the source clause. Remote server (streamable HTTP, OAuth).
 
 ### 🗺️ Location Services
 
