@@ -2,6 +2,11 @@
 
 Note that this list is continuously updating and improving. Please star this repo if you find it useful – it's worth bookmarking!
 
+## Contributing
+
+Want to add an MCP server? Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a PR.
+Submissions without a **public GitHub repo** or that don't match the entry format will be closed.
+
 ### 📂 Browser Control
 
 -   **[bytesagain/ai-skills](https://github.com/bytesagain/ai-skills)** [![GitHub stars](https://img.shields.io/github/stars/bytesagain/ai-skills?style=social)](https://github.com/bytesagain/ai-skills): Search 60,000+ AI agent skills via MCP SSE or REST API. 7 languages. Free, no auth. Endpoint: `https://bytesagain.com/api/mcp/sse`.
