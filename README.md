@@ -271,6 +271,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)** [![GitHub stars](https://img.shields.io/github/stars/vitali87/code-graph-rag?style=social)](https://github.com/vitali87/code-graph-rag): Builds knowledge graphs from multi-language codebases using Tree-sitter AST parsing for RAG-style code understanding.
 -   **[tersePrompts/jarp-mcp](https://github.com/tersePrompts/jarp-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tersePrompts/jarp-mcp?style=social)](https://github.com/tersePrompts/jarp-mcp): Gives AI agents X-ray vision into compiled Java — scan Maven/Gradle deps, decompile classes with CFR. `npx jarp-mcp`.
 -   **[tersePrompts/fastMCP4J](https://github.com/tersePrompts/fastMCP4J)** [![GitHub stars](https://img.shields.io/github/stars/tersePrompts/fastMCP4J?style=social)](https://github.com/tersePrompts/fastMCP4J): Annotate a Java class to produce a production MCP server with tools, memory, and related capabilities.
+-   **[tangfei7777-cell/mcp-output-firewall](https://github.com/tangfei7777-cell/mcp-output-firewall)** [![GitHub stars](https://img.shields.io/github/stars/tangfei7777-cell/mcp-output-firewall?style=social)](https://github.com/tangfei7777-cell/mcp-output-firewall): Three-layer firewall for MCP servers: inspects untrusted content, blocks exfiltration targets in tool-call arguments, and gates destructive actions before they run.
 
 ### 🧮 Data Science Tools
 
