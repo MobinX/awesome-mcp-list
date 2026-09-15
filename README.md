@@ -373,6 +373,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=social)](https://github.com/Coding-Solo/godot-mcp): Interacts with the Godot game engine for editing, running, and managing scenes.
 -   **[rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/)** [![GitHub stars](https://img.shields.io/github/stars/rishijatia/fantasy-pl-mcp?style=social)](https://github.com/rishijatia/fantasy-pl-mcp): Offers real-time Fantasy Premier League data and analysis.
 -   **[CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)** [![GitHub stars](https://img.shields.io/github/stars/CoderGamester/mcp-unity?style=social)](https://github.com/CoderGamester/mcp-unity): Integrates with the Unity3D Game Engine via MCP.
+-   **[Playgama/developer-cabinet-mcp](https://github.com/Playgama/developer-cabinet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Playgama/developer-cabinet-mcp?style=social)](https://github.com/Playgama/developer-cabinet-mcp): Publishes and manages HTML5 games on Playgama, from the game form and builds to a public playable sandbox link.
 
 ### 🧠 Knowledge & Memory
 
