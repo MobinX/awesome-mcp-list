@@ -111,6 +111,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server)** [![GitHub stars](https://img.shields.io/github/stars/sergehuber/inoyu-mcp-unomi-server?style=social)](https://github.com/sergehuber/inoyu-mcp-unomi-server): Accesses and updates user profiles on an Apache Unomi CDP server.
 -   **[OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP)** [![GitHub stars](https://img.shields.io/github/stars/OpenDataMCP/OpenDataMCP?style=social)](https://github.com/OpenDataMCP/OpenDataMCP): Connects various Open Data sources to LLMs via MCP.
 -   **[@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic)** [![GitHub stars](https://img.shields.io/github/stars/iaptic/mcp-server-iaptic?style=social)](https://github.com/iaptic/mcp-server-iaptic): Connects to iaptic to retrieve customer purchase and app revenue data.
+-   **[explorium-ai/vibeprospecting-mcp](https://github.com/explorium-ai/vibeprospecting-mcp)** [![GitHub stars](https://img.shields.io/github/stars/explorium-ai/vibeprospecting-mcp?style=social)](https://github.com/explorium-ai/vibeprospecting-mcp): B2B company and contact intelligence for prospecting workflows.
 
 ### 🗄️ Databases
 
