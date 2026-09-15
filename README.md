@@ -399,6 +399,7 @@ Note that this list is continuously updating and improving. Please star this rep
 
 -   **[Cleo-Labs-IA/skills_library](https://github.com/Cleo-Labs-IA/skills_library)** [![GitHub stars](https://img.shields.io/github/stars/Cleo-Labs-IA/skills_library?style=social)](https://github.com/Cleo-Labs-IA/skills_library): Product-compliance MCP server exposing 45 production-grade compliance skills (cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability) as MCP resources, prompts, and tools. `npx -y @cleo-labs/skills-mcp@latest`. MIT.
 -   **[0xbrainkid/agentfolio-mcp-server](https://github.com/0xbrainkid/agentfolio-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/0xbrainkid/agentfolio-mcp-server?style=social)](https://github.com/0xbrainkid/agentfolio-mcp-server): AI agent identity verification, trust scores, and marketplace access via Solana Agent Trust Protocol (SATP).
+-   **[Prism](https://prism.parad1gm.com/agents)**: Hosted MCP server that returns every deadline in a lease, mortgage, insurance policy or HOA document with date, consequence and source quote. Endpoint: `https://prism.parad1gm.com/api/prism-mcp`. OAuth. $0.50/contract, 3 free.
 
 ### 🗺️ Location Services
 
