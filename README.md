@@ -512,6 +512,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[unitedideas/aidevboard-mcp](https://github.com/unitedideas/aidevboard-mcp)** [![GitHub stars](https://img.shields.io/github/stars/unitedideas/aidevboard-mcp?style=social)](https://github.com/unitedideas/aidevboard-mcp): MCP server for AI developer job search. Search 5,000+ AI and ML positions with filters for role, location, and salary. Live at [aidevboard.com](https://aidevboard.com).
 -   **[worklittle/jobs-mcp](https://github.com/worklittle/jobs-mcp)** [![GitHub stars](https://img.shields.io/github/stars/worklittle/jobs-mcp?style=social)](https://github.com/worklittle/jobs-mcp): Search over 4 million jobs with visa, salary, and distance filters; swipe to apply and save roles. Remote MCP at https://mcp.worklittle.com/.
 -   **[yyeongjin/secret_mcp](https://github.com/yyeongjin/secret_mcp)** [![GitHub stars](https://img.shields.io/github/stars/yyeongjin/secret_mcp?style=social)](https://github.com/yyeongjin/secret_mcp): Evidence-grounded web design analysis of GDWEB references that produces implementation-ready DESIGN_INDEX specs. `npx -y secret-design-mcp`.
+-   **[youdotcom-oss/mcp](https://github.com/youdotcom-oss/mcp)** [![GitHub stars](https://img.shields.io/github/stars/youdotcom-oss/mcp?style=social)](https://github.com/youdotcom-oss/mcp): Web search, page content extraction, and multi-step research via the hosted You.com MCP server at `https://api.you.com/mcp` (keyless free profile available).
 
 ### 🛠️ Utilities
 
