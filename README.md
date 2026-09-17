@@ -364,6 +364,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 -   **[JacobiusMakes/parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp?style=social)](https://github.com/JacobiusMakes/parlay-api-mcp): Connects MCP clients to ParlayAPI for sports odds, player props, public event discovery, and account usage. Account data tools use each user's own API key and account allowances.
 -   **[JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=social)](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks fitness metrics, workout history, and personal records for endurance athletes.
+-   **[tandemloop/careclinic_mcp](https://github.com/tandemloop/careclinic_mcp)** [![GitHub stars](https://img.shields.io/github/stars/tandemloop/careclinic_mcp?style=social)](https://github.com/tandemloop/careclinic_mcp): Remote MCP server for personal health tracking: symptoms, mood, medications, and wellness patterns.
 
 
 ### 🛒 E-Commerce
