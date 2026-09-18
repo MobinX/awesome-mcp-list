@@ -514,6 +514,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[yyeongjin/secret_mcp](https://github.com/yyeongjin/secret_mcp)** [![GitHub stars](https://img.shields.io/github/stars/yyeongjin/secret_mcp?style=social)](https://github.com/yyeongjin/secret_mcp): Evidence-grounded web design analysis of GDWEB references that produces implementation-ready DESIGN_INDEX specs. `npx -y secret-design-mcp`.
 -   **[usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/usenetstate/statsnet-mcp?style=social)](https://github.com/usenetstate/statsnet-mcp): Background check any company in the world — registration, executives, courts and finances. Remote MCP: `https://statsnet.co/mcp`.
 -   **[youdotcom-oss/mcp](https://github.com/youdotcom-oss/mcp)** [![GitHub stars](https://img.shields.io/github/stars/youdotcom-oss/mcp?style=social)](https://github.com/youdotcom-oss/mcp): Web search, page content extraction, and multi-step research via the hosted You.com MCP server at `https://api.you.com/mcp` (keyless free profile available).
+-   **[pratie/bulktranscripts-mcp](https://github.com/pratie/bulktranscripts-mcp)** [![GitHub stars](https://img.shields.io/github/stars/pratie/bulktranscripts-mcp?style=social)](https://github.com/pratie/bulktranscripts-mcp): YouTube transcripts for one video, a whole channel or a playlist, plus YouTube search, channel and playlist listings, and new-upload tracking. Remote MCP: `https://bulktranscripts.co/mcp`.
 
 ### 🛠️ Utilities
 
