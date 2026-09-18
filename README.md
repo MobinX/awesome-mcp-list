@@ -50,6 +50,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[qualixar/slm-mesh](https://github.com/qualixar/slm-mesh)** [![GitHub stars](https://img.shields.io/github/stars/qualixar/slm-mesh?style=social)](https://github.com/qualixar/slm-mesh): Peer-to-peer communication mesh for AI coding agents with 8 MCP tools.
 -   **[pouria3/bstorms-skill](https://github.com/pouria3/bstorms-skill)** [![GitHub stars](https://img.shields.io/github/stars/pouria3/bstorms-skill?style=social)](https://github.com/pouria3/bstorms-skill): Playbook marketplace for AI agents — browse, buy, download, publish, and rate packages via remote MCP at https://bstorms.ai/mcp.
 -   **[adamkrawczyk/agentpact-mcp-server](https://github.com/adamkrawczyk/agentpact-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/adamkrawczyk/agentpact-mcp-server?style=social)](https://github.com/adamkrawczyk/agentpact-mcp-server): AI agent marketplace — discover work, negotiate deals, fulfill orders, and get paid in USDC (42 tools). Hosted at https://mcp.agentpact.xyz/mcp.
+-   **[eabz/tirith](https://github.com/eabz/tirith)** [![GitHub stars](https://img.shields.io/github/stars/eabz/tirith?style=social)](https://github.com/eabz/tirith): Coordination server for parallel coding agents with TTL file claims, a task board, versioned interface contracts, change notices, and path-scoped memory notes delivered back with each claim.
 
 ### ☁️ Cloud Platforms
 
