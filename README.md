@@ -468,6 +468,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[fly0pants/admapix](https://github.com/fly0pants/admapix)** [![GitHub stars](https://img.shields.io/github/stars/fly0pants/admapix?style=social)](https://github.com/fly0pants/admapix): Search global advertising creatives and return structured JSON for competitor ad research. `pip install admapix-mcp`.
 -   **[PaidSync/paidsync-mcp](https://github.com/PaidSync/paidsync-mcp)** [![GitHub stars](https://img.shields.io/github/stars/PaidSync/paidsync-mcp?style=social)](https://github.com/PaidSync/paidsync-mcp): AI-powered ad management across major paid-media platforms via hosted MCP. Endpoint https://mcp.paidsync.ai/mcp.
 -   **[onlineprfoundation/online-pr-mcp](https://github.com/onlineprfoundation/online-pr-mcp)** [![GitHub stars](https://img.shields.io/github/stars/onlineprfoundation/online-pr-mcp?style=social)](https://github.com/onlineprfoundation/online-pr-mcp): PR and press-release platform — search agencies, browse publications, packages, rankings, and quotes. `npx online-pr-mcp`.
+-   **[menaker/adtest-mcp](https://github.com/menaker/adtest-mcp)** [![GitHub stars](https://img.shields.io/github/stars/menaker/adtest-mcp?style=social)](https://github.com/menaker/adtest-mcp): Score an image, video or text ad on 13 effectiveness dimensions with AdTest.AI and get a report with concrete fixes before you spend on media.
 
 ### 📊 Monitoring
 
