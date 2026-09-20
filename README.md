@@ -440,6 +440,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[danishashko/geocode-mcp](https://github.com/danishashko/geocode-mcp)** [![GitHub stars](https://img.shields.io/github/stars/danishashko/geocode-mcp?style=social)](https://github.com/danishashko/geocode-mcp): Geocoding via OpenStreetMap Nominatim: forward/reverse geocoding, place search, distance. 4 tools, no API key. `npx geocode-mcp`.
 -   **[kylehawke-stack/locationlists-mcp](https://github.com/kylehawke-stack/locationlists-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kylehawke-stack/locationlists-mcp?style=social)](https://github.com/kylehawke-stack/locationlists-mcp): Search, sample, count and buy US business location datasets (dealers, chains, contractors). Card checkout or x402 USDC. Remote at https://locationlists.com/mcp, no auth.
 
+-   **[zornade/zornade-mcp](https://github.com/zornade/zornade-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zornade/zornade-mcp?style=social)](https://github.com/zornade/zornade-mcp): Italian cadastral, geospatial and real-estate data for AI agents: geocoding, parcel profiles with risk and solar layers, valuations and administrative lists.
+
 ### 🎯 Marketing
 
 -   **[axelfreeman/tapac-mcp](https://github.com/axelfreeman/tapac-mcp)** [![GitHub stars](https://img.shields.io/github/stars/axelfreeman/tapac-mcp?style=social)](https://github.com/axelfreeman/tapac-mcp): Finds and verifies B2B business contacts in real time from public websites, Telegram, and Discord, with SMTP email validation. `npx -y @tapacapi/mcp`.
