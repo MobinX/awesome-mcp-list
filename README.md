@@ -470,6 +470,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[PaidSync/paidsync-mcp](https://github.com/PaidSync/paidsync-mcp)** [![GitHub stars](https://img.shields.io/github/stars/PaidSync/paidsync-mcp?style=social)](https://github.com/PaidSync/paidsync-mcp): AI-powered ad management across major paid-media platforms via hosted MCP. Endpoint https://mcp.paidsync.ai/mcp.
 -   **[onlineprfoundation/online-pr-mcp](https://github.com/onlineprfoundation/online-pr-mcp)** [![GitHub stars](https://img.shields.io/github/stars/onlineprfoundation/online-pr-mcp?style=social)](https://github.com/onlineprfoundation/online-pr-mcp): PR and press-release platform — search agencies, browse publications, packages, rankings, and quotes. `npx online-pr-mcp`.
 -   **[menaker/adtest-mcp](https://github.com/menaker/adtest-mcp)** [![GitHub stars](https://img.shields.io/github/stars/menaker/adtest-mcp?style=social)](https://github.com/menaker/adtest-mcp): Score an image, video or text ad on 13 effectiveness dimensions with AdTest.AI and get a report with concrete fixes before you spend on media.
+-   **[minds-ai-co/minds-mcp](https://github.com/minds-ai-co/minds-mcp)** [![GitHub stars](https://img.shields.io/github/stars/minds-ai-co/minds-mcp?style=social)](https://github.com/minds-ai-co/minds-mcp) - Synthetic market research: create AI audiences, interview them and run studies such as MaxDiff, conjoint and NPS.
 
 ### 📊 Monitoring
 
