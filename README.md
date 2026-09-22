@@ -480,6 +480,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[GlobalMatchHub/searchlink-lite](https://github.com/GlobalMatchHub/searchlink-lite)** [![GitHub stars](https://img.shields.io/github/stars/GlobalMatchHub/searchlink-lite?style=social)](https://github.com/GlobalMatchHub/searchlink-lite): Read-only Google Search Console for MCP clients: site overview with period comparison, breakdowns by query, page, country, device or date, low-CTR opportunities, and URL indexing status. `npx -y github:GlobalMatchHub/searchlink-lite`.
 -   **[minds-ai-co/minds-mcp](https://github.com/minds-ai-co/minds-mcp)** [![GitHub stars](https://img.shields.io/github/stars/minds-ai-co/minds-mcp?style=social)](https://github.com/minds-ai-co/minds-mcp): Synthetic market research: create AI audiences, interview them and run studies such as MaxDiff, conjoint and NPS.
 
+-   **[unfetch-com/agent-plugin](https://github.com/unfetch-com/agent-plugin)** [![GitHub stars](https://img.shields.io/github/stars/unfetch-com/agent-plugin?style=social)](https://github.com/unfetch-com/agent-plugin): Unfetch Google Ads MCP reporting for campaigns, spend, conversions, and search terms, plus Google Analytics, Google Search Console, keyword research, and web research through a hosted OAuth endpoint with read-only account access.
+
 ### 📊 Monitoring
 
 -   **[modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Integrates with Sentry.io for error tracking (part of the official servers collection).
