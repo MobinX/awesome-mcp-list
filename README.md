@@ -44,6 +44,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🤖 AI Agents & Frameworks
 
+-   **[AV-Labs-Co/cos-codex-bridge](https://github.com/AV-Labs-Co/cos-codex-bridge)** [![GitHub stars](https://img.shields.io/github/stars/AV-Labs-Co/cos-codex-bridge?style=social)](https://github.com/AV-Labs-Co/cos-codex-bridge): Local-first MCP that lets Chief of Staff agents create, monitor, continue, assign, pin, and cancel scoped Codex project tasks with durable receipts.
 -   **[MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/MervinPraison/praisonai-mcp?style=social)](https://github.com/MervinPraison/praisonai-mcp): AI Agent framework with built-in MCP tools for search, memory, workflows, code execution, and file operations.
 -   **[sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness)** [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social)](https://github.com/sandbaseai/sandbase-harness): Local-first, self-hosted AI-agent runtime and MCP bridge with persistent sessions, approvals, credentials, audit/replay, and selectable execution backends.
 -   **[sandbaseai/cli](https://github.com/sandbaseai/cli)** [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)](https://github.com/sandbaseai/cli): Agent-first CLI and local MCP bridge connecting 25 AI client targets to 2,000+ AI models and APIs, with OAuth onboarding, safe config updates, diagnostics, and rollback.
