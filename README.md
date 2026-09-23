@@ -505,6 +505,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🔎 Search
 
+-   **[chaitin/baizhi-agent-toolkit](https://github.com/chaitin/baizhi-agent-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/chaitin/baizhi-agent-toolkit?style=social)](https://github.com/chaitin/baizhi-agent-toolkit): Hosted web search, page retrieval, and structured extraction over Streamable HTTP; requires your own Bearer key, may incur charges, and publishes configs and docs rather than backend source.
 -   **[@kopachlager/prerenderbuddy-mcp](https://github.com/kopachlager/prerenderbuddy-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kopachlager/prerenderbuddy-mcp?style=social)](https://github.com/kopachlager/prerenderbuddy-mcp): Crawling-readability diagnostics for public pages across crawler profiles, with commands and raw diff checks for bot visibility and discovery files (`robots.txt`, `sitemap.xml`, `llms.txt`).
 -   **[modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Performs web searches using Brave's Search API (part of the official servers collection).
 -   **[@angheljf/nyt](https://github.com/angheljf/nyt)** [![GitHub stars](https://img.shields.io/github/stars/angheljf/nyt?style=social)](https://github.com/angheljf/nyt): Searches articles using the NYTimes API.
