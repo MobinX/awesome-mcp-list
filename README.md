@@ -169,6 +169,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/edwinbernadus/nocodb-mcp-server?style=social)](https://github.com/edwinbernadus/nocodb-mcp-server): Support create, read, update, and delete on NocoDB Database
 -   **[theSharque/panopticum](https://github.com/theSharque/panopticum)** [![GitHub stars](https://img.shields.io/github/stars/theSharque/panopticum?style=social)](https://github.com/theSharque/panopticum): Control system for managing databases (MongoDB, Redis, ClickHouse, PostgreSQL) in Kubernetes via MCP.
 -   **[@rog0x/mcp-database-tools](https://github.com/rog0x/mcp-database-tools)** [![GitHub stars](https://img.shields.io/github/stars/rog0x/mcp-database-tools?style=social)](https://github.com/rog0x/mcp-database-tools): SQL formatting, schema visualization, migration generation, and query optimization for AI agents.
+-   **[nhost/nhost](https://github.com/nhost/nhost)** [![GitHub stars](https://img.shields.io/github/stars/nhost/nhost?style=social)](https://github.com/nhost/nhost): Postgres backend with two MCP servers, one for coding agents to inspect the schema, run GraphQL queries and manage migrations, and one that lets your app's users query their own data through AI assistants.
 
 ### 💻 Developer Tools
 
