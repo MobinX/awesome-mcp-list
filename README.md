@@ -285,6 +285,9 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[shitianfang/jev-use](https://github.com/shitianfang/jev-use)** [![GitHub stars](https://img.shields.io/github/stars/shitianfang/jev-use?style=social)](https://github.com/shitianfang/jev-use): Hands the agent-loop steps that need no text output to Jev's judgment model, with a typed escalation contract returning the rest to the LLM.
 -   **[archcore-ai/archcore](https://github.com/archcore-ai/archcore)** [![GitHub stars](https://img.shields.io/github/stars/archcore-ai/archcore?style=social)](https://github.com/archcore-ai/archcore): Git-native context engineering CLI and MCP server for AI coding agents.
 
+-   **[kleaphq/cli](https://github.com/kleaphq/cli)** [![GitHub stars](https://img.shields.io/github/stars/kleaphq/cli?style=social)](https://github.com/kleaphq/cli): AI website builder MCP — create apps, edit files, connect domains, and publish over a remote HTTP endpoint (`https://kleap.co/api/mcp`).
+-   **[suvadadepolo-blip/codex-reset-mcp](https://github.com/suvadadepolo-blip/codex-reset-mcp)** [![GitHub stars](https://img.shields.io/github/stars/suvadadepolo-blip/codex-reset-mcp?style=social)](https://github.com/suvadadepolo-blip/codex-reset-mcp): OpenAI Codex usage-limit reset data for coding agents: 24/48h reset forecast, verified reset record with source links, and Codex service status. Read-only hosted endpoint `https://codex-reset.com/mcp` (Streamable HTTP), no API key.
+
 ### 🧮 Data Science Tools
 
 
@@ -310,6 +313,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[PSPDFKit/nutrient-dws-mcp-server](https://github.com/PSPDFKit/nutrient-dws-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/PSPDFKit/nutrient-dws-mcp-server?style=social)](https://github.com/PSPDFKit/nutrient-dws-mcp-server): MCP server for Nutrient Document Web Services API for conversion, merge, redact, sign, OCR, watermark, and extraction workflows.
 -   **[hushvert/mcp](https://github.com/hushvert/mcp)** [![GitHub stars](https://img.shields.io/github/stars/hushvert/mcp?style=social)](https://github.com/hushvert/mcp): File conversion for AI agents via the hushvert hosted API - office docs to PDF, PDF to Word, document interchange (Markdown/HTML/EPUB/LaTeX), and audio/video transcodes. Tools: convert_file, convert_poll, list_formats, check_usage.
 -   **[fisher-byte/markovo](https://github.com/fisher-byte/markovo)** [![GitHub stars](https://img.shields.io/github/stars/fisher-byte/markovo?style=social)](https://github.com/fisher-byte/markovo): Converts PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) into clean, structured Markdown for agent context — remote Streamable HTTP endpoint with OAuth 2.1 plus local stdio server sandboxed to a dedicated root directory.
+
+-   **[pasteapp/paste-mcp](https://github.com/pasteapp/paste-mcp)** [![GitHub stars](https://img.shields.io/github/stars/pasteapp/paste-mcp?style=social)](https://github.com/pasteapp/paste-mcp): Official local MCP server for Paste, the Mac clipboard manager. Search clipboard history, use copied items as context, and save output to pinboards.
 
 ### 💰 Finance & Fintech
 
@@ -490,6 +495,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[adifsgaid/socialfaktory-mcp](https://github.com/adifsgaid/socialfaktory-mcp)** [![GitHub stars](https://img.shields.io/github/stars/adifsgaid/socialfaktory-mcp?style=social)](https://github.com/adifsgaid/socialfaktory-mcp): Connects agents to SocialFaktory (https://www.socialfaktory.com), a hosted MCP server with OAuth that writes, generates, schedules and publishes a brand's social content on TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest.
 -   **[unfetch-com/agent-plugin](https://github.com/unfetch-com/agent-plugin)** [![GitHub stars](https://img.shields.io/github/stars/unfetch-com/agent-plugin?style=social)](https://github.com/unfetch-com/agent-plugin): Unfetch Google Ads MCP reporting for campaigns, spend, conversions, and search terms, plus Google Analytics, Google Search Console, keyword research, and web research through a hosted OAuth endpoint with read-only account access.
 -   **[nyyhao/saascity-mcp](https://github.com/nyyhao/saascity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/nyyhao/saascity-mcp?style=social)](https://github.com/nyyhao/saascity-mcp): Product launch toolkit: audits a homepage before launch, recommends startup and SaaS directories by Ahrefs DR, dofollow and price, and submits to [SaaSCity](https://saascity.io). Remote `https://saascity.io/api/mcp`, no API key.
+
+-   **[robot-speed/mcp](https://github.com/robot-speed/mcp)** [![GitHub stars](https://img.shields.io/github/stars/robot-speed/mcp?style=social)](https://github.com/robot-speed/mcp): AI SEO platform MCP — keyword research, content calendar, site audits, backlinks, and CMS publishing via remote HTTP (`https://www.robot-speed.com/api/mcp`).
 
 ### 📊 Monitoring
 
