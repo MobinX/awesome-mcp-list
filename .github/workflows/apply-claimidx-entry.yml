@@ -1,0 +1,40 @@
+name: Apply ClaimIDX README entry
+on:
+  workflow_dispatch:
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: add-claimidx
+      - name: Insert entry before Legal section
+        run: |
+          set -euo pipefail
+          if grep -q 'claimidx/claimidx' README.md; then
+            echo 'already present'
+            exit 0
+          fi
+          ENTRY=$(cat .claimidx-entry.md)
+          python3 - <<'PY'
+          from pathlib import Path
+          text = Path('README.md').read_text()
+          entry = Path('.claimidx-entry.md').read_text().rstrip() + '\n'
+          needle = '### ⚖️ Legal & Compliance'
+          if needle not in text:
+              raise SystemExit('needle missing')
+          Path('README.md').write_text(text.replace(needle, entry + '\n' + needle, 1))
+          print('patched')
+          PY
+          rm -f .claimidx-entry.md .claimidx-write-test
+          rm -f .github/workflows/apply-claimidx-entry.yml
+      - name: Commit and push
+        run: |
+          git config user.name 'Ahmi'
+          git config user.email 'ahmitdarrow@gmail.com'
+          git add -A
+          git diff --cached --quiet && echo 'no changes' && exit 0
+          git commit -m 'Add claimidx/claimidx to Knowledge & Memory'
+          git push origin add-claimidx
