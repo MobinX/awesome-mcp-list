@@ -585,6 +585,10 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[brainbook0/robopartpicker-mcp](https://github.com/brainbook0/robopartpicker-mcp)** [![GitHub stars](https://img.shields.io/github/stars/brainbook0/robopartpicker-mcp?style=social)](https://github.com/brainbook0/robopartpicker-mcp): Search source-linked open robotics projects, their bills of materials, and catalog components with supplier evidence.
 -   **[handsforagents/handsforagents-mcp](https://github.com/handsforagents/handsforagents-mcp)** [![GitHub stars](https://img.shields.io/github/stars/handsforagents/handsforagents-mcp?style=social)](https://github.com/handsforagents/handsforagents-mcp): Order physical engineering work from an AI agent (CAD design, 3D printing, fabrication, electronics bring-up, measurement, shipping) by a registered Czech company, with a human quote within 24 h and card payment.
 
+## License
+
+This list is released under [CC0 1.0 Universal](./LICENSE).
+
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">

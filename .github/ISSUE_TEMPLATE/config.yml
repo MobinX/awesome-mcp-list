@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contributing guide
+    url: https://github.com/MobinX/awesome-mcp-list/blob/main/CONTRIBUTING.md
+    about: The fastest way to add a server is a pull request with a single README bullet — read the guide first.

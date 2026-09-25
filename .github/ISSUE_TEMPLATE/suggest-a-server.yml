@@ -1,0 +1,72 @@
+name: Suggest an MCP server
+description: Suggest an MCP server for the list (opening a PR yourself is faster — see CONTRIBUTING.md).
+title: "Suggest: owner/repo"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion! Only MCP servers with a **public, non-archived GitHub repository** are accepted.
+        Website-only / hosted endpoints without a public GitHub repo will be closed, even if listed on the MCP Registry.
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository
+      description: Full URL of the public GitHub repo.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: The best existing README category.
+      options:
+        - 🌐 Browser Control
+        - 📱 Mobile Device Control
+        - 🎨 Art & Culture
+        - 🤖 AI Agents & Frameworks
+        - ☁️ Cloud Platforms
+        - 🖥️ Command Line
+        - 💬 Communication
+        - 👤 Customer Data Platforms
+        - 🗄️ Databases
+        - 💻 Developer Tools
+        - 🧮 Data Science Tools
+        - 📂 File Systems
+        - 💰 Finance & Fintech
+        - 🏃 Fitness & Sports
+        - 🛒 E-Commerce
+        - 🎮 Gaming
+        - 🧠 Knowledge & Memory
+        - ⚖️ Legal & Compliance
+        - 🗺️ Location Services
+        - 🎯 Marketing
+        - 📊 Monitoring
+        - 🔎 Search
+        - 🛠️ Utilities
+        - 🦾 Robotics & Physical AI
+    validations:
+      required: true
+  - type: textarea
+    id: entry
+    attributes:
+      label: Proposed README entry
+      description: Use the exact format from CONTRIBUTING.md.
+      render: markdown
+      value: "-   **[owner/repo](https://github.com/owner/repo)** [![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social)](https://github.com/owner/repo): Short one-line description of what the MCP server does."
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Public GitHub repo exists and is not archived
+          required: true
+        - label: It is a real MCP server that people can run or connect to
+          required: true
+        - label: Not already listed in the README (I searched for the repo)
+          required: true
+        - label: Description is accurate and one concise sentence
+          required: true

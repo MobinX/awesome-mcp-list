@@ -1,0 +1,37 @@
+name: Report a broken or outdated entry
+description: Report a listed repo that is 404, archived, renamed/moved, or duplicated.
+title: "Broken: owner/repo"
+labels: ["bug"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Listed entry
+      description: The owner/repo (or URL) exactly as it appears in the README.
+      placeholder: owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - Repository returns 404 / was deleted
+        - Repository is archived
+        - Repository was renamed or moved
+        - Duplicate entry
+        - Link or badge points to the wrong repo
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement (if any)
+      description: New or successor public GitHub repo, if you know one.
+      placeholder: https://github.com/new-owner/new-repo
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Anything else that helps us verify the problem.
