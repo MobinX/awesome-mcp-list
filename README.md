@@ -430,6 +430,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** [![GitHub stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social)](https://github.com/louis030195/hyperconsciousness): Developer-alpha encrypted knowledge store exposing MCP search and retrieval through scoped, expiring grants.
 -   **[mnemoverse/mcp-memory-server](https://github.com/mnemoverse/mcp-memory-server)** [![GitHub stars](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server?style=social)](https://github.com/mnemoverse/mcp-memory-server): Persistent memory for AI agents over MCP, with recall re-ranked by feedback on whether a memory helped; hosted remote server with OAuth at https://mcp.mnemoverse.com/mcp, or local `npx -y @mnemoverse/mcp-memory-server` with a key.
 
+-   **[claimidx/claimidx](https://github.com/claimidx/claimidx)** [![GitHub stars](https://img.shields.io/github/stars/claimidx/claimidx?style=social)](https://github.com/claimidx/claimidx): Prior-art failure index for coding agents — ask before retry, claim after you fix. `pip install "claimidx[server]>=0.7.12"`.
+
 ### ⚖️ Legal & Compliance
 
 -   **[Cleo-Labs-IA/skills_library](https://github.com/Cleo-Labs-IA/skills_library)** [![GitHub stars](https://img.shields.io/github/stars/Cleo-Labs-IA/skills_library?style=social)](https://github.com/Cleo-Labs-IA/skills_library): Product-compliance MCP server exposing 45 production-grade compliance skills (cosmetics, food, electronics, toys, textiles, supplements, medical devices, customs, recalls, claims, sustainability) as MCP resources, prompts, and tools. `npx -y @cleo-labs/skills-mcp@latest`. MIT.
