@@ -291,6 +291,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[kleaphq/cli](https://github.com/kleaphq/cli)** [![GitHub stars](https://img.shields.io/github/stars/kleaphq/cli?style=social)](https://github.com/kleaphq/cli): AI website builder MCP — create apps, edit files, connect domains, and publish over a remote HTTP endpoint (`https://kleap.co/api/mcp`).
 -   **[suvadadepolo-blip/codex-reset-mcp](https://github.com/suvadadepolo-blip/codex-reset-mcp)** [![GitHub stars](https://img.shields.io/github/stars/suvadadepolo-blip/codex-reset-mcp?style=social)](https://github.com/suvadadepolo-blip/codex-reset-mcp): OpenAI Codex usage-limit reset data for coding agents: 24/48h reset forecast, verified reset record with source links, and Codex service status. Read-only hosted endpoint `https://codex-reset.com/mcp` (Streamable HTTP), no API key.
 -   **[hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/lucidity-mcp?style=social)](https://github.com/hyperb1iss/lucidity-mcp): Provides intelligent, prompt-based analysis of AI-generated code across multiple dimensions.
+-   **[SylphxAI/repomap](https://github.com/SylphxAI/repomap)** [![GitHub stars](https://img.shields.io/github/stars/SylphxAI/repomap?style=social)](https://github.com/SylphxAI/repomap): A local code graph for AI agents with hybrid search, callers and callees, call paths, change impact including git diff, and an interactive graph UI.
 
 ### 🧮 Data Science Tools
 
