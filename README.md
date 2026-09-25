@@ -602,6 +602,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 -   **[fredpsantos33/mcp-iteratools](https://github.com/fredpsantos33/mcp-iteratools)** [![GitHub stars](https://img.shields.io/github/stars/fredpsantos33/mcp-iteratools?style=social)](https://github.com/fredpsantos33/mcp-iteratools): Multi-tool API with MCP support: image generation (Flux), web scraping, TTS, OCR, QR codes, weather, crypto, charts, and 80+ more tools. Pay-per-use with x402 micropayments.
 
+-   **[handsforagents/handsforagents-mcp](https://github.com/handsforagents/handsforagents-mcp)** [![GitHub stars](https://img.shields.io/github/stars/handsforagents/handsforagents-mcp?style=social)](https://github.com/handsforagents/handsforagents-mcp): Order physical engineering work from an AI agent (CAD design, 3D printing, fabrication, electronics bring-up, measurement, shipping) by a registered Czech company, with a human quote within 24 h and card payment.
+
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
