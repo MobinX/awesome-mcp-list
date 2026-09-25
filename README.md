@@ -501,6 +501,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[nyyhao/saascity-mcp](https://github.com/nyyhao/saascity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/nyyhao/saascity-mcp?style=social)](https://github.com/nyyhao/saascity-mcp): Product launch toolkit: audits a homepage before launch, recommends startup and SaaS directories by Ahrefs DR, dofollow and price, and submits to [SaaSCity](https://saascity.io). Remote `https://saascity.io/api/mcp`, no API key.
 
 -   **[robot-speed/mcp](https://github.com/robot-speed/mcp)** [![GitHub stars](https://img.shields.io/github/stars/robot-speed/mcp?style=social)](https://github.com/robot-speed/mcp): AI SEO platform MCP — keyword research, content calendar, site audits, backlinks, and CMS publishing via remote HTTP (`https://www.robot-speed.com/api/mcp`).
+-   **[amflimited/threadfox](https://github.com/amflimited/threadfox)** [![GitHub stars](https://img.shields.io/github/stars/amflimited/threadfox?style=social)](https://github.com/amflimited/threadfox): Paid Reddit MCP server and skill for Claude Code and Codex that reads community rules, searches, posts and replies through your own logged-in Chrome, with a local ledger that blocks double posts and rechecks posts for removal.
 
 ### 📊 Monitoring
 
