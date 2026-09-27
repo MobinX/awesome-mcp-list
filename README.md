@@ -559,6 +559,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[kanto-labs/kanto-labs-mcp](https://github.com/kanto-labs/kanto-labs-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kanto-labs/kanto-labs-mcp?style=social)](https://github.com/kanto-labs/kanto-labs-mcp): Website tech stack detection, SEO audits, domain WHOIS/DNS/SSL lookup, OCR and document-to-Markdown via Apify Actors, with a per-call spending cap.
 -   **[pskill9/web-search](https://github.com/pskill9/web-search)** [![GitHub stars](https://img.shields.io/github/stars/pskill9/web-search?style=social)](https://github.com/pskill9/web-search): Provides web search capabilities using Google results without requiring API keys.
 -   **[kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)** [![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=social)](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Extracts subtitles and transcripts from YouTube videos for AI processing.
+-   **[tubeagentkit/youtube-mcp](https://github.com/tubeagentkit/youtube-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tubeagentkit/youtube-mcp?style=social)](https://github.com/tubeagentkit/youtube-mcp): Hosted MCP server that searches YouTube for videos or channels and fetches transcripts, channel data, and playlists.
 
 ### 🛠️ Utilities
 
