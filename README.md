@@ -84,6 +84,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[bytesagain/ai-skills](https://github.com/bytesagain/ai-skills)** [![GitHub stars](https://img.shields.io/github/stars/bytesagain/ai-skills?style=social)](https://github.com/bytesagain/ai-skills): Search 60,000+ AI agent skills via MCP SSE or REST API. 7 languages. Free, no auth. Endpoint: `https://bytesagain.com/api/mcp/sse`.
 -   **[maxugc/crosscheck](https://github.com/maxugc/crosscheck)** [![GitHub stars](https://img.shields.io/github/stars/maxugc/crosscheck?style=social)](https://github.com/maxugc/crosscheck): Verification checks, acceptance reviews, and security scanning for AI agents with signed receipts.
 -   **[Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill)** [![GitHub stars](https://img.shields.io/github/stars/Aident-AI/aident-skill?style=social)](https://github.com/Aident-AI/aident-skill): Setup, plugin and MCP registry config for Aident Loadout, a hosted remote MCP server that connects agents to third-party apps such as Gmail, Slack, Linear and Notion through connected accounts, with an audit history of action calls.
+-   **[mtangoz/grill](https://github.com/mtangoz/grill)** [![GitHub stars](https://img.shields.io/github/stars/mtangoz/grill?style=social)](https://github.com/mtangoz/grill): Sends a decision you have approved to a judge model from a different AI company, which argues against it, names the cheapest test for each doubt, and gives a verdict.
 
 ### ☁️ Cloud Platforms
 
