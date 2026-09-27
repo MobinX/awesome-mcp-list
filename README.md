@@ -44,6 +44,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[vostride/agent-qa](https://github.com/vostride/agent-qa)** [![GitHub stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social)](https://github.com/vostride/agent-qa): Provides a local MCP server for authoring, running, and triaging natural-language web and mobile QA tests with execution memory.
 -   **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social)](https://github.com/ChromeDevTools/chrome-devtools-mcp): Chrome DevTools for agents: lets coding agents control and inspect a live Chrome browser, with Puppeteer-based automation, network and console debugging, screenshots, and performance traces.
 -   **[achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp)** [![GitHub stars](https://img.shields.io/github/stars/achiya-automation/safari-mcp?style=social)](https://github.com/achiya-automation/safari-mcp): Native Safari browser automation for AI agents via AppleScript — 80 tools, zero overhead, keeps logins, runs silently in background. macOS only.
+-   **[feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp)** [![GitHub stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright_mcp?style=social)](https://github.com/feder-cr/invisible_playwright_mcp): Local stdio MCP server that drives a patched Firefox with real pointer and keyboard input, for Claude Code, Codex, Cursor and Gemini CLI.
 
 ### 📱 Mobile Device Control
 
@@ -83,6 +84,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[bytesagain/ai-skills](https://github.com/bytesagain/ai-skills)** [![GitHub stars](https://img.shields.io/github/stars/bytesagain/ai-skills?style=social)](https://github.com/bytesagain/ai-skills): Search 60,000+ AI agent skills via MCP SSE or REST API. 7 languages. Free, no auth. Endpoint: `https://bytesagain.com/api/mcp/sse`.
 -   **[maxugc/crosscheck](https://github.com/maxugc/crosscheck)** [![GitHub stars](https://img.shields.io/github/stars/maxugc/crosscheck?style=social)](https://github.com/maxugc/crosscheck): Verification checks, acceptance reviews, and security scanning for AI agents with signed receipts.
 -   **[Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill)** [![GitHub stars](https://img.shields.io/github/stars/Aident-AI/aident-skill?style=social)](https://github.com/Aident-AI/aident-skill): Setup, plugin and MCP registry config for Aident Loadout, a hosted remote MCP server that connects agents to third-party apps such as Gmail, Slack, Linear and Notion through connected accounts, with an audit history of action calls.
+-   **[mtangoz/grill](https://github.com/mtangoz/grill)** [![GitHub stars](https://img.shields.io/github/stars/mtangoz/grill?style=social)](https://github.com/mtangoz/grill): Sends a decision you have approved to a judge model from a different AI company, which argues against it, names the cheapest test for each doubt, and gives a verdict.
 
 ### ☁️ Cloud Platforms
 
@@ -559,6 +561,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[kanto-labs/kanto-labs-mcp](https://github.com/kanto-labs/kanto-labs-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kanto-labs/kanto-labs-mcp?style=social)](https://github.com/kanto-labs/kanto-labs-mcp): Website tech stack detection, SEO audits, domain WHOIS/DNS/SSL lookup, OCR and document-to-Markdown via Apify Actors, with a per-call spending cap.
 -   **[pskill9/web-search](https://github.com/pskill9/web-search)** [![GitHub stars](https://img.shields.io/github/stars/pskill9/web-search?style=social)](https://github.com/pskill9/web-search): Provides web search capabilities using Google results without requiring API keys.
 -   **[kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)** [![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=social)](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Extracts subtitles and transcripts from YouTube videos for AI processing.
+-   **[tubeagentkit/youtube-mcp](https://github.com/tubeagentkit/youtube-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tubeagentkit/youtube-mcp?style=social)](https://github.com/tubeagentkit/youtube-mcp): Searches YouTube for videos or channels and fetches transcripts, channel data, and playlists.
 
 ### 🛠️ Utilities
 
