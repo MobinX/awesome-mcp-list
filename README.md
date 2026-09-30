@@ -304,6 +304,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[MohammadHijjawi97/since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff)** [![GitHub stars](https://img.shields.io/github/stars/MohammadHijjawi97/since-cutoff?style=social)](https://github.com/MohammadHijjawi97/since-cutoff): Tells a coding agent what changed in a Python library's public API since its model's training cutoff, for one PyPI package (`api_changes`) or every pinned dependency of a project (`project_changes`), read statically with no model calls or API key and run with `uvx since-cutoff@latest mcp`.
 -   **[happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system)** [![GitHub stars](https://img.shields.io/github/stars/happy520ai/unified-ai-system?style=social)](https://github.com/happy520ai/unified-ai-system): Self-hosted AI gateway and MCP server with governed tools, virtual-key budgets, prompt enhancement and an audit chain, runnable without any provider key.
 
+-   **[sky-cloak/skycloak-mcp](https://github.com/sky-cloak/skycloak-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-cloak/skycloak-mcp?style=social)](https://github.com/sky-cloak/skycloak-mcp): Managed Keycloak identity for AI agents — SSO, realms, users, and apps via MCP (hosted at https://mcp.skycloak.io with OAuth, or local stdio).
+
 ### 🧮 Data Science Tools
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
