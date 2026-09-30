@@ -391,6 +391,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[target1m/traderspy-mcp](https://github.com/target1m/traderspy-mcp)** [![GitHub stars](https://img.shields.io/github/stars/target1m/traderspy-mcp?style=social)](https://github.com/target1m/traderspy-mcp): Read-only crypto futures research: AI trading signals with entry, take-profit and stop levels, top-trader positions on Binance, Hyperliquid, Bybit and OKX, prices and candles, 19 technical indicators, funding rate and open interest, and a condition screener and backtester (17 tools); hosted at `https://mcp.traderspy.app/mcp` with OAuth or a free API key.
 -   **[Chain-Love/chain.love-mcp](https://github.com/Chain-Love/chain.love-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Chain-Love/chain.love-mcp?style=social)](https://github.com/Chain-Love/chain.love-mcp): Hosted MCP gateway for discovering and comparing Web3 infrastructure services across blockchain networks from a single remote endpoint.
 
+-   **[Invompt/invompt-mcp](https://github.com/Invompt/invompt-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Invompt/invompt-mcp?style=social)](https://github.com/Invompt/invompt-mcp): Create invoice drafts from AI conversation context via hosted MCP; Continue as guest and review before send.
+
 ### 🏃 Fitness & Sports
 
 -   **[JacobiusMakes/parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp?style=social)](https://github.com/JacobiusMakes/parlay-api-mcp): Connects MCP clients to ParlayAPI for sports odds, player props, public event discovery, and account usage. Account data tools use each user's own API key and account allowances.
