@@ -518,6 +518,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[manifoldmcp/marketing-skills](https://github.com/manifoldmcp/marketing-skills)** [![GitHub stars](https://img.shields.io/github/stars/manifoldmcp/marketing-skills?style=social)](https://github.com/manifoldmcp/marketing-skills): Plugin, marketing skills and connection config for Manifold, a hosted MCP server that gives agents read-only SEO, AI search, social, ad and lead data.
 -   **[Upload-Post/upload-post-mcp](https://github.com/Upload-Post/upload-post-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Upload-Post/upload-post-mcp?style=social)](https://github.com/Upload-Post/upload-post-mcp): Publishes, schedules and analyzes social media posts on TikTok, Instagram, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Reddit and Bluesky.
 -   **[vanshyadav1408/Omentir](https://github.com/vanshyadav1408/Omentir)** [![GitHub stars](https://img.shields.io/github/stars/vanshyadav1408/Omentir?style=social)](https://github.com/vanshyadav1408/Omentir): LinkedIn prospecting and outreach MCP server (hosted with OAuth or self-hosted) to find and score leads, draft messages, run human-paced campaigns, and answer replies.
+-   **[robinfaraj/postel-mcp](https://github.com/robinfaraj/postel-mcp)** [![GitHub stars](https://img.shields.io/github/stars/robinfaraj/postel-mcp?style=social)](https://github.com/robinfaraj/postel-mcp): Drafts, schedules and publishes X (Twitter) and LinkedIn posts in the user's own voice through a hosted MCP server.
 
 ### 📊 Monitoring
 
