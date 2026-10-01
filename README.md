@@ -50,6 +50,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 -   **[ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent)** [![GitHub stars](https://img.shields.io/github/stars/ghost-in-the-droid/android-agent?style=social)](https://github.com/ghost-in-the-droid/android-agent): Give any LLM agent a real Android or iPhone as its body. 62 MCP tools: tap, swipe, screenshot, screen-tree reading, app launch, on-device inference (llama.cpp, MediaPipe, MLX), Docker+KVM emulator pools. Works with Claude Code, Cursor, LangChain, and any MCP client. `pip install ghost-in-the-droid`
 -   **[hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/droidmind?style=social)](https://github.com/hyperb1iss/droidmind): Controls Android devices, enabling UI automation and debugging.
+-   **[ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android)** [![GitHub stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)](https://github.com/ateymoori/oh-my-android): Lets AI agents see and drive the Android Emulator and adb devices from a macOS app.
 
 ### 🎨 Art & Culture
 
