@@ -201,6 +201,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[nhost/nhost](https://github.com/nhost/nhost)** [![GitHub stars](https://img.shields.io/github/stars/nhost/nhost?style=social)](https://github.com/nhost/nhost): Postgres backend with two MCP servers, one for coding agents to inspect the schema, run GraphQL queries and manage migrations, and one that lets your app's users query their own data through AI assistants.
 
 ### 💻 Developer Tools
+-   **[Get-Concord-AI/concord-mcp](https://github.com/Get-Concord-AI/concord-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)](https://github.com/Get-Concord-AI/concord-mcp): Local-first shared work-state for coding agents — presence, claims, messaging, handoffs, and review packets across Claude Code, Cursor, Codex, Gemini, and Grok.
 
 -   **[agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway)** [![GitHub stars](https://img.shields.io/github/stars/agiletec-inc/airis-mcp-gateway?style=social)](https://github.com/agiletec-inc/airis-mcp-gateway): Docker-based MCP multiplexer exposing 60+ tools through 7 meta-tools. Reduces context tokens by 97%. One-command setup, auto-enables servers on demand.
 -   **[21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)** [![GitHub stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=social)](https://github.com/21st-dev/magic-mcp): Generates UI components based on 21st.dev design principles.
