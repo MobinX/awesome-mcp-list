@@ -476,6 +476,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🎯 Marketing
 
+-   **[lassoanalytics/lasso-mcp](https://github.com/lassoanalytics/lasso-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lassoanalytics/lasso-mcp?style=social)](https://github.com/lassoanalytics/lasso-mcp): Affiliate-link opportunities, link health, clicks, and audits. Remote Streamable HTTP at `https://lasso.link/mcp`.
 -   **[axelfreeman/tapac-mcp](https://github.com/axelfreeman/tapac-mcp)** [![GitHub stars](https://img.shields.io/github/stars/axelfreeman/tapac-mcp?style=social)](https://github.com/axelfreeman/tapac-mcp): Finds and verifies B2B business contacts in real time from public websites, Telegram, and Discord, with SMTP email validation. `npx -y @tapacapi/mcp`.
 -   **[chrisgu/agentiq-mcp](https://github.com/chrisgu/agentiq-mcp)** [![GitHub stars](https://img.shields.io/github/stars/chrisgu/agentiq-mcp?style=social)](https://github.com/chrisgu/agentiq-mcp): AgentIQ MCP for [MoltAd](https://moltad.net) — publishers earn credits via `deliver_ad` after `list_placement` ([setup](https://moltad.net/publishers)). Remote `https://moltad.net/mcp`.
 -   **[henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp)** [![GitHub stars](https://img.shields.io/github/stars/henu-wang/geoscore-mcp?style=social)](https://github.com/henu-wang/geoscore-mcp): AI search optimization (GEO). Scans websites for AI search readiness, generates llms.txt, Schema.org fixes, and meta tag optimizations.
