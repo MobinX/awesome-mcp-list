@@ -307,6 +307,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system)** [![GitHub stars](https://img.shields.io/github/stars/happy520ai/unified-ai-system?style=social)](https://github.com/happy520ai/unified-ai-system): Self-hosted AI gateway and MCP server with governed tools, virtual-key budgets, prompt enhancement and an audit chain, runnable without any provider key.
 -   **[ashlrai/phantom-secrets](https://github.com/ashlrai/phantom-secrets)** [![GitHub stars](https://img.shields.io/github/stars/ashlrai/phantom-secrets?style=social)](https://github.com/ashlrai/phantom-secrets): Local proxy and MCP server that swaps real API keys for scoped `phm_` placeholders so AI coding agents like Claude Code, Cursor, Windsurf and Codex never see the real secrets.
 
+-   **[jamie7893/keelen-mcp](https://github.com/jamie7893/keelen-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jamie7893/keelen-mcp?style=social)](https://github.com/jamie7893/keelen-mcp): Hosted Streamable HTTP MCP server for steering an AI coding agent for GitHub through requests, roadmaps and pull-request review; public repo contains setup documentation, and workspace tools require a bearer key.
+
 ### 🧮 Data Science Tools
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
