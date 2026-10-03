@@ -585,6 +585,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🛠️ Utilities
 
+-   **[johnarndt/soxoa-mcp-portfolio](https://github.com/johnarndt/soxoa-mcp-portfolio)** [![GitHub stars](https://img.shields.io/github/stars/johnarndt/soxoa-mcp-portfolio?style=social)](https://github.com/johnarndt/soxoa-mcp-portfolio): Eleven first-party hosted MCP integrations with scoped workflow skills and documented OAuth.
+
 -   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp?style=social)](https://github.com/zcaceres/fetch-mcp): Fetches JSON, text, and HTML data flexibly from URLs.
 -   **[modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Efficiently fetches and processes web content (part of the official servers collection).
 -   **[portel-dev/ncp](https://github.com/portel-dev/ncp)** [![GitHub stars](https://img.shields.io/github/stars/portel-dev/ncp?style=social)](https://github.com/portel-dev/ncp): Orchestrates MCP server ecosystems through dynamic tool discovery to reduce context overhead.
