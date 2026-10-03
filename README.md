@@ -477,6 +477,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[zornade/zornade-mcp](https://github.com/zornade/zornade-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zornade/zornade-mcp?style=social)](https://github.com/zornade/zornade-mcp): Italian cadastral, geospatial and real-estate data for AI agents: geocoding, parcel profiles with risk and solar layers, valuations and administrative lists.
 -   **[lewismvaughan/tablejourney-mcp](https://github.com/lewismvaughan/tablejourney-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lewismvaughan/tablejourney-mcp?style=social)](https://github.com/lewismvaughan/tablejourney-mcp): Remote MCP server for food travel data: restaurants, cafes, markets, festivals, day plans and bookable food tours with source URLs.
 -   **[negm17111995/mcp-server](https://github.com/negm17111995/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/negm17111995/mcp-server?style=social)](https://github.com/negm17111995/mcp-server): Hosted MCP for MAQAMI hotel and flight booking search, prebook, and book.
+-   **[sky-access/skyaccess-mcp](https://github.com/sky-access/skyaccess-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-access/skyaccess-mcp?style=social)](https://github.com/sky-access/skyaccess-mcp): Hosted MCP server for private jet empty legs that searches live flights and returns charter price estimates and SkyAccess booking links, no API key needed.
 
 ### 🎯 Marketing
 
