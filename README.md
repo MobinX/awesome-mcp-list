@@ -396,6 +396,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Chain-Love/chain.love-mcp](https://github.com/Chain-Love/chain.love-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Chain-Love/chain.love-mcp?style=social)](https://github.com/Chain-Love/chain.love-mcp): Hosted MCP gateway for discovering and comparing Web3 infrastructure services across blockchain networks from a single remote endpoint.
 -   **[mutonby/aikount-mcp](https://github.com/mutonby/aikount-mcp)** [![GitHub stars](https://img.shields.io/github/stars/mutonby/aikount-mcp?style=social)](https://github.com/mutonby/aikount-mcp): Spanish accounting for freelancers and SMEs via the Aikount API, covering invoices, expense PDF import by OCR, bank reconciliation, the PGC ledger and the quarterly VAT return (Modelo 303).
 -   **[JackedBased/pumppill-mcp](https://github.com/JackedBased/pumppill-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JackedBased/pumppill-mcp?style=social)](https://github.com/JackedBased/pumppill-mcp): Hosted read-only token safety, deployer history and measured outcomes for Robinhood Chain and Solana contracts.
+-   **[simoncoombes/tradefloor](https://github.com/simoncoombes/tradefloor)** [![GitHub stars](https://img.shields.io/github/stars/simoncoombes/tradefloor?style=social)](https://github.com/simoncoombes/tradefloor): Local MCP server that lets an agent evaluate, rank and stress-test trading strategies in simulated stock markets with a limit order book, without placing real orders.
 
 ### 🏃 Fitness & Sports
 
