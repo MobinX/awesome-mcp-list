@@ -309,6 +309,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ashlrai/phantom-secrets](https://github.com/ashlrai/phantom-secrets)** [![GitHub stars](https://img.shields.io/github/stars/ashlrai/phantom-secrets?style=social)](https://github.com/ashlrai/phantom-secrets): Local proxy and MCP server that swaps real API keys for scoped `phm_` placeholders so AI coding agents like Claude Code, Cursor, Windsurf and Codex never see the real secrets.
 -   **[gostanos/smallprint-action](https://github.com/gostanos/smallprint-action)** [![GitHub stars](https://img.shields.io/github/stars/gostanos/smallprint-action?style=social)](https://github.com/gostanos/smallprint-action): Read-only MCP server that looks up recorded tool descriptions, version diffs, and advisories for MCP servers, skills, and plugins.
 -   **[marvkr/better-design](https://github.com/marvkr/better-design)** [![GitHub stars](https://img.shields.io/github/stars/marvkr/better-design?style=social)](https://github.com/marvkr/better-design): Gives AI coding agents design systems, UI and UX principles, icons and UI review, over a hosted endpoint or a local stdio package.
+-   **[sky-cloak/skycloak-mcp](https://github.com/sky-cloak/skycloak-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-cloak/skycloak-mcp?style=social)](https://github.com/sky-cloak/skycloak-mcp): Managed Keycloak identity for AI agents covering SSO, realms, users and apps via hosted or local stdio MCP.
 
 ### 🧮 Data Science Tools
 
