@@ -545,6 +545,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[iPythoning/domain-monitor-mcp-server](https://github.com/iPythoning/domain-monitor-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/iPythoning/domain-monitor-mcp-server?style=social)](https://github.com/iPythoning/domain-monitor-mcp-server): Domain WHOIS and SSL certificate monitoring via RDAP and crt.sh — single or batch domain checks with severity classification. Zero API keys, stdio transport. Install: `npx domain-monitor-mcp-server`.
 -   **[JoeyBrar/agentseal-mcp](https://github.com/JoeyBrar/agentseal-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JoeyBrar/agentseal-mcp?style=social)](https://github.com/JoeyBrar/agentseal-mcp): Action logs for AI agents, recording every action in a SHA-256 hash chain for verifiable audit trails.
 -   **[pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/pab1it0/prometheus-mcp-server?style=social)](https://github.com/pab1it0/prometheus-mcp-server): Provides querying and analysis of Prometheus monitoring system.
+-   **[croncool/claude-plugin](https://github.com/croncool/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/croncool/claude-plugin?style=social)](https://github.com/croncool/claude-plugin): Plugin and OAuth connection configuration for Croncool's hosted MCP server for scheduled-job health, workflow traces, webhooks and confirmed run-now actions.
 
 ### 🔎 Search
 
