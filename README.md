@@ -587,6 +587,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)** [![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=social)](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Extracts subtitles and transcripts from YouTube videos for AI processing.
 -   **[tubeagentkit/youtube-mcp](https://github.com/tubeagentkit/youtube-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tubeagentkit/youtube-mcp?style=social)](https://github.com/tubeagentkit/youtube-mcp): Hosted MCP server that searches YouTube for videos or channels and fetches transcripts, channel data, and playlists.
 -   **[ashlrai/webfetch](https://github.com/ashlrai/webfetch)** [![GitHub stars](https://img.shields.io/github/stars/ashlrai/webfetch?style=social)](https://github.com/ashlrai/webfetch): License-first image search for agents that ranks CC0 and public-domain results first and returns license and attribution data with every result.
+-   **[Dri-water/mcpcharts](https://github.com/Dri-water/mcpcharts)** [![GitHub stars](https://img.shields.io/github/stars/Dri-water/mcpcharts?style=social)](https://github.com/Dri-water/mcpcharts): Hosted, no-auth MCP server (`https://mcpcharts.com/mcp`) that searches and recommends MCP servers, skills, plugins, agents, prompts and rules for a task.
 
 ### 🛠️ Utilities
 
