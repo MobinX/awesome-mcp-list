@@ -417,6 +417,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[uju777/coupang-mcp](https://github.com/uju777/coupang-mcp)** [![GitHub stars](https://img.shields.io/github/stars/uju777/coupang-mcp?style=social)](https://github.com/uju777/coupang-mcp): Product search for Coupang e-commerce with Rocket Delivery filtering.
 -   **[tuanone123/hotlikeshop-mcp](https://github.com/tuanone123/hotlikeshop-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tuanone123/hotlikeshop-mcp?style=social)](https://github.com/tuanone123/hotlikeshop-mcp): E-commerce marketplace MCP for social-media & digital accounts, proxies and services. Search, compare and view best-sellers, then buy in chat via a safe quote->confirm flow (the AI can never spend on its own). Free keyless lookup; remote Streamable HTTP. Docs: https://hotlikeshop.com/ai.
 -   **[softdevfz/clickwise-api](https://github.com/softdevfz/clickwise-api)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/clickwise-api?style=social)](https://github.com/softdevfz/clickwise-api): Affiliate network MCP that finds programs, mints tracked links, and browses deals over remote Streamable HTTP.
+-   **[thinslatelabs/keepp-skill](https://github.com/thinslatelabs/keepp-skill)** [![GitHub stars](https://img.shields.io/github/stars/thinslatelabs/keepp-skill?style=social)](https://github.com/thinslatelabs/keepp-skill): Build and edit a website or link-in-bio page with a store, bookings, forms and chat from Claude, ChatGPT or any MCP app.
 
 ### 🎮 Gaming
 
