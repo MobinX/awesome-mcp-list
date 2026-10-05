@@ -403,6 +403,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[JackedBased/pumppill-mcp](https://github.com/JackedBased/pumppill-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JackedBased/pumppill-mcp?style=social)](https://github.com/JackedBased/pumppill-mcp): Hosted read-only token safety, deployer history and measured outcomes for Robinhood Chain and Solana contracts.
 -   **[softdevfz/voxodds-mcp](https://github.com/softdevfz/voxodds-mcp)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/voxodds-mcp?style=social)](https://github.com/softdevfz/voxodds-mcp): Read-only prediction-market research across Polymarket and Kalshi with odds comparison, executable quotes, trending markets and forecast track records.
 -   **[Invompt/invompt-mcp](https://github.com/Invompt/invompt-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Invompt/invompt-mcp?style=social)](https://github.com/Invompt/invompt-mcp): Creates invoice drafts from AI conversation context via a hosted MCP server.
+-   **[arhancanli/canli-validation-mcp](https://github.com/arhancanli/canli-validation-mcp)** [![GitHub stars](https://img.shields.io/github/stars/arhancanli/canli-validation-mcp?style=social)](https://github.com/arhancanli/canli-validation-mcp): Checks whether a backtest result is real or just the luckiest of the variants tried, with the deflated Sharpe ratio, CSCV probability of backtest overfitting, data-snooping tests, lookahead checks and pipeline placebos.
 
 ### 🏃 Fitness & Sports
 
