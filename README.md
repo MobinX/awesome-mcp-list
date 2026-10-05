@@ -463,6 +463,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[0xbrainkid/agentfolio-mcp-server](https://github.com/0xbrainkid/agentfolio-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/0xbrainkid/agentfolio-mcp-server?style=social)](https://github.com/0xbrainkid/agentfolio-mcp-server): AI agent identity verification, trust scores, and marketplace access via Solana Agent Trust Protocol (SATP).
 -   **[Built-AI/prism-mcp](https://github.com/Built-AI/prism-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Built-AI/prism-mcp?style=social)](https://github.com/Built-AI/prism-mcp): Every deadline in a lease, mortgage, insurance policy or HOA document, with its date, what happens if it is missed, and the source clause. Remote server (streamable HTTP, OAuth).
 -   **[foklepoint/court-rules-mcp](https://github.com/foklepoint/court-rules-mcp)** [![GitHub stars](https://img.shields.io/github/stars/foklepoint/court-rules-mcp?style=social)](https://github.com/foklepoint/court-rules-mcp): Hosted MCP for U.S. federal court rules, judge standing orders, and court holidays with source citations.
+-   **[tylergibbs1/backwork-mcp](https://github.com/tylergibbs1/backwork-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tylergibbs1/backwork-mcp?style=social)](https://github.com/tylergibbs1/backwork-mcp): MCP server for the Backwork healthcare API covering Medicare and commercial payer policies, prior authorization checks, claim risk and medical code lookup.
 
 ### 🗺️ Location Services
 
