@@ -419,6 +419,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[uju777/coupang-mcp](https://github.com/uju777/coupang-mcp)** [![GitHub stars](https://img.shields.io/github/stars/uju777/coupang-mcp?style=social)](https://github.com/uju777/coupang-mcp): Product search for Coupang e-commerce with Rocket Delivery filtering.
 -   **[tuanone123/hotlikeshop-mcp](https://github.com/tuanone123/hotlikeshop-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tuanone123/hotlikeshop-mcp?style=social)](https://github.com/tuanone123/hotlikeshop-mcp): E-commerce marketplace MCP for social-media & digital accounts, proxies and services. Search, compare and view best-sellers, then buy in chat via a safe quote->confirm flow (the AI can never spend on its own). Free keyless lookup; remote Streamable HTTP. Docs: https://hotlikeshop.com/ai.
 -   **[softdevfz/clickwise-api](https://github.com/softdevfz/clickwise-api)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/clickwise-api?style=social)](https://github.com/softdevfz/clickwise-api): Affiliate network MCP that finds programs, mints tracked links, and browses deals over remote Streamable HTTP.
+-   **[marstudio360/gumroad-dna-mcp](https://github.com/marstudio360/gumroad-dna-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/gumroad-dna-mcp?style=social)](https://github.com/marstudio360/gumroad-dna-mcp): Gumroad API v2 from chat: products, sales, refunds, license keys, plus storefront niche scans.
 
 ### 🎮 Gaming
 
