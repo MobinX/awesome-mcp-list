@@ -72,6 +72,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Venut-Technologies/bandcamp-mcp](https://github.com/Venut-Technologies/bandcamp-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Venut-Technologies/bandcamp-mcp?style=social)](https://github.com/Venut-Technologies/bandcamp-mcp): Dig Bandcamp from an AI assistant without an account or API key: search artists, albums, labels and tracks, browse genre tags, and read tracklists and prices.
 -   **[Spicy-API/spicy-mcp](https://github.com/Spicy-API/spicy-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Spicy-API/spicy-mcp?style=social)](https://github.com/Spicy-API/spicy-mcp): Local MCP server for the SpicyAPI image, video and text generation API that browses the model catalog, quotes and creates tasks, uploads inputs, and fetches outputs.
 -   **[mutonby/openshorts](https://github.com/mutonby/openshorts)** [![GitHub stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social)](https://github.com/mutonby/openshorts): Turns long videos into vertical short clips with subtitles, re-cuts them, and publishes them to TikTok, Instagram Reels and YouTube Shorts.
+-   **[marstudio360/vibegen-mcp](https://github.com/marstudio360/vibegen-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/vibegen-mcp?style=social)](https://github.com/marstudio360/vibegen-mcp): Drive a live generative art studio: read the canvas, move parameters, switch engines.
 
 ### 🤖 AI Agents & Frameworks
 
