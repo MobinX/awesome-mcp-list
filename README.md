@@ -490,6 +490,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[zornade/zornade-mcp](https://github.com/zornade/zornade-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zornade/zornade-mcp?style=social)](https://github.com/zornade/zornade-mcp): Italian cadastral, geospatial and real-estate data for AI agents: geocoding, parcel profiles with risk and solar layers, valuations and administrative lists.
 -   **[lewismvaughan/tablejourney-mcp](https://github.com/lewismvaughan/tablejourney-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lewismvaughan/tablejourney-mcp?style=social)](https://github.com/lewismvaughan/tablejourney-mcp): Remote MCP server for food travel data: restaurants, cafes, markets, festivals, day plans and bookable food tours with source URLs.
 -   **[negm17111995/mcp-server](https://github.com/negm17111995/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/negm17111995/mcp-server?style=social)](https://github.com/negm17111995/mcp-server): Hosted MCP for MAQAMI hotel and flight booking search, prebook, and book.
+-   **[First-Point/your-next-tours-mcp](https://github.com/First-Point/your-next-tours-mcp)** [![GitHub stars](https://img.shields.io/github/stars/First-Point/your-next-tours-mcp?style=social)](https://github.com/First-Point/your-next-tours-mcp): Hosted MCP server for tour guides that turns a PDF or web page into a tour program, opens trips, adds guests and edits the tour website.
 
 ### 🎯 Marketing
 
