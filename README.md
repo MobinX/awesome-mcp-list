@@ -457,6 +457,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[mnemoverse/mcp-memory-server](https://github.com/mnemoverse/mcp-memory-server)** [![GitHub stars](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server?style=social)](https://github.com/mnemoverse/mcp-memory-server): Persistent memory for AI agents over MCP, with recall re-ranked by feedback on whether a memory helped; hosted remote server with OAuth at https://mcp.mnemoverse.com/mcp, or local `npx -y @mnemoverse/mcp-memory-server` with a key.
 -   **[claimidx/claimidx](https://github.com/claimidx/claimidx)** [![GitHub stars](https://img.shields.io/github/stars/claimidx/claimidx?style=social)](https://github.com/claimidx/claimidx): Prior-art failure index for coding agents.
 -   **[eidetic-works/nucleus-mcp](https://github.com/eidetic-works/nucleus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/eidetic-works/nucleus-mcp?style=social)](https://github.com/eidetic-works/nucleus-mcp): Local-first MCP server for persistent memory, execution verification, governance, and compliance.
+-   **[lbailey94/whitemagic](https://github.com/lbailey94/whitemagic)** [![GitHub stars](https://img.shields.io/github/stars/lbailey94/whitemagic?style=social)](https://github.com/lbailey94/whitemagic): Local-first durable memory and session continuity for AI agents — hybrid recall, session handoffs, and signed continuity receipts, with a hosted read-only evaluation lane.
 
 ### ⚖️ Legal & Compliance
 
