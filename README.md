@@ -471,6 +471,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Built-AI/prism-mcp](https://github.com/Built-AI/prism-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Built-AI/prism-mcp?style=social)](https://github.com/Built-AI/prism-mcp): Every deadline in a lease, mortgage, insurance policy or HOA document, with its date, what happens if it is missed, and the source clause. Remote server (streamable HTTP, OAuth).
 -   **[foklepoint/court-rules-mcp](https://github.com/foklepoint/court-rules-mcp)** [![GitHub stars](https://img.shields.io/github/stars/foklepoint/court-rules-mcp?style=social)](https://github.com/foklepoint/court-rules-mcp): Hosted MCP for U.S. federal court rules, judge standing orders, and court holidays with source citations.
 -   **[tylergibbs1/backwork-mcp](https://github.com/tylergibbs1/backwork-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tylergibbs1/backwork-mcp?style=social)](https://github.com/tylergibbs1/backwork-mcp): MCP server for the Backwork healthcare API covering Medicare and commercial payer policies, prior authorization checks, claim risk and medical code lookup.
+-   **[moxno/privacyscrubber-mcp](https://github.com/moxno/privacyscrubber-mcp)** [![GitHub stars](https://img.shields.io/github/stars/moxno/privacyscrubber-mcp?style=social)](https://github.com/moxno/privacyscrubber-mcp): Local, zero-trust in-memory PII and sensitive data masking for AI agents and LLM tool pipelines.
 
 ### 🗺️ Location Services
 
