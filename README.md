@@ -314,6 +314,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[sky-cloak/skycloak-mcp](https://github.com/sky-cloak/skycloak-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-cloak/skycloak-mcp?style=social)](https://github.com/sky-cloak/skycloak-mcp): Managed Keycloak identity for AI agents covering SSO, realms, users and apps via hosted or local stdio MCP.
 -   **[space-bacon/blackwindow-weave-mcp](https://github.com/space-bacon/blackwindow-weave-mcp)** [![GitHub stars](https://img.shields.io/github/stars/space-bacon/blackwindow-weave-mcp?style=social)](https://github.com/space-bacon/blackwindow-weave-mcp): Local semantic search over folders of code and docs for MCP clients, using the Motherlode code-search encoder on the CPU.
 -   **[allxsmith/bestax](https://github.com/allxsmith/bestax)** [![GitHub stars](https://img.shields.io/github/stars/allxsmith/bestax?style=social)](https://github.com/allxsmith/bestax): Offline MCP server that gives coding agents props, examples, CSS variables and skills for the Bestax React component library built on Bulma.
+-   **[Get-Concord-AI/concord-mcp](https://github.com/Get-Concord-AI/concord-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)](https://github.com/Get-Concord-AI/concord-mcp): Local-first shared work state for coding agents, covering presence, claims, messaging, handoffs and review packets across Claude Code, Cursor, Codex, Gemini and Grok.
 
 ### 🧮 Data Science Tools
 
