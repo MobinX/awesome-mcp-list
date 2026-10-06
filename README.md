@@ -409,6 +409,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[JackedBased/pumppill-mcp](https://github.com/JackedBased/pumppill-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JackedBased/pumppill-mcp?style=social)](https://github.com/JackedBased/pumppill-mcp): Hosted read-only token safety, deployer history and measured outcomes for Robinhood Chain and Solana contracts.
 -   **[softdevfz/voxodds-mcp](https://github.com/softdevfz/voxodds-mcp)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/voxodds-mcp?style=social)](https://github.com/softdevfz/voxodds-mcp): Read-only prediction-market research across Polymarket and Kalshi with odds comparison, executable quotes, trending markets and forecast track records.
 -   **[Invompt/invompt-mcp](https://github.com/Invompt/invompt-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Invompt/invompt-mcp?style=social)](https://github.com/Invompt/invompt-mcp): Creates invoice drafts from AI conversation context via a hosted MCP server.
+-   **[0xcuy/adexto](https://github.com/0xcuy/adexto)** [![GitHub stars](https://img.shields.io/github/stars/0xcuy/adexto?style=social)](https://github.com/0xcuy/adexto): Remote MCP server for bonding-curve token markets on Monad, Arbitrum One, Base, Robinhood Chain and 0G: list and price markets, buy with USDC on Base over x402, and prepare launch, stake and claim transactions for your own key.
 
 ### 🏃 Fitness & Sports
 
