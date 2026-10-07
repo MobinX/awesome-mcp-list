@@ -431,6 +431,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[softdevfz/clickwise-api](https://github.com/softdevfz/clickwise-api)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/clickwise-api?style=social)](https://github.com/softdevfz/clickwise-api): Affiliate network MCP that finds programs, mints tracked links, and browses deals over remote Streamable HTTP.
 -   **[GeminiGeorge22/etsy-sales-mcp](https://github.com/GeminiGeorge22/etsy-sales-mcp)** [![GitHub stars](https://img.shields.io/github/stars/GeminiGeorge22/etsy-sales-mcp?style=social)](https://github.com/GeminiGeorge22/etsy-sales-mcp): Etsy shop sales history and Etsy search listing data (price, shop, badges, rank) through an Apify-hosted MCP server.
 -   **[skazi1976/onefindme-plugin](https://github.com/skazi1976/onefindme-plugin)** [![GitHub stars](https://img.shields.io/github/stars/skazi1976/onefindme-plugin?style=social)](https://github.com/skazi1976/onefindme-plugin): Remote read-only MCP server for searching AliExpress listings in any language, with price, rating and order data for the delivery country.
+-   **[skazi1976/mamachoice-plugin](https://github.com/skazi1976/mamachoice-plugin)** [![GitHub stars](https://img.shields.io/github/stars/skazi1976/mamachoice-plugin?style=social)](https://github.com/skazi1976/mamachoice-plugin): Remote read-only MCP server for Israeli Hebrew baby-product buying guides, with each guide's products priced in ILS, its FAQ, and a live baby-product search with delivery to Israel.
 
 ### 🎮 Gaming
 
