@@ -414,6 +414,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Invompt/invompt-mcp](https://github.com/Invompt/invompt-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Invompt/invompt-mcp?style=social)](https://github.com/Invompt/invompt-mcp): Creates invoice drafts from AI conversation context via a hosted MCP server.
 -   **[GemachDAO/gdex-skill](https://github.com/GemachDAO/gdex-skill)** [![GitHub stars](https://img.shields.io/github/stars/GemachDAO/gdex-skill?style=social)](https://github.com/GemachDAO/gdex-skill): MCP server for the GDEX multi-chain trading terminal, covering spot swaps on Solana, Sui and EVM chains, Hyperliquid perps, limit orders, copy trading and bridging.
 
+-   **[velarion-ai/velarion-mcp](https://github.com/velarion-ai/velarion-mcp)** [![GitHub stars](https://img.shields.io/github/stars/velarion-ai/velarion-mcp?style=social)](https://github.com/velarion-ai/velarion-mcp): Cited executive, director and say-on-pay compensation data for about 3,000 US public companies. Free self-serve token, no card (60 calls/hr, 500/day); $39,000/year full data license by contract. Docs: https://intel.velarion.ai/developers?utm_source=mobinx&utm_medium=github&utm_campaign=mcp_storm.
+
 ### 🏃 Fitness & Sports
 
 -   **[JacobiusMakes/parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp?style=social)](https://github.com/JacobiusMakes/parlay-api-mcp): Connects MCP clients to ParlayAPI for sports odds, player props, public event discovery, and account usage. Account data tools use each user's own API key and account allowances.
