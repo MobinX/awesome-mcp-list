@@ -73,6 +73,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Spicy-API/spicy-mcp](https://github.com/Spicy-API/spicy-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Spicy-API/spicy-mcp?style=social)](https://github.com/Spicy-API/spicy-mcp): Local MCP server for the SpicyAPI image, video and text generation API that browses the model catalog, quotes and creates tasks, uploads inputs, and fetches outputs.
 -   **[mutonby/openshorts](https://github.com/mutonby/openshorts)** [![GitHub stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social)](https://github.com/mutonby/openshorts): Turns long videos into vertical short clips with subtitles, re-cuts them, and publishes them to TikTok, Instagram Reels and YouTube Shorts.
 -   **[AlonDrilich/internet-radio-mcp](https://github.com/AlonDrilich/internet-radio-mcp)** [![GitHub stars](https://img.shields.io/github/stars/AlonDrilich/internet-radio-mcp?style=social)](https://github.com/AlonDrilich/internet-radio-mcp): Searches the public-domain Radio Browser directory of internet radio stations by name, country, genre or language and returns live stream URLs plus top and trending stations.
+-   **[Azurade/mcp](https://github.com/Azurade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/Azurade/mcp?style=social)](https://github.com/Azurade/mcp): Hosted MCP server for generating images and videos with models such as Veo 3.1, Nano Banana Pro and Seedance.
 
 ### 🤖 AI Agents & Frameworks
 
