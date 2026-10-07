@@ -409,6 +409,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[JackedBased/pumppill-mcp](https://github.com/JackedBased/pumppill-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JackedBased/pumppill-mcp?style=social)](https://github.com/JackedBased/pumppill-mcp): Hosted read-only token safety, deployer history and measured outcomes for Robinhood Chain and Solana contracts.
 -   **[softdevfz/voxodds-mcp](https://github.com/softdevfz/voxodds-mcp)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/voxodds-mcp?style=social)](https://github.com/softdevfz/voxodds-mcp): Read-only prediction-market research across Polymarket and Kalshi with odds comparison, executable quotes, trending markets and forecast track records.
 -   **[Invompt/invompt-mcp](https://github.com/Invompt/invompt-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Invompt/invompt-mcp?style=social)](https://github.com/Invompt/invompt-mcp): Creates invoice drafts from AI conversation context via a hosted MCP server.
+-   **[kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules)** [![GitHub stars](https://img.shields.io/github/stars/kburrus64-max/prop-firm-rules?style=social)](https://github.com/kburrus64-max/prop-firm-rules): Sourced prop-firm daily-loss and max-drawdown rules (FTMO, Topstep, Apex and more) with a drawdown-room checker, as a local stdio server or a free hosted endpoint.
 
 ### 🏃 Fitness & Sports
 
