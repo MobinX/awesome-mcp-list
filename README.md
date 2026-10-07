@@ -74,6 +74,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[mutonby/openshorts](https://github.com/mutonby/openshorts)** [![GitHub stars](https://img.shields.io/github/stars/mutonby/openshorts?style=social)](https://github.com/mutonby/openshorts): Turns long videos into vertical short clips with subtitles, re-cuts them, and publishes them to TikTok, Instagram Reels and YouTube Shorts.
 -   **[AlonDrilich/internet-radio-mcp](https://github.com/AlonDrilich/internet-radio-mcp)** [![GitHub stars](https://img.shields.io/github/stars/AlonDrilich/internet-radio-mcp?style=social)](https://github.com/AlonDrilich/internet-radio-mcp): Searches the public-domain Radio Browser directory of internet radio stations by name, country, genre or language and returns live stream URLs plus top and trending stations.
 -   **[Azurade/mcp](https://github.com/Azurade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/Azurade/mcp?style=social)](https://github.com/Azurade/mcp): Hosted MCP server for generating images and videos with models such as Veo 3.1, Nano Banana Pro and Seedance.
+-   **[video-gen/videogen-mcp](https://github.com/video-gen/videogen-mcp)** [![GitHub stars](https://img.shields.io/github/stars/video-gen/videogen-mcp?style=social)](https://github.com/video-gen/videogen-mcp): MCP server for the VideoGen API that creates and edits videos, images, voiceovers, music and avatars, and exports projects.
 
 ### 🤖 AI Agents & Frameworks
 
