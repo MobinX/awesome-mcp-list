@@ -320,6 +320,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[allxsmith/bestax](https://github.com/allxsmith/bestax)** [![GitHub stars](https://img.shields.io/github/stars/allxsmith/bestax?style=social)](https://github.com/allxsmith/bestax): Offline MCP server that gives coding agents props, examples, CSS variables and skills for the Bestax React component library built on Bulma.
 -   **[Get-Concord-AI/concord-mcp](https://github.com/Get-Concord-AI/concord-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)](https://github.com/Get-Concord-AI/concord-mcp): Local-first shared work state for coding agents, covering presence, claims, messaging, handoffs and review packets across Claude Code, Cursor, Codex, Gemini and Grok.
 -   **[ipvolt/proxy-toolkit-mcp](https://github.com/ipvolt/proxy-toolkit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ipvolt/proxy-toolkit-mcp?style=social)](https://github.com/ipvolt/proxy-toolkit-mcp): Searches proxy setup guides, generates version-pinned proxy config templates for curl, Requests, HTTPX and Playwright, and diagnoses proxy errors such as CONNECT 407.
+-   **[jamie7893/keelen-mcp](https://github.com/jamie7893/keelen-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jamie7893/keelen-mcp?style=social)](https://github.com/jamie7893/keelen-mcp): Setup docs for Keelen's hosted MCP server, which steers an AI coding agent for GitHub through requests, roadmaps and pull-request review.
 
 ### 🧮 Data Science Tools
 
