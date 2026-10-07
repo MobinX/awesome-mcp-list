@@ -409,6 +409,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[JackedBased/pumppill-mcp](https://github.com/JackedBased/pumppill-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JackedBased/pumppill-mcp?style=social)](https://github.com/JackedBased/pumppill-mcp): Hosted read-only token safety, deployer history and measured outcomes for Robinhood Chain and Solana contracts.
 -   **[softdevfz/voxodds-mcp](https://github.com/softdevfz/voxodds-mcp)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/voxodds-mcp?style=social)](https://github.com/softdevfz/voxodds-mcp): Read-only prediction-market research across Polymarket and Kalshi with odds comparison, executable quotes, trending markets and forecast track records.
 -   **[Invompt/invompt-mcp](https://github.com/Invompt/invompt-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Invompt/invompt-mcp?style=social)](https://github.com/Invompt/invompt-mcp): Creates invoice drafts from AI conversation context via a hosted MCP server.
+-   **[cryptowisser-com/cryptowisser-news-plugin](https://github.com/cryptowisser-com/cryptowisser-news-plugin)** [![GitHub stars](https://img.shields.io/github/stars/cryptowisser-com/cryptowisser-news-plugin?style=social)](https://github.com/cryptowisser-com/cryptowisser-news-plugin): Up-to-date crypto news from Cryptowisser's newsroom: the latest headlines, news on any coin, company or person, this week's biggest stories and full articles, all with source links.
 
 ### 🏃 Fitness & Sports
 
