@@ -76,6 +76,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Azurade/mcp](https://github.com/Azurade/mcp)** [![GitHub stars](https://img.shields.io/github/stars/Azurade/mcp?style=social)](https://github.com/Azurade/mcp): Hosted MCP server for generating images and videos with models such as Veo 3.1, Nano Banana Pro and Seedance.
 -   **[video-gen/videogen-mcp](https://github.com/video-gen/videogen-mcp)** [![GitHub stars](https://img.shields.io/github/stars/video-gen/videogen-mcp?style=social)](https://github.com/video-gen/videogen-mcp): MCP server for the VideoGen API that creates and edits videos, images, voiceovers, music and avatars, and exports projects.
 -   **[audiojs/audio](https://github.com/audiojs/audio)** [![GitHub stars](https://img.shields.io/github/stars/audiojs/audio?style=social)](https://github.com/audiojs/audio): Local audio editing, analysis and conversion without ffmpeg, including loudness and true-peak checks against ACX, podcast, streaming and EBU R 128 specs, denoise, EQ, trims, fades, BPM and key detection.
+-   **[meetkuro/kuro-mcp](https://github.com/meetkuro/kuro-mcp)** [![GitHub stars](https://img.shields.io/github/stars/meetkuro/kuro-mcp?style=social)](https://github.com/meetkuro/kuro-mcp): Connects AI assistants to Kuro's hosted server for generating images, video, voice-overs, music and editable storyboard films.
 
 ### 🤖 AI Agents & Frameworks
 
