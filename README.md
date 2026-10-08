@@ -562,6 +562,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[prateeks367/voicemoat-mcp](https://github.com/prateeks367/voicemoat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/prateeks367/voicemoat-mcp?style=social)](https://github.com/prateeks367/voicemoat-mcp): Hosted MCP server for Twitter/X and LinkedIn posts that scores drafts against a voice profile, reads analytics, and publishes or schedules posts.
 -   **[pumpgtm/pumpgtm-mcp](https://github.com/pumpgtm/pumpgtm-mcp)** [![GitHub stars](https://img.shields.io/github/stars/pumpgtm/pumpgtm-mcp?style=social)](https://github.com/pumpgtm/pumpgtm-mcp): Hosted MCP server that finds buyers, runs LinkedIn, email and X outreach from your own accounts, and answers replies.
 -   **[lassoanalytics/lasso-mcp](https://github.com/lassoanalytics/lasso-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lassoanalytics/lasso-mcp?style=social)](https://github.com/lassoanalytics/lasso-mcp): Remote MCP server for affiliate-link opportunities, link health, clicks and content audits.
+-   **[soundchecklive/soundcheck-plugin](https://github.com/soundchecklive/soundcheck-plugin)** [![GitHub stars](https://img.shields.io/github/stars/soundchecklive/soundcheck-plugin?style=social)](https://github.com/soundchecklive/soundcheck-plugin): Cursor plugin and hosted MCP server for Soundcheck live-event staffing, covering gigs, crew, setlists, call lists, document ingest and instant quotes.
 
 ### 📊 Monitoring
 
