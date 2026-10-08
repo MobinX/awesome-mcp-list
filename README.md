@@ -155,6 +155,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[bulatko/vk-mcp-server](https://github.com/bulatko/vk-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/bulatko/vk-mcp-server?style=social)](https://github.com/bulatko/vk-mcp-server): Runs a VK (VKontakte) community from an AI assistant: reads and answers the community inbox, publishes posts, comments and stories, and reads walls, profiles and communities.
 -   **[skeptrunedev/call4me](https://github.com/skeptrunedev/call4me)** [![GitHub stars](https://img.shields.io/github/stars/skeptrunedev/call4me?style=social)](https://github.com/skeptrunedev/call4me): Remote MCP server (OAuth) that places real phone calls for the user, such as booking appointments or canceling subscriptions, navigating phone menus and returning the transcript and outcome.
 -   **[voygr-tech/placecall](https://github.com/voygr-tech/placecall)** [![GitHub stars](https://img.shields.io/github/stars/voygr-tech/placecall?style=social)](https://github.com/voygr-tech/placecall): Plugin, skill and connection config for PlaceCall, a hosted MCP server that lets an AI agent place phone calls to US businesses and returns the outcome and transcript.
+-   **[skysay-ai/skysay-mcp](https://github.com/skysay-ai/skysay-mcp)** [![GitHub stars](https://img.shields.io/github/stars/skysay-ai/skysay-mcp?style=social)](https://github.com/skysay-ai/skysay-mcp): Hosted MCP server for voice agents, phone numbers, calls, SMS and campaigns.
 
 ### 👤 Customer Data Platforms
 
