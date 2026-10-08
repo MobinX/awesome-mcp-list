@@ -515,6 +515,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[First-Point/your-next-tours-mcp](https://github.com/First-Point/your-next-tours-mcp)** [![GitHub stars](https://img.shields.io/github/stars/First-Point/your-next-tours-mcp?style=social)](https://github.com/First-Point/your-next-tours-mcp): Hosted MCP server for tour guides that turns a PDF or web page into a tour program, opens trips, adds guests and edits the tour website.
 -   **[PriceDotWin/pricewin-agent-plugin](https://github.com/PriceDotWin/pricewin-agent-plugin)** [![GitHub stars](https://img.shields.io/github/stars/PriceDotWin/pricewin-agent-plugin?style=social)](https://github.com/PriceDotWin/pricewin-agent-plugin): Hosted MCP server that compares live hotel and flight prices across Booking.com, Agoda, Trip.com and Traveloka, with links to book at the source.
 
+-   **[Nunya-design/aisle-mcp](https://github.com/Nunya-design/aisle-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Nunya-design/aisle-mcp?style=social)](https://github.com/Nunya-design/aisle-mcp): Searches destination wedding venues and helps plan budgets, timelines, guests and events.
+
 ### 🎯 Marketing
 
 -   **[axelfreeman/tapac-mcp](https://github.com/axelfreeman/tapac-mcp)** [![GitHub stars](https://img.shields.io/github/stars/axelfreeman/tapac-mcp?style=social)](https://github.com/axelfreeman/tapac-mcp): Finds and verifies B2B business contacts in real time from public websites, Telegram, and Discord, with SMTP email validation. `npx -y @tapacapi/mcp`.
