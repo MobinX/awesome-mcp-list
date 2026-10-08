@@ -565,6 +565,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[lassoanalytics/lasso-mcp](https://github.com/lassoanalytics/lasso-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lassoanalytics/lasso-mcp?style=social)](https://github.com/lassoanalytics/lasso-mcp): Remote MCP server for affiliate-link opportunities, link health, clicks and content audits.
 -   **[soundchecklive/soundcheck-plugin](https://github.com/soundchecklive/soundcheck-plugin)** [![GitHub stars](https://img.shields.io/github/stars/soundchecklive/soundcheck-plugin?style=social)](https://github.com/soundchecklive/soundcheck-plugin): Cursor plugin and hosted MCP server for Soundcheck live-event staffing, covering gigs, crew, setlists, call lists, document ingest and instant quotes.
 -   **[growsurf/growsurf-mcp](https://github.com/growsurf/growsurf-mcp)** [![GitHub stars](https://img.shields.io/github/stars/growsurf/growsurf-mcp?style=social)](https://github.com/growsurf/growsurf-mcp): Build and manage GrowSurf referral and affiliate programs through AI assistants.
+-   **[influence-so/influence-mcp](https://github.com/influence-so/influence-mcp)** [![GitHub stars](https://img.shields.io/github/stars/influence-so/influence-mcp?style=social)](https://github.com/influence-so/influence-mcp): Influence connector for planning social media campaigns, drafting and reviewing posts, generating images, scheduling approved publishing, checking delivery status and reading Insights.
 
 ### 📊 Monitoring
 
