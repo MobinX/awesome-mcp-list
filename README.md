@@ -560,6 +560,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[lognorm/lognorm-mcp](https://github.com/lognorm/lognorm-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lognorm/lognorm-mcp?style=social)](https://github.com/lognorm/lognorm-mcp): Hosted MCP server that hands a site's SEO and GEO work (audits, fixes, content, AI-visibility tracking) to coding agents such as Claude Code, Codex and Cursor.
 -   **[prateeks367/voicemoat-mcp](https://github.com/prateeks367/voicemoat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/prateeks367/voicemoat-mcp?style=social)](https://github.com/prateeks367/voicemoat-mcp): Hosted MCP server for Twitter/X and LinkedIn posts that scores drafts against a voice profile, reads analytics, and publishes or schedules posts.
 -   **[pumpgtm/pumpgtm-mcp](https://github.com/pumpgtm/pumpgtm-mcp)** [![GitHub stars](https://img.shields.io/github/stars/pumpgtm/pumpgtm-mcp?style=social)](https://github.com/pumpgtm/pumpgtm-mcp): Hosted MCP server that finds buyers, runs LinkedIn, email and X outreach from your own accounts, and answers replies.
+-   **[lassoanalytics/lasso-mcp](https://github.com/lassoanalytics/lasso-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lassoanalytics/lasso-mcp?style=social)](https://github.com/lassoanalytics/lasso-mcp): Remote MCP server for affiliate-link opportunities, link health, clicks and content audits.
 
 ### 📊 Monitoring
 
