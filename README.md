@@ -414,6 +414,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[softdevfz/voxodds-mcp](https://github.com/softdevfz/voxodds-mcp)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/voxodds-mcp?style=social)](https://github.com/softdevfz/voxodds-mcp): Read-only prediction-market research across Polymarket and Kalshi with odds comparison, executable quotes, trending markets and forecast track records.
 -   **[Invompt/invompt-mcp](https://github.com/Invompt/invompt-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Invompt/invompt-mcp?style=social)](https://github.com/Invompt/invompt-mcp): Creates invoice drafts from AI conversation context via a hosted MCP server.
 -   **[GemachDAO/gdex-skill](https://github.com/GemachDAO/gdex-skill)** [![GitHub stars](https://img.shields.io/github/stars/GemachDAO/gdex-skill?style=social)](https://github.com/GemachDAO/gdex-skill): MCP server for the GDEX multi-chain trading terminal, covering spot swaps on Solana, Sui and EVM chains, Hyperliquid perps, limit orders, copy trading and bridging.
+-   **[Truthifi/truthifi-mcp](https://github.com/Truthifi/truthifi-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Truthifi/truthifi-mcp?style=social)](https://github.com/Truthifi/truthifi-mcp): Setup docs, plugins and client configs for Truthifi's hosted remote MCP server, which gives AI clients OAuth-based access to a household's accounts, holdings, fees, performance and Truthifi Score without the ability to move money.
 
 ### 🏃 Fitness & Sports
 
