@@ -572,6 +572,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[soundchecklive/soundcheck-plugin](https://github.com/soundchecklive/soundcheck-plugin)** [![GitHub stars](https://img.shields.io/github/stars/soundchecklive/soundcheck-plugin?style=social)](https://github.com/soundchecklive/soundcheck-plugin): Cursor plugin and hosted MCP server for Soundcheck live-event staffing, covering gigs, crew, setlists, call lists, document ingest and instant quotes.
 -   **[growsurf/growsurf-mcp](https://github.com/growsurf/growsurf-mcp)** [![GitHub stars](https://img.shields.io/github/stars/growsurf/growsurf-mcp?style=social)](https://github.com/growsurf/growsurf-mcp): Build and manage GrowSurf referral and affiliate programs through AI assistants.
 -   **[influence-so/influence-mcp](https://github.com/influence-so/influence-mcp)** [![GitHub stars](https://img.shields.io/github/stars/influence-so/influence-mcp?style=social)](https://github.com/influence-so/influence-mcp): Influence connector for planning social media campaigns, drafting and reviewing posts, generating images, scheduling approved publishing, checking delivery status and reading Insights.
+-   **[ugcvz/ugc-vz-mcp](https://github.com/ugcvz/ugc-vz-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ugcvz/ugc-vz-mcp?style=social)](https://github.com/ugcvz/ugc-vz-mcp): Lets agents browse a DACH directory of human UGC creators and ask UGC VZ to e-mail chosen creators' contact details to a brand.
 
 ### 📊 Monitoring
 
