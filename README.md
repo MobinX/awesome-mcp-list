@@ -158,6 +158,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[skeptrunedev/call4me](https://github.com/skeptrunedev/call4me)** [![GitHub stars](https://img.shields.io/github/stars/skeptrunedev/call4me?style=social)](https://github.com/skeptrunedev/call4me): Remote MCP server (OAuth) that places real phone calls for the user, such as booking appointments or canceling subscriptions, navigating phone menus and returning the transcript and outcome.
 -   **[voygr-tech/placecall](https://github.com/voygr-tech/placecall)** [![GitHub stars](https://img.shields.io/github/stars/voygr-tech/placecall?style=social)](https://github.com/voygr-tech/placecall): Plugin, skill and connection config for PlaceCall, a hosted MCP server that lets an AI agent place phone calls to US businesses and returns the outcome and transcript.
 -   **[skysay-ai/skysay-mcp](https://github.com/skysay-ai/skysay-mcp)** [![GitHub stars](https://img.shields.io/github/stars/skysay-ai/skysay-mcp?style=social)](https://github.com/skysay-ai/skysay-mcp): Hosted MCP server for voice agents, phone numbers, calls, SMS and campaigns.
+-   **[callforme-tel/callforme](https://github.com/callforme-tel/callforme)** [![GitHub stars](https://img.shields.io/github/stars/callforme-tel/callforme?style=social)](https://github.com/callforme-tel/callforme): Remote MCP server that phones businesses for an agent, navigates phone menus, waits on hold, checks back with the agent mid-call and returns a transcript with structured answers.
 
 ### 👤 Customer Data Platforms
 
