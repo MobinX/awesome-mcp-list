@@ -647,6 +647,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)** [![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=social)](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Extracts subtitles and transcripts from YouTube videos for AI processing.
 -   **[tubeagentkit/youtube-mcp](https://github.com/tubeagentkit/youtube-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tubeagentkit/youtube-mcp?style=social)](https://github.com/tubeagentkit/youtube-mcp): Hosted MCP server that searches YouTube for videos or channels and fetches transcripts, channel data, and playlists.
 -   **[ashlrai/webfetch](https://github.com/ashlrai/webfetch)** [![GitHub stars](https://img.shields.io/github/stars/ashlrai/webfetch?style=social)](https://github.com/ashlrai/webfetch): License-first image search for agents that ranks CC0 and public-domain results first and returns license and attribution data with every result.
+-   **[firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=social)](https://github.com/firecrawl/firecrawl-mcp-server): Official Firecrawl MCP server for web search, scraping, crawling and site mapping, returning clean markdown or structured data. Install via `npx -y firecrawl-mcp`.
 
 ### 🛠️ Utilities
 
