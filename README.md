@@ -590,6 +590,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[decodx-ai/plugins](https://github.com/decodx-ai/plugins)** [![GitHub stars](https://img.shields.io/github/stars/decodx-ai/plugins?style=social)](https://github.com/decodx-ai/plugins): Turns a website or brief into a narrated product video with captions, chapters and a written guide through the hosted decodx MCP server.
 -   **[Otha-Labs/persuasion-mcp](https://github.com/Otha-Labs/persuasion-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Otha-Labs/persuasion-mcp?style=social)](https://github.com/Otha-Labs/persuasion-mcp): Plans and checks marketing copy against the nine questions readers ask, using persuasion techniques drawn from real ads and A/B test math.
 -   **[querysail/querysail-gsc](https://github.com/querysail/querysail-gsc)** [![GitHub stars](https://img.shields.io/github/stars/querysail/querysail-gsc?style=social)](https://github.com/querysail/querysail-gsc): Hosted, read-only Google Search Console MCP server for search performance by query, page, country and device, period comparisons, URL inspection and sitemaps.
+-   **[Firefloco/chirpie-mcp](https://github.com/Firefloco/chirpie-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Firefloco/chirpie-mcp?style=social)](https://github.com/Firefloco/chirpie-mcp): Publishing connector for AI agents that posts, threads and schedules content to X, Bluesky, LinkedIn, Mastodon and Telegram.
 
 ### 📊 Monitoring
 
