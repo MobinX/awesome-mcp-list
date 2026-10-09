@@ -519,6 +519,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[negm17111995/mcp-server](https://github.com/negm17111995/mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/negm17111995/mcp-server?style=social)](https://github.com/negm17111995/mcp-server): Hosted MCP for MAQAMI hotel and flight booking search, prebook, and book.
 -   **[First-Point/your-next-tours-mcp](https://github.com/First-Point/your-next-tours-mcp)** [![GitHub stars](https://img.shields.io/github/stars/First-Point/your-next-tours-mcp?style=social)](https://github.com/First-Point/your-next-tours-mcp): Hosted MCP server for tour guides that turns a PDF or web page into a tour program, opens trips, adds guests and edits the tour website.
 -   **[PriceDotWin/pricewin-agent-plugin](https://github.com/PriceDotWin/pricewin-agent-plugin)** [![GitHub stars](https://img.shields.io/github/stars/PriceDotWin/pricewin-agent-plugin?style=social)](https://github.com/PriceDotWin/pricewin-agent-plugin): Hosted MCP server that compares live hotel and flight prices across Booking.com, Agoda, Trip.com and Traveloka, with links to book at the source.
+-   **[sky-access/skyaccess-mcp](https://github.com/sky-access/skyaccess-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-access/skyaccess-mcp?style=social)](https://github.com/sky-access/skyaccess-mcp): Hosted MCP server for private jet empty legs that searches live flights and returns charter price estimates and SkyAccess booking links.
 
 ### 🎯 Marketing
 
