@@ -671,6 +671,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ashlrai/lexicon](https://github.com/ashlrai/lexicon)** [![GitHub stars](https://img.shields.io/github/stars/ashlrai/lexicon?style=social)](https://github.com/ashlrai/lexicon): Local MCP server that keeps one YAML file of the names and jargon speech-to-text gets wrong and corrects dictated prompts before the agent acts on them.
 -   **[DevinoSolutions/mcp-servers](https://github.com/DevinoSolutions/mcp-servers)** [![GitHub stars](https://img.shields.io/github/stars/DevinoSolutions/mcp-servers?style=social)](https://github.com/DevinoSolutions/mcp-servers): Setup docs and client configs for Devino Solutions' hosted MCP servers for its SaaS products, such as Postify, Sendly and Notifly.
 -   **[hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard)** [![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social)](https://github.com/hashgraph-online/hol-guard): Local stdio MCP server for the HOL Guard AI agent security tool that searches local guard receipts and inventory and reports guard status.
+-   **[johnarndt/soxoa-mcp-portfolio](https://github.com/johnarndt/soxoa-mcp-portfolio)** [![GitHub stars](https://img.shields.io/github/stars/johnarndt/soxoa-mcp-portfolio?style=social)](https://github.com/johnarndt/soxoa-mcp-portfolio): MCP connection configurations and scoped workflow skills for Soxoa LLC's hosted MCP integrations, with documented OAuth.
 
 ### 🦾 Robotics & Physical AI
 
