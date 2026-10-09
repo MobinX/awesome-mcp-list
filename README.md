@@ -587,6 +587,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ugcvz/ugc-vz-mcp](https://github.com/ugcvz/ugc-vz-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ugcvz/ugc-vz-mcp?style=social)](https://github.com/ugcvz/ugc-vz-mcp): Lets agents browse a DACH directory of human UGC creators and ask UGC VZ to e-mail chosen creators' contact details to a brand.
 -   **[arielvdl/naia-mcp-server](https://github.com/arielvdl/naia-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/arielvdl/naia-mcp-server?style=social)](https://github.com/arielvdl/naia-mcp-server): Connects AI assistants to Naia for GEO analyses, AI visibility reports, content generation and execution plans.
 -   **[decodx-ai/plugins](https://github.com/decodx-ai/plugins)** [![GitHub stars](https://img.shields.io/github/stars/decodx-ai/plugins?style=social)](https://github.com/decodx-ai/plugins): Turns a website or brief into a narrated product video with captions, chapters and a written guide through the hosted decodx MCP server.
+-   **[Otha-Labs/persuasion-mcp](https://github.com/Otha-Labs/persuasion-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Otha-Labs/persuasion-mcp?style=social)](https://github.com/Otha-Labs/persuasion-mcp): Plans and checks marketing copy against the nine questions readers ask, using persuasion techniques drawn from real ads and A/B test math.
 
 ### 📊 Monitoring
 
