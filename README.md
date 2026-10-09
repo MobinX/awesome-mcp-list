@@ -591,6 +591,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Otha-Labs/persuasion-mcp](https://github.com/Otha-Labs/persuasion-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Otha-Labs/persuasion-mcp?style=social)](https://github.com/Otha-Labs/persuasion-mcp): Plans and checks marketing copy against the nine questions readers ask, using persuasion techniques drawn from real ads and A/B test math.
 -   **[querysail/querysail-gsc](https://github.com/querysail/querysail-gsc)** [![GitHub stars](https://img.shields.io/github/stars/querysail/querysail-gsc?style=social)](https://github.com/querysail/querysail-gsc): Hosted, read-only Google Search Console MCP server for search performance by query, page, country and device, period comparisons, URL inspection and sitemaps.
 -   **[Firefloco/chirpie-mcp](https://github.com/Firefloco/chirpie-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Firefloco/chirpie-mcp?style=social)](https://github.com/Firefloco/chirpie-mcp): Publishing connector for AI agents that posts, threads and schedules content to X, Bluesky, LinkedIn, Mastodon and Telegram.
+-   **[octopost-ink/octopost-plugin](https://github.com/octopost-ink/octopost-plugin)** [![GitHub stars](https://img.shields.io/github/stars/octopost-ink/octopost-plugin?style=social)](https://github.com/octopost-ink/octopost-plugin): Hosted remote MCP server (`https://octopost.ink/mcp`, API key) that lets an agent post, schedule, queue and thread posts on X, with an optional human approval queue.
 
 ### 📊 Monitoring
 
