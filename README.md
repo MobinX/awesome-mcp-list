@@ -461,6 +461,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)** [![GitHub stars](https://img.shields.io/github/stars/CoderGamester/mcp-unity?style=social)](https://github.com/CoderGamester/mcp-unity): Integrates with the Unity3D Game Engine via MCP.
 -   **[Playgama/developer-cabinet-mcp](https://github.com/Playgama/developer-cabinet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Playgama/developer-cabinet-mcp?style=social)](https://github.com/Playgama/developer-cabinet-mcp): Publishes and manages HTML5 games on Playgama, from the game form and builds to a public playable sandbox link.
 -   **[xiongxingzhe/wishlistdoc-mcp](https://github.com/xiongxingzhe/wishlistdoc-mcp)** [![GitHub stars](https://img.shields.io/github/stars/xiongxingzhe/wishlistdoc-mcp?style=social)](https://github.com/xiongxingzhe/wishlistdoc-mcp): Steam store page algorithmic health audit, P10/P50/P90 sales cone forecasting, and indie game market benchmarks powered by [WishlistDoc](https://wishlistdoc.com).
+-   **[KyleClouthier/secondstrike-agents](https://github.com/KyleClouthier/secondstrike-agents)** [![GitHub stars](https://img.shields.io/github/stars/KyleClouthier/secondstrike-agents?style=social)](https://github.com/KyleClouthier/secondstrike-agents): Lets an AI agent command a nation in SECOND STRIKE, a real-time world war on a 3D globe, with pacts, betrayals, nukes and a doomsday clock, every war recorded and watchable live.
 
 ### 🧠 Knowledge & Memory
 
