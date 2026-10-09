@@ -429,6 +429,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[dwellir-public/dwellir-skill](https://github.com/dwellir-public/dwellir-skill)** [![GitHub stars](https://img.shields.io/github/stars/dwellir-public/dwellir-skill?style=social)](https://github.com/dwellir-public/dwellir-skill): Hosted MCP server and agent skills for read-only blockchain RPC queries, Hyperliquid market data, and Dwellir RPC usage and API key management.
 -   **[kolourr/midpoint-mcp](https://github.com/kolourr/midpoint-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kolourr/midpoint-mcp?style=social)](https://github.com/kolourr/midpoint-mcp): Read-only MCP server for trading card prices, raw and graded values, price history and grading ROI for Pokémon, Magic, Yu-Gi-Oh! and sports cards.
 -   **[simoncoombes/tradefloor](https://github.com/simoncoombes/tradefloor)** [![GitHub stars](https://img.shields.io/github/stars/simoncoombes/tradefloor?style=social)](https://github.com/simoncoombes/tradefloor): Local MCP server that lets an agent evaluate, rank and stress-test trading strategies in simulated stock markets with a limit order book, without placing real orders.
+-   **[0xArchiveIO/0xarchive-mcp](https://github.com/0xArchiveIO/0xarchive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/0xArchiveIO/0xarchive-mcp?style=social)](https://github.com/0xArchiveIO/0xarchive-mcp): Connects AI clients to Hyperliquid and Lighter market data through a hosted OAuth MCP server.
 
 ### 🏃 Fitness & Sports
 
