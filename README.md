@@ -585,6 +585,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[influence-so/influence-mcp](https://github.com/influence-so/influence-mcp)** [![GitHub stars](https://img.shields.io/github/stars/influence-so/influence-mcp?style=social)](https://github.com/influence-so/influence-mcp): Influence connector for planning social media campaigns, drafting and reviewing posts, generating images, scheduling approved publishing, checking delivery status and reading Insights.
 -   **[ugcvz/ugc-vz-mcp](https://github.com/ugcvz/ugc-vz-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ugcvz/ugc-vz-mcp?style=social)](https://github.com/ugcvz/ugc-vz-mcp): Lets agents browse a DACH directory of human UGC creators and ask UGC VZ to e-mail chosen creators' contact details to a brand.
 -   **[arielvdl/naia-mcp-server](https://github.com/arielvdl/naia-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/arielvdl/naia-mcp-server?style=social)](https://github.com/arielvdl/naia-mcp-server): Connects AI assistants to Naia for GEO analyses, AI visibility reports, content generation and execution plans.
+-   **[decodx-ai/plugins](https://github.com/decodx-ai/plugins)** [![GitHub stars](https://img.shields.io/github/stars/decodx-ai/plugins?style=social)](https://github.com/decodx-ai/plugins): Turns a website or brief into a narrated product video with captions, chapters and a written guide through the hosted decodx MCP server.
 
 ### 📊 Monitoring
 
