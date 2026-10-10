@@ -165,6 +165,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[skysay-ai/skysay-mcp](https://github.com/skysay-ai/skysay-mcp)** [![GitHub stars](https://img.shields.io/github/stars/skysay-ai/skysay-mcp?style=social)](https://github.com/skysay-ai/skysay-mcp): Hosted MCP server for voice agents, phone numbers, calls, SMS and campaigns.
 -   **[callforme-tel/callforme](https://github.com/callforme-tel/callforme)** [![GitHub stars](https://img.shields.io/github/stars/callforme-tel/callforme?style=social)](https://github.com/callforme-tel/callforme): Remote MCP server that phones businesses for an agent, navigates phone menus, waits on hold, checks back with the agent mid-call and returns a transcript with structured answers.
 -   **[fluxmailai/fluxmail](https://github.com/fluxmailai/fluxmail)** [![GitHub stars](https://img.shields.io/github/stars/fluxmailai/fluxmail?style=social)](https://github.com/fluxmailai/fluxmail): Self-hosted email server for Gmail, Outlook, Exchange and IMAP/SMTP that lets agents search, read, draft, send, schedule and organize mail with per-client permissions.
+-   **[radres/call-me](https://github.com/radres/call-me)** [![GitHub stars](https://img.shields.io/github/stars/radres/call-me?style=social)](https://github.com/radres/call-me): Lets an agent call your iPhone, speak a question and return your spoken answer as text, or text you and wait for a reply, using the Call Me iOS app.
 
 ### 👤 Customer Data Platforms
 
