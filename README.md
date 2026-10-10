@@ -173,6 +173,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic)** [![GitHub stars](https://img.shields.io/github/stars/iaptic/mcp-server-iaptic?style=social)](https://github.com/iaptic/mcp-server-iaptic): Connects to iaptic to retrieve customer purchase and app revenue data.
 -   **[explorium-ai/vibeprospecting-mcp](https://github.com/explorium-ai/vibeprospecting-mcp)** [![GitHub stars](https://img.shields.io/github/stars/explorium-ai/vibeprospecting-mcp?style=social)](https://github.com/explorium-ai/vibeprospecting-mcp): B2B company and contact intelligence for prospecting workflows.
 -   **[DerrickAppOrg/derrick-mcp](https://github.com/DerrickAppOrg/derrick-mcp)** [![GitHub stars](https://img.shields.io/github/stars/DerrickAppOrg/derrick-mcp?style=social)](https://github.com/DerrickAppOrg/derrick-mcp): Returns verified work emails, phone numbers, company firmographics, tech stack, hiring signals and French SIRET/SIREN records to any MCP client.
+-   **[waynehamadi/datacircle-plugin](https://github.com/waynehamadi/datacircle-plugin)** [![GitHub stars](https://img.shields.io/github/stars/waynehamadi/datacircle-plugin?style=social)](https://github.com/waynehamadi/datacircle-plugin): Query your favorite B2B data APIs through us. Same request, same price, no markup.
 
 ### 🗄️ Databases
 
