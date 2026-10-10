@@ -504,6 +504,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🗺️ Location Services
 
+- **[donniertf-hub/uk-mcp-fleet](https://github.com/donniertf-hub/uk-mcp-fleet)** [![GitHub stars](https://img.shields.io/github/stars/donniertf-hub/uk-mcp-fleet?style=social)](https://github.com/donniertf-hub/uk-mcp-fleet): Ten UK open-data remote MCP servers (Companies House, Land Registry, Places, Planning, Tenders, Flood, Crime, Food Hygiene, EPC, CQC). Free samples; full packs £0.49. Places endpoint: `https://uk-places-mcp.donniertf.workers.dev/mcp`.
 -   **[stayingapi/hotel-mcp](https://github.com/stayingapi/hotel-mcp)** [![GitHub stars](https://img.shields.io/github/stars/stayingapi/hotel-mcp?style=social)](https://github.com/stayingapi/hotel-mcp): Hosted remote MCP server for live accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels (search, availability, prices, price comparison, reviews, listings).
 -   **[webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo)** [![GitHub stars](https://img.shields.io/github/stars/webcoderz/MCP-Geo?style=social)](https://github.com/webcoderz/MCP-Geo): Offers geocoding capabilities using various services.
 -   **[briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo)** [![GitHub stars](https://img.shields.io/github/stars/briandconnelly/mcp-server-ipinfo?style=social)](https://github.com/briandconnelly/mcp-server-ipinfo): Provides IP address geolocation and network information via ipinfo.io.
