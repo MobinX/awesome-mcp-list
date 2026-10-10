@@ -221,6 +221,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 💻 Developer Tools
 
+-   **[chddaniel/chatpack](https://github.com/chddaniel/chatpack)** [![GitHub stars](https://img.shields.io/github/stars/chddaniel/chatpack?style=social)](https://github.com/chddaniel/chatpack): Read-only MCP server for searching Chatpack documentation and retrieving framework setup guides and React UI block source.
+
 -   **[agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway)** [![GitHub stars](https://img.shields.io/github/stars/agiletec-inc/airis-mcp-gateway?style=social)](https://github.com/agiletec-inc/airis-mcp-gateway): Docker-based MCP multiplexer exposing 60+ tools through 7 meta-tools. Reduces context tokens by 97%. One-command setup, auto-enables servers on demand.
 -   **[21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)** [![GitHub stars](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=social)](https://github.com/21st-dev/magic-mcp): Generates UI components based on 21st.dev design principles.
 -   **[cafeTechne/antigravity-link-extension](https://github.com/cafeTechne/antigravity-link-extension)** [![GitHub stars](https://img.shields.io/github/stars/cafeTechne/antigravity-link-extension?style=social)](https://github.com/cafeTechne/antigravity-link-extension): Mobile bridge and MCP server for Google's Antigravity IDE. Mirror active AI chat sessions on your phone, send messages, upload files, stop generation, and automate workflows via 9 MCP tools or a local OpenAPI HTTP API. Listed in the official MCP Registry.
