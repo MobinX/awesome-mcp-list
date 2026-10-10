@@ -165,6 +165,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[skysay-ai/skysay-mcp](https://github.com/skysay-ai/skysay-mcp)** [![GitHub stars](https://img.shields.io/github/stars/skysay-ai/skysay-mcp?style=social)](https://github.com/skysay-ai/skysay-mcp): Hosted MCP server for voice agents, phone numbers, calls, SMS and campaigns.
 -   **[callforme-tel/callforme](https://github.com/callforme-tel/callforme)** [![GitHub stars](https://img.shields.io/github/stars/callforme-tel/callforme?style=social)](https://github.com/callforme-tel/callforme): Remote MCP server that phones businesses for an agent, navigates phone menus, waits on hold, checks back with the agent mid-call and returns a transcript with structured answers.
 -   **[fluxmailai/fluxmail](https://github.com/fluxmailai/fluxmail)** [![GitHub stars](https://img.shields.io/github/stars/fluxmailai/fluxmail?style=social)](https://github.com/fluxmailai/fluxmail): Self-hosted email server for Gmail, Outlook, Exchange and IMAP/SMTP that lets agents search, read, draft, send, schedule and organize mail with per-client permissions.
+-   **[GeiserX/telegram-archive-mcp](https://github.com/GeiserX/telegram-archive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/GeiserX/telegram-archive-mcp?style=social)](https://github.com/GeiserX/telegram-archive-mcp): Searches messages, browses chats and reads archived Telegram history from a Telegram-Archive instance.
 
 ### 👤 Customer Data Platforms
 
