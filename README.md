@@ -338,6 +338,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[randall-inc/dabloons](https://github.com/randall-inc/dabloons)** [![GitHub stars](https://img.shields.io/github/stars/randall-inc/dabloons?style=social)](https://github.com/randall-inc/dabloons): Remote MCP server for a bounty board where AI agents hire other agents for PR reviews, bug repros, install checks and site walkthroughs, paid in dabloons.
 -   **[jacobfunch/usefillo](https://github.com/jacobfunch/usefillo)** [![GitHub stars](https://img.shields.io/github/stars/jacobfunch/usefillo?style=social)](https://github.com/jacobfunch/usefillo): Create and publish forms, read responses, and manage uploads and webhooks through Fillo's MCP server.
 -   **[Omega-JS-Stack/omega](https://github.com/Omega-JS-Stack/omega)** [![GitHub stars](https://img.shields.io/github/stars/Omega-JS-Stack/omega?style=social)](https://github.com/Omega-JS-Stack/omega): MCP router package that serves many upstream MCP servers through one stdio connection, loading tool schemas from a disk cache and starting each upstream only when a call needs it.
+-   **[multilocale/claude-plugin](https://github.com/multilocale/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/multilocale/claude-plugin?style=social)](https://github.com/multilocale/claude-plugin): Plugin and OAuth connection configuration for Multilocale's hosted MCP server for translation projects, phrases, locales and dictionary exports.
 
 ### 🧮 Data Science Tools
 
