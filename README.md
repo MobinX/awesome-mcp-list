@@ -525,6 +525,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[PriceDotWin/pricewin-agent-plugin](https://github.com/PriceDotWin/pricewin-agent-plugin)** [![GitHub stars](https://img.shields.io/github/stars/PriceDotWin/pricewin-agent-plugin?style=social)](https://github.com/PriceDotWin/pricewin-agent-plugin): Hosted MCP server that compares live hotel and flight prices across Booking.com, Agoda, Trip.com and Traveloka, with links to book at the source.
 -   **[sky-access/skyaccess-mcp](https://github.com/sky-access/skyaccess-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-access/skyaccess-mcp?style=social)](https://github.com/sky-access/skyaccess-mcp): Hosted MCP server for private jet empty legs that searches live flights and returns charter price estimates and SkyAccess booking links.
 
+-   **[Nunya-design/aisle-mcp](https://github.com/Nunya-design/aisle-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Nunya-design/aisle-mcp?style=social)](https://github.com/Nunya-design/aisle-mcp): Searches destination wedding venues and helps plan budgets, timelines, guests and events.
+
 ### 🎯 Marketing
 
 -   **[axelfreeman/tapac-mcp](https://github.com/axelfreeman/tapac-mcp)** [![GitHub stars](https://img.shields.io/github/stars/axelfreeman/tapac-mcp?style=social)](https://github.com/axelfreeman/tapac-mcp): Finds and verifies B2B business contacts in real time from public websites, Telegram, and Discord, with SMTP email validation. `npx -y @tapacapi/mcp`.
