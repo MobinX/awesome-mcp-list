@@ -598,6 +598,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[querysail/querysail-gsc](https://github.com/querysail/querysail-gsc)** [![GitHub stars](https://img.shields.io/github/stars/querysail/querysail-gsc?style=social)](https://github.com/querysail/querysail-gsc): Hosted, read-only Google Search Console MCP server for search performance by query, page, country and device, period comparisons, URL inspection and sitemaps.
 -   **[Firefloco/chirpie-mcp](https://github.com/Firefloco/chirpie-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Firefloco/chirpie-mcp?style=social)](https://github.com/Firefloco/chirpie-mcp): Publishing connector for AI agents that posts, threads and schedules content to X, Bluesky, LinkedIn, Mastodon and Telegram.
 -   **[appskyline/claude-plugin](https://github.com/appskyline/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/appskyline/claude-plugin?style=social)](https://github.com/appskyline/claude-plugin): Plugin and OAuth connection configuration for AppSkyline's hosted MCP server for app keyword rankings, reviews and store listings.
+-   **[polyblog-io/claude-plugin](https://github.com/polyblog-io/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/polyblog-io/claude-plugin?style=social)](https://github.com/polyblog-io/claude-plugin): Plugin and OAuth connection configuration for Polyblog's hosted MCP server for multilingual blog drafting, translation and confirmed publication.
 
 ### 📊 Monitoring
 
