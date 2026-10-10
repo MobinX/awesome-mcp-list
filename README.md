@@ -169,6 +169,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[fluxmailai/fluxmail](https://github.com/fluxmailai/fluxmail)** [![GitHub stars](https://img.shields.io/github/stars/fluxmailai/fluxmail?style=social)](https://github.com/fluxmailai/fluxmail): Self-hosted email server for Gmail, Outlook, Exchange and IMAP/SMTP that lets agents search, read, draft, send, schedule and organize mail with per-client permissions.
 -   **[radres/call-me](https://github.com/radres/call-me)** [![GitHub stars](https://img.shields.io/github/stars/radres/call-me?style=social)](https://github.com/radres/call-me): Lets an agent call your iPhone, speak a question and return your spoken answer as text, or text you and wait for a reply, using the Call Me iOS app.
 -   **[supovia/claude-plugin](https://github.com/supovia/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/supovia/claude-plugin?style=social)](https://github.com/supovia/claude-plugin): Plugin and OAuth connection configuration for Supovia's hosted MCP server for help-doc search, customer-chat replies and conversation resolution.
+-   **[wapiworld/claude-plugin](https://github.com/wapiworld/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/wapiworld/claude-plugin?style=social)](https://github.com/wapiworld/claude-plugin): Plugin and OAuth connection configuration for Wapiworld's hosted MCP server for WhatsApp instance health, webhooks and confirmed text sending.
 
 ### 👤 Customer Data Platforms
 
