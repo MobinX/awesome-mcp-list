@@ -435,6 +435,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[simoncoombes/tradefloor](https://github.com/simoncoombes/tradefloor)** [![GitHub stars](https://img.shields.io/github/stars/simoncoombes/tradefloor?style=social)](https://github.com/simoncoombes/tradefloor): Local MCP server that lets an agent evaluate, rank and stress-test trading strategies in simulated stock markets with a limit order book, without placing real orders.
 -   **[0xArchiveIO/0xarchive-mcp](https://github.com/0xArchiveIO/0xarchive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/0xArchiveIO/0xarchive-mcp?style=social)](https://github.com/0xArchiveIO/0xarchive-mcp): Connects AI clients to Hyperliquid and Lighter market data through a hosted OAuth MCP server.
 
+-   **[velarion-ai/velarion-mcp](https://github.com/velarion-ai/velarion-mcp)** [![GitHub stars](https://img.shields.io/github/stars/velarion-ai/velarion-mcp?style=social)](https://github.com/velarion-ai/velarion-mcp): Cited executive, director and say-on-pay compensation data for about 3,000 US public companies. Free self-serve token, no card (60 calls/hr, 500/day); $39,000/year full data license by contract. Docs: https://intel.velarion.ai/developers?utm_source=mobinx&utm_medium=github&utm_campaign=mcp_storm.
+
 ### 🏃 Fitness & Sports
 
 -   **[JacobiusMakes/parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp?style=social)](https://github.com/JacobiusMakes/parlay-api-mcp): Connects MCP clients to ParlayAPI for sports odds, player props, public event discovery, and account usage. Account data tools use each user's own API key and account allowances.
