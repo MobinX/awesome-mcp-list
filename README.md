@@ -591,6 +591,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Otha-Labs/persuasion-mcp](https://github.com/Otha-Labs/persuasion-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Otha-Labs/persuasion-mcp?style=social)](https://github.com/Otha-Labs/persuasion-mcp): Plans and checks marketing copy against the nine questions readers ask, using persuasion techniques drawn from real ads and A/B test math.
 -   **[querysail/querysail-gsc](https://github.com/querysail/querysail-gsc)** [![GitHub stars](https://img.shields.io/github/stars/querysail/querysail-gsc?style=social)](https://github.com/querysail/querysail-gsc): Hosted, read-only Google Search Console MCP server for search performance by query, page, country and device, period comparisons, URL inspection and sitemaps.
 -   **[Firefloco/chirpie-mcp](https://github.com/Firefloco/chirpie-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Firefloco/chirpie-mcp?style=social)](https://github.com/Firefloco/chirpie-mcp): Publishing connector for AI agents that posts, threads and schedules content to X, Bluesky, LinkedIn, Mastodon and Telegram.
+-   **[jiangqizheng/vaneform-mcp](https://github.com/jiangqizheng/vaneform-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jiangqizheng/vaneform-mcp?style=social)](https://github.com/jiangqizheng/vaneform-mcp): Website traffic estimates (Similarweb), registry facts and side-by-side domain compares via Vaneform.
 
 ### 📊 Monitoring
 
