@@ -647,6 +647,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)** [![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=social)](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Extracts subtitles and transcripts from YouTube videos for AI processing.
 -   **[tubeagentkit/youtube-mcp](https://github.com/tubeagentkit/youtube-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tubeagentkit/youtube-mcp?style=social)](https://github.com/tubeagentkit/youtube-mcp): Hosted MCP server that searches YouTube for videos or channels and fetches transcripts, channel data, and playlists.
 -   **[ashlrai/webfetch](https://github.com/ashlrai/webfetch)** [![GitHub stars](https://img.shields.io/github/stars/ashlrai/webfetch?style=social)](https://github.com/ashlrai/webfetch): License-first image search for agents that ranks CC0 and public-domain results first and returns license and attribution data with every result.
+-   **[loootai/looot-mcp](https://github.com/loootai/looot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/loootai/looot-mcp?style=social)](https://github.com/loootai/looot-mcp): Hosted MCP server that searches 2,500+ data API endpoints (work emails, company data, SERP, scraping), shows the price before each call and bills per call from one balance.
 
 ### 🛠️ Utilities
 
