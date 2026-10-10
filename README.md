@@ -36,6 +36,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🌐 Browser Control
 
+-   **[MayberryDT/ibara](https://github.com/MayberryDT/ibara)** [![GitHub stars](https://img.shields.io/github/stars/MayberryDT/ibara?style=social)](https://github.com/MayberryDT/ibara): Gives MCP agents browser and desktop control on Omarchy computers you own over Tailscale.
 -   **[kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing)** [![GitHub stars](https://img.shields.io/github/stars/kimtth/mcp-aoai-web-browsing?style=social)](https://github.com/kimtth/mcp-aoai-web-browsing): Implements minimal web browsing using Azure OpenAI and Playwright.
 -   **[kontext-security/browser-use-mcp-server](https://github.com/kontext-security/browser-use-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/kontext-security/browser-use-mcp-server?style=social)](https://github.com/kontext-security/browser-use-mcp-server): Packages `browser-use` as an MCP server, with Docker support for Chromium and VNC.
 -   **[blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp)** [![GitHub stars](https://img.shields.io/github/stars/blackwhite084/playwright-plus-python-mcp?style=social)](https://github.com/blackwhite084/playwright-plus-python-mcp): Leverages Playwright via Python, optimized for large language models.
