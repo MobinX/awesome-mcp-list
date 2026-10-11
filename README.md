@@ -611,6 +611,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[polyblog-io/claude-plugin](https://github.com/polyblog-io/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/polyblog-io/claude-plugin?style=social)](https://github.com/polyblog-io/claude-plugin): Plugin and OAuth connection configuration for Polyblog's hosted MCP server for multilingual blog drafting, translation and confirmed publication.
 -   **[linkmcp-io/linkmcp](https://github.com/linkmcp-io/linkmcp)** [![GitHub stars](https://img.shields.io/github/stars/linkmcp-io/linkmcp?style=social)](https://github.com/linkmcp-io/linkmcp): Hosted LinkedIn MCP server that works on your own account for profile, company and people search, inbox, posts, connection requests and work email finding.
 -   **[DMParrot/dmparrot-mcp](https://github.com/DMParrot/dmparrot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/DMParrot/dmparrot-mcp?style=social)](https://github.com/DMParrot/dmparrot-mcp): Hosted Instagram comment-to-DM automation with keyword funnels, private replies, tags and broadcasts through the Instagram API.
+-   **[0xrome/debriefing-mcp](https://github.com/0xrome/debriefing-mcp)** [![GitHub stars](https://img.shields.io/github/stars/0xrome/debriefing-mcp?style=social)](https://github.com/0xrome/debriefing-mcp): Remote MCP server for Debriefing competitive intelligence with tracked competitors, evidence-backed signals, digests and battlecards.
 
 ### 📊 Monitoring
 
