@@ -629,6 +629,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[JoeyBrar/agentseal-mcp](https://github.com/JoeyBrar/agentseal-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JoeyBrar/agentseal-mcp?style=social)](https://github.com/JoeyBrar/agentseal-mcp): Action logs for AI agents, recording every action in a SHA-256 hash chain for verifiable audit trails.
 -   **[pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/pab1it0/prometheus-mcp-server?style=social)](https://github.com/pab1it0/prometheus-mcp-server): Provides querying and analysis of Prometheus monitoring system.
 -   **[croncool/claude-plugin](https://github.com/croncool/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/croncool/claude-plugin?style=social)](https://github.com/croncool/claude-plugin): Plugin and OAuth connection configuration for Croncool's hosted MCP server for scheduled-job health, workflow traces, webhooks and confirmed run-now actions.
+-   **[fclairamb/solidping](https://github.com/fclairamb/solidping)** [![GitHub stars](https://img.shields.io/github/stars/fclairamb/solidping?style=social)](https://github.com/fclairamb/solidping): Self-hostable uptime monitor with a built-in MCP server (remote or stdio) to create, run and diagnose checks, read incidents and manage status pages.
 
 ### 🔎 Search
 
