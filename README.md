@@ -441,6 +441,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[simoncoombes/tradefloor](https://github.com/simoncoombes/tradefloor)** [![GitHub stars](https://img.shields.io/github/stars/simoncoombes/tradefloor?style=social)](https://github.com/simoncoombes/tradefloor): Local MCP server that lets an agent evaluate, rank and stress-test trading strategies in simulated stock markets with a limit order book, without placing real orders.
 -   **[0xArchiveIO/0xarchive-mcp](https://github.com/0xArchiveIO/0xarchive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/0xArchiveIO/0xarchive-mcp?style=social)](https://github.com/0xArchiveIO/0xarchive-mcp): Connects AI clients to Hyperliquid and Lighter market data through a hosted OAuth MCP server.
 -   **[invoicevista/claude-plugin](https://github.com/invoicevista/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/invoicevista/claude-plugin?style=social)](https://github.com/invoicevista/claude-plugin): Plugin and OAuth setup for InvoiceVista's hosted MCP server covering revenue, unpaid invoice totals, open quotes and product catalogs.
+-   **[kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules)** [![GitHub stars](https://img.shields.io/github/stars/kburrus64-max/prop-firm-rules?style=social)](https://github.com/kburrus64-max/prop-firm-rules): Prop-firm daily-loss and max-drawdown rules for firms such as FTMO, Topstep and Apex, with a drawdown-room checker as a local stdio or hosted server.
 
 ### 🏃 Fitness & Sports
 
