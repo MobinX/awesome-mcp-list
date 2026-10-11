@@ -508,6 +508,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[eidetic-works/nucleus-mcp](https://github.com/eidetic-works/nucleus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/eidetic-works/nucleus-mcp?style=social)](https://github.com/eidetic-works/nucleus-mcp): Local-first MCP server for persistent memory, execution verification, governance, and compliance.
 -   **[lockstep-team-agent/lockstep](https://github.com/lockstep-team-agent/lockstep)** [![GitHub stars](https://img.shields.io/github/stars/lockstep-team-agent/lockstep?style=social)](https://github.com/lockstep-team-agent/lockstep): Shared decision memory for teams using AI coding agents, recording product and engineering choices with their rationale and rejected options, and briefing each agent before it acts.
 -   **[LAHutchins91/continuity-mcp](https://github.com/LAHutchins91/continuity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/LAHutchins91/continuity-mcp?style=social)](https://github.com/LAHutchins91/continuity-mcp): Story bible for fiction writers that keeps characters, timelines and past chapters consistent across AI assistants through a hosted OAuth MCP server.
+-   **[marstudio360/vibedna-journal-mcp](https://github.com/marstudio360/vibedna-journal-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/vibedna-journal-mcp?style=social)](https://github.com/marstudio360/vibedna-journal-mcp): One markdown journal per project that an AI reads at session start and updates as it works.
 
 ### ⚖️ Legal & Compliance
 
