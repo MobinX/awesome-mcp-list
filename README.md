@@ -714,6 +714,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[doctofam/claude-plugin](https://github.com/doctofam/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/doctofam/claude-plugin?style=social)](https://github.com/doctofam/claude-plugin): Plugin and OAuth connection configuration for DoctoFam's hosted MCP server for medical-clinic availability, doctor rosters, rooms, service prices and aggregate schedules.
 -   **[veterical/claude-plugin](https://github.com/veterical/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/veterical/claude-plugin?style=social)](https://github.com/veterical/claude-plugin): Plugin and OAuth connection configuration for Veterical's hosted MCP server for veterinary-clinic availability, vet rosters, service prices and aggregate schedules.
 -   **[hotelumo/claude-plugin](https://github.com/hotelumo/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/hotelumo/claude-plugin?style=social)](https://github.com/hotelumo/claude-plugin): Plugin and OAuth setup for Hotelumo's hosted MCP server covering hotel room availability, rates, housekeeping and arrival and departure totals.
+-   **[marstudio360/vibedna-vault-mcp](https://github.com/marstudio360/vibedna-vault-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/vibedna-vault-mcp?style=social)](https://github.com/marstudio360/vibedna-vault-mcp): Encrypted local vault for API keys that lets an AI fetch keys on demand and scan projects for leaks.
 
 ### 🦾 Robotics & Physical AI
 
