@@ -676,6 +676,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🛠️ Utilities
 
+-   **[Sambel/localscreenshot-mcp](https://github.com/Sambel/localscreenshot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Sambel/localscreenshot-mcp?style=social)](https://github.com/Sambel/localscreenshot-mcp): Hosted screenshot capture over Streamable HTTP for any public page, from 227 countries, with cookie banners and ads hidden; a free endpoint works without a key, configs and docs live in the repository.
 -   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp?style=social)](https://github.com/zcaceres/fetch-mcp): Fetches JSON, text, and HTML data flexibly from URLs.
 -   **[modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Efficiently fetches and processes web content (part of the official servers collection).
 -   **[portel-dev/ncp](https://github.com/portel-dev/ncp)** [![GitHub stars](https://img.shields.io/github/stars/portel-dev/ncp?style=social)](https://github.com/portel-dev/ncp): Orchestrates MCP server ecosystems through dynamic tool discovery to reduce context overhead.
