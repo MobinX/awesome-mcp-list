@@ -627,6 +627,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[0xrome/debriefing-mcp](https://github.com/0xrome/debriefing-mcp)** [![GitHub stars](https://img.shields.io/github/stars/0xrome/debriefing-mcp?style=social)](https://github.com/0xrome/debriefing-mcp): Remote MCP server for Debriefing competitive intelligence with tracked competitors, evidence-backed signals, digests and battlecards.
 -   **[WhimbrelResearch/whimbrel-mcp](https://github.com/WhimbrelResearch/whimbrel-mcp)** [![GitHub stars](https://img.shields.io/github/stars/WhimbrelResearch/whimbrel-mcp?style=social)](https://github.com/WhimbrelResearch/whimbrel-mcp): Remote MCP server for researching US medtech companies using NIH and NSF grants, federal contracts and FDA clearances.
 -   **[top-init/appstoretracker-mcp](https://github.com/top-init/appstoretracker-mcp)** [![GitHub stars](https://img.shields.io/github/stars/top-init/appstoretracker-mcp?style=social)](https://github.com/top-init/appstoretracker-mcp): Hosted MCP server for iOS App Store chart rankings, app details, reviews, keywords and revenue estimates.
+-   **[Shipped-Studio/unsora](https://github.com/Shipped-Studio/unsora)** [![GitHub stars](https://img.shields.io/github/stars/Shipped-Studio/unsora?style=social)](https://github.com/Shipped-Studio/unsora): Remote MCP server that generates images, video, music and voiceovers, clips long videos into shorts, and schedules posts to social platforms.
 
 ### 📊 Monitoring
 
