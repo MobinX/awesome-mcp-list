@@ -625,6 +625,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[DMParrot/dmparrot-mcp](https://github.com/DMParrot/dmparrot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/DMParrot/dmparrot-mcp?style=social)](https://github.com/DMParrot/dmparrot-mcp): Hosted Instagram comment-to-DM automation with keyword funnels, private replies, tags and broadcasts through the Instagram API.
 -   **[0xrome/debriefing-mcp](https://github.com/0xrome/debriefing-mcp)** [![GitHub stars](https://img.shields.io/github/stars/0xrome/debriefing-mcp?style=social)](https://github.com/0xrome/debriefing-mcp): Remote MCP server for Debriefing competitive intelligence with tracked competitors, evidence-backed signals, digests and battlecards.
 -   **[WhimbrelResearch/whimbrel-mcp](https://github.com/WhimbrelResearch/whimbrel-mcp)** [![GitHub stars](https://img.shields.io/github/stars/WhimbrelResearch/whimbrel-mcp?style=social)](https://github.com/WhimbrelResearch/whimbrel-mcp): Remote MCP server for researching US medtech companies using NIH and NSF grants, federal contracts and FDA clearances.
+-   **[top-init/appstoretracker-mcp](https://github.com/top-init/appstoretracker-mcp)** [![GitHub stars](https://img.shields.io/github/stars/top-init/appstoretracker-mcp?style=social)](https://github.com/top-init/appstoretracker-mcp): Hosted MCP server for iOS App Store chart rankings, app details, reviews, keywords and revenue estimates.
 
 ### 📊 Monitoring
 
