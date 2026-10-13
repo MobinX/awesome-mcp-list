@@ -465,6 +465,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=social)](https://github.com/JamsusMaximus/trainingpeaks-mcp): Accesses TrainingPeaks fitness metrics, workout history, and personal records for endurance athletes.
 -   **[tandemloop/careclinic_mcp](https://github.com/tandemloop/careclinic_mcp)** [![GitHub stars](https://img.shields.io/github/stars/tandemloop/careclinic_mcp?style=social)](https://github.com/tandemloop/careclinic_mcp): Remote MCP server for personal health tracking: symptoms, mood, medications, and wellness patterns.
 -   **[gymflexa/claude-plugin](https://github.com/gymflexa/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/gymflexa/claude-plugin?style=social)](https://github.com/gymflexa/claude-plugin): Plugin and OAuth setup for GymFlexa's hosted MCP server covering gym availability, services, schedules and payment totals.
+-   **[soma-intelligence/open-health-sync](https://github.com/soma-intelligence/open-health-sync)** [![GitHub stars](https://img.shields.io/github/stars/soma-intelligence/open-health-sync?style=social)](https://github.com/soma-intelligence/open-health-sync): Read-only MCP server over a self-hosted store that normalizes Apple Health, Health Connect, Oura, WHOOP, Withings, Strava and other wearable data into one schema.
 
 ### 🛒 E-Commerce
 
