@@ -558,6 +558,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[PriceDotWin/pricewin-agent-plugin](https://github.com/PriceDotWin/pricewin-agent-plugin)** [![GitHub stars](https://img.shields.io/github/stars/PriceDotWin/pricewin-agent-plugin?style=social)](https://github.com/PriceDotWin/pricewin-agent-plugin): Hosted MCP server that compares live hotel and flight prices across Booking.com, Agoda, Trip.com and Traveloka, with links to book at the source.
 -   **[sky-access/skyaccess-mcp](https://github.com/sky-access/skyaccess-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-access/skyaccess-mcp?style=social)](https://github.com/sky-access/skyaccess-mcp): Hosted MCP server for private jet empty legs that searches live flights and returns charter price estimates and SkyAccess booking links.
 -   **[donniertf-hub/uk-mcp-fleet](https://github.com/donniertf-hub/uk-mcp-fleet)** [![GitHub stars](https://img.shields.io/github/stars/donniertf-hub/uk-mcp-fleet?style=social)](https://github.com/donniertf-hub/uk-mcp-fleet): Remote MCP servers for UK open data including Companies House, Land Registry, planning, flood, crime and food hygiene records.
+-   **[TerraLabAI/mcp](https://github.com/TerraLabAI/mcp)** [![GitHub stars](https://img.shields.io/github/stars/TerraLabAI/mcp?style=social)](https://github.com/TerraLabAI/mcp): Client integrations for TerraLab's public hosted MCP server for open map data, GIS file and coordinate conversion, elevation, and French cadastral parcels.
 
 ### 🎯 Marketing
 
