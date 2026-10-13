@@ -458,6 +458,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[unusual-whales/unusual-whales-official-mcp](https://github.com/unusual-whales/unusual-whales-official-mcp)** [![GitHub stars](https://img.shields.io/github/stars/unusual-whales/unusual-whales-official-mcp?style=social)](https://github.com/unusual-whales/unusual-whales-official-mcp): Unusual Whales server for options flow, dark pool prints, congressional trades, volatility, prediction markets and screeners.
 -   **[cryptowisser-com/cryptowisser-news-plugin](https://github.com/cryptowisser-com/cryptowisser-news-plugin)** [![GitHub stars](https://img.shields.io/github/stars/cryptowisser-com/cryptowisser-news-plugin?style=social)](https://github.com/cryptowisser-com/cryptowisser-news-plugin): Crypto news from Cryptowisser's newsroom, including latest headlines, coverage of coins, companies and people, and full articles.
 -   **[velarion-ai/velarion-mcp](https://github.com/velarion-ai/velarion-mcp)** [![GitHub stars](https://img.shields.io/github/stars/velarion-ai/velarion-mcp?style=social)](https://github.com/velarion-ai/velarion-mcp): Cited executive, director and say-on-pay compensation data for US public companies.
+-   **[blockvectra/mcp](https://github.com/blockvectra/mcp)** [![GitHub stars](https://img.shields.io/github/stars/blockvectra/mcp?style=social)](https://github.com/blockvectra/mcp): Remote MCP for developers and AI agents with multi-chain JSON-RPC, indexed data and keyless documentation; Data API queries require an API key.
 
 ### 🏃 Fitness & Sports
 
