@@ -523,6 +523,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[marstudio360/vibedna-journal-mcp](https://github.com/marstudio360/vibedna-journal-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/vibedna-journal-mcp?style=social)](https://github.com/marstudio360/vibedna-journal-mcp): One markdown journal per project that an AI reads at session start and updates as it works.
 -   **[lbailey94/whitemagic](https://github.com/lbailey94/whitemagic)** [![GitHub stars](https://img.shields.io/github/stars/lbailey94/whitemagic?style=social)](https://github.com/lbailey94/whitemagic): Local-first durable memory and session continuity for AI agents with hybrid recall and session handoffs.
 -   **[devchad-cmd/skilldb-sdk](https://github.com/devchad-cmd/skilldb-sdk)** [![GitHub stars](https://img.shields.io/github/stars/devchad-cmd/skilldb-sdk?style=social)](https://github.com/devchad-cmd/skilldb-sdk): Searches reusable AI agent skills through a TypeScript MCP server with metadata discovery and skill content retrieval.
+-   **[fadymondy/zekra](https://github.com/fadymondy/zekra)** [![GitHub stars](https://img.shields.io/github/stars/fadymondy/zekra?style=social)](https://github.com/fadymondy/zekra): Self-hostable shared long-term memory for AI agents with hybrid recall, a knowledge graph and data-source sync.
 
 ### ⚖️ Legal & Compliance
 
