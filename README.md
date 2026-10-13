@@ -135,6 +135,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[jeannier/homebrew-mcp](https://github.com/jeannier/homebrew-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jeannier/homebrew-mcp?style=social)](https://github.com/jeannier/homebrew-mcp): Manages macOS Homebrew packages, searches formulae, and troubleshoots brew issues.
 -   **[Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Coding-Dev-Tools/click-to-mcp?style=social)](https://github.com/Coding-Dev-Tools/click-to-mcp): Auto-wrap any Click or Typer CLI as an MCP server by introspecting commands and options at runtime. `pip install click-to-mcp`.
 -   **[AICommander-dev/aicommander](https://github.com/AICommander-dev/aicommander)** [![GitHub stars](https://img.shields.io/github/stars/AICommander-dev/aicommander?style=social)](https://github.com/AICommander-dev/aicommander): Remote-machine harness for AI agents — outbound-only shell, detached jobs, and file transfer over MCP/HTTP on servers you own (works with Cursor, Continue, Claude Code, Codex, and more).
+-   **[onlsol/relay.remotify.run](https://github.com/onlsol/relay.remotify.run)** [![GitHub stars](https://img.shields.io/github/stars/onlsol/relay.remotify.run?style=social)](https://github.com/onlsol/relay.remotify.run): Lets AI clients execute shell commands on a remote computer through a relay with human approval.
 
 ### 💬 Communication
 
