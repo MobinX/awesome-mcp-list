@@ -713,6 +713,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[chenwengui23/wanjige-mcp](https://github.com/chenwengui23/wanjige-mcp)** [![GitHub stars](https://img.shields.io/github/stars/chenwengui23/wanjige-mcp?style=social)](https://github.com/chenwengui23/wanjige-mcp): Remote and stdio MCP server with a large catalog of Chinese-focused tools for web and academic search, weather, maps, market quotes, document parsing, text-to-speech and media generation.
 -   **[arcmira/mcp](https://github.com/arcmira/mcp)** [![GitHub stars](https://img.shields.io/github/stars/arcmira/mcp?style=social)](https://github.com/arcmira/mcp): Searches Arcmira's indexed YouTube transcripts for timestamped quotes, speakers and sponsors.
 -   **[firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=social)](https://github.com/firecrawl/firecrawl-mcp-server): Firecrawl MCP server for web search, scraping, crawling and site mapping, returning clean markdown or structured data.
+-   **[dreamworkhq/mcp](https://github.com/dreamworkhq/mcp)** [![GitHub stars](https://img.shields.io/github/stars/dreamworkhq/mcp?style=social)](https://github.com/dreamworkhq/mcp): Search jobs, tailor application materials, and track applications; public job browsing works without an API key.
 
 ### 🛠️ Utilities
 
