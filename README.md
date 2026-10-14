@@ -360,6 +360,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[chddaniel/chatpack](https://github.com/chddaniel/chatpack)** [![GitHub stars](https://img.shields.io/github/stars/chddaniel/chatpack?style=social)](https://github.com/chddaniel/chatpack): Read-only MCP server for searching Chatpack documentation and retrieving framework setup guides and React UI block source.
 -   **[uxkin/agent](https://github.com/uxkin/agent)** [![GitHub stars](https://img.shields.io/github/stars/uxkin/agent?style=social)](https://github.com/uxkin/agent): Setup and skills for UXKIN's hosted MCP server, which gives coding agents real UI references: iOS app screens, user journeys and website design systems.
 -   **[morluto/rea](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=social)](https://github.com/morluto/rea): Local MCP server and CLI for agent-assisted reverse engineering of native binaries, JavaScript/Electron apps, and .NET assemblies.
+-   **[gettaskhold/taskhold-plugin](https://github.com/gettaskhold/taskhold-plugin)** [![GitHub stars](https://img.shields.io/github/stars/gettaskhold/taskhold-plugin?style=social)](https://github.com/gettaskhold/taskhold-plugin): Hosted MCP server for a task list shared by a person and their coding agents, letting agents pick up the next task, add todos, block on a question and mark work done.
 
 ### 🧮 Data Science Tools
 
