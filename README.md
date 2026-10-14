@@ -701,6 +701,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[kikiyop1101/boim-mcp](https://github.com/kikiyop1101/boim-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kikiyop1101/boim-mcp?style=social)](https://github.com/kikiyop1101/boim-mcp): Hosted read-only MCP server for finding Korean businesses, public-procurement vendors and open public bids.
 -   **[chenwengui23/wanjige-mcp](https://github.com/chenwengui23/wanjige-mcp)** [![GitHub stars](https://img.shields.io/github/stars/chenwengui23/wanjige-mcp?style=social)](https://github.com/chenwengui23/wanjige-mcp): Remote and stdio MCP server with a large catalog of Chinese-focused tools for web and academic search, weather, maps, market quotes, document parsing, text-to-speech and media generation.
 -   **[arcmira/mcp](https://github.com/arcmira/mcp)** [![GitHub stars](https://img.shields.io/github/stars/arcmira/mcp?style=social)](https://github.com/arcmira/mcp): Searches Arcmira's indexed YouTube transcripts for timestamped quotes, speakers and sponsors.
+-   **[firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=social)](https://github.com/firecrawl/firecrawl-mcp-server): Firecrawl MCP server for web search, scraping, crawling and site mapping, returning clean markdown or structured data.
 
 ### 🛠️ Utilities
 
