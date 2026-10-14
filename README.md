@@ -540,6 +540,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[LienDeadline/liendeadline-mcp](https://github.com/LienDeadline/liendeadline-mcp)** [![GitHub stars](https://img.shields.io/github/stars/LienDeadline/liendeadline-mcp?style=social)](https://github.com/LienDeadline/liendeadline-mcp): US mechanics lien and preliminary notice deadlines for construction material suppliers, with statute-cited lien guides for all 50 states and DC.
 -   **[moxno/privacyscrubber-mcp](https://github.com/moxno/privacyscrubber-mcp)** [![GitHub stars](https://img.shields.io/github/stars/moxno/privacyscrubber-mcp?style=social)](https://github.com/moxno/privacyscrubber-mcp): Local in-memory PII and sensitive data masking for AI agents and LLM tool pipelines.
 -   **[contracko/contracko-skills](https://github.com/contracko/contracko-skills)** [![GitHub stars](https://img.shields.io/github/stars/contracko/contracko-skills?style=social)](https://github.com/contracko/contracko-skills): Remote MCP server for contract management with contract review, data extraction, reminders and renewal deadlines.
+-   **[johnInarti/agent-passport-mcp](https://github.com/johnInarti/agent-passport-mcp)** [![GitHub stars](https://img.shields.io/github/stars/johnInarti/agent-passport-mcp?style=social)](https://github.com/johnInarti/agent-passport-mcp): Issues and verifies AI-agent passports and AI-decision receipts signed with ML-DSA-65 that can be checked offline against a pinned key.
 
 ### 🗺️ Location Services
 
