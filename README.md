@@ -699,6 +699,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[agent-gigmole/agentoolrank-mcp](https://github.com/agent-gigmole/agentoolrank-mcp)** [![GitHub stars](https://img.shields.io/github/stars/agent-gigmole/agentoolrank-mcp?style=social)](https://github.com/agent-gigmole/agentoolrank-mcp): Hosted MCP server for searching open-source AI agent tools and MCP servers ranked by GitHub activity, with alternatives for any tool.
 -   **[kikiyop1101/boim-mcp](https://github.com/kikiyop1101/boim-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kikiyop1101/boim-mcp?style=social)](https://github.com/kikiyop1101/boim-mcp): Hosted read-only MCP server for finding Korean businesses, public-procurement vendors and open public bids.
 -   **[chenwengui23/wanjige-mcp](https://github.com/chenwengui23/wanjige-mcp)** [![GitHub stars](https://img.shields.io/github/stars/chenwengui23/wanjige-mcp?style=social)](https://github.com/chenwengui23/wanjige-mcp): Remote and stdio MCP server with a large catalog of Chinese-focused tools for web and academic search, weather, maps, market quotes, document parsing, text-to-speech and media generation.
+-   **[arcmira/mcp](https://github.com/arcmira/mcp)** [![GitHub stars](https://img.shields.io/github/stars/arcmira/mcp?style=social)](https://github.com/arcmira/mcp): Searches Arcmira's indexed YouTube transcripts for timestamped quotes, speakers and sponsors.
 
 ### 🛠️ Utilities
 
