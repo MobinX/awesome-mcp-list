@@ -85,6 +85,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[theinfluencecompany/realtime-avatar-sdk](https://github.com/theinfluencecompany/realtime-avatar-sdk)** [![GitHub stars](https://img.shields.io/github/stars/theinfluencecompany/realtime-avatar-sdk?style=social)](https://github.com/theinfluencecompany/realtime-avatar-sdk): MCP server that lets a coding agent read realtime AI avatars, clip libraries, credit balance and session usage, with opt-in tools to build an avatar from one image.
 -   **[marstudio360/vibegen-mcp](https://github.com/marstudio360/vibegen-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/vibegen-mcp?style=social)](https://github.com/marstudio360/vibegen-mcp): Drive a live generative art studio: read the canvas, move parameters, switch engines.
 -   **[makeaivideo-ai/mcp](https://github.com/makeaivideo-ai/mcp)** [![GitHub stars](https://img.shields.io/github/stars/makeaivideo-ai/mcp?style=social)](https://github.com/makeaivideo-ai/mcp): Creates short-form AI videos with voiceover, scenes, captions and music, and posts them to TikTok, Instagram and YouTube.
+-   **[qrxcodes/mcp](https://github.com/qrxcodes/mcp)** [![GitHub stars](https://img.shields.io/github/stars/qrxcodes/mcp?style=social)](https://github.com/qrxcodes/mcp): Turns a prompt and a link into an artistic QR code with QRX, checking that each code scans before it is returned.
 
 ### 🤖 AI Agents & Frameworks
 
