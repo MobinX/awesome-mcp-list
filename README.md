@@ -182,6 +182,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[wapiworld/claude-plugin](https://github.com/wapiworld/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/wapiworld/claude-plugin?style=social)](https://github.com/wapiworld/claude-plugin): Plugin and OAuth connection configuration for Wapiworld's hosted MCP server for WhatsApp instance health, webhooks and confirmed text sending.
 -   **[phuryn/askone](https://github.com/phuryn/askone)** [![GitHub stars](https://img.shields.io/github/stars/phuryn/askone?style=social)](https://github.com/phuryn/askone): Runs AskOne live audience Q&A and polls from an agent, including starting rooms, launching polls and moderating questions.
 -   **[rillsoft/rillsoft-project-mcp](https://github.com/rillsoft/rillsoft-project-mcp)** [![GitHub stars](https://img.shields.io/github/stars/rillsoft/rillsoft-project-mcp?style=social)](https://github.com/rillsoft/rillsoft-project-mcp): MCP server built into Rillsoft Project for multi-project resource planning on Windows.
+-   **[gileshall/nanotea](https://github.com/gileshall/nanotea)** [![GitHub stars](https://img.shields.io/github/stars/gileshall/nanotea?style=social)](https://github.com/gileshall/nanotea): Self-hosted messaging app where coding agents report status and ask questions over MCP and you answer by typing, tapping or recording.
 
 ### 👤 Customer Data Platforms
 
