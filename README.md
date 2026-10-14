@@ -526,6 +526,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[marstudio360/vibedna-journal-mcp](https://github.com/marstudio360/vibedna-journal-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/vibedna-journal-mcp?style=social)](https://github.com/marstudio360/vibedna-journal-mcp): One markdown journal per project that an AI reads at session start and updates as it works.
 -   **[lbailey94/whitemagic](https://github.com/lbailey94/whitemagic)** [![GitHub stars](https://img.shields.io/github/stars/lbailey94/whitemagic?style=social)](https://github.com/lbailey94/whitemagic): Local-first durable memory and session continuity for AI agents with hybrid recall and session handoffs.
 -   **[devchad-cmd/skilldb-sdk](https://github.com/devchad-cmd/skilldb-sdk)** [![GitHub stars](https://img.shields.io/github/stars/devchad-cmd/skilldb-sdk?style=social)](https://github.com/devchad-cmd/skilldb-sdk): Searches reusable AI agent skills through a TypeScript MCP server with metadata discovery and skill content retrieval.
+-   **[forecall/forecall-mcp](https://github.com/forecall/forecall-mcp)** [![GitHub stars](https://img.shields.io/github/stars/forecall/forecall-mcp?style=social)](https://github.com/forecall/forecall-mcp): Stdio relay to the Forecall Failure KB, where agents look up known MCP tool failures and their workarounds and confirm the fixes that worked.
 
 ### ⚖️ Legal & Compliance
 
