@@ -1,0 +1,685 @@
+[
+  {
+    "number": 685,
+    "repo": "chddaniel/chatpack",
+    "title": "Add Chatpack MCP to developer tools",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[chddaniel/chatpack](https://github.com/chddaniel/chatpack)** [![GitHub stars](https://img.shields.io/github/stars/chddaniel/chatpack?style=social)](https://github.com/chddaniel/chatpack): Read-only MCP server for searching Chatpack documentation and retrieving framework setup guides and React UI block source.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 686,
+    "repo": "zenmode87/zenmode-mcp",
+    "title": "Add zenmode87/zenmode-mcp to Marketing",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[zenmode87/zenmode-mcp](https://github.com/zenmode87/zenmode-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zenmode87/zenmode-mcp?style=social)](https://github.com/zenmode87/zenmode-mcp): Remote MCP server for ZenMode LinkedIn outreach: read campaigns, contacts and replies, and add leads or change targeting.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 687,
+    "repo": "audiojs/audio",
+    "title": "Triage all open PRs and issues oldest first",
+    "outcome": "CLOSE",
+    "reason": "Duplicate: audiojs/audio is already in README.md",
+    "category": "N/A"
+  },
+  {
+    "number": 688,
+    "repo": "forecall/forecall-mcp",
+    "title": "Add forecall/forecall-mcp to Knowledge & Memory",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83e\udde0 Knowledge & Memory",
+    "bullet": "-   **[forecall/forecall-mcp](https://github.com/forecall/forecall-mcp)** [![GitHub stars](https://img.shields.io/github/stars/forecall/forecall-mcp?style=social)](https://github.com/forecall/forecall-mcp): Stdio relay to the Forecall Failure KB, where agents look up known MCP tool failures and their workarounds and confirm the fixes that worked.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 689,
+    "repo": "chenwengui23/wanjige-mcp",
+    "title": "Add Wanjige MCP server to \ud83d\udd0e Search",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udd0e Search",
+    "bullet": "-   **[chenwengui23/wanjige-mcp](https://github.com/chenwengui23/wanjige-mcp)** [![GitHub stars](https://img.shields.io/github/stars/chenwengui23/wanjige-mcp?style=social)](https://github.com/chenwengui23/wanjige-mcp): One MCP server exposing 15,552 callable tools \u2014 web search, arXiv / PubMed / OpenAlex / World Bank research, China weather / POI / driving routes, A-share / HK / US quotes, 930 FX pairs, fund NAV, PDF/Word/Excel parsing, Chinese TTS (14 voices incl. Cantonese & Taiwanese), image and image-to-video generation, and deterministic calculators. Progressive disclosure returns 34 curated tools on the first page; long tail via free `qj_search_tools`. Hosted Streamable HTTP at `https://qianjige.app.workbuddy.host/mcp?key={api_key}` (1,000 free credits on signup) or stdio via `npx -y wanjige-mcp`. Official MCP Registry id `io.github.chenwengui23/wanjige`.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 690,
+    "repo": "arcmira/mcp",
+    "title": "Add arcmira/mcp to Search",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udd0e Search",
+    "bullet": "-   **[arcmira/mcp](https://github.com/arcmira/mcp)** [![GitHub stars](https://img.shields.io/github/stars/arcmira/mcp?style=social)](https://github.com/arcmira/mcp): Searches [Arcmira](https://arcmira.com)'s indexed YouTube transcripts for timestamped quotes, speakers and sponsors ([docs](https://arcmira.com/docs)).",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 691,
+    "repo": "tale-project/tale",
+    "title": "docs: add Tale MCP to knowledge and memory",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83e\udde0 Knowledge & Memory",
+    "bullet": "-   **[tale-project/tale](https://github.com/tale-project/tale)** [![GitHub stars](https://img.shields.io/github/stars/tale-project/tale?style=social)](https://github.com/tale-project/tale): Retrieves organizational knowledge and authors, tests, and runs automations through Tale\u2019s built-in HTTP MCP server with API-key authentication.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 692,
+    "repo": "Perufitlife/postwire-mcp",
+    "title": "Add Perufitlife/postwire-mcp to Marketing",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[Perufitlife/postwire-mcp](https://github.com/Perufitlife/postwire-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Perufitlife/postwire-mcp?style=social)](https://github.com/Perufitlife/postwire-mcp): Writes a separate native post per social network from one idea, then publishes or schedules it to TikTok, Instagram, YouTube, LinkedIn, Facebook Pages, Bluesky, Mastodon, Telegram and Discord.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 693,
+    "repo": "firecrawl/firecrawl-mcp-server",
+    "title": "Add firecrawl/firecrawl-mcp-server to Search",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udd0e Search",
+    "bullet": "-   **[firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=social)](https://github.com/firecrawl/firecrawl-mcp-server): Official Firecrawl MCP server for web search, scraping, crawling and site mapping, returning clean markdown or structured data. Install via `npx -y firecrawl-mcp`.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 694,
+    "repo": "linglistack/heyreagent-linkedin-mcp",
+    "title": "Add linglistack/heyreagent-linkedin-mcp to Marketing",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[linglistack/heyreagent-linkedin-mcp](https://github.com/linglistack/heyreagent-linkedin-mcp)** [![GitHub stars](https://img.shields.io/github/stars/linglistack/heyreagent-linkedin-mcp?style=social)](https://github.com/linglistack/heyreagent-linkedin-mcp): Connects agents to HeyReagent (https://heyreagent.com), a hosted MCP server with OAuth for your own LinkedIn account: inbox, messages, connection invitations and people search.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 695,
+    "repo": "Nunya-design/aisle-mcp",
+    "title": "Add Nunya-design/aisle-mcp to Location Services",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\uddfa\ufe0f Location Services",
+    "bullet": "-   **[Nunya-design/aisle-mcp](https://github.com/Nunya-design/aisle-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Nunya-design/aisle-mcp?style=social)](https://github.com/Nunya-design/aisle-mcp): Searches destination wedding venues and helps plan budgets, timelines, guests and events.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 696,
+    "repo": "aeonfun/aeon",
+    "title": "Merge remote-tracking branch 'up/main' into add-aeon",
+    "outcome": "MERGE",
+    "category": "\ud83e\udd16 AI Agents & Frameworks",
+    "bullet": "-   **[aeonfun/aeon](https://github.com/aeonfun/aeon)** [![GitHub stars](https://img.shields.io/github/stars/aeonfun/aeon?style=social)](https://github.com/aeonfun/aeon): Open-source autonomous agent framework with a hosted remote MCP server at `https://www.aeon.fun/connect/mcp` (OAuth, sign in with GitHub) to run and manage your agent from chat: skills, runs, memory, strategy, packs and settings.",
+    "fix_reason": null
+  },
+  {
+    "number": 697,
+    "repo": "theinfluencecompany/realtime-avatar-sdk",
+    "title": "Triage open MCP server PRs (#603-#696) oldest first, landing fixed single-bullet entries to README.md in accordance with contributing guidelines.",
+    "outcome": "CLOSE",
+    "reason": "Duplicate: theinfluencecompany/realtime-avatar-sdk is already in README.md",
+    "category": "N/A"
+  },
+  {
+    "number": 698,
+    "repo": "qrxcodes/mcp",
+    "title": "Add qrxcodes/mcp to Art & Culture",
+    "outcome": "MERGE",
+    "category": "\ud83c\udfa8 Art & Culture",
+    "bullet": "-   **[qrxcodes/mcp](https://github.com/qrxcodes/mcp)** [![GitHub stars](https://img.shields.io/github/stars/qrxcodes/mcp?style=social)](https://github.com/qrxcodes/mcp): Turns a prompt and a link into an artistic QR code with QRX, checking that each code scans before it is returned.",
+    "fix_reason": null
+  },
+  {
+    "number": 699,
+    "repo": "gileshall/nanotea",
+    "title": "Add gileshall/nanotea to Communication",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcac Communication",
+    "bullet": "-   **[gileshall/nanotea](https://github.com/gileshall/nanotea)** [![GitHub stars](https://img.shields.io/github/stars/gileshall/nanotea?style=social)](https://github.com/gileshall/nanotea): Self-hosted messaging app where coding agents report and ask over MCP and you answer by typing, tapping or recording, so you can direct a whole fleet without living in their terminals.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 700,
+    "repo": "johnInarti/agent-passport-mcp",
+    "title": "Add johnInarti/agent-passport-mcp to Legal & Compliance",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83e\udd16 AI Agents & Frameworks",
+    "bullet": "-   **[johnInarti/agent-passport-mcp](https://github.com/johnInarti/agent-passport-mcp)** [![GitHub stars](https://img.shields.io/github/stars/johnInarti/agent-passport-mcp?style=social)](https://github.com/johnInarti/agent-passport-mcp): Issues and independently verifies AI-agent passports and AI-decision receipts signed with ML-DSA-65 (NIST FIPS 204) that any party can check offline against a pinned key, for audit trails such as EU AI Act Article 12.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 701,
+    "repo": "Fincept-Corporation/fincept-mcp-docs",
+    "title": "Add Fincept MCP",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcb0 Finance & Fintech",
+    "bullet": "-   **[Fincept-Corporation/fincept-mcp-docs](https://github.com/Fincept-Corporation/fincept-mcp-docs)** [![GitHub stars](https://img.shields.io/github/stars/Fincept-Corporation/fincept-mcp-docs?style=social)](https://github.com/Fincept-Corporation/fincept-mcp-docs): Docs and client configs for Fincept's hosted remote MCP server (OAuth sign-in, paid plan) covering quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 702,
+    "repo": "uxkin/agen",
+    "title": "Fix formatting for uxkin/agent entry in README",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[uxkin/agen](https://github.com/uxkin/agen)** [![GitHub stars](https://img.shields.io/github/stars/uxkin/agen?style=social)](https://github.com/uxkin/agen): Setup and skills for UXKIN's hosted MCP server, which gives coding agents real UI references: iOS app screens, user journeys and website design systems.",
+    "fix_reason": "standardized formatting, owner/repo casing, star badge, or sentence punctuation; cleaned up extra diff changes"
+  },
+  {
+    "number": 703,
+    "repo": "mertkayacs/reevesagents",
+    "title": "Add mertkayacs/reevesagents to AI Agents & Frameworks",
+    "outcome": "MERGE",
+    "category": "\ud83e\udd16 AI Agents & Frameworks",
+    "bullet": "-   **[mertkayacs/reevesagents](https://github.com/mertkayacs/reevesagents)** [![GitHub stars](https://img.shields.io/github/stars/mertkayacs/reevesagents?style=social)](https://github.com/mertkayacs/reevesagents): Local stdio MCP server that lets one agent spawn, read, steer, and stop other coding CLIs (Claude Code, Codex, OpenCode, Kimi, Qwen, and more), each running in its own tmux window.",
+    "fix_reason": null
+  },
+  {
+    "number": 704,
+    "repo": "ismailgalaxys25-del/imgvx-ai-mcp",
+    "title": "Add ismailgalaxys25-del/imgvx-ai-mcp to Art & Culture",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfa8 Art & Culture",
+    "bullet": "-   **[ismailgalaxys25-del/imgvx-ai-mcp](https://github.com/ismailgalaxys25-del/imgvx-ai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ismailgalaxys25-del/imgvx-ai-mcp?style=social)](https://github.com/ismailgalaxys25-del/imgvx-ai-mcp): Finds the free ImgVX AI browser tool for an image job (background removal, upscaling, compression, resizing, conversion) and returns a link in 40 languages. Remote `https://imgvx.com/mcp`, no API key.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 705,
+    "repo": "Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
+    "title": "Add Tapetide-hq/nse-bse-indian-stock-market-data-mcp to Finance & Fintech",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcb0 Finance & Fintech",
+    "bullet": "-   **[Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Tapetide-hq/nse-bse-indian-stock-market-data-mcp?style=social)](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp): NSE and BSE (India) stock research for about 8,200 listed companies with 55 tools covering quotes, financials, technicals, fundamental and technical screeners, FII/DII flows, option chains, filings, IPOs and portfolio tracking.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 706,
+    "repo": "morluto/rea",
+    "title": "Add morluto/rea to Developer Tools",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[morluto/rea](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=social)](https://github.com/morluto/rea): Local MCP server and CLI for agent-assisted reverse engineering of native binaries, JavaScript/Electron apps, and .NET assemblies.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 707,
+    "repo": "gettaskhold/taskhold-plugin",
+    "title": "Add gettaskhold/taskhold-plugin to Developer Tools",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[gettaskhold/taskhold-plugin](https://github.com/gettaskhold/taskhold-plugin)** [![GitHub stars](https://img.shields.io/github/stars/gettaskhold/taskhold-plugin?style=social)](https://github.com/gettaskhold/taskhold-plugin): Hosted remote MCP server (`https://taskhold.com/api/mcp`, API key) for one task list shared by a person and their coding agents: get the next task, add todos, block on a question, mark done.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 708,
+    "repo": "octopost-ink/octopost-plugin",
+    "title": "Add octopost-ink/octopost-plugin to Marketing",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[octopost-ink/octopost-plugin](https://github.com/octopost-ink/octopost-plugin)** [![GitHub stars](https://img.shields.io/github/stars/octopost-ink/octopost-plugin?style=social)](https://github.com/octopost-ink/octopost-plugin): Hosted remote MCP server (`https://octopost.ink/mcp`, API key) that lets an agent post, schedule, queue and thread posts on X, with an optional human approval queue.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 709,
+    "repo": "bankbridge-money/bankbridge-plugin",
+    "title": "Update bankbridge-money/bankbridge-plugin description",
+    "outcome": "CLOSE",
+    "reason": "Duplicate: bankbridge-money/bankbridge-plugin is already in README.md",
+    "category": "N/A"
+  },
+  {
+    "number": 710,
+    "repo": "marstyl99/podcaststotext-agen",
+    "title": "Add marstyl99/podcaststotext-agent to Art & Culture",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfa8 Art & Culture",
+    "bullet": "-   **[marstyl99/podcaststotext-agen](https://github.com/marstyl99/podcaststotext-agen)** [![GitHub stars](https://img.shields.io/github/stars/marstyl99/podcaststotext-agen?style=social)](https://github.com/marstyl99/podcaststotext-agen): Hosted remote MCP server (Streamable HTTP, OAuth 2.1 or API key) for transcribing Spotify, Apple Podcasts, YouTube and TikTok episodes from a link with speaker labels and timestamps, then generating show notes and chapters, translating, and searching your transcripts.",
+    "fix_reason": "standardized formatting, owner/repo casing, star badge, or sentence punctuation; cleaned up extra diff changes"
+  },
+  {
+    "number": 711,
+    "repo": "combined-ai/phonebox-android-mcp",
+    "title": "Add combined-ai/phonebox-android-mcp to Mobile Device Control",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcf1 Mobile Device Control",
+    "bullet": "-   **[combined-ai/phonebox-android-mcp](https://github.com/combined-ai/phonebox-android-mcp)** [![GitHub stars](https://img.shields.io/github/stars/combined-ai/phonebox-android-mcp?style=social)](https://github.com/combined-ai/phonebox-android-mcp): Hosted Android MCP server that gives AI agents cloud Android phones to read, tap, type and install APKs on, with no ADB or emulator.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 712,
+    "repo": "livepairai/livepair-skills",
+    "title": "Add LivePair AI to Art & Culture",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfa8 Art & Culture",
+    "bullet": "-   **[livepairai/livepair-skills](https://github.com/livepairai/livepair-skills)** [![GitHub stars](https://img.shields.io/github/stars/livepairai/livepair-skills?style=social)](https://github.com/livepairai/livepair-skills): Hosted remote MCP server (livepairai.com/mcp) for private AI image/video generation and OpenAI-compatible text models \u2014 per-request billing via API key or x402 (USDC on Base).",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 713,
+    "repo": "KyleClouthier/secondstrike-agents",
+    "title": "Add KyleClouthier/secondstrike-agents to Gaming",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfae Gaming",
+    "bullet": "-   **[KyleClouthier/secondstrike-agents](https://github.com/KyleClouthier/secondstrike-agents)** [![GitHub stars](https://img.shields.io/github/stars/KyleClouthier/secondstrike-agents?style=social)](https://github.com/KyleClouthier/secondstrike-agents): Lets an AI agent command a nation in SECOND STRIKE, a real-time world war on a 3D globe, with pacts, betrayals, nukes and a doomsday clock, every war recorded and watchable live.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 714,
+    "repo": "aimentiontracker/mcp",
+    "title": "Add aimentiontracker/mcp to Marketing",
+    "outcome": "MERGE",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[aimentiontracker/mcp](https://github.com/aimentiontracker/mcp)** [![GitHub stars](https://img.shields.io/github/stars/aimentiontracker/mcp?style=social)](https://github.com/aimentiontracker/mcp): Tracks how often ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews name and cite your brand, returning the stored answers, the pages they cited and ranked fixes through read-only tools, hosted at `https://mcp.aimentiontracker.ai/mcp` or local via `npx -y @aimentiontracker/mcp`.",
+    "fix_reason": null
+  },
+  {
+    "number": 715,
+    "repo": "ashishsinha1602/schemagate",
+    "title": "Add ashishsinha1602/schemagate to Databases",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\uddc4\ufe0f Databases",
+    "bullet": "-   **[ashishsinha1602/schemagate](https://github.com/ashishsinha1602/schemagate)** [![GitHub stars](https://img.shields.io/github/stars/ashishsinha1602/schemagate?style=social)](https://github.com/ashishsinha1602/schemagate): Hides the tables and columns a caller may not read before the model sees the schema, and refuses them in `run_query` (Postgres, Oracle, MySQL, SQL Server, SQLite).",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 716,
+    "repo": "dontpayfull/AInotate",
+    "title": "Add dontpayfull/AInotate to Developer Tools",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[dontpayfull/AInotate](https://github.com/dontpayfull/AInotate)** [![GitHub stars](https://img.shields.io/github/stars/dontpayfull/AInotate?style=social)](https://github.com/dontpayfull/AInotate): Gives AI agents annotated screenshots with numbered steps, arrows, boxes, labels, and automatic secret redaction.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 717,
+    "repo": "jiangqizheng/vaneform-mcp",
+    "title": "Add jiangqizheng/vaneform-mcp to Marketing",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[jiangqizheng/vaneform-mcp](https://github.com/jiangqizheng/vaneform-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jiangqizheng/vaneform-mcp?style=social)](https://github.com/jiangqizheng/vaneform-mcp): Website traffic estimates, registry facts and side-by-side domain compares via Vaneform.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 718,
+    "repo": "waynehamadi/datacircle-plugin",
+    "title": "Add waynehamadi/datacircle-plugin to Customer Data Platforms",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udc64 Customer Data Platforms",
+    "bullet": "-   **[waynehamadi/datacircle-plugin](https://github.com/waynehamadi/datacircle-plugin)** [![GitHub stars](https://img.shields.io/github/stars/waynehamadi/datacircle-plugin?style=social)](https://github.com/waynehamadi/datacircle-plugin): Query your favorite B2B data APIs through us. Same request, same price, no markup.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 719,
+    "repo": "cueframe-ai/cueframe-mcp",
+    "title": "Add cueframe-ai/cueframe-mcp to Art and Culture",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfa8 Art & Culture",
+    "bullet": "-   **[cueframe-ai/cueframe-mcp](https://github.com/cueframe-ai/cueframe-mcp)** [![GitHub stars](https://img.shields.io/github/stars/cueframe-ai/cueframe-mcp?style=social)](https://github.com/cueframe-ai/cueframe-mcp): Official plugin and setup documentation for CueFrame\u2019s hosted OAuth MCP server to compose, edit, preview and render videos.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 720,
+    "repo": "Eric-huang799/duplex",
+    "title": "Add Eric-huang799/duplex to Browser Control",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udf10 Browser Control",
+    "bullet": "-   **[Eric-huang799/duplex](https://github.com/Eric-huang799/duplex)** [![GitHub stars](https://img.shields.io/github/stars/Eric-huang799/duplex?style=social)](https://github.com/Eric-huang799/duplex): Desktop browser shared live between a human and an AI - the agent drives the same visible tab through 24 MCP tools (snapshot, click, type, screenshot, annotations) and control returns to you the moment you scroll, type or click.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 721,
+    "repo": "D-Asce/pandastocksdk",
+    "title": "Add D-Asce/pandastocksdk to Finance & Fintech",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcb0 Finance & Fintech",
+    "bullet": "-   **[D-Asce/pandastocksdk](https://github.com/D-Asce/pandastocksdk)** [![GitHub stars](https://img.shields.io/github/stars/D-Asce/pandastocksdk?style=social)](https://github.com/D-Asce/pandastocksdk): Real-time A-share market data MCP server delivering realtime quotes, Level-2 order flow, fund flow and Dragon-Tiger data over NATS push, with 22 tools.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 722,
+    "repo": "chrisryugj/kordoc",
+    "title": "Add chrisryugj/kordoc to File Systems",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcc2 File Systems",
+    "bullet": "-   **[chrisryugj/kordoc](https://github.com/chrisryugj/kordoc)** [![GitHub stars](https://img.shields.io/github/stars/chrisryugj/kordoc?style=social)](https://github.com/chrisryugj/kordoc): Parses Korean documents (HWP 3.x/5.x, HWPX, HWPML) as well as PDF, DOCX, XLSX, PPTX, and images into Markdown and structured data, with tools for form filling, document comparison, and HWPX generation.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 723,
+    "repo": "chrisryugj/korean-law-mcp",
+    "title": "Add chrisryugj/korean-law-mcp to Legal & Compliance",
+    "outcome": "FIX AND LAND",
+    "category": "\u2696\ufe0f Legal & Compliance",
+    "bullet": "-   **[chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** [![GitHub stars](https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=social)](https://github.com/chrisryugj/korean-law-mcp): Searches and retrieves Korean statutes, precedents, administrative rules, local ordinances, and treaties via the official Ministry of Government Legislation Open API, and verifies legal citations for existence and content.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 724,
+    "repo": "loootai/looot-mcp",
+    "title": "Merge upstream main",
+    "outcome": "MERGE",
+    "category": "\ud83d\udd0e Search",
+    "bullet": "-   **[loootai/looot-mcp](https://github.com/loootai/looot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/loootai/looot-mcp?style=social)](https://github.com/loootai/looot-mcp): Hosted MCP server that searches 2,500+ data API endpoints (work emails, company data, SERP, scraping), shows the price before each call and bills per call from one balance.",
+    "fix_reason": null
+  },
+  {
+    "number": 725,
+    "repo": "GeiserX/telegram-archive-mcp",
+    "title": "Merge remote-tracking branch 'upstream/main' into add-telegram-archive-mcp",
+    "outcome": "MERGE",
+    "category": "\ud83d\udcac Communication",
+    "bullet": "-   **[GeiserX/telegram-archive-mcp](https://github.com/GeiserX/telegram-archive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/GeiserX/telegram-archive-mcp?style=social)](https://github.com/GeiserX/telegram-archive-mcp): Searches messages, browses chats and reads archived Telegram history from a Telegram-Archive instance.",
+    "fix_reason": null
+  },
+  {
+    "number": 726,
+    "repo": "futureweb/intervals-mcp-server",
+    "title": "Add futureweb/intervals-mcp-server to Fitness & Sports",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfc3 Fitness & Sports",
+    "bullet": "-   **[futureweb/intervals-mcp-server](https://github.com/futureweb/intervals-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/futureweb/intervals-mcp-server?style=social)](https://github.com/futureweb/intervals-mcp-server): Self-hosted Intervals.icu server for training analysis (plan vs. execution, load, intensity, recovery, fueling, durability) with all custom fields and streams, read-only by default.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 727,
+    "repo": "codegiveness/postgresql-sharp-mcp",
+    "title": "Add codegiveness/postgresql-sharp-mcp to Databases",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\uddc4\ufe0f Databases",
+    "bullet": "-   **[codegiveness/postgresql-sharp-mcp](https://github.com/codegiveness/postgresql-sharp-mcp)** [![GitHub stars](https://img.shields.io/github/stars/codegiveness/postgresql-sharp-mcp?style=social)](https://github.com/codegiveness/postgresql-sharp-mcp): C#/.NET MCP server for PostgreSQL that discovers accessible databases, inspects schemas, runs SQL read-only by default, explains query plans and checks index and database health.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 728,
+    "repo": "Parallel-Platforms/hootlens-mcp",
+    "title": "Add Hoot Lens",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcca Monitoring",
+    "bullet": "-   **[Parallel-Platforms/hootlens-mcp](https://github.com/Parallel-Platforms/hootlens-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Parallel-Platforms/hootlens-mcp?style=social)](https://github.com/Parallel-Platforms/hootlens-mcp): Reads website session replays, click heatmaps and broken clicks, and traces a broken click to its JavaScript error and source line; local via npx or remote Streamable HTTP with OAuth.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 729,
+    "repo": "bosmdavid-gif/dropthehassle-mcp",
+    "title": "DropTheHassle: say publish instead of put online",
+    "outcome": "CLOSE",
+    "reason": "Duplicate: bosmdavid-gif/dropthehassle-mcp is already in README.md",
+    "category": "N/A"
+  },
+  {
+    "number": 730,
+    "repo": "CSOAI-ORG/councilof-a",
+    "title": "Add CSOAI-ORG/councilof-ai to Legal & Compliance",
+    "outcome": "FIX AND LAND",
+    "category": "\u2696\ufe0f Legal & Compliance",
+    "bullet": "-   **[CSOAI-ORG/councilof-a](https://github.com/CSOAI-ORG/councilof-a)** [![GitHub stars](https://img.shields.io/github/stars/CSOAI-ORG/councilof-a?style=social)](https://github.com/CSOAI-ORG/councilof-a): AI-governance measurement MCP server with free verification readers and x402-metered signed-evidence doors over a remote endpoint.",
+    "fix_reason": "standardized formatting, owner/repo casing, star badge, or sentence punctuation; cleaned up extra diff changes"
+  },
+  {
+    "number": 731,
+    "repo": "webloomhq/engine",
+    "title": "Triage open PRs and update awesome-mcp-list README",
+    "outcome": "CLOSE",
+    "reason": "Duplicate: webloomhq/engine is already in README.md",
+    "category": "N/A"
+  },
+  {
+    "number": 732,
+    "repo": "adamgusky/blawgy-mcp",
+    "title": "Add adamgusky/blawgy-mcp to \ud83c\udfaf Marketing",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[adamgusky/blawgy-mcp](https://github.com/adamgusky/blawgy-mcp)** [![GitHub stars](https://img.shields.io/github/stars/adamgusky/blawgy-mcp?style=social)](https://github.com/adamgusky/blawgy-mcp): Hosted MCP server for Blawgy that researches keywords, manages the content plan, writes and refreshes SEO blog posts, reads Search Console traffic, and publishes to WordPress, Shopify, Webflow, Wix, Framer, Ghost or Duda over Streamable HTTP at `https://app.blawgy.com/mcp` with OAuth 2.1 or an API key.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 733,
+    "repo": "SamurAIGPT/muapi-mcp-server",
+    "title": "Add MuAPI MCP server to Art and Culture",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfa8 Art & Culture",
+    "bullet": "-   **[SamurAIGPT/muapi-mcp-server](https://github.com/SamurAIGPT/muapi-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/SamurAIGPT/muapi-mcp-server?style=social)](https://github.com/SamurAIGPT/muapi-mcp-server): Hosted MCP server for generating images, videos, and audio with 100+ generative AI models.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 734,
+    "repo": "Baptoshi/silicon-floor",
+    "title": "Add Baptoshi/silicon-floor to Finance & Fintech",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcb0 Finance & Fintech",
+    "bullet": "-   **[Baptoshi/silicon-floor](https://github.com/Baptoshi/silicon-floor)** [![GitHub stars](https://img.shields.io/github/stars/Baptoshi/silicon-floor?style=social)](https://github.com/Baptoshi/silicon-floor): Who owns AI and semiconductor stocks, who is buying and selling them, and what their filed numbers say \u2014 SEC filings and FINRA, every figure dated and linked to its source.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 735,
+    "repo": "querysail/querysail-ga4",
+    "title": "Add querysail/querysail-ga4 to Marketing",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[querysail/querysail-ga4](https://github.com/querysail/querysail-ga4)** [![GitHub stars](https://img.shields.io/github/stars/querysail/querysail-ga4?style=social)](https://github.com/querysail/querysail-ga4): Hosted, read-only Google Analytics 4 MCP server for reports by channel, source, page, country, device and event, period comparisons, realtime users and custom dimensions and metrics.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 736,
+    "repo": "kooperativa-team/kooperativa-mcp",
+    "title": "Add kooperativa-team/kooperativa-mcp to Customer Data Platforms",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udc64 Customer Data Platforms",
+    "bullet": "-   **[kooperativa-team/kooperativa-mcp](https://github.com/kooperativa-team/kooperativa-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kooperativa-team/kooperativa-mcp?style=social)](https://github.com/kooperativa-team/kooperativa-mcp): Kooperativa.io people and company data: enrich and search profiles, hiring signals, job changes and headcount.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 737,
+    "repo": "TerraLabAI/mcp",
+    "title": "Add TerraLabAI/mcp to Location Services",
+    "outcome": "MERGE",
+    "category": "\ud83d\uddfa\ufe0f Location Services",
+    "bullet": "-   **[TerraLabAI/mcp](https://github.com/TerraLabAI/mcp)** [![GitHub stars](https://img.shields.io/github/stars/TerraLabAI/mcp?style=social)](https://github.com/TerraLabAI/mcp): Client integrations for TerraLab's public hosted MCP server for open map data, GIS file and coordinate conversion, elevation, and French cadastral parcels.",
+    "fix_reason": null
+  },
+  {
+    "number": 738,
+    "repo": "HireLayer/hirelayer-mcp",
+    "title": "Add HireLayer/hirelayer-mcp to Utilities",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udee0\ufe0f Utilities",
+    "bullet": "-   **[HireLayer/hirelayer-mcp](https://github.com/HireLayer/hirelayer-mcp)** [![GitHub stars](https://img.shields.io/github/stars/HireLayer/hirelayer-mcp?style=social)](https://github.com/HireLayer/hirelayer-mcp): Parses resumes and CVs into structured JSON, extracts job criteria, and matches and ranks candidates against a job.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 739,
+    "repo": "theone55/jfs",
+    "title": "Add theone55/jfs to Developer Tools",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[theone55/jfs](https://github.com/theone55/jfs)** [![GitHub stars](https://img.shields.io/github/stars/theone55/jfs?style=social)](https://github.com/theone55/jfs): Lets an agent use your API keys without seeing them: commands run with secrets in the environment, output masked, every use approved in the JFSecure app.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 740,
+    "repo": "kburrus64-max/anansi-haven",
+    "title": "Add kburrus64-max/anansi-haven to Knowledge & Memory",
+    "outcome": "MERGE",
+    "category": "\ud83e\udde0 Knowledge & Memory",
+    "bullet": "-   **[kburrus64-max/anansi-haven](https://github.com/kburrus64-max/anansi-haven)** [![GitHub stars](https://img.shields.io/github/stars/kburrus64-max/anansi-haven?style=social)](https://github.com/kburrus64-max/anansi-haven): Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP.",
+    "fix_reason": null
+  },
+  {
+    "number": 741,
+    "repo": "fclairamb/solidpin",
+    "title": "Add fclairamb/solidping to Monitoring",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcca Monitoring",
+    "bullet": "-   **[fclairamb/solidpin](https://github.com/fclairamb/solidpin)** [![GitHub stars](https://img.shields.io/github/stars/fclairamb/solidpin?style=social)](https://github.com/fclairamb/solidpin): Self-hostable uptime monitor with a built-in MCP server (remote or stdio) to create, run and diagnose checks, read incidents and manage status pages.",
+    "fix_reason": "standardized formatting, owner/repo casing, star badge, or sentence punctuation; cleaned up extra diff changes"
+  },
+  {
+    "number": 742,
+    "title": "Triage open PRs and issues",
+    "outcome": "CLOSE",
+    "reason": "No bullet entry added in diff",
+    "category": "N/A"
+  },
+  {
+    "number": 743,
+    "repo": "photofresco/photofresco-agen",
+    "title": "Add photofresco/photofresco-agent to Art & Culture",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83c\udfa8 Art & Culture",
+    "bullet": "-   **[photofresco/photofresco-agen](https://github.com/photofresco/photofresco-agen)** [![GitHub stars](https://img.shields.io/github/stars/photofresco/photofresco-agen?style=social)](https://github.com/photofresco/photofresco-agen): Edits images in a user-approved PhotoFresco browser window with layers, masks, undo, image previews and PSD/PNG export.",
+    "fix_reason": "standardized formatting, owner/repo casing, star badge, or sentence punctuation; cleaned up extra diff changes"
+  },
+  {
+    "number": 744,
+    "repo": "sweesama/favicondl.com",
+    "title": "Add sweesama/favicondl.com to Utilities",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udee0\ufe0f Utilities",
+    "bullet": "-   **[sweesama/favicondl.com](https://github.com/sweesama/favicondl.com)** [![GitHub stars](https://img.shields.io/github/stars/sweesama/favicondl.com?style=social)](https://github.com/sweesama/favicondl.com): Looks up any website's favicon by domain or URL and returns the icon URL at a chosen size (16-512 px) via the free, keyless FaviconDL API.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 745,
+    "repo": "mishafyi/Apple-Docs-2.0-MCP",
+    "title": "Add mishafyi/Apple-Docs-2.0-MCP to Developer Tools",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[mishafyi/Apple-Docs-2.0-MCP](https://github.com/mishafyi/Apple-Docs-2.0-MCP)** [![GitHub stars](https://img.shields.io/github/stars/mishafyi/Apple-Docs-2.0-MCP?style=social)](https://github.com/mishafyi/Apple-Docs-2.0-MCP): Apple developer documentation, Human Interface Guidelines and 1,700 WWDC sessions with code for coding agents, with search that returns developer.apple.com's own results and an offline index of 336,629 pages.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 746,
+    "repo": "scalekit-inc/scalekit-mcp-server",
+    "title": "Add scalekit-inc/scalekit-mcp-server to Developer Tools",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[scalekit-inc/scalekit-mcp-server](https://github.com/scalekit-inc/scalekit-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/scalekit-inc/scalekit-mcp-server?style=social)](https://github.com/scalekit-inc/scalekit-mcp-server): Official Scalekit MCP server, remote with OAuth or local stdio, for managing auth for AI agents and MCP servers: environments, organizations, users, OIDC connections, roles and scopes, and MCP server registrations.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 747,
+    "repo": "Sambel/localscreenshot-mcp",
+    "title": "Add Sambel/localscreenshot-mcp to Utilities",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83d\udee0\ufe0f Utilities",
+    "bullet": "-   **[Sambel/localscreenshot-mcp](https://github.com/Sambel/localscreenshot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Sambel/localscreenshot-mcp?style=social)](https://github.com/Sambel/localscreenshot-mcp): Hosted screenshot capture over Streamable HTTP for any public page, from 227 countries, with cookie banners and ads hidden; a free endpoint works without a key, configs and docs live in the repository.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 748,
+    "repo": "estevecastells/invokely-mcp-connector",
+    "title": "Add Invokely MCP connector to Data Science Tools",
+    "outcome": "FIX AND LAND",
+    "category": "\ud83e\uddee Data Science Tools",
+    "bullet": "-   **[estevecastells/invokely-mcp-connector](https://github.com/estevecastells/invokely-mcp-connector)** [![GitHub stars](https://img.shields.io/github/stars/estevecastells/invokely-mcp-connector?style=social)](https://github.com/estevecastells/invokely-mcp-connector): Forwards MCP calls through a local Node 22 stdio adapter to Invokely's hosted official-statistics service; the hosted backend is separate.",
+    "fix_reason": "cleaned up extra diff changes"
+  },
+  {
+    "number": 749,
+    "repo": "agentsvc/agentsvc",
+    "title": "Add agentsvc/agentsvc to Utilities",
+    "outcome": "MERGE",
+    "category": "\ud83d\udee0\ufe0f Utilities",
+    "bullet": "-   **[agentsvc/agentsvc](https://github.com/agentsvc/agentsvc)** [![GitHub stars](https://img.shields.io/github/stars/agentsvc/agentsvc?style=social)](https://github.com/agentsvc/agentsvc): Docs and examples for the agentsvc.io remote MCP server (streamable HTTP at `https://agentsvc.io/mcp`) that gives agents 111 pay-per-call services such as web scraping to Markdown, screenshots, invoice extraction, company checks (LEI, VAT, sanctions), token risk checks and page or wallet watches, paid per call in USDC over x402 on Base, Solana, Polygon or Arbitrum with no account or API key.",
+    "fix_reason": null
+  },
+  {
+    "number": 750,
+    "repo": "SwapWallet/swapwallet-mcp",
+    "title": "Add SwapWallet/swapwallet-mcp to Finance & Fintech",
+    "outcome": "MERGE",
+    "category": "\ud83d\udcb0 Finance & Fintech",
+    "bullet": "-   **[SwapWallet/swapwallet-mcp](https://github.com/SwapWallet/swapwallet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/SwapWallet/swapwallet-mcp?style=social)](https://github.com/SwapWallet/swapwallet-mcp): Official remote MCP server for the SwapWallet crypto exchange: balances, P&L and history, plus swaps, transfers and withdrawals the user approves in Telegram.",
+    "fix_reason": null
+  },
+  {
+    "number": 751,
+    "repo": "azmartone67/dchub-mcp-server",
+    "title": "Refresh DC Hub entry: canonical description, 94 tools",
+    "outcome": "CLOSE",
+    "reason": "Duplicate: azmartone67/dchub-mcp-server is already in README.md",
+    "category": "N/A"
+  },
+  {
+    "number": 752,
+    "repo": "WarmerlyApp/mcp",
+    "title": "Add WarmerlyApp/mcp to Marketing",
+    "outcome": "MERGE",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[WarmerlyApp/mcp](https://github.com/WarmerlyApp/mcp)** [![GitHub stars](https://img.shields.io/github/stars/WarmerlyApp/mcp?style=social)](https://github.com/WarmerlyApp/mcp): Setup and registry config for Warmerly's hosted OAuth MCP server for email warmup, deliverability checks, lead search, draft cold email campaigns and inbox reply triage.",
+    "fix_reason": null
+  },
+  {
+    "number": 753,
+    "repo": "Eric-huang799/duplex",
+    "title": "Triage open PRs and update awesome-mcp-list entries",
+    "outcome": "CLOSE",
+    "reason": "Duplicate: Eric-huang799/duplex was already added by an earlier open PR",
+    "category": "N/A"
+  },
+  {
+    "number": 754,
+    "repo": "soma-intelligence/open-health-sync",
+    "title": "Add Open Health Sync",
+    "outcome": "MERGE",
+    "category": "\ud83c\udfc3 Fitness & Sports",
+    "bullet": "-   **[soma-intelligence/open-health-sync](https://github.com/soma-intelligence/open-health-sync)** [![GitHub stars](https://img.shields.io/github/stars/soma-intelligence/open-health-sync?style=social)](https://github.com/soma-intelligence/open-health-sync): Read-only MCP server over a self-hosted store that normalizes Apple Health, Health Connect, Oura, WHOOP, Withings, Strava and other wearable data into one schema.",
+    "fix_reason": null
+  },
+  {
+    "number": 755,
+    "repo": "blockvectra/mcp",
+    "title": "docs: add BlockVectra to Finance & Fintech",
+    "outcome": "MERGE",
+    "category": "\ud83d\udcb0 Finance & Fintech",
+    "bullet": "-   **[blockvectra/mcp](https://github.com/blockvectra/mcp)** [![GitHub stars](https://img.shields.io/github/stars/blockvectra/mcp?style=social)](https://github.com/blockvectra/mcp): Remote MCP for developers and AI agents with multi-chain JSON-RPC, indexed data and keyless documentation; Data API queries require an API key.",
+    "fix_reason": null
+  },
+  {
+    "number": 756,
+    "repo": "singaporeandurian/instaseer-mcp",
+    "title": "docs: preserve complete README around Instaseer correction",
+    "outcome": "CLOSE",
+    "reason": "Duplicate: singaporeandurian/instaseer-mcp is already in README.md",
+    "category": "N/A"
+  },
+  {
+    "number": 757,
+    "repo": "pinto-notes/pinto-notes",
+    "title": "Add pinto-notes/pinto-notes to Knowledge & Memory",
+    "outcome": "MERGE",
+    "category": "\ud83e\udde0 Knowledge & Memory",
+    "bullet": "-   **[pinto-notes/pinto-notes](https://github.com/pinto-notes/pinto-notes)** [![GitHub stars](https://img.shields.io/github/stars/pinto-notes/pinto-notes?style=social)](https://github.com/pinto-notes/pinto-notes): Hosted MCP server for Pinto Notes, a free, open-source notes app for Mac that lets ChatGPT, Claude, Claude Code and Codex search, read and edit your notes over OAuth.",
+    "fix_reason": null
+  },
+  {
+    "number": 758,
+    "repo": "fadymondy/zekra",
+    "title": "Add fadymondy/zekra to Knowledge & Memory",
+    "outcome": "MERGE",
+    "category": "\ud83e\udde0 Knowledge & Memory",
+    "bullet": "-   **[fadymondy/zekra](https://github.com/fadymondy/zekra)** [![GitHub stars](https://img.shields.io/github/stars/fadymondy/zekra?style=social)](https://github.com/fadymondy/zekra): Self-hostable shared long-term memory for AI agents with hybrid recall, a knowledge graph and data-source sync.",
+    "fix_reason": null
+  },
+  {
+    "number": 759,
+    "repo": "onlsol/relay.remotify.run",
+    "title": "Add onlsol/relay.remotify.run to Command Line",
+    "outcome": "MERGE",
+    "category": "\ud83d\udda5\ufe0f Command Line",
+    "bullet": "-   **[onlsol/relay.remotify.run](https://github.com/onlsol/relay.remotify.run)** [![GitHub stars](https://img.shields.io/github/stars/onlsol/relay.remotify.run?style=social)](https://github.com/onlsol/relay.remotify.run): Lets AI clients execute shell commands on a remote computer through a relay with human approval.",
+    "fix_reason": null
+  },
+  {
+    "number": 760,
+    "repo": "gunnargray-dev/app-store-review-intelligence-mcp",
+    "title": "Add gunnargray-dev/app-store-review-intelligence-mcp to Marketing",
+    "outcome": "MERGE",
+    "category": "\ud83c\udfaf Marketing",
+    "bullet": "-   **[gunnargray-dev/app-store-review-intelligence-mcp](https://github.com/gunnargray-dev/app-store-review-intelligence-mcp)** [![GitHub stars](https://img.shields.io/github/stars/gunnargray-dev/app-store-review-intelligence-mcp?style=social)](https://github.com/gunnargray-dev/app-store-review-intelligence-mcp): Reviews intelligence for any Apple App Store or Google Play app: top complaints with quotes, rating by version, what got worse in the latest update, and side-by-side competitor comparisons, with no API keys needed.",
+    "fix_reason": null
+  },
+  {
+    "number": 761,
+    "repo": "PrivateAISystems/needhave",
+    "title": "Add needhave remote MCP need/have board",
+    "outcome": "MERGE",
+    "category": "\ud83d\udcbb Developer Tools",
+    "bullet": "-   **[PrivateAISystems/needhave](https://github.com/PrivateAISystems/needhave)** [![GitHub stars](https://img.shields.io/github/stars/PrivateAISystems/needhave?style=social)](https://github.com/PrivateAISystems/needhave): Public need/have board for AI agents over remote MCP (`https://needhave.io/mcp`, Streamable HTTP, no key) \u2014 list needs and haves, reply in private threads.",
+    "fix_reason": null
+  }
+]
