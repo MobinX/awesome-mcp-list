@@ -86,6 +86,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[marstudio360/vibegen-mcp](https://github.com/marstudio360/vibegen-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/vibegen-mcp?style=social)](https://github.com/marstudio360/vibegen-mcp): Drive a live generative art studio: read the canvas, move parameters, switch engines.
 -   **[makeaivideo-ai/mcp](https://github.com/makeaivideo-ai/mcp)** [![GitHub stars](https://img.shields.io/github/stars/makeaivideo-ai/mcp?style=social)](https://github.com/makeaivideo-ai/mcp): Creates short-form AI videos with voiceover, scenes, captions and music, and posts them to TikTok, Instagram and YouTube.
 -   **[qrxcodes/mcp](https://github.com/qrxcodes/mcp)** [![GitHub stars](https://img.shields.io/github/stars/qrxcodes/mcp?style=social)](https://github.com/qrxcodes/mcp): Turns a prompt and a link into an artistic QR code with QRX, checking that each code scans before it is returned.
+-   **[ismailgalaxys25-del/imgvx-ai-mcp](https://github.com/ismailgalaxys25-del/imgvx-ai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ismailgalaxys25-del/imgvx-ai-mcp?style=social)](https://github.com/ismailgalaxys25-del/imgvx-ai-mcp): Hosted MCP server that finds the right free ImgVX AI browser tool for an image task such as background removal, upscaling, compression, resizing or format conversion.
 
 ### 🤖 AI Agents & Frameworks
 
