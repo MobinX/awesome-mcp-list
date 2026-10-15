@@ -364,6 +364,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[uxkin/agent](https://github.com/uxkin/agent)** [![GitHub stars](https://img.shields.io/github/stars/uxkin/agent?style=social)](https://github.com/uxkin/agent): Setup and skills for UXKIN's hosted MCP server, which gives coding agents real UI references: iOS app screens, user journeys and website design systems.
 -   **[morluto/rea](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=social)](https://github.com/morluto/rea): Local MCP server and CLI for agent-assisted reverse engineering of native binaries, JavaScript/Electron apps, and .NET assemblies.
 -   **[gettaskhold/taskhold-plugin](https://github.com/gettaskhold/taskhold-plugin)** [![GitHub stars](https://img.shields.io/github/stars/gettaskhold/taskhold-plugin?style=social)](https://github.com/gettaskhold/taskhold-plugin): Hosted MCP server for a task list shared by a person and their coding agents, letting agents pick up the next task, add todos, block on a question and mark work done.
+-   **[dontpayfull/AInotate](https://github.com/dontpayfull/AInotate)** [![GitHub stars](https://img.shields.io/github/stars/dontpayfull/AInotate?style=social)](https://github.com/dontpayfull/AInotate): Gives AI agents annotated screenshots with numbered steps, arrows, boxes, labels and automatic secret redaction.
 
 ### 🧮 Data Science Tools
 
