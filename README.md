@@ -88,6 +88,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[makeaivideo-ai/mcp](https://github.com/makeaivideo-ai/mcp)** [![GitHub stars](https://img.shields.io/github/stars/makeaivideo-ai/mcp?style=social)](https://github.com/makeaivideo-ai/mcp): Creates short-form AI videos with voiceover, scenes, captions and music, and posts them to TikTok, Instagram and YouTube.
 -   **[qrxcodes/mcp](https://github.com/qrxcodes/mcp)** [![GitHub stars](https://img.shields.io/github/stars/qrxcodes/mcp?style=social)](https://github.com/qrxcodes/mcp): Turns a prompt and a link into an artistic QR code with QRX, checking that each code scans before it is returned.
 -   **[ismailgalaxys25-del/imgvx-ai-mcp](https://github.com/ismailgalaxys25-del/imgvx-ai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ismailgalaxys25-del/imgvx-ai-mcp?style=social)](https://github.com/ismailgalaxys25-del/imgvx-ai-mcp): Hosted MCP server that finds the right free ImgVX AI browser tool for an image task such as background removal, upscaling, compression, resizing or format conversion.
+-   **[marstyl99/podcaststotext-agent](https://github.com/marstyl99/podcaststotext-agent)** [![GitHub stars](https://img.shields.io/github/stars/marstyl99/podcaststotext-agent?style=social)](https://github.com/marstyl99/podcaststotext-agent): Agent skill and plugin for the hosted PodcastsToText MCP server that transcribes podcast, YouTube and TikTok episodes with speaker labels and generates show notes, chapters and translations.
 
 ### 🤖 AI Agents & Frameworks
 
