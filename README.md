@@ -580,6 +580,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[sky-access/skyaccess-mcp](https://github.com/sky-access/skyaccess-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-access/skyaccess-mcp?style=social)](https://github.com/sky-access/skyaccess-mcp): Hosted MCP server for private jet empty legs that searches live flights and returns charter price estimates and SkyAccess booking links.
 -   **[donniertf-hub/uk-mcp-fleet](https://github.com/donniertf-hub/uk-mcp-fleet)** [![GitHub stars](https://img.shields.io/github/stars/donniertf-hub/uk-mcp-fleet?style=social)](https://github.com/donniertf-hub/uk-mcp-fleet): Remote MCP servers for UK open data including Companies House, Land Registry, planning, flood, crime and food hygiene records.
 -   **[Nunya-design/aisle-mcp](https://github.com/Nunya-design/aisle-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Nunya-design/aisle-mcp?style=social)](https://github.com/Nunya-design/aisle-mcp): Searches destination wedding venues and helps plan budgets, timelines, guests and events.
+-   **[huynhtanan/google-hotels-mcp](https://github.com/huynhtanan/google-hotels-mcp)** [![GitHub stars](https://img.shields.io/github/stars/huynhtanan/google-hotels-mcp?style=social)](https://github.com/huynhtanan/google-hotels-mcp): Searches Google Hotels and Vacation Rentals with per-OTA nightly rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb, Hotels.com and 10+ other providers), 3-month daily price calendar and party-size filters via Apify.
 
 ### 🎯 Marketing
 
