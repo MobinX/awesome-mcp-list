@@ -657,6 +657,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[linglistack/heyreagent-linkedin-mcp](https://github.com/linglistack/heyreagent-linkedin-mcp)** [![GitHub stars](https://img.shields.io/github/stars/linglistack/heyreagent-linkedin-mcp?style=social)](https://github.com/linglistack/heyreagent-linkedin-mcp): Hosted MCP server with OAuth for your own LinkedIn account, covering inbox, messages, connection invitations and people search.
 -   **[octopost-ink/octopost-plugin](https://github.com/octopost-ink/octopost-plugin)** [![GitHub stars](https://img.shields.io/github/stars/octopost-ink/octopost-plugin?style=social)](https://github.com/octopost-ink/octopost-plugin): Lets an AI agent post, schedule, queue and thread posts on X through a hosted MCP server, with an optional human approval queue.
 -   **[aimentiontracker/mcp](https://github.com/aimentiontracker/mcp)** [![GitHub stars](https://img.shields.io/github/stars/aimentiontracker/mcp?style=social)](https://github.com/aimentiontracker/mcp): Tracks how ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews mention and cite a brand, returning stored answers, cited pages and suggested fixes through read-only tools.
+-   **[jiangqizheng/vaneform-mcp](https://github.com/jiangqizheng/vaneform-mcp)** [![GitHub stars](https://img.shields.io/github/stars/jiangqizheng/vaneform-mcp?style=social)](https://github.com/jiangqizheng/vaneform-mcp): Provides website traffic estimates, domain registry facts and side-by-side domain comparisons from Vaneform.
 
 ### 📊 Monitoring
 
