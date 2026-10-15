@@ -535,6 +535,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[lbailey94/whitemagic](https://github.com/lbailey94/whitemagic)** [![GitHub stars](https://img.shields.io/github/stars/lbailey94/whitemagic?style=social)](https://github.com/lbailey94/whitemagic): Local-first durable memory and session continuity for AI agents with hybrid recall and session handoffs.
 -   **[devchad-cmd/skilldb-sdk](https://github.com/devchad-cmd/skilldb-sdk)** [![GitHub stars](https://img.shields.io/github/stars/devchad-cmd/skilldb-sdk?style=social)](https://github.com/devchad-cmd/skilldb-sdk): Searches reusable AI agent skills through a TypeScript MCP server with metadata discovery and skill content retrieval.
 -   **[forecall/forecall-mcp](https://github.com/forecall/forecall-mcp)** [![GitHub stars](https://img.shields.io/github/stars/forecall/forecall-mcp?style=social)](https://github.com/forecall/forecall-mcp): Stdio relay to the Forecall Failure KB, where agents look up known MCP tool failures and their workarounds and confirm the fixes that worked.
+-   **[alexslkgit/own-words](https://github.com/alexslkgit/own-words)** [![GitHub stars](https://img.shields.io/github/stars/alexslkgit/own-words?style=social)](https://github.com/alexslkgit/own-words): Create study decks over MCP; the reader answers each card in their own words, then compares with the prepared answer.
 
 ### ⚖️ Legal & Compliance
 
