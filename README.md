@@ -47,6 +47,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp)** [![GitHub stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright_mcp?style=social)](https://github.com/feder-cr/invisible_playwright_mcp): Local stdio MCP server that drives a patched Firefox with real pointer and keyboard input, for Claude Code, Codex, Cursor and Gemini CLI.
 -   **[webloomhq/engine](https://github.com/webloomhq/engine)** [![GitHub stars](https://img.shields.io/github/stars/webloomhq/engine?style=social)](https://github.com/webloomhq/engine): Drives your real Chrome with your logged-in sessions, so the AI can work on sites with no API.
 -   **[MayberryDT/ibara](https://github.com/MayberryDT/ibara)** [![GitHub stars](https://img.shields.io/github/stars/MayberryDT/ibara?style=social)](https://github.com/MayberryDT/ibara): Gives MCP agents browser and desktop control on Omarchy computers you own over Tailscale.
+-   **[Eric-huang799/duplex](https://github.com/Eric-huang799/duplex)** [![GitHub stars](https://img.shields.io/github/stars/Eric-huang799/duplex?style=social)](https://github.com/Eric-huang799/duplex): Shares one desktop browser between a human and an AI agent so the agent can snapshot, click, type and take screenshots in the same visible tab while the human can take back control at any time.
 
 ### 📱 Mobile Device Control
 
