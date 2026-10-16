@@ -92,6 +92,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[marstyl99/podcaststotext-agent](https://github.com/marstyl99/podcaststotext-agent)** [![GitHub stars](https://img.shields.io/github/stars/marstyl99/podcaststotext-agent?style=social)](https://github.com/marstyl99/podcaststotext-agent): Agent skill and plugin for the hosted PodcastsToText MCP server that transcribes podcast, YouTube and TikTok episodes with speaker labels and generates show notes, chapters and translations.
 -   **[cueframe-ai/cueframe-mcp](https://github.com/cueframe-ai/cueframe-mcp)** [![GitHub stars](https://img.shields.io/github/stars/cueframe-ai/cueframe-mcp?style=social)](https://github.com/cueframe-ai/cueframe-mcp): Plugin and setup docs for CueFrame's hosted OAuth MCP server to compose, edit, preview and render videos.
 -   **[SamurAIGPT/muapi-mcp-server](https://github.com/SamurAIGPT/muapi-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/SamurAIGPT/muapi-mcp-server?style=social)](https://github.com/SamurAIGPT/muapi-mcp-server): Hosted MCP server for generating images, videos, and audio with generative AI models.
+-   **[photofresco/photofresco-agent](https://github.com/photofresco/photofresco-agent)** [![GitHub stars](https://img.shields.io/github/stars/photofresco/photofresco-agent?style=social)](https://github.com/photofresco/photofresco-agent): Edits images in a user-approved PhotoFresco browser window with layers, masks, undo, image previews and PSD/PNG export.
 
 ### 🤖 AI Agents & Frameworks
 
