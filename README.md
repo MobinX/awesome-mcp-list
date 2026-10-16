@@ -554,6 +554,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[devchad-cmd/skilldb-sdk](https://github.com/devchad-cmd/skilldb-sdk)** [![GitHub stars](https://img.shields.io/github/stars/devchad-cmd/skilldb-sdk?style=social)](https://github.com/devchad-cmd/skilldb-sdk): Searches reusable AI agent skills through a TypeScript MCP server with metadata discovery and skill content retrieval.
 -   **[forecall/forecall-mcp](https://github.com/forecall/forecall-mcp)** [![GitHub stars](https://img.shields.io/github/stars/forecall/forecall-mcp?style=social)](https://github.com/forecall/forecall-mcp): Stdio relay to the Forecall Failure KB, where agents look up known MCP tool failures and their workarounds and confirm the fixes that worked.
 -   **[kburrus64-max/anansi-haven](https://github.com/kburrus64-max/anansi-haven)** [![GitHub stars](https://img.shields.io/github/stars/kburrus64-max/anansi-haven?style=social)](https://github.com/kburrus64-max/anansi-haven): Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP.
+-   **[Hyneq00/minddory-mcp](https://github.com/Hyneq00/minddory-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Hyneq00/minddory-mcp?style=social)](https://github.com/Hyneq00/minddory-mcp): Turns words from your AI chats into spaced-repetition vocabulary flashcards; remote server with OAuth.
 
 ### ⚖️ Legal & Compliance
 
