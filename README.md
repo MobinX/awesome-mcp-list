@@ -590,6 +590,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[sky-access/skyaccess-mcp](https://github.com/sky-access/skyaccess-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sky-access/skyaccess-mcp?style=social)](https://github.com/sky-access/skyaccess-mcp): Hosted MCP server for private jet empty legs that searches live flights and returns charter price estimates and SkyAccess booking links.
 -   **[donniertf-hub/uk-mcp-fleet](https://github.com/donniertf-hub/uk-mcp-fleet)** [![GitHub stars](https://img.shields.io/github/stars/donniertf-hub/uk-mcp-fleet?style=social)](https://github.com/donniertf-hub/uk-mcp-fleet): Remote MCP servers for UK open data including Companies House, Land Registry, planning, flood, crime and food hygiene records.
 -   **[Nunya-design/aisle-mcp](https://github.com/Nunya-design/aisle-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Nunya-design/aisle-mcp?style=social)](https://github.com/Nunya-design/aisle-mcp): Searches destination wedding venues and helps plan budgets, timelines, guests and events.
+-   **[TerraLabAI/mcp](https://github.com/TerraLabAI/mcp)** [![GitHub stars](https://img.shields.io/github/stars/TerraLabAI/mcp?style=social)](https://github.com/TerraLabAI/mcp): Client integrations for TerraLab's public hosted MCP server for open map data, GIS file and coordinate conversion, elevation, and French cadastral parcels.
 
 ### 🎯 Marketing
 
