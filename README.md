@@ -557,6 +557,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[moxno/privacyscrubber-mcp](https://github.com/moxno/privacyscrubber-mcp)** [![GitHub stars](https://img.shields.io/github/stars/moxno/privacyscrubber-mcp?style=social)](https://github.com/moxno/privacyscrubber-mcp): Local in-memory PII and sensitive data masking for AI agents and LLM tool pipelines.
 -   **[contracko/contracko-skills](https://github.com/contracko/contracko-skills)** [![GitHub stars](https://img.shields.io/github/stars/contracko/contracko-skills?style=social)](https://github.com/contracko/contracko-skills): Remote MCP server for contract management with contract review, data extraction, reminders and renewal deadlines.
 -   **[johnInarti/agent-passport-mcp](https://github.com/johnInarti/agent-passport-mcp)** [![GitHub stars](https://img.shields.io/github/stars/johnInarti/agent-passport-mcp?style=social)](https://github.com/johnInarti/agent-passport-mcp): Issues and verifies AI-agent passports and AI-decision receipts signed with ML-DSA-65 that can be checked offline against a pinned key.
+-   **[chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** [![GitHub stars](https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=social)](https://github.com/chrisryugj/korean-law-mcp): Searches and retrieves Korean statutes, precedents, administrative rules, local ordinances, and treaties via the Ministry of Government Legislation Open API, and verifies legal citations for existence and content.
 
 ### 🗺️ Location Services
 
