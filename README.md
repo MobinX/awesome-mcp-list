@@ -561,6 +561,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[forecall/forecall-mcp](https://github.com/forecall/forecall-mcp)** [![GitHub stars](https://img.shields.io/github/stars/forecall/forecall-mcp?style=social)](https://github.com/forecall/forecall-mcp): Stdio relay to the Forecall Failure KB, where agents look up known MCP tool failures and their workarounds and confirm the fixes that worked.
 -   **[kburrus64-max/anansi-haven](https://github.com/kburrus64-max/anansi-haven)** [![GitHub stars](https://img.shields.io/github/stars/kburrus64-max/anansi-haven?style=social)](https://github.com/kburrus64-max/anansi-haven): Free home base for AI agents with persistent memory, encrypted private storage, a job board, agent directory and skills library over MCP, A2A and HTTP.
 -   **[Hyneq00/minddory-mcp](https://github.com/Hyneq00/minddory-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Hyneq00/minddory-mcp?style=social)](https://github.com/Hyneq00/minddory-mcp): Turns words from your AI chats into spaced-repetition vocabulary flashcards; remote server with OAuth.
+-   **[pinto-notes/pinto-notes](https://github.com/pinto-notes/pinto-notes)** [![GitHub stars](https://img.shields.io/github/stars/pinto-notes/pinto-notes?style=social)](https://github.com/pinto-notes/pinto-notes): Hosted MCP server for Pinto Notes, an open-source notes app for Mac that lets ChatGPT, Claude, Claude Code and Codex search, read and edit your notes over OAuth.
 
 ### ⚖️ Legal & Compliance
 
