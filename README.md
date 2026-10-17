@@ -374,6 +374,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[gettaskhold/taskhold-plugin](https://github.com/gettaskhold/taskhold-plugin)** [![GitHub stars](https://img.shields.io/github/stars/gettaskhold/taskhold-plugin?style=social)](https://github.com/gettaskhold/taskhold-plugin): Hosted MCP server for a task list shared by a person and their coding agents, letting agents pick up the next task, add todos, block on a question and mark work done.
 -   **[dontpayfull/AInotate](https://github.com/dontpayfull/AInotate)** [![GitHub stars](https://img.shields.io/github/stars/dontpayfull/AInotate?style=social)](https://github.com/dontpayfull/AInotate): Gives AI agents annotated screenshots with numbered steps, arrows, boxes, labels and automatic secret redaction.
 -   **[theone55/jfs](https://github.com/theone55/jfs)** [![GitHub stars](https://img.shields.io/github/stars/theone55/jfs?style=social)](https://github.com/theone55/jfs): Lets an agent use API keys without seeing them: commands run with secrets in the environment, output masked, every use approved in the JFSecure app.
+-   **[mishafyi/Apple-Docs-2.0-MCP](https://github.com/mishafyi/Apple-Docs-2.0-MCP)** [![GitHub stars](https://img.shields.io/github/stars/mishafyi/Apple-Docs-2.0-MCP?style=social)](https://github.com/mishafyi/Apple-Docs-2.0-MCP): Apple developer documentation, Human Interface Guidelines and WWDC session content for coding agents, with search over developer.apple.com and an offline index.
 
 ### 🧮 Data Science Tools
 
