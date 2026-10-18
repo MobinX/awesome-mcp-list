@@ -803,6 +803,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Sambel/localscreenshot-mcp](https://github.com/Sambel/localscreenshot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Sambel/localscreenshot-mcp?style=social)](https://github.com/Sambel/localscreenshot-mcp): Hosted screenshot capture over Streamable HTTP for public web pages from many countries, with cookie banners and ads hidden, plus configs and docs in the repository.
 -   **[agentsvc/agentsvc](https://github.com/agentsvc/agentsvc)** [![GitHub stars](https://img.shields.io/github/stars/agentsvc/agentsvc?style=social)](https://github.com/agentsvc/agentsvc): Docs and examples for the agentsvc remote MCP server, which gives agents pay-per-call services such as web scraping to Markdown, screenshots, speech to text, invoice extraction and company checks, paid in USDC over x402.
 -   **[Surface-ops/surface](https://github.com/Surface-ops/surface)** [![GitHub stars](https://img.shields.io/github/stars/Surface-ops/surface?style=social)](https://github.com/Surface-ops/surface): Remote MCP server with a preflight_url tool that unwraps redirects and returns fetch or skip before an agent downloads a URL.
+-   **[skulitom/Nestbolt](https://github.com/skulitom/Nestbolt)** [![GitHub stars](https://img.shields.io/github/stars/skulitom/Nestbolt?style=social)](https://github.com/skulitom/Nestbolt): Nests 2D SVG/DXF parts on fixed sheets for laser, CNC, plasma and waterjet cutting, with validated layouts and per-sheet SVG/DXF export.
 
 ### 🦾 Robotics & Physical AI
 
