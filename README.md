@@ -758,6 +758,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[arcmira/mcp](https://github.com/arcmira/mcp)** [![GitHub stars](https://img.shields.io/github/stars/arcmira/mcp?style=social)](https://github.com/arcmira/mcp): Searches Arcmira's indexed YouTube transcripts for timestamped quotes, speakers and sponsors.
 -   **[firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=social)](https://github.com/firecrawl/firecrawl-mcp-server): Firecrawl MCP server for web search, scraping, crawling and site mapping, returning clean markdown or structured data.
 -   **[loootai/looot-mcp](https://github.com/loootai/looot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/loootai/looot-mcp?style=social)](https://github.com/loootai/looot-mcp): Hosted MCP server that searches data API endpoints for work emails, company data, SERP and scraping, shows the price before each call and bills per call from one balance.
+-   **[droopboop/flconsole-upwork-mcp](https://github.com/droopboop/flconsole-upwork-mcp)** [![GitHub stars](https://img.shields.io/github/stars/droopboop/flconsole-upwork-mcp?style=social)](https://github.com/droopboop/flconsole-upwork-mcp): Hosted MCP server for new Upwork jobs: search by saved feeds or filters, read job details and manage feeds that also alert in Telegram.
 
 ### 🛠️ Utilities
 
