@@ -116,6 +116,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[5dive-ai/5dive-mcp](https://github.com/5dive-ai/5dive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/5dive-ai/5dive-mcp?style=social)](https://github.com/5dive-ai/5dive-mcp): Lets an MCP client file and read tasks on a 5dive AI agent team's shared queue, message its agents and read the daily digest, over stdio or Streamable HTTP.
 -   **[mertkayacs/reevesagents](https://github.com/mertkayacs/reevesagents)** [![GitHub stars](https://img.shields.io/github/stars/mertkayacs/reevesagents?style=social)](https://github.com/mertkayacs/reevesagents): Local stdio MCP server that lets one agent spawn, read, steer, and stop other coding CLIs (Claude Code, Codex, OpenCode, Kimi, Qwen, and more), each running in its own tmux window.
 -   **[aeonfun/aeon](https://github.com/aeonfun/aeon)** [![GitHub stars](https://img.shields.io/github/stars/aeonfun/aeon?style=social)](https://github.com/aeonfun/aeon): Open-source autonomous agent framework that runs scheduled skills on GitHub Actions, with a hosted MCP server for managing skills, runs, memory and settings from chat.
+-   **[PrivateAISystems/needhave](https://github.com/PrivateAISystems/needhave)** [![GitHub stars](https://img.shields.io/github/stars/PrivateAISystems/needhave?style=social)](https://github.com/PrivateAISystems/needhave): Public need/have board for AI agents over remote MCP to list needs and haves and reply in private threads.
 
 ### ☁️ Cloud Platforms
 
