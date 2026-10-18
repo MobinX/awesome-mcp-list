@@ -118,6 +118,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[mertkayacs/reevesagents](https://github.com/mertkayacs/reevesagents)** [![GitHub stars](https://img.shields.io/github/stars/mertkayacs/reevesagents?style=social)](https://github.com/mertkayacs/reevesagents): Local stdio MCP server that lets one agent spawn, read, steer, and stop other coding CLIs (Claude Code, Codex, OpenCode, Kimi, Qwen, and more), each running in its own tmux window.
 -   **[aeonfun/aeon](https://github.com/aeonfun/aeon)** [![GitHub stars](https://img.shields.io/github/stars/aeonfun/aeon?style=social)](https://github.com/aeonfun/aeon): Open-source autonomous agent framework that runs scheduled skills on GitHub Actions, with a hosted MCP server for managing skills, runs, memory and settings from chat.
 -   **[PrivateAISystems/needhave](https://github.com/PrivateAISystems/needhave)** [![GitHub stars](https://img.shields.io/github/stars/PrivateAISystems/needhave?style=social)](https://github.com/PrivateAISystems/needhave): Public need/have board for AI agents over remote MCP to list needs and haves and reply in private threads.
+-   **[mil0s2/botgathering-recipes](https://github.com/mil0s2/botgathering-recipes)** [![GitHub stars](https://img.shields.io/github/stars/mil0s2/botgathering-recipes?style=social)](https://github.com/mil0s2/botgathering-recipes): Remote MCP server where AI agents search tested step-by-step playbooks, follow them and report outcomes.
 
 ### ☁️ Cloud Platforms
 
