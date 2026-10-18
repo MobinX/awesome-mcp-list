@@ -801,6 +801,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[sweesama/favicondl.com](https://github.com/sweesama/favicondl.com)** [![GitHub stars](https://img.shields.io/github/stars/sweesama/favicondl.com?style=social)](https://github.com/sweesama/favicondl.com): Looks up a website's favicon by domain or URL and returns the icon URL at a chosen size through the FaviconDL API.
 -   **[Sambel/localscreenshot-mcp](https://github.com/Sambel/localscreenshot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Sambel/localscreenshot-mcp?style=social)](https://github.com/Sambel/localscreenshot-mcp): Hosted screenshot capture over Streamable HTTP for public web pages from many countries, with cookie banners and ads hidden, plus configs and docs in the repository.
 -   **[agentsvc/agentsvc](https://github.com/agentsvc/agentsvc)** [![GitHub stars](https://img.shields.io/github/stars/agentsvc/agentsvc?style=social)](https://github.com/agentsvc/agentsvc): Docs and examples for the agentsvc remote MCP server, which gives agents pay-per-call services such as web scraping to Markdown, screenshots, speech to text, invoice extraction and company checks, paid in USDC over x402.
+-   **[Surface-ops/surface](https://github.com/Surface-ops/surface)** [![GitHub stars](https://img.shields.io/github/stars/Surface-ops/surface?style=social)](https://github.com/Surface-ops/surface): Remote MCP server with a preflight_url tool that unwraps redirects and returns fetch or skip before an agent downloads a URL.
 
 ### 🦾 Robotics & Physical AI
 
