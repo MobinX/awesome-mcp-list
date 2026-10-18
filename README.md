@@ -493,6 +493,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Baptoshi/silicon-floor](https://github.com/Baptoshi/silicon-floor)** [![GitHub stars](https://img.shields.io/github/stars/Baptoshi/silicon-floor?style=social)](https://github.com/Baptoshi/silicon-floor): Read-only MCP server for ownership, trading and filed financials of AI and semiconductor listed companies from SEC filings and FINRA data.
 -   **[SwapWallet/swapwallet-mcp](https://github.com/SwapWallet/swapwallet-mcp)** [![GitHub stars](https://img.shields.io/github/stars/SwapWallet/swapwallet-mcp?style=social)](https://github.com/SwapWallet/swapwallet-mcp): Remote MCP server for the SwapWallet crypto exchange that reads balances, P&L and history and requests swaps, transfers and withdrawals the user approves in Telegram.
 -   **[blockvectra/mcp](https://github.com/blockvectra/mcp)** [![GitHub stars](https://img.shields.io/github/stars/blockvectra/mcp?style=social)](https://github.com/blockvectra/mcp): Remote MCP for developers and AI agents with multi-chain JSON-RPC, indexed data and keyless documentation; Data API queries require an API key.
+-   **[roicai/agents-plugin](https://github.com/roicai/agents-plugin)** [![GitHub stars](https://img.shields.io/github/stars/roicai/agents-plugin?style=social)](https://github.com/roicai/agents-plugin): Company fundamentals (financial statements, profitability, credit and valuation ratios) and earnings call transcripts for public companies from roic.ai.
 
 ### 🏃 Fitness & Sports
 
