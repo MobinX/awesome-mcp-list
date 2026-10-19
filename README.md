@@ -779,6 +779,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[dreamworkhq/mcp](https://github.com/dreamworkhq/mcp)** [![GitHub stars](https://img.shields.io/github/stars/dreamworkhq/mcp?style=social)](https://github.com/dreamworkhq/mcp): Searches jobs, tailors application materials and tracks applications, with public job browsing without an API key.
 -   **[yumaheymans/carejobs-mcp](https://github.com/yumaheymans/carejobs-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yumaheymans/carejobs-mcp?style=social)](https://github.com/yumaheymans/carejobs-mcp): Hosted, no-auth MCP server that searches open US healthcare jobs with the pay each employer posts.
 -   **[ginugokz/ats-zero-browser-gateway](https://github.com/ginugokz/ats-zero-browser-gateway)** [![GitHub stars](https://img.shields.io/github/stars/ginugokz/ats-zero-browser-gateway?style=social)](https://github.com/ginugokz/ats-zero-browser-gateway): MCP server for a hosted Apify Actor that returns jobs from Workday, Greenhouse, Lever and Ashby career sites as normalized JSON with change tracking, and needs an Apify API token.
+-   **[HeadcountLabs/headcountlabs-mcp](https://github.com/HeadcountLabs/headcountlabs-mcp)** [![GitHub stars](https://img.shields.io/github/stars/HeadcountLabs/headcountlabs-mcp?style=social)](https://github.com/HeadcountLabs/headcountlabs-mcp): Hosted server to search, count and read about 8.4 million deduplicated open jobs from employer career sites, with a no-auth endpoint and an OAuth one.
 
 ### 🛠️ Utilities
 
