@@ -568,6 +568,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Hyneq00/minddory-mcp](https://github.com/Hyneq00/minddory-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Hyneq00/minddory-mcp?style=social)](https://github.com/Hyneq00/minddory-mcp): Turns words from your AI chats into spaced-repetition vocabulary flashcards; remote server with OAuth.
 -   **[pinto-notes/pinto-notes](https://github.com/pinto-notes/pinto-notes)** [![GitHub stars](https://img.shields.io/github/stars/pinto-notes/pinto-notes?style=social)](https://github.com/pinto-notes/pinto-notes): Hosted MCP server for Pinto Notes, an open-source notes app for Mac that lets ChatGPT, Claude, Claude Code and Codex search, read and edit your notes over OAuth.
 -   **[fadymondy/zekra](https://github.com/fadymondy/zekra)** [![GitHub stars](https://img.shields.io/github/stars/fadymondy/zekra?style=social)](https://github.com/fadymondy/zekra): Self-hostable shared long-term memory for AI agents with hybrid recall, a knowledge graph and data-source sync.
+-   **[enhesa/big-agentic-brain](https://github.com/enhesa/big-agentic-brain)** [![GitHub stars](https://img.shields.io/github/stars/enhesa/big-agentic-brain?style=social)](https://github.com/enhesa/big-agentic-brain): Self-hosted shared memory for an organization's AI agents, with feedback-ranked memories, private reminders and agent-to-agent messages.
 
 ### ⚖️ Legal & Compliance
 
