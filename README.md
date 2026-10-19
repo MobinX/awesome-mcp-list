@@ -48,6 +48,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[webloomhq/engine](https://github.com/webloomhq/engine)** [![GitHub stars](https://img.shields.io/github/stars/webloomhq/engine?style=social)](https://github.com/webloomhq/engine): Drives your real Chrome with your logged-in sessions, so the AI can work on sites with no API.
 -   **[MayberryDT/ibara](https://github.com/MayberryDT/ibara)** [![GitHub stars](https://img.shields.io/github/stars/MayberryDT/ibara?style=social)](https://github.com/MayberryDT/ibara): Gives MCP agents browser and desktop control on Omarchy computers you own over Tailscale.
 -   **[Eric-huang799/duplex](https://github.com/Eric-huang799/duplex)** [![GitHub stars](https://img.shields.io/github/stars/Eric-huang799/duplex?style=social)](https://github.com/Eric-huang799/duplex): Shares one desktop browser between a human and an AI agent so the agent can snapshot, click, type and take screenshots in the same visible tab while the human can take back control at any time.
+-   **[alibaba/qz-browser-agent](https://github.com/alibaba/qz-browser-agent)** [![GitHub stars](https://img.shields.io/github/stars/alibaba/qz-browser-agent?style=social)](https://github.com/alibaba/qz-browser-agent): Hands web tasks to qz, an open-source browser agent running in your own Chrome, and returns tables, files, or reports with sources over a local MCP endpoint.
 
 ### 📱 Mobile Device Control
 
