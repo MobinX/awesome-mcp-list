@@ -500,6 +500,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[roicai/agents-plugin](https://github.com/roicai/agents-plugin)** [![GitHub stars](https://img.shields.io/github/stars/roicai/agents-plugin?style=social)](https://github.com/roicai/agents-plugin): Company fundamentals (financial statements, profitability, credit and valuation ratios) and earnings call transcripts for public companies from roic.ai.
 -   **[AperiAnalytics/walletfollow-plugin](https://github.com/AperiAnalytics/walletfollow-plugin)** [![GitHub stars](https://img.shields.io/github/stars/AperiAnalytics/walletfollow-plugin?style=social)](https://github.com/AperiAnalytics/walletfollow-plugin): Plugin and OAuth connection configuration for WalletFollow's hosted read-only MCP server for Hyperliquid wallet, market and copy-portfolio research.
 -   **[tuantqse90/moltnode-mcp](https://github.com/tuantqse90/moltnode-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tuantqse90/moltnode-mcp?style=social)](https://github.com/tuantqse90/moltnode-mcp): Hosted, no-key MCP server for reading many blockchains over JSON-RPC and getting DEX swap quotes and unsigned transactions through Chord.
+-   **[getchordlabs/chord](https://github.com/getchordlabs/chord)** [![GitHub stars](https://img.shields.io/github/stars/getchordlabs/chord?style=social)](https://github.com/getchordlabs/chord): Hosted, no-key MCP server for DEX swap quotes and unsigned transactions on EVM chains, plus token boards, candles, wallet PnL and smart-money data.
 
 ### 🏃 Fitness & Sports
 
