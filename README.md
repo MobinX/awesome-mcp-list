@@ -501,6 +501,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[AperiAnalytics/walletfollow-plugin](https://github.com/AperiAnalytics/walletfollow-plugin)** [![GitHub stars](https://img.shields.io/github/stars/AperiAnalytics/walletfollow-plugin?style=social)](https://github.com/AperiAnalytics/walletfollow-plugin): Plugin and OAuth connection configuration for WalletFollow's hosted read-only MCP server for Hyperliquid wallet, market and copy-portfolio research.
 -   **[tuantqse90/moltnode-mcp](https://github.com/tuantqse90/moltnode-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tuantqse90/moltnode-mcp?style=social)](https://github.com/tuantqse90/moltnode-mcp): Hosted, no-key MCP server for reading many blockchains over JSON-RPC and getting DEX swap quotes and unsigned transactions through Chord.
 -   **[getchordlabs/chord](https://github.com/getchordlabs/chord)** [![GitHub stars](https://img.shields.io/github/stars/getchordlabs/chord?style=social)](https://github.com/getchordlabs/chord): Hosted, no-key MCP server for DEX swap quotes and unsigned transactions on EVM chains, plus token boards, candles, wallet PnL and smart-money data.
+-   **[Kernel-Hunter/kandle](https://github.com/Kernel-Hunter/kandle)** [![GitHub stars](https://img.shields.io/github/stars/Kernel-Hunter/kandle?style=social)](https://github.com/Kernel-Hunter/kandle): Lets agents read a browser chart for crypto, stocks and forex, draw on it, add indicators and alerts, and run strategy backtests.
 
 ### 🏃 Fitness & Sports
 
