@@ -725,6 +725,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Parallel-Platforms/hootlens-mcp](https://github.com/Parallel-Platforms/hootlens-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Parallel-Platforms/hootlens-mcp?style=social)](https://github.com/Parallel-Platforms/hootlens-mcp): Reads website session replays, click heatmaps and broken clicks, and traces a broken click to its JavaScript error and source line.
 -   **[fclairamb/solidping](https://github.com/fclairamb/solidping)** [![GitHub stars](https://img.shields.io/github/stars/fclairamb/solidping?style=social)](https://github.com/fclairamb/solidping): Self-hostable uptime monitor with a built-in MCP server (remote or stdio) to create, run and diagnose checks, read incidents and manage status pages.
 -   **[mandarelabs/mandare](https://github.com/mandarelabs/mandare)** [![GitHub stars](https://img.shields.io/github/stars/mandarelabs/mandare?style=social)](https://github.com/mandarelabs/mandare): Verifies an agent fleet's tamper-evident ledger, checks mandate budgets and kills a runaway agent over MCP.
+-   **[initMAX/zabbix-mcp-server](https://github.com/initMAX/zabbix-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/initMAX/zabbix-mcp-server?style=social)](https://github.com/initMAX/zabbix-mcp-server): Queries and manages Zabbix monitoring through AI assistants, with incident analysis, metric graphs, capacity forecasts and PDF reports.
+
 
 ### 🔎 Search
 
