@@ -581,6 +581,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[fadymondy/zekra](https://github.com/fadymondy/zekra)** [![GitHub stars](https://img.shields.io/github/stars/fadymondy/zekra?style=social)](https://github.com/fadymondy/zekra): Self-hostable shared long-term memory for AI agents with hybrid recall, a knowledge graph and data-source sync.
 -   **[alexslkgit/own-words](https://github.com/alexslkgit/own-words)** [![GitHub stars](https://img.shields.io/github/stars/alexslkgit/own-words?style=social)](https://github.com/alexslkgit/own-words): Create study decks over MCP; the reader answers each card in their own words, then compares with the prepared answer.
 -   **[ApexAI-Academy/apex-mcp](https://github.com/ApexAI-Academy/apex-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ApexAI-Academy/apex-mcp?style=social)](https://github.com/ApexAI-Academy/apex-mcp): Remote MCP server for Apex AI Academy that lets agents browse courses, read and search fact-checked AI lessons, get AI news and track learning progress.
+-   **[koruworks/mono](https://github.com/koruworks/mono)** [![GitHub stars](https://img.shields.io/github/stars/koruworks/mono?style=social)](https://github.com/koruworks/mono): Local stdio MCP server for Koru, a free, open-source, local-first notes, docs and files app, to search, read, create and edit documents stored on the device.
 
 ### ⚖️ Legal & Compliance
 
