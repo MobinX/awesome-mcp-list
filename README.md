@@ -56,6 +56,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/droidmind?style=social)](https://github.com/hyperb1iss/droidmind): Controls Android devices, enabling UI automation and debugging.
 -   **[ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android)** [![GitHub stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)](https://github.com/ateymoori/oh-my-android): Lets AI agents see and drive the Android Emulator and adb devices from a macOS app.
 -   **[combined-ai/phonebox-android-mcp](https://github.com/combined-ai/phonebox-android-mcp)** [![GitHub stars](https://img.shields.io/github/stars/combined-ai/phonebox-android-mcp?style=social)](https://github.com/combined-ai/phonebox-android-mcp): Hosted Android MCP server that gives AI agents cloud Android phones to read, tap, type and install APKs on, with no ADB or emulator.
+-   **[Protremix/erius-phone-mcp](https://github.com/Protremix/erius-phone-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Protremix/erius-phone-mcp?style=social)](https://github.com/Protremix/erius-phone-mcp): Python MCP server for ERIUS PHONE cloud Android devices, with UI trees, screenshots, touch input, app management and crash logs.
 
 ### 🎨 Art & Culture
 
