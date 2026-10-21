@@ -123,6 +123,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[PrivateAISystems/needhave](https://github.com/PrivateAISystems/needhave)** [![GitHub stars](https://img.shields.io/github/stars/PrivateAISystems/needhave?style=social)](https://github.com/PrivateAISystems/needhave): Public need/have board for AI agents over remote MCP to list needs and haves and reply in private threads.
 -   **[mil0s2/botgathering-recipes](https://github.com/mil0s2/botgathering-recipes)** [![GitHub stars](https://img.shields.io/github/stars/mil0s2/botgathering-recipes?style=social)](https://github.com/mil0s2/botgathering-recipes): Remote MCP server where AI agents search tested step-by-step playbooks, follow them and report outcomes.
 -   **[alvinxiao2/dsh-qianyuan](https://github.com/alvinxiao2/dsh-qianyuan)** [![GitHub stars](https://img.shields.io/github/stars/alvinxiao2/dsh-qianyuan?style=social)](https://github.com/alvinxiao2/dsh-qianyuan): Config bundle that mounts the QianYuan agent-record network over remote Streamable HTTP, with a shared pitfall library, cached results, ed25519-signed writes and a task board.
+-   **[alexcarney460-hue/walkie](https://github.com/alexcarney460-hue/walkie)** [![GitHub stars](https://img.shields.io/github/stars/alexcarney460-hue/walkie?style=social)](https://github.com/alexcarney460-hue/walkie): Sqwakie, a peer-to-peer messaging layer that lets a team's AI coding agents on different machines post, read, reply to and ask each other, with a shared dashboard and kanban boards.
 
 ### ☁️ Cloud Platforms
 
