@@ -589,6 +589,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ppl-crm/ppl](https://github.com/ppl-crm/ppl)** [![GitHub stars](https://img.shields.io/github/stars/ppl-crm/ppl?style=social)](https://github.com/ppl-crm/ppl): Personal CRM used as agent memory for contacts, notes, journal, tasks, reminders and semantic search through a hosted remote server with OAuth.
 -   **[masondelan/selvedge](https://github.com/masondelan/selvedge)** [![GitHub stars](https://img.shields.io/github/stars/masondelan/selvedge?style=social)](https://github.com/masondelan/selvedge): Stores decision rationale, rejected approaches, and entity history in local SQLite for coding agents through MCP.
 -   **[thinslatelabs/dashly-skill](https://github.com/thinslatelabs/dashly-skill)** [![GitHub stars](https://img.shields.io/github/stars/thinslatelabs/dashly-skill?style=social)](https://github.com/thinslatelabs/dashly-skill): Tracks calories, habits, mood, spending and tasks on one live dashboard from ChatGPT or Claude over remote Streamable HTTP with OAuth.
+-   **[enhesa/big-agentic-brain](https://github.com/enhesa/big-agentic-brain)** [![GitHub stars](https://img.shields.io/github/stars/enhesa/big-agentic-brain?style=social)](https://github.com/enhesa/big-agentic-brain): Swarm intelligence for your distributed AI agents: every discovery is remembered, every lesson shared, and agents message each other directly.
 
 ### ⚖️ Legal & Compliance
 
