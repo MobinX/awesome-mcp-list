@@ -387,6 +387,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[nickgeorgeseo/fieldtwin](https://github.com/nickgeorgeseo/fieldtwin)** [![GitHub stars](https://img.shields.io/github/stars/nickgeorgeseo/fieldtwin?style=social)](https://github.com/nickgeorgeseo/fieldtwin): Stateful local twins of the Jobber and QuickBooks Online APIs for testing agents, with tools to checkpoint, inject faults, advance time, list what changed, and rewind.
 -   **[openhook-dev/openhook-inbox](https://github.com/openhook-dev/openhook-inbox)** [![GitHub stars](https://img.shields.io/github/stars/openhook-dev/openhook-inbox?style=social)](https://github.com/openhook-dev/openhook-inbox): Open-source webhook inbox for AI agents to capture callbacks, inspect payloads, and wait for events through hosted or self-hosted MCP.
 
+-   **[tubban1/vibe-monitor](https://github.com/tubban1/vibe-monitor)** [![GitHub stars](https://img.shields.io/github/stars/tubban1/vibe-monitor?style=social)](https://github.com/tubban1/vibe-monitor): Provides read-only architecture evolution observations for AI coding, with default telemetry and separate proprietary cloud policy/scoring.
+
 ### 🧮 Data Science Tools
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
