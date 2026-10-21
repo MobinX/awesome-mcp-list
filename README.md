@@ -143,6 +143,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[towardsthecloud/cloudburn](https://github.com/towardsthecloud/cloudburn)** [![GitHub stars](https://img.shields.io/github/stars/towardsthecloud/cloudburn?style=social)](https://github.com/towardsthecloud/cloudburn): Read-only AWS cost checks for Terraform, CloudFormation, and live AWS accounts through a local stdio MCP server.
 -   **[symbioza/claude-plugin](https://github.com/symbioza/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/symbioza/claude-plugin?style=social)](https://github.com/symbioza/claude-plugin): Run a GPU job under a hard dollar cap and collect the files it writes.
 -   **[cohesivity-org/cohesivity-plugin](https://github.com/cohesivity-org/cohesivity-plugin)** [![GitHub stars](https://img.shields.io/github/stars/cohesivity-org/cohesivity-plugin?style=social)](https://github.com/cohesivity-org/cohesivity-plugin): Headless backend for AI agents with hosting, databases, storage, auth and AI APIs through one MCP endpoint.
+-   **[umairalisadaqat/weinc-mcp](https://github.com/umairalisadaqat/weinc-mcp)** [![GitHub stars](https://img.shields.io/github/stars/umairalisadaqat/weinc-mcp?style=social)](https://github.com/umairalisadaqat/weinc-mcp): Builds, edits and publishes AI-generated websites on WeInc from any MCP client.
 
 ### 🖥️ Command Line
 
