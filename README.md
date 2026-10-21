@@ -585,6 +585,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[alexslkgit/own-words](https://github.com/alexslkgit/own-words)** [![GitHub stars](https://img.shields.io/github/stars/alexslkgit/own-words?style=social)](https://github.com/alexslkgit/own-words): Create study decks over MCP; the reader answers each card in their own words, then compares with the prepared answer.
 -   **[ApexAI-Academy/apex-mcp](https://github.com/ApexAI-Academy/apex-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ApexAI-Academy/apex-mcp?style=social)](https://github.com/ApexAI-Academy/apex-mcp): Remote MCP server for Apex AI Academy that lets agents browse courses, read and search fact-checked AI lessons, get AI news and track learning progress.
 -   **[ppl-crm/ppl](https://github.com/ppl-crm/ppl)** [![GitHub stars](https://img.shields.io/github/stars/ppl-crm/ppl?style=social)](https://github.com/ppl-crm/ppl): Personal CRM used as agent memory for contacts, notes, journal, tasks, reminders and semantic search through a hosted remote server with OAuth.
+-   **[masondelan/selvedge](https://github.com/masondelan/selvedge)** [![GitHub stars](https://img.shields.io/github/stars/masondelan/selvedge?style=social)](https://github.com/masondelan/selvedge): Stores decision rationale, rejected approaches, and entity history in local SQLite for coding agents through MCP.
 
 ### ⚖️ Legal & Compliance
 
