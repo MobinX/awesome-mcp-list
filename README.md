@@ -588,6 +588,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ApexAI-Academy/apex-mcp](https://github.com/ApexAI-Academy/apex-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ApexAI-Academy/apex-mcp?style=social)](https://github.com/ApexAI-Academy/apex-mcp): Remote MCP server for Apex AI Academy that lets agents browse courses, read and search fact-checked AI lessons, get AI news and track learning progress.
 -   **[ppl-crm/ppl](https://github.com/ppl-crm/ppl)** [![GitHub stars](https://img.shields.io/github/stars/ppl-crm/ppl?style=social)](https://github.com/ppl-crm/ppl): Personal CRM used as agent memory for contacts, notes, journal, tasks, reminders and semantic search through a hosted remote server with OAuth.
 -   **[masondelan/selvedge](https://github.com/masondelan/selvedge)** [![GitHub stars](https://img.shields.io/github/stars/masondelan/selvedge?style=social)](https://github.com/masondelan/selvedge): Stores decision rationale, rejected approaches, and entity history in local SQLite for coding agents through MCP.
+-   **[thinslatelabs/dashly-skill](https://github.com/thinslatelabs/dashly-skill)** [![GitHub stars](https://img.shields.io/github/stars/thinslatelabs/dashly-skill?style=social)](https://github.com/thinslatelabs/dashly-skill): Tracks calories, habits, mood, spending and tasks on one live dashboard from ChatGPT or Claude over remote Streamable HTTP with OAuth.
 
 ### ⚖️ Legal & Compliance
 
