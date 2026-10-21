@@ -141,6 +141,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[towardsthecloud/cloudburn](https://github.com/towardsthecloud/cloudburn)** [![GitHub stars](https://img.shields.io/github/stars/towardsthecloud/cloudburn?style=social)](https://github.com/towardsthecloud/cloudburn): Read-only AWS cost checks for Terraform, CloudFormation, and live AWS accounts through a local stdio MCP server.
 -   **[symbioza/claude-plugin](https://github.com/symbioza/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/symbioza/claude-plugin?style=social)](https://github.com/symbioza/claude-plugin): Run a GPU job under a hard dollar cap and collect the files it writes.
 -   **[cohesivity-org/cohesivity-plugin](https://github.com/cohesivity-org/cohesivity-plugin)** [![GitHub stars](https://img.shields.io/github/stars/cohesivity-org/cohesivity-plugin?style=social)](https://github.com/cohesivity-org/cohesivity-plugin): Headless backend for AI agents with hosting, databases, storage, auth and AI APIs through one MCP endpoint.
+-   **[costory-io/costory-finops-mcp-skills](https://github.com/costory-io/costory-finops-mcp-skills)** [![GitHub stars](https://img.shields.io/github/stars/costory-io/costory-finops-mcp-skills?style=social)](https://github.com/costory-io/costory-finops-mcp-skills): FinOps agent MCP: one allocated view of cloud, AI and data costs across providers, shared by your whole team with SSO (Starter $300/mo, 30-day free trial).
 
 ### 🖥️ Command Line
 
