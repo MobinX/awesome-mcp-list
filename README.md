@@ -791,6 +791,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[dreamworkhq/mcp](https://github.com/dreamworkhq/mcp)** [![GitHub stars](https://img.shields.io/github/stars/dreamworkhq/mcp?style=social)](https://github.com/dreamworkhq/mcp): Searches jobs, tailors application materials and tracks applications, with public job browsing without an API key.
 -   **[yumaheymans/carejobs-mcp](https://github.com/yumaheymans/carejobs-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yumaheymans/carejobs-mcp?style=social)](https://github.com/yumaheymans/carejobs-mcp): Hosted, no-auth MCP server that searches open US healthcare jobs with the pay each employer posts.
 -   **[ginugokz/ats-zero-browser-gateway](https://github.com/ginugokz/ats-zero-browser-gateway)** [![GitHub stars](https://img.shields.io/github/stars/ginugokz/ats-zero-browser-gateway?style=social)](https://github.com/ginugokz/ats-zero-browser-gateway): MCP server for a hosted Apify Actor that returns jobs from Workday, Greenhouse, Lever and Ashby career sites as normalized JSON with change tracking, and needs an Apify API token.
+-   **[Mubboo-Ai/mubboo-flights-mcp](https://github.com/Mubboo-Ai/mubboo-flights-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Mubboo-Ai/mubboo-flights-mcp?style=social)](https://github.com/Mubboo-Ai/mubboo-flights-mcp): Docs and client examples for a free hosted MCP that finds airports, validates trip inputs and prepares flight-comparison links on Mubboo.
 
 ### 🛠️ Utilities
 
