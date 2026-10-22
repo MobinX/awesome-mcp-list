@@ -535,6 +535,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[softdevfz/brainy-prices-mcp](https://github.com/softdevfz/brainy-prices-mcp)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/brainy-prices-mcp?style=social)](https://github.com/softdevfz/brainy-prices-mcp): Source-backed UAE cost-of-living queries for groceries, historical tuition, registered property, transport, utilities and relocation through a remote MCP server.
 -   **[thinslatelabs/keepp-skill](https://github.com/thinslatelabs/keepp-skill)** [![GitHub stars](https://img.shields.io/github/stars/thinslatelabs/keepp-skill?style=social)](https://github.com/thinslatelabs/keepp-skill): Builds and edits a Keepp website or link-in-bio page with a store, bookings, forms and chat from any MCP client.
 -   **[marstudio360/gumroad-dna-mcp](https://github.com/marstudio360/gumroad-dna-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/gumroad-dna-mcp?style=social)](https://github.com/marstudio360/gumroad-dna-mcp): Gumroad API v2 tools for products, sales, refunds and license keys, plus storefront niche scans.
+-   **[datawebot/datawebot-mcp](https://github.com/datawebot/datawebot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/datawebot/datawebot-mcp?style=social)](https://github.com/datawebot/datawebot-mcp): Hosted remote MCP server that searches products across online shops worldwide, lists every seller's price for one product with direct shop links, and runs extraction Jobs on Amazon and Shopify stores.
 
 ### 🎮 Gaming
 
