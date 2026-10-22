@@ -589,6 +589,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ppl-crm/ppl](https://github.com/ppl-crm/ppl)** [![GitHub stars](https://img.shields.io/github/stars/ppl-crm/ppl?style=social)](https://github.com/ppl-crm/ppl): Personal CRM used as agent memory for contacts, notes, journal, tasks, reminders and semantic search through a hosted remote server with OAuth.
 -   **[masondelan/selvedge](https://github.com/masondelan/selvedge)** [![GitHub stars](https://img.shields.io/github/stars/masondelan/selvedge?style=social)](https://github.com/masondelan/selvedge): Stores decision rationale, rejected approaches, and entity history in local SQLite for coding agents through MCP.
 -   **[thinslatelabs/dashly-skill](https://github.com/thinslatelabs/dashly-skill)** [![GitHub stars](https://img.shields.io/github/stars/thinslatelabs/dashly-skill?style=social)](https://github.com/thinslatelabs/dashly-skill): Tracks calories, habits, mood, spending and tasks on one live dashboard from ChatGPT or Claude over remote Streamable HTTP with OAuth.
+-   **[Thanatos9404/llmslim](https://github.com/Thanatos9404/llmslim)** [![GitHub stars](https://img.shields.io/github/stars/Thanatos9404/llmslim?style=social)](https://github.com/Thanatos9404/llmslim): Local stdio memory server for MCP clients that stores messages word for word in SQLite or Postgres and recalls the ones that answer a question within a token budget, with no LLM call.
 
 ### ⚖️ Legal & Compliance
 
