@@ -851,6 +851,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Surface-ops/surface](https://github.com/Surface-ops/surface)** [![GitHub stars](https://img.shields.io/github/stars/Surface-ops/surface?style=social)](https://github.com/Surface-ops/surface): Remote MCP server with a preflight_url tool that unwraps redirects and returns fetch or skip before an agent downloads a URL.
 -   **[skulitom/Nestbolt](https://github.com/skulitom/Nestbolt)** [![GitHub stars](https://img.shields.io/github/stars/skulitom/Nestbolt?style=social)](https://github.com/skulitom/Nestbolt): Nests 2D SVG/DXF parts on fixed sheets for laser, CNC, plasma and waterjet cutting, with validated layouts and per-sheet SVG/DXF export.
 -   **[ahernandez-developer/ganttfather-mcp](https://github.com/ahernandez-developer/ganttfather-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ahernandez-developer/ganttfather-mcp?style=social)](https://github.com/ahernandez-developer/ganttfather-mcp): Remote server for GanttFather Gantt charts: read and edit tasks, dates, dependencies, resources and the critical path over OAuth.
+-   **[tareq7/muslim-prayer-mcp](https://github.com/tareq7/muslim-prayer-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tareq7/muslim-prayer-mcp?style=social)](https://github.com/tareq7/muslim-prayer-mcp): Calculates Muslim prayer times by location and selected regional method, returning upcoming-prayer countdowns through local or remote MCP tools.
 
 ### 🦾 Robotics & Physical AI
 
