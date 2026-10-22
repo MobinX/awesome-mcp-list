@@ -849,6 +849,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[agentsvc/agentsvc](https://github.com/agentsvc/agentsvc)** [![GitHub stars](https://img.shields.io/github/stars/agentsvc/agentsvc?style=social)](https://github.com/agentsvc/agentsvc): Docs and examples for the agentsvc remote MCP server, which gives agents pay-per-call services such as web scraping to Markdown, screenshots, speech to text, invoice extraction and company checks, paid in USDC over x402.
 -   **[Surface-ops/surface](https://github.com/Surface-ops/surface)** [![GitHub stars](https://img.shields.io/github/stars/Surface-ops/surface?style=social)](https://github.com/Surface-ops/surface): Remote MCP server with a preflight_url tool that unwraps redirects and returns fetch or skip before an agent downloads a URL.
 -   **[skulitom/Nestbolt](https://github.com/skulitom/Nestbolt)** [![GitHub stars](https://img.shields.io/github/stars/skulitom/Nestbolt?style=social)](https://github.com/skulitom/Nestbolt): Nests 2D SVG/DXF parts on fixed sheets for laser, CNC, plasma and waterjet cutting, with validated layouts and per-sheet SVG/DXF export.
+-   **[founden-bot/yap-mcp](https://github.com/founden-bot/yap-mcp)** [![GitHub stars](https://img.shields.io/github/stars/founden-bot/yap-mcp?style=social)](https://github.com/founden-bot/yap-mcp): Transcribes local audio and video files on your computer with Parakeet TDT v3 (25 European languages, no API key, no upload) and searches your Yap dictation history.
 
 ### 🦾 Robotics & Physical AI
 
