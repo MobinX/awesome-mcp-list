@@ -747,6 +747,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Parallel-Platforms/hootlens-mcp](https://github.com/Parallel-Platforms/hootlens-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Parallel-Platforms/hootlens-mcp?style=social)](https://github.com/Parallel-Platforms/hootlens-mcp): Reads website session replays, click heatmaps and broken clicks, and traces a broken click to its JavaScript error and source line.
 -   **[fclairamb/solidping](https://github.com/fclairamb/solidping)** [![GitHub stars](https://img.shields.io/github/stars/fclairamb/solidping?style=social)](https://github.com/fclairamb/solidping): Self-hostable uptime monitor with a built-in MCP server (remote or stdio) to create, run and diagnose checks, read incidents and manage status pages.
 -   **[mandarelabs/mandare](https://github.com/mandarelabs/mandare)** [![GitHub stars](https://img.shields.io/github/stars/mandarelabs/mandare?style=social)](https://github.com/mandarelabs/mandare): Verifies an agent fleet's tamper-evident ledger, checks mandate budgets and kills a runaway agent over MCP.
+-   **[emirmrkaljevic/iotaudit](https://github.com/emirmrkaljevic/iotaudit)** [![GitHub stars](https://img.shields.io/github/stars/emirmrkaljevic/iotaudit?style=social)](https://github.com/emirmrkaljevic/iotaudit): Audits your own smart-home devices locally, analyzing pcaps or live captures for cloud destinations, encryption and open ports, with an A-F grade and HTML report.
 
 ### 🔎 Search
 
