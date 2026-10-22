@@ -49,6 +49,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[MayberryDT/ibara](https://github.com/MayberryDT/ibara)** [![GitHub stars](https://img.shields.io/github/stars/MayberryDT/ibara?style=social)](https://github.com/MayberryDT/ibara): Gives MCP agents browser and desktop control on Omarchy computers you own over Tailscale.
 -   **[Eric-huang799/duplex](https://github.com/Eric-huang799/duplex)** [![GitHub stars](https://img.shields.io/github/stars/Eric-huang799/duplex?style=social)](https://github.com/Eric-huang799/duplex): Shares one desktop browser between a human and an AI agent so the agent can snapshot, click, type and take screenshots in the same visible tab while the human can take back control at any time.
 -   **[SergiuPogor/curlshot-mcp](https://github.com/SergiuPogor/curlshot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/SergiuPogor/curlshot-mcp?style=social)](https://github.com/SergiuPogor/curlshot-mcp): Hosted MCP server that renders any public web page and returns it to the agent as a PNG, JPEG, WebP, PDF or scrolling video, with device presets, full-page capture and element selectors.
+-   **[fullselfbrowsing/FSB](https://github.com/fullselfbrowsing/FSB)** [![GitHub stars](https://img.shields.io/github/stars/fullselfbrowsing/FSB?style=social)](https://github.com/fullselfbrowsing/FSB): Chrome extension plus MCP server that lets an MCP client drive your own signed-in Chrome by reading the live DOM instead of screenshots, with no API key.
 
 ### 📱 Mobile Device Control
 
