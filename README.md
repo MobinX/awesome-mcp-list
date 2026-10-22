@@ -391,6 +391,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[openhook-dev/openhook-inbox](https://github.com/openhook-dev/openhook-inbox)** [![GitHub stars](https://img.shields.io/github/stars/openhook-dev/openhook-inbox?style=social)](https://github.com/openhook-dev/openhook-inbox): Open-source webhook inbox for AI agents to capture callbacks, inspect payloads, and wait for events through hosted or self-hosted MCP.
 -   **[ZerouterAI/zerouter-mcp](https://github.com/ZerouterAI/zerouter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ZerouterAI/zerouter-mcp?style=social)](https://github.com/ZerouterAI/zerouter-mcp): AI API gateway MCP that chats with, compares and looks up API pricing for Claude, GPT, Gemini, Grok and Kimi through one Zerouter API key.
 -   **[shcdwz1234/Everything2MCP](https://github.com/shcdwz1234/Everything2MCP)** [![GitHub stars](https://img.shields.io/github/stars/shcdwz1234/Everything2MCP?style=social)](https://github.com/shcdwz1234/Everything2MCP): Exposes local capabilities, private-network services, OpenAPI, gRPC, MQTT and queue endpoints, and Feishu, DingTalk and WeCom as one MCP server with hot reload and safe defaults.
+-   **[LeulAria/Aria-Icons](https://github.com/LeulAria/Aria-Icons)** [![GitHub stars](https://img.shields.io/github/stars/LeulAria/Aria-Icons?style=social)](https://github.com/LeulAria/Aria-Icons): Search ~1.4M open-source SVG icons and return SVG or React/Vue/Svelte/Solid source, locally via npx or at a hosted HTTP endpoint.
 
 ### 🧮 Data Science Tools
 
