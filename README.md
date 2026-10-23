@@ -861,6 +861,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ahernandez-developer/ganttfather-mcp](https://github.com/ahernandez-developer/ganttfather-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ahernandez-developer/ganttfather-mcp?style=social)](https://github.com/ahernandez-developer/ganttfather-mcp): Remote server for GanttFather Gantt charts: read and edit tasks, dates, dependencies, resources and the critical path over OAuth.
 -   **[tareq7/muslim-prayer-mcp](https://github.com/tareq7/muslim-prayer-mcp)** [![GitHub stars](https://img.shields.io/github/stars/tareq7/muslim-prayer-mcp?style=social)](https://github.com/tareq7/muslim-prayer-mcp): Calculates Muslim prayer times by location and selected regional method, returning upcoming-prayer countdowns through local or remote MCP tools.
 -   **[KhyKd/eggtimer_app_docs](https://github.com/KhyKd/eggtimer_app_docs)** [![GitHub stars](https://img.shields.io/github/stars/KhyKd/eggtimer_app_docs?style=social)](https://github.com/KhyKd/eggtimer_app_docs): Docs for Eggtimer.app's hosted, no-auth MCP server, whose read-only tools return shareable browser timer links for countdowns, clock times, Pomodoro, Tabata and multi-step recipes.
+-   **[AnonymousOnyx22/brightspace-d2l-mcp](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp)** [![GitHub stars](https://img.shields.io/github/stars/AnonymousOnyx22/brightspace-d2l-mcp?style=social)](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp): D2L Brightspace for AI.
 
 ### 🦾 Robotics & Physical AI
 
