@@ -394,6 +394,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[shcdwz1234/Everything2MCP](https://github.com/shcdwz1234/Everything2MCP)** [![GitHub stars](https://img.shields.io/github/stars/shcdwz1234/Everything2MCP?style=social)](https://github.com/shcdwz1234/Everything2MCP): Exposes local capabilities, private-network services, OpenAPI, gRPC, MQTT and queue endpoints, and Feishu, DingTalk and WeCom as one MCP server with hot reload and safe defaults.
 -   **[meiorz/rowsmith-mcp](https://github.com/meiorz/rowsmith-mcp)** [![GitHub stars](https://img.shields.io/github/stars/meiorz/rowsmith-mcp?style=social)](https://github.com/meiorz/rowsmith-mcp): Generates fake test data (CSV, JSON, SQL) from a schema, with a catalogue of invalid values and their reasons and a payment sandbox that never moves money.
 
+-   **[vvvvking/novai-prices-mcp](https://github.com/vvvking/novai-prices-mcp)** [![GitHub stars](https://img.shields.io/github/stars/vvvking/novai-prices-mcp?style=social)](https://github.com/vvvking/novai-prices-mcp): Live prices for 111 Chinese AI models — cheapest model per task, normalized per-unit price lookup, and category listing; read-only, no API key.
 ### 🧮 Data Science Tools
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
