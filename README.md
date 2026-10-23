@@ -737,6 +737,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 📊 Monitoring
 
+-   **[becoolme/openuptime](https://github.com/becoolme/openuptime)** [![GitHub stars](https://img.shields.io/github/stars/becoolme/openuptime?style=social)](https://github.com/becoolme/openuptime): Manage uptime monitors, incidents and public status pages through a remote MCP server with OAuth.
 -   **[getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp)** [![GitHub stars](https://img.shields.io/github/stars/getsentry/sentry-mcp?style=social)](https://github.com/getsentry/sentry-mcp): Official Sentry MCP server for querying issues, errors, and projects in Sentry.
 -   **[MindscapeHQ/mcp-server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun)** [![GitHub stars](https://img.shields.io/github/stars/MindscapeHQ/mcp-server-raygun?style=social)](https://github.com/MindscapeHQ/mcp-server-raygun): Integrates with Raygun API for crash reporting.
 -   **[metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/metoro-io/metoro-mcp-server?style=social)](https://github.com/metoro-io/metoro-mcp-server): Queries and interacts with Kubernetes environments monitored by Metoro.
