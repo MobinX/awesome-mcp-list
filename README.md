@@ -216,6 +216,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🗄️ Databases
 
+-   **[xakpc/sqlite-mcp-sidecar](https://github.com/xakpc/sqlite-mcp-sidecar)** [![GitHub stars](https://img.shields.io/github/stars/xakpc/sqlite-mcp-sidecar?style=social)](https://github.com/xakpc/sqlite-mcp-sidecar): Agent-safe sidecar for a live SQLite database another app owns, read-only by default with bounded structured writes and online backups.
 -   **[aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/aliyun/alibabacloud-tablestore-mcp-server?style=social)](https://github.com/aliyun/alibabacloud-tablestore-mcp-server): Provides access to Tablestore, including document management and semantic search.
 -   **[busabase/busabase](https://github.com/busabase/busabase)** [![GitHub stars](https://img.shields.io/github/stars/busabase/busabase?style=social)](https://github.com/busabase/busabase): Open-source database and workspace for AI agents, with typed tables, docs, files, search, and ChangeRequests for human review before important writes.
 -   **[cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/cr7258/elasticsearch-mcp-server?style=social)](https://github.com/cr7258/elasticsearch-mcp-server): Enables interaction with Elasticsearch clusters.
