@@ -213,6 +213,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[explorium-ai/vibeprospecting-mcp](https://github.com/explorium-ai/vibeprospecting-mcp)** [![GitHub stars](https://img.shields.io/github/stars/explorium-ai/vibeprospecting-mcp?style=social)](https://github.com/explorium-ai/vibeprospecting-mcp): B2B company and contact intelligence for prospecting workflows.
 -   **[DerrickAppOrg/derrick-mcp](https://github.com/DerrickAppOrg/derrick-mcp)** [![GitHub stars](https://img.shields.io/github/stars/DerrickAppOrg/derrick-mcp?style=social)](https://github.com/DerrickAppOrg/derrick-mcp): Returns verified work emails, phone numbers, company firmographics, tech stack, hiring signals and French SIRET/SIREN records to any MCP client.
 -   **[kooperativa-team/kooperativa-mcp](https://github.com/kooperativa-team/kooperativa-mcp)** [![GitHub stars](https://img.shields.io/github/stars/kooperativa-team/kooperativa-mcp?style=social)](https://github.com/kooperativa-team/kooperativa-mcp): Enriches and searches people and company profiles with hiring signals, job changes and headcount.
+-   **[zksyncer/contactlint](https://github.com/zksyncer/contactlint)** [![GitHub stars](https://img.shields.io/github/stars/zksyncer/contactlint?style=social)](https://github.com/zksyncer/contactlint): Hosted remote MCP server (`https://contactlint.com/mcp`) and HTTP API (`https://contactlint.com`) that validates email syntax, DNS/MX records, disposable domains, role addresses and typos, plus E.164 phone numbers, with no SMTP probing.
 
 ### 🗄️ Databases
 
