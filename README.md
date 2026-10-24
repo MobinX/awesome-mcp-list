@@ -810,6 +810,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[gunnargray-dev/youtube-transcripts-mcp](https://github.com/gunnargray-dev/youtube-transcripts-mcp)** [![GitHub stars](https://img.shields.io/github/stars/gunnargray-dev/youtube-transcripts-mcp?style=social)](https://github.com/gunnargray-dev/youtube-transcripts-mcp): Fetches YouTube transcripts with metadata, searches YouTube, returns chapters and builds timestamped extractive summaries, with no YouTube API key.
 -   **[crawlbrulee/crawlbrulee-mcp](https://github.com/crawlbrulee/crawlbrulee-mcp)** [![GitHub stars](https://img.shields.io/github/stars/crawlbrulee/crawlbrulee-mcp?style=social)](https://github.com/crawlbrulee/crawlbrulee-mcp): Web scraping server that turns pages into Markdown, screenshots and other formats for AI agents.
 -   **[Desearch-ai/mcp-desearch](https://github.com/Desearch-ai/mcp-desearch)** [![GitHub stars](https://img.shields.io/github/stars/Desearch-ai/mcp-desearch?style=social)](https://github.com/Desearch-ai/mcp-desearch): Provides AI search, X search and web search for AI agents, plus page extraction and X data tools.
+-   **[rocosen/flashdata-mcp](https://github.com/rocosen/flashdata-mcp)** [![GitHub stars](https://img.shields.io/github/stars/rocosen/flashdata-mcp?style=social)](https://github.com/rocosen/flashdata-mcp): Local stdio MCP server for Google Search, News, Images, Shopping, Videos and Places, plus YouTube search, metadata, transcripts and captions, using a FlashData API key and paid Credits.
 
 ### 🛠️ Utilities
 
