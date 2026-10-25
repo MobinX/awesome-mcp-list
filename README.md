@@ -639,6 +639,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[magicSEO/eigenheim-mcp](https://github.com/magicSEO/eigenheim-mcp)** [![GitHub stars](https://img.shields.io/github/stars/magicSEO/eigenheim-mcp?style=social)](https://github.com/magicSEO/eigenheim-mcp): Read-only remote MCP for Berlin real estate: daily price per m² by locality, rental yields, land values, market overview and active listings from Eigenheim Invest.
 -   **[Habanacasta88/callejear-de-mcp](https://github.com/Habanacasta88/callejear-de-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Habanacasta88/callejear-de-mcp?style=social)](https://github.com/Habanacasta88/callejear-de-mcp): Connection metadata for a free, read-only hosted MCP that searches and compares historical German street records (not a current official register).
 -   **[Habanacasta88/mystreetdata-mcp](https://github.com/Habanacasta88/mystreetdata-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Habanacasta88/mystreetdata-mcp?style=social)](https://github.com/Habanacasta88/mystreetdata-mcp): Connection metadata for a free, read-only hosted MCP that searches US street records and returns sourced contextual metrics.
+-   **[sunrise-sunset-org/mcp](https://github.com/sunrise-sunset-org/mcp)** [![GitHub stars](https://img.shields.io/github/stars/sunrise-sunset-org/mcp?style=social)](https://github.com/sunrise-sunset-org/mcp): Hosted remote MCP server for sunrise, sunset, twilight, golden hour and moon phase times anywhere on Earth, with no API key.
 
 ### 🎯 Marketing
 
