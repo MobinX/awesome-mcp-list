@@ -753,6 +753,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[fclairamb/solidping](https://github.com/fclairamb/solidping)** [![GitHub stars](https://img.shields.io/github/stars/fclairamb/solidping?style=social)](https://github.com/fclairamb/solidping): Self-hostable uptime monitor with a built-in MCP server (remote or stdio) to create, run and diagnose checks, read incidents and manage status pages.
 -   **[mandarelabs/mandare](https://github.com/mandarelabs/mandare)** [![GitHub stars](https://img.shields.io/github/stars/mandarelabs/mandare?style=social)](https://github.com/mandarelabs/mandare): Verifies an agent fleet's tamper-evident ledger, checks mandate budgets and kills a runaway agent over MCP.
 -   **[elfovo/agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor)** [![GitHub stars](https://img.shields.io/github/stars/elfovo/agent-chain-doctor?style=social)](https://github.com/elfovo/agent-chain-doctor): Read-only stdio server whose `diagnose_scheduled_agent` tool checks the launchd, cron or systemd setup and trace files of a scheduled AI agent for known silent-failure modes.
+-   **[phuryn/staygreen](https://github.com/phuryn/staygreen)** [![GitHub stars](https://img.shields.io/github/stars/phuryn/staygreen?style=social)](https://github.com/phuryn/staygreen): Hosted MCP server (OAuth or API token) for Staygreen uptime and incident monitoring that reads status, uptime, incidents and SSL and domain expiry, and sets up an app's monitors and status page in one call.
 
 ### 🔎 Search
 
