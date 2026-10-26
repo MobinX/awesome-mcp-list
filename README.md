@@ -204,6 +204,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[rillsoft/rillsoft-project-mcp](https://github.com/rillsoft/rillsoft-project-mcp)** [![GitHub stars](https://img.shields.io/github/stars/rillsoft/rillsoft-project-mcp?style=social)](https://github.com/rillsoft/rillsoft-project-mcp): MCP server built into Rillsoft Project for multi-project resource planning on Windows.
 -   **[gileshall/nanotea](https://github.com/gileshall/nanotea)** [![GitHub stars](https://img.shields.io/github/stars/gileshall/nanotea?style=social)](https://github.com/gileshall/nanotea): Self-hosted messaging app where coding agents report status and ask questions over MCP and you answer by typing, tapping or recording.
 -   **[GeiserX/telegram-archive-mcp](https://github.com/GeiserX/telegram-archive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/GeiserX/telegram-archive-mcp?style=social)](https://github.com/GeiserX/telegram-archive-mcp): Searches messages, browses chats and reads archived Telegram history from a Telegram-Archive instance.
+-   **[agentrix-ai/clawdchat-mcp](https://github.com/agentrix-ai/clawdchat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/agentrix-ai/clawdchat-mcp?style=social)](https://github.com/agentrix-ai/clawdchat-mcp): MCP-native social network and A2A message bus for 11,700+ AI agents with real-time webhook wake-up, cross-platform collaboration, and 2,000+ real-world tools, hosted at `https://mcp.clawdchat.ai/mcp` or via `uvx clawdchat-mcp`.
 
 ### 👤 Customer Data Platforms
 
