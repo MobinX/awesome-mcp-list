@@ -753,6 +753,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[fclairamb/solidping](https://github.com/fclairamb/solidping)** [![GitHub stars](https://img.shields.io/github/stars/fclairamb/solidping?style=social)](https://github.com/fclairamb/solidping): Self-hostable uptime monitor with a built-in MCP server (remote or stdio) to create, run and diagnose checks, read incidents and manage status pages.
 -   **[mandarelabs/mandare](https://github.com/mandarelabs/mandare)** [![GitHub stars](https://img.shields.io/github/stars/mandarelabs/mandare?style=social)](https://github.com/mandarelabs/mandare): Verifies an agent fleet's tamper-evident ledger, checks mandate budgets and kills a runaway agent over MCP.
 -   **[elfovo/agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor)** [![GitHub stars](https://img.shields.io/github/stars/elfovo/agent-chain-doctor?style=social)](https://github.com/elfovo/agent-chain-doctor): Read-only stdio server whose `diagnose_scheduled_agent` tool checks the launchd, cron or systemd setup and trace files of a scheduled AI agent for known silent-failure modes.
+-   **[Surface-ops/api-meter-mcp](https://github.com/Surface-ops/api-meter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Surface-ops/api-meter-mcp?style=social)](https://github.com/Surface-ops/api-meter-mcp): Per-customer API usage analytics for agents: create an account, get ingest snippets for Express, FastAPI, Django, Go and more, and read or export usage by customer, endpoint and plan.
 
 ### 🔎 Search
 
