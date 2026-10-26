@@ -396,6 +396,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🧮 Data Science Tools
 
+-   **[haoming-luo/agentfem-mcp](https://github.com/haoming-luo/agentfem-mcp)** [![GitHub stars](https://img.shields.io/github/stars/haoming-luo/agentfem-mcp?style=social)](https://github.com/haoming-luo/agentfem-mcp): Creates, validates and runs inspectable finite-element projects through local stdio tools, using a separately installed compatible AgentFEM scientific runtime.
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
 -   **[reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** [![GitHub stars](https://img.shields.io/github/stars/reading-plus-ai/mcp-server-data-exploration?style=social)](https://github.com/reading-plus-ai/mcp-server-data-exploration): Enables autonomous data exploration on `.csv`-based datasets.
 -   **[azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/azmartone67/dchub-mcp-server?style=social)](https://github.com/azmartone67/dchub-mcp-server): Live data-center site-selection data for AI agents, including a daily Data Center Power Index of grid power availability by market plus grid, fiber, gas and interconnection-queue data, with a source on every answer.
