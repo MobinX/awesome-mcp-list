@@ -204,6 +204,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[rillsoft/rillsoft-project-mcp](https://github.com/rillsoft/rillsoft-project-mcp)** [![GitHub stars](https://img.shields.io/github/stars/rillsoft/rillsoft-project-mcp?style=social)](https://github.com/rillsoft/rillsoft-project-mcp): MCP server built into Rillsoft Project for multi-project resource planning on Windows.
 -   **[gileshall/nanotea](https://github.com/gileshall/nanotea)** [![GitHub stars](https://img.shields.io/github/stars/gileshall/nanotea?style=social)](https://github.com/gileshall/nanotea): Self-hosted messaging app where coding agents report status and ask questions over MCP and you answer by typing, tapping or recording.
 -   **[GeiserX/telegram-archive-mcp](https://github.com/GeiserX/telegram-archive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/GeiserX/telegram-archive-mcp?style=social)](https://github.com/GeiserX/telegram-archive-mcp): Searches messages, browses chats and reads archived Telegram history from a Telegram-Archive instance.
+-   **[shipmail-to/shipmail-mcp](https://github.com/shipmail-to/shipmail-mcp)** [![GitHub stars](https://img.shields.io/github/stars/shipmail-to/shipmail-mcp?style=social)](https://github.com/shipmail-to/shipmail-mcp): Official Shipmail server for business email on your own domain: read, search, send and reply, and manage domains, mailboxes, inbox rules, calendars, newsletters and webhooks.
 
 ### 👤 Customer Data Platforms
 
