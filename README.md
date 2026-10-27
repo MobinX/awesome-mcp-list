@@ -612,6 +612,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🗺️ Location Services
 
+-   **[imiraoui/rentreboot-mcp](https://github.com/imiraoui/rentreboot-mcp)** [![GitHub stars](https://img.shields.io/github/stars/imiraoui/rentreboot-mcp?style=social)](https://github.com/imiraoui/rentreboot-mcp): NYC apartment search, renter guides and rent data through hosted Streamable HTTP, with public tools and scoped OAuth for personal features.
 -   **[stayingapi/hotel-mcp](https://github.com/stayingapi/hotel-mcp)** [![GitHub stars](https://img.shields.io/github/stars/stayingapi/hotel-mcp?style=social)](https://github.com/stayingapi/hotel-mcp): Hosted remote MCP server for live accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels (search, availability, prices, price comparison, reviews, listings).
 -   **[webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo)** [![GitHub stars](https://img.shields.io/github/stars/webcoderz/MCP-Geo?style=social)](https://github.com/webcoderz/MCP-Geo): Offers geocoding capabilities using various services.
 -   **[briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo)** [![GitHub stars](https://img.shields.io/github/stars/briandconnelly/mcp-server-ipinfo?style=social)](https://github.com/briandconnelly/mcp-server-ipinfo): Provides IP address geolocation and network information via ipinfo.io.
