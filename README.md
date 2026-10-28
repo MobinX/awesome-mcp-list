@@ -539,6 +539,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[softdevfz/brainy-prices-mcp](https://github.com/softdevfz/brainy-prices-mcp)** [![GitHub stars](https://img.shields.io/github/stars/softdevfz/brainy-prices-mcp?style=social)](https://github.com/softdevfz/brainy-prices-mcp): Source-backed UAE cost-of-living queries for groceries, historical tuition, registered property, transport, utilities and relocation through a remote MCP server.
 -   **[thinslatelabs/keepp-skill](https://github.com/thinslatelabs/keepp-skill)** [![GitHub stars](https://img.shields.io/github/stars/thinslatelabs/keepp-skill?style=social)](https://github.com/thinslatelabs/keepp-skill): Builds and edits a Keepp website or link-in-bio page with a store, bookings, forms and chat from any MCP client.
 -   **[marstudio360/gumroad-dna-mcp](https://github.com/marstudio360/gumroad-dna-mcp)** [![GitHub stars](https://img.shields.io/github/stars/marstudio360/gumroad-dna-mcp?style=social)](https://github.com/marstudio360/gumroad-dna-mcp): Gumroad API v2 tools for products, sales, refunds and license keys, plus storefront niche scans.
+-   **[NarwhalThePong/seller-fees-mcp](https://github.com/NarwhalThePong/seller-fees-mcp)** [![GitHub stars](https://img.shields.io/github/stars/NarwhalThePong/seller-fees-mcp?style=social)](https://github.com/NarwhalThePong/seller-fees-mcp): Seller fees, net payouts and break-even prices for Gumroad, Stripe, PayPal and Etsy, with a side-by-side platform comparison, running locally with no API key.
 
 ### 🎮 Gaming
 
