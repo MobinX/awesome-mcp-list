@@ -146,6 +146,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[symbioza/claude-plugin](https://github.com/symbioza/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/symbioza/claude-plugin?style=social)](https://github.com/symbioza/claude-plugin): Run a GPU job under a hard dollar cap and collect the files it writes.
 -   **[cohesivity-org/cohesivity-plugin](https://github.com/cohesivity-org/cohesivity-plugin)** [![GitHub stars](https://img.shields.io/github/stars/cohesivity-org/cohesivity-plugin?style=social)](https://github.com/cohesivity-org/cohesivity-plugin): Headless backend for AI agents with hosting, databases, storage, auth and AI APIs through one MCP endpoint.
 -   **[umairalisadaqat/weinc-mcp](https://github.com/umairalisadaqat/weinc-mcp)** [![GitHub stars](https://img.shields.io/github/stars/umairalisadaqat/weinc-mcp?style=social)](https://github.com/umairalisadaqat/weinc-mcp): Builds, edits and publishes AI-generated websites on WeInc from any MCP client.
+-   **[mrhy7176/cloudgpu-mcp](https://github.com/mrhy7176/cloudgpu-mcp)** [![GitHub stars](https://img.shields.io/github/stars/mrhy7176/cloudgpu-mcp?style=social)](https://github.com/mrhy7176/cloudgpu-mcp): Lets MCP clients rent a per-minute GPU on CloudGPU: list GPUs and templates, quote the cost, launch with a budget, time and idle limit, run commands, tail logs, transfer files and stop the instance.
 
 ### 🖥️ Command Line
 
