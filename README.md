@@ -420,6 +420,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[SylphxAI/anymd](https://github.com/SylphxAI/anymd)** [![GitHub stars](https://img.shields.io/github/stars/SylphxAI/anymd?style=social)](https://github.com/SylphxAI/anymd): Converts any file (PDF, DOCX, PPTX, XLSX/CSV, EPUB, HTML/URLs, images, audio/video) to clean Markdown for AI agents, locally in Rust with no API key.
 -   **[chrisryugj/kordoc](https://github.com/chrisryugj/kordoc)** [![GitHub stars](https://img.shields.io/github/stars/chrisryugj/kordoc?style=social)](https://github.com/chrisryugj/kordoc): Parses Korean documents (HWP 3.x/5.x, HWPX, HWPML) as well as PDF, DOCX, XLSX, PPTX, and images into Markdown and structured data, with tools for form filling, document comparison, and HWPX generation.
 -   **[happywpco/pdftomarkdown-mcp](https://github.com/happywpco/pdftomarkdown-mcp)** [![GitHub stars](https://img.shields.io/github/stars/happywpco/pdftomarkdown-mcp?style=social)](https://github.com/happywpco/pdftomarkdown-mcp): Converts local PDF, DOCX, PPTX, XLSX, images, HTML, and EPUB into structured Markdown with headings, tables, and optional OCR via the PDFtoMarkdown.ai API.
+-   **[seayniclabs/lathe](https://github.com/seayniclabs/lathe)** [![GitHub stars](https://img.shields.io/github/stars/seayniclabs/lathe?style=social)](https://github.com/seayniclabs/lathe): Local image, PDF, audio and video processing and OCR, with every file kept inside one working folder on your machine.
 
 ### 💰 Finance & Fintech
 
