@@ -146,6 +146,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[symbioza/claude-plugin](https://github.com/symbioza/claude-plugin)** [![GitHub stars](https://img.shields.io/github/stars/symbioza/claude-plugin?style=social)](https://github.com/symbioza/claude-plugin): Run a GPU job under a hard dollar cap and collect the files it writes.
 -   **[cohesivity-org/cohesivity-plugin](https://github.com/cohesivity-org/cohesivity-plugin)** [![GitHub stars](https://img.shields.io/github/stars/cohesivity-org/cohesivity-plugin?style=social)](https://github.com/cohesivity-org/cohesivity-plugin): Headless backend for AI agents with hosting, databases, storage, auth and AI APIs through one MCP endpoint.
 -   **[umairalisadaqat/weinc-mcp](https://github.com/umairalisadaqat/weinc-mcp)** [![GitHub stars](https://img.shields.io/github/stars/umairalisadaqat/weinc-mcp?style=social)](https://github.com/umairalisadaqat/weinc-mcp): Builds, edits and publishes AI-generated websites on WeInc from any MCP client.
+-   **[VoltageGPU/VOLTAGEGPU-CLI](https://github.com/VoltageGPU/VOLTAGEGPU-CLI)** [![GitHub stars](https://img.shields.io/github/stars/VoltageGPU/VOLTAGEGPU-CLI?style=social)](https://github.com/VoltageGPU/VOLTAGEGPU-CLI): Starts Intel TDX Confidential VMs with an NVIDIA GPU under a required deadline and price ceiling, runs commands over SSH with your local key, verifies their attestation on your machine and releases them.
 
 ### 🖥️ Command Line
 
