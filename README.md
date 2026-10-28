@@ -98,6 +98,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[photofresco/photofresco-agent](https://github.com/photofresco/photofresco-agent)** [![GitHub stars](https://img.shields.io/github/stars/photofresco/photofresco-agent?style=social)](https://github.com/photofresco/photofresco-agent): Edits images in a user-approved PhotoFresco browser window with layers, masks, undo, image previews and PSD/PNG export.
 -   **[castaly-ai/modelflare-mcp](https://github.com/castaly-ai/modelflare-mcp)** [![GitHub stars](https://img.shields.io/github/stars/castaly-ai/modelflare-mcp?style=social)](https://github.com/castaly-ai/modelflare-mcp): Generates and edits images and creates videos with the image and video models available through one Modelflare API key.
 -   **[shortformkit/shortformkit-mcp](https://github.com/shortformkit/shortformkit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/shortformkit/shortformkit-mcp?style=social)](https://github.com/shortformkit/shortformkit-mcp): Hosted remote MCP server that transcribes, reads and downloads public Instagram Reels, TikToks and YouTube videos, plus sourced creator data such as upload specs and loudness targets.
+-   **[854Labs/toads](https://github.com/854Labs/toads)** [![GitHub stars](https://img.shields.io/github/stars/854Labs/toads?style=social)](https://github.com/854Labs/toads): Edit screen recordings in Toads on your Mac: tidy up filler words, cut by transcript, add captions, titles and zooms, and export.
 
 ### 🤖 AI Agents & Frameworks
 
