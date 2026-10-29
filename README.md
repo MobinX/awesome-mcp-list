@@ -207,6 +207,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 👤 Customer Data Platforms
 
+-   **[crm-inputs/mcp](https://github.com/crm-inputs/mcp)** [![GitHub stars](https://img.shields.io/github/stars/crm-inputs/mcp?style=social)](https://github.com/crm-inputs/mcp): Hosted MCP server that finds work contact details and adds people and companies to your own CRM, with duplicate checks and your field mapping. OAuth sign-in with an Add to CRM account; works with 29+ CRMs.
 -   **[inoyu-dev/inoyu-mcp-unomi-server](https://github.com/inoyu-dev/inoyu-mcp-unomi-server)** [![GitHub stars](https://img.shields.io/github/stars/inoyu-dev/inoyu-mcp-unomi-server?style=social)](https://github.com/inoyu-dev/inoyu-mcp-unomi-server): Accesses and updates user profiles on an Apache Unomi CDP server.
 -   **[OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP)** [![GitHub stars](https://img.shields.io/github/stars/OpenDataMCP/OpenDataMCP?style=social)](https://github.com/OpenDataMCP/OpenDataMCP): Connects various Open Data sources to LLMs via MCP.
 -   **[iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic)** [![GitHub stars](https://img.shields.io/github/stars/iaptic/mcp-server-iaptic?style=social)](https://github.com/iaptic/mcp-server-iaptic): Connects to iaptic to retrieve customer purchase and app revenue data.
