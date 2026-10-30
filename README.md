@@ -204,6 +204,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[rillsoft/rillsoft-project-mcp](https://github.com/rillsoft/rillsoft-project-mcp)** [![GitHub stars](https://img.shields.io/github/stars/rillsoft/rillsoft-project-mcp?style=social)](https://github.com/rillsoft/rillsoft-project-mcp): MCP server built into Rillsoft Project for multi-project resource planning on Windows.
 -   **[gileshall/nanotea](https://github.com/gileshall/nanotea)** [![GitHub stars](https://img.shields.io/github/stars/gileshall/nanotea?style=social)](https://github.com/gileshall/nanotea): Self-hosted messaging app where coding agents report status and ask questions over MCP and you answer by typing, tapping or recording.
 -   **[GeiserX/telegram-archive-mcp](https://github.com/GeiserX/telegram-archive-mcp)** [![GitHub stars](https://img.shields.io/github/stars/GeiserX/telegram-archive-mcp?style=social)](https://github.com/GeiserX/telegram-archive-mcp): Searches messages, browses chats and reads archived Telegram history from a Telegram-Archive instance.
+-   **[faxforagents/mcp](https://github.com/faxforagents/mcp)** [![GitHub stars](https://img.shields.io/github/stars/faxforagents/mcp?style=social)](https://github.com/faxforagents/mcp): Sends and receives faxes for AI agents through the Fax for Agents API, with quotes, human review, delegated policies and delivery evidence, over stdio with `npx -y faxforagents-mcp` or hosted at mcp.faxforagents.com.
 
 ### 👤 Customer Data Platforms
 
