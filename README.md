@@ -393,6 +393,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ZerouterAI/zerouter-mcp](https://github.com/ZerouterAI/zerouter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ZerouterAI/zerouter-mcp?style=social)](https://github.com/ZerouterAI/zerouter-mcp): AI API gateway MCP that chats with, compares and looks up API pricing for Claude, GPT, Gemini, Grok and Kimi through one Zerouter API key.
 -   **[shcdwz1234/Everything2MCP](https://github.com/shcdwz1234/Everything2MCP)** [![GitHub stars](https://img.shields.io/github/stars/shcdwz1234/Everything2MCP?style=social)](https://github.com/shcdwz1234/Everything2MCP): Exposes local capabilities, private-network services, OpenAPI, gRPC, MQTT and queue endpoints, and Feishu, DingTalk and WeCom as one MCP server with hot reload and safe defaults.
 -   **[meiorz/rowsmith-mcp](https://github.com/meiorz/rowsmith-mcp)** [![GitHub stars](https://img.shields.io/github/stars/meiorz/rowsmith-mcp?style=social)](https://github.com/meiorz/rowsmith-mcp): Generates fake test data (CSV, JSON, SQL) from a schema, with a catalogue of invalid values and their reasons and a payment sandbox that never moves money.
+-   **[YaakovTzedek/persqo-mcp](https://github.com/YaakovTzedek/persqo-mcp)** [![GitHub stars](https://img.shields.io/github/stars/YaakovTzedek/persqo-mcp?style=social)](https://github.com/YaakovTzedek/persqo-mcp): AI personas test your web app like real users and hand your coding agent ready-to-paste fix prompts.
 
 ### 🧮 Data Science Tools
 
