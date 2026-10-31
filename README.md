@@ -734,6 +734,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[appierun/appie-mcp](https://github.com/appierun/appie-mcp)** [![GitHub stars](https://img.shields.io/github/stars/appierun/appie-mcp?style=social)](https://github.com/appierun/appie-mcp): Hosted Appie.run MCP server for finding Reddit threads and drafting replies, tracking LinkedIn leads, writing on-brand articles, training website chatbots and creating trackable short links.
 -   **[Himanshu-Sangshetti/posy](https://github.com/Himanshu-Sangshetti/posy)** [![GitHub stars](https://img.shields.io/github/stars/Himanshu-Sangshetti/posy?style=social)](https://github.com/Himanshu-Sangshetti/posy): Builds and edits a link-in-bio page (add links, pick a look, publish) through a hosted MCP server with OAuth sign-in, and can be self-hosted.
 -   **[nikunjness/backlinkgenie-mcp](https://github.com/nikunjness/backlinkgenie-mcp)** [![GitHub stars](https://img.shields.io/github/stars/nikunjness/backlinkgenie-mcp?style=social)](https://github.com/nikunjness/backlinkgenie-mcp): Hosted link-building outreach server (OAuth or API key) for reviewing and approving pitches to editors, drafting replies, importing target posts and checking won backlinks.
+-   **[Ryan-Carloso/post-engineer](https://github.com/Ryan-Carloso/post-engineer)** [![GitHub stars](https://img.shields.io/github/stars/Ryan-Carloso/post-engineer?style=social)](https://github.com/Ryan-Carloso/post-engineer): Create AI video personas and schedule videos to YouTube, Instagram, LinkedIn and Bluesky.
 
 ### 📊 Monitoring
 
