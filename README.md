@@ -810,6 +810,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[gunnargray-dev/youtube-transcripts-mcp](https://github.com/gunnargray-dev/youtube-transcripts-mcp)** [![GitHub stars](https://img.shields.io/github/stars/gunnargray-dev/youtube-transcripts-mcp?style=social)](https://github.com/gunnargray-dev/youtube-transcripts-mcp): Fetches YouTube transcripts with metadata, searches YouTube, returns chapters and builds timestamped extractive summaries, with no YouTube API key.
 -   **[crawlbrulee/crawlbrulee-mcp](https://github.com/crawlbrulee/crawlbrulee-mcp)** [![GitHub stars](https://img.shields.io/github/stars/crawlbrulee/crawlbrulee-mcp?style=social)](https://github.com/crawlbrulee/crawlbrulee-mcp): Web scraping server that turns pages into Markdown, screenshots and other formats for AI agents.
 -   **[Desearch-ai/mcp-desearch](https://github.com/Desearch-ai/mcp-desearch)** [![GitHub stars](https://img.shields.io/github/stars/Desearch-ai/mcp-desearch?style=social)](https://github.com/Desearch-ai/mcp-desearch): Provides AI search, X search and web search for AI agents, plus page extraction and X data tools.
+-   **[77777R7/Octocrawl](https://github.com/77777R7/Octocrawl)** [![GitHub stars](https://img.shields.io/github/stars/77777R7/Octocrawl?style=social)](https://github.com/77777R7/Octocrawl): Scrapes, maps and crawls public web pages into Markdown or JSON for AI agents, with an Evidence Record per page and a status and reason when a page is blocked or empty.
 
 ### 🛠️ Utilities
 
