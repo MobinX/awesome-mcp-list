@@ -99,6 +99,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[castaly-ai/modelflare-mcp](https://github.com/castaly-ai/modelflare-mcp)** [![GitHub stars](https://img.shields.io/github/stars/castaly-ai/modelflare-mcp?style=social)](https://github.com/castaly-ai/modelflare-mcp): Generates and edits images and creates videos with the image and video models available through one Modelflare API key.
 -   **[shortformkit/shortformkit-mcp](https://github.com/shortformkit/shortformkit-mcp)** [![GitHub stars](https://img.shields.io/github/stars/shortformkit/shortformkit-mcp?style=social)](https://github.com/shortformkit/shortformkit-mcp): Hosted remote MCP server that transcribes, reads and downloads public Instagram Reels, TikToks and YouTube videos, plus sourced creator data such as upload specs and loudness targets.
 
+-   **[arkyu2077/ai-video-upscaler](https://github.com/arkyu2077/ai-video-upscaler)** [![GitHub stars](https://img.shields.io/github/stars/arkyu2077/ai-video-upscaler?style=social)](https://github.com/arkyu2077/ai-video-upscaler): Remote MCP server for VideoUpscaler that lets AI agents upscale, denoise, deinterlace, and frame-interpolate videos up to 4K 60fps on cloud GPUs.
+
 ### 🤖 AI Agents & Frameworks
 
 -   **[AV-Labs-Co/cos-codex-bridge](https://github.com/AV-Labs-Co/cos-codex-bridge)** [![GitHub stars](https://img.shields.io/github/stars/AV-Labs-Co/cos-codex-bridge?style=social)](https://github.com/AV-Labs-Co/cos-codex-bridge): Local-first MCP that lets Chief of Staff agents create, monitor, continue, assign, pin, and cancel scoped Codex project tasks with durable receipts.
