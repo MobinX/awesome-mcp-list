@@ -58,6 +58,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android)** [![GitHub stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=social)](https://github.com/ateymoori/oh-my-android): Lets AI agents see and drive the Android Emulator and adb devices from a macOS app.
 -   **[combined-ai/phonebox-android-mcp](https://github.com/combined-ai/phonebox-android-mcp)** [![GitHub stars](https://img.shields.io/github/stars/combined-ai/phonebox-android-mcp?style=social)](https://github.com/combined-ai/phonebox-android-mcp): Hosted Android MCP server that gives AI agents cloud Android phones to read, tap, type and install APKs on, with no ADB or emulator.
 -   **[Protremix/erius-phone-mcp](https://github.com/Protremix/erius-phone-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Protremix/erius-phone-mcp?style=social)](https://github.com/Protremix/erius-phone-mcp): Python MCP server for ERIUS PHONE cloud Android devices, with UI trees, screenshots, touch input, app management and crash logs.
+-   **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** [![GitHub stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=social)](https://github.com/onehumanbeing/esp32-iphone-agent): Lets AI agents see and operate a real iPhone through a Seeed XIAO ESP32-S3 board that mirrors the screen over AirPlay and acts as a USB mouse and keyboard, with no jailbreak.
 
 ### 🎨 Art & Culture
 
