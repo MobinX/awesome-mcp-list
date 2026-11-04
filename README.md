@@ -484,6 +484,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 📂 File Systems
 
+-   **[PabloCirre/kaijuconverter-mcp](https://github.com/PabloCirre/kaijuconverter-mcp)** [![GitHub stars](https://img.shields.io/github/stars/PabloCirre/kaijuconverter-mcp?style=social)](https://github.com/PabloCirre/kaijuconverter-mcp): Official MCP server (Streamable HTTP & Stdio npx) for [KaijuConverter](https://kaijuconverter.com) to convert 201+ file formats and query 54 precision Studio tools.
 -   **[modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Provides direct access to the local file system (part of the official servers collection).
 -   **[box/mcp-server-box-remote](https://github.com/box/mcp-server-box-remote)** [![GitHub stars](https://img.shields.io/github/stars/box/mcp-server-box-remote?style=social)](https://github.com/box/mcp-server-box-remote): Official remote Box MCP server for accessing Box content, search, Q&A, and data extraction.
 -   **[hmk/box-mcp-server](https://github.com/hmk/box-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/hmk/box-mcp-server?style=social)](https://github.com/hmk/box-mcp-server): Provides listing, reading and searching files on Box (community implementation).
