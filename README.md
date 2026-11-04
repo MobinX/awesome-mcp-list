@@ -436,6 +436,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[tubban1/vibe-monitor](https://github.com/tubban1/vibe-monitor)** [![GitHub stars](https://img.shields.io/github/stars/tubban1/vibe-monitor?style=social)](https://github.com/tubban1/vibe-monitor): Provides read-only architecture evolution observations for AI coding, with default telemetry and separate proprietary cloud policy/scoring.
 -   **[getremcp/docsy-plugin](https://github.com/getremcp/docsy-plugin)** [![GitHub stars](https://img.shields.io/github/stars/getremcp/docsy-plugin?style=social)](https://github.com/getremcp/docsy-plugin): Connects coding agents to current and version-specific developer documentation with source links via five read-only remote MCP tools and OAuth.
 -   **[getremcp/remcp](https://github.com/getremcp/remcp)** [![GitHub stars](https://img.shields.io/github/stars/getremcp/remcp?style=social)](https://github.com/getremcp/remcp): OAuth-protected MCP access to computers explicitly paired by the user. Remote browser, native desktop, terminal, files and diagnostics, including state-changing actions.
+-   **[skatkov/posh-mcp](https://github.com/skatkov/posh-mcp)** [![GitHub stars](https://img.shields.io/github/stars/skatkov/posh-mcp?style=social)](https://github.com/skatkov/posh-mcp): Search and read local Ruby and gem documentation matched to project versions; proprietary POSH agent-tools license required.
 
 ### 🧮 Data Science Tools
 
