@@ -429,6 +429,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Alekla0126/app-console-mcp](https://github.com/Alekla0126/app-console-mcp)** [![GitHub stars](https://img.shields.io/github/stars/Alekla0126/app-console-mcp?style=social)](https://github.com/Alekla0126/app-console-mcp): Publishes and monitors mobile apps through the Google Play, App Store Connect and AdMob APIs (releases, rollouts, listings, reviews, vitals, App Review, sales, ad earnings), with dry-run writes and a matching CLI.
 
 -   **[tubban1/vibe-monitor](https://github.com/tubban1/vibe-monitor)** [![GitHub stars](https://img.shields.io/github/stars/tubban1/vibe-monitor?style=social)](https://github.com/tubban1/vibe-monitor): Provides read-only architecture evolution observations for AI coding, with default telemetry and separate proprietary cloud policy/scoring.
+-   **[getremcp/docsy-plugin](https://github.com/getremcp/docsy-plugin)** [![GitHub stars](https://img.shields.io/github/stars/getremcp/docsy-plugin?style=social)](https://github.com/getremcp/docsy-plugin): Connects coding agents to current and version-specific developer documentation with source links via five read-only remote MCP tools and OAuth.
 
 ### 🧮 Data Science Tools
 
