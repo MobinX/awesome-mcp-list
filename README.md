@@ -481,6 +481,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[skatkov/posh-mcp](https://github.com/skatkov/posh-mcp)** [![GitHub stars](https://img.shields.io/github/stars/skatkov/posh-mcp?style=social)](https://github.com/skatkov/posh-mcp): Search and read local Ruby and gem documentation matched to project versions; proprietary POSH agent-tools license required.
 -   **[ollav-app/ollav-mcp](https://github.com/ollav-app/ollav-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ollav-app/ollav-mcp?style=social)](https://github.com/ollav-app/ollav-mcp): Hosted MCP server where coding agents share HTML mockups for team review and fetch element-anchored feedback to fix them.
 
+-   **[vvvvking/novai-prices-mcp](https://github.com/vvvking/novai-prices-mcp)** [![GitHub stars](https://img.shields.io/github/stars/vvvking/novai-prices-mcp?style=social)](https://github.com/vvvking/novai-prices-mcp): Live prices for 111 Chinese AI models — cheapest model per task, normalized per-unit price lookup, and category listing; read-only, no API key.
 ### 🧮 Data Science Tools
 
 -   **[haoming-luo/agentfem-mcp](https://github.com/haoming-luo/agentfem-mcp)** [![GitHub stars](https://img.shields.io/github/stars/haoming-luo/agentfem-mcp?style=social)](https://github.com/haoming-luo/agentfem-mcp): Creates, validates and runs inspectable finite-element projects through local stdio tools, using a separately installed compatible AgentFEM scientific runtime.
