@@ -814,7 +814,6 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[ZIP-Codes-API/zip-codes-mcp](https://github.com/ZIP-Codes-API/zip-codes-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ZIP-Codes-API/zip-codes-mcp?style=social)](https://github.com/ZIP-Codes-API/zip-codes-mcp): US street address standardization (ZIP+4) and US/Canadian postal code lookup, radius search, distance, 2010–2026 Census TIGER/Line boundaries and 2011–2024 ACS survey estimates, over stateless Streamable HTTP (keyless demo; 2,500 credits/day with a free key).
 -   **[burmanharry/openmapp](https://github.com/burmanharry/openmapp)** [![GitHub stars](https://img.shields.io/github/stars/burmanharry/openmapp?style=social)](https://github.com/burmanharry/openmapp): Free remote MCP for US BJJ gym and open-mat search across 1,368 gyms in 664 cities (Streamable HTTP at https://www.openmapp.com/mcp, no auth).
 
-
 ### 🎯 Marketing
 
 -   **[AgentSEO-dev/agentseo-clients](https://github.com/AgentSEO-dev/agentseo-clients)** [![GitHub stars](https://img.shields.io/github/stars/AgentSEO-dev/agentseo-clients?style=social)](https://github.com/AgentSEO-dev/agentseo-clients): SEO tools for SERPs, keyword research, backlinks, rank tracking and site audits via the local `@agentseo/mcp-server` client; requires an AgentSEO account, API key and usage credits.
