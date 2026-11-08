@@ -202,6 +202,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 💬 Communication
 
+-   **[mehdis34/fezola-mcp](https://github.com/mehdis34/fezola-mcp)** [![GitHub stars](https://img.shields.io/github/stars/mehdis34/fezola-mcp?style=social)](https://github.com/mehdis34/fezola-mcp): Hosted email MCP server for Gmail, iCloud and any IMAP mailbox, plus Google Chat and Telegram, that lets Claude and ChatGPT read, search and draft replies across all your inboxes (drafts only, never sends).
 -   **[process-street/process-street-mcp](https://github.com/process-street/process-street-mcp)** [![GitHub stars](https://img.shields.io/github/stars/process-street/process-street-mcp?style=social)](https://github.com/process-street/process-street-mcp): Connects AI agents to Process Street workflows, tasks, runs, data sets, and operational records through the official hosted MCP server.
 -   **[meharajM/whatsapp-mcp](https://github.com/meharajM/whatsapp-mcp)** [![GitHub stars](https://img.shields.io/github/stars/meharajM/whatsapp-mcp?style=social)](https://github.com/meharajM/whatsapp-mcp): Human-in-the-loop approvals and notifications for AI agents via WhatsApp. Enables Cursor, Claude Code, and autonomous AI agents to reach users when they are away from their computers.
 -   **[zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/gtasks-mcp?style=social)](https://github.com/zcaceres/gtasks-mcp): Manages Google Tasks lists and items via MCP.
