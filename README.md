@@ -971,6 +971,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[seifip/kilobat-cli](https://github.com/seifip/kilobat-cli)** [![GitHub stars](https://img.shields.io/github/stars/seifip/kilobat-cli?style=social)](https://github.com/seifip/kilobat-cli): Local macOS MCP server for connection diagnostics.
 
 ### 🔎 Search
+-   **[MCPKit-RU/yandex-wordstat-mcp](https://github.com/MCPKit-RU/yandex-wordstat-mcp)** [![GitHub stars](https://img.shields.io/github/stars/MCPKit-RU/yandex-wordstat-mcp?style=social)](https://github.com/MCPKit-RU/yandex-wordstat-mcp): Hosted MCPKit server for Yandex search demand, related queries, trends and regions in ChatGPT.
 -   **[IndexFlowing/MandarinClips-mcp](https://github.com/IndexFlowing/MandarinClips-mcp)** [![GitHub stars](https://img.shields.io/github/stars/IndexFlowing/MandarinClips-mcp?style=social)](https://github.com/IndexFlowing/MandarinClips-mcp): Search 180,000+ authentic Chinese cinema dialogue clips, HSK 3.0 grammar and pragmatic expressions for TCSL educators; remote SSE at mandarinclips.com/mcp or local via `npx -y mandarinclips-mcp`.
 
 -   **[chaitin/baizhi-agent-toolkit](https://github.com/chaitin/baizhi-agent-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/chaitin/baizhi-agent-toolkit?style=social)](https://github.com/chaitin/baizhi-agent-toolkit): Hosted web search, page retrieval, and structured extraction over Streamable HTTP; requires your own Bearer key, may incur charges, and publishes configs and docs rather than backend source.
