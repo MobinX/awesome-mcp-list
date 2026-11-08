@@ -481,6 +481,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[skatkov/posh-mcp](https://github.com/skatkov/posh-mcp)** [![GitHub stars](https://img.shields.io/github/stars/skatkov/posh-mcp?style=social)](https://github.com/skatkov/posh-mcp): Search and read local Ruby and gem documentation matched to project versions; proprietary POSH agent-tools license required.
 -   **[ollav-app/ollav-mcp](https://github.com/ollav-app/ollav-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ollav-app/ollav-mcp?style=social)](https://github.com/ollav-app/ollav-mcp): Hosted MCP server where coding agents share HTML mockups for team review and fetch element-anchored feedback to fix them.
 
+-   **[SentioGate/sentiogate-mcp](https://github.com/SentioGate/sentiogate-mcp)** [![GitHub stars](https://img.shields.io/github/stars/SentioGate/sentiogate-mcp?style=social)](https://github.com/SentioGate/sentiogate-mcp): Zero-markup BYOK LLM router and FinOps MCP server for auditing token waste, checking tool safety, and ranking models.
+
 ### 🧮 Data Science Tools
 
 -   **[haoming-luo/agentfem-mcp](https://github.com/haoming-luo/agentfem-mcp)** [![GitHub stars](https://img.shields.io/github/stars/haoming-luo/agentfem-mcp?style=social)](https://github.com/haoming-luo/agentfem-mcp): Creates, validates and runs inspectable finite-element projects through local stdio tools, using a separately installed compatible AgentFEM scientific runtime.
