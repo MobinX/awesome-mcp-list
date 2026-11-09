@@ -36,6 +36,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🌐 Browser Control
 
+-   **[julianosig/easi.run](https://github.com/julianosig/easi.run)** [![GitHub stars](https://img.shields.io/github/stars/julianosig/easi.run?style=social)](https://github.com/julianosig/easi.run): Self-hosted Chrome sessions for AI agents via MCP or REST, with live human takeover, saved profiles and file transfers.
 -   **[browser-use/browser-use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)](https://github.com/browser-use/browser-use): Official Browser Use MCP server for running browser agent tasks locally or on Browser Use Cloud browsers.
 -   **[kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing)** [![GitHub stars](https://img.shields.io/github/stars/kimtth/mcp-aoai-web-browsing?style=social)](https://github.com/kimtth/mcp-aoai-web-browsing): Implements minimal web browsing using Azure OpenAI and Playwright.
 -   **[kontext-security/browser-use-mcp-server](https://github.com/kontext-security/browser-use-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/kontext-security/browser-use-mcp-server?style=social)](https://github.com/kontext-security/browser-use-mcp-server): Packages `browser-use` as an MCP server, with Docker support for Chromium and VNC.
