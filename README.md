@@ -129,6 +129,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🤖 AI Agents & Frameworks
 
+-   **[devburaq/gmpsignal-mcp-n8n-starter-kit](https://github.com/devburaq/gmpsignal-mcp-n8n-starter-kit)** [![GitHub stars](https://img.shields.io/github/stars/devburaq/gmpsignal-mcp-n8n-starter-kit?style=social)](https://github.com/devburaq/gmpsignal-mcp-n8n-starter-kit): MCP server (`@gmpsignal/mcp-server`) exposing 40 real-time Apify intelligence tools across Quantitative Crypto/DeFi, Polymarket/Kalshi Prediction Markets, B2B Domain Tech-Stack Enrichment, Global KYB/Sanctions, CISA KEV + EPSS Cybersecurity, OpenAlex R&D, and Shopify E-Commerce.
+
 -   **[A7mdMe/mcp-production-kit](https://github.com/A7mdMe/mcp-production-kit)** [![GitHub stars](https://img.shields.io/github/stars/A7mdMe/mcp-production-kit?style=social)](https://github.com/A7mdMe/mcp-production-kit): Enterprise TypeScript starter kit for Model Context Protocol servers with dual stdio/SSE transports, SSRF security, state persistence, Docker support.
 -   **[AV-Labs-Co/cos-codex-bridge](https://github.com/AV-Labs-Co/cos-codex-bridge)** [![GitHub stars](https://img.shields.io/github/stars/AV-Labs-Co/cos-codex-bridge?style=social)](https://github.com/AV-Labs-Co/cos-codex-bridge): Local-first MCP that lets Chief of Staff agents create, monitor, continue, assign, pin, and cancel scoped Codex project tasks with durable receipts.
 -   **[MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/MervinPraison/praisonai-mcp?style=social)](https://github.com/MervinPraison/praisonai-mcp): AI Agent framework with built-in MCP tools for search, memory, workflows, code execution, and file operations.
