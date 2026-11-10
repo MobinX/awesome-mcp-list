@@ -126,6 +126,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[hardhackerlabs/podwise-plugin](https://github.com/hardhackerlabs/podwise-plugin)** [![GitHub stars](https://img.shields.io/github/stars/hardhackerlabs/podwise-plugin?style=social)](https://github.com/hardhackerlabs/podwise-plugin): Podcast knowledge for AI agents: search podcasts and episodes, pull full transcripts, read AI summaries and mind maps, ask questions across episodes, create clips, and export notes as Markdown or SRT. Hosted Streamable HTTP endpoint at `https://mcp.podwise.ai/mcp` with OAuth sign-in (Pro or Enterprise plan required for tool calls).
 
 -   **[arkyu2077/ai-video-upscaler](https://github.com/arkyu2077/ai-video-upscaler)** [![GitHub stars](https://img.shields.io/github/stars/arkyu2077/ai-video-upscaler?style=social)](https://github.com/arkyu2077/ai-video-upscaler): Remote MCP server for VideoUpscaler that lets AI agents upscale, denoise, deinterlace, and frame-interpolate videos up to 4K 60fps on cloud GPUs.
+-   **[frankShan001/CutVoke](https://github.com/frankShan001/CutVoke)** [![GitHub stars](https://img.shields.io/github/stars/frankShan001/CutVoke?style=social)](https://github.com/frankShan001/CutVoke): Local-first MIT video editor whose MCP server and human UI share one multitrack timeline: import media, cut, caption, keyframe, preview real frames, and export MP4 or an editable project.
 
 ### 🤖 AI Agents & Frameworks
 
