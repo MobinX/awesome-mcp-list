@@ -480,6 +480,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[getremcp/remcp](https://github.com/getremcp/remcp)** [![GitHub stars](https://img.shields.io/github/stars/getremcp/remcp?style=social)](https://github.com/getremcp/remcp): OAuth-protected MCP access to computers explicitly paired by the user. Remote browser, native desktop, terminal, files and diagnostics, including state-changing actions.
 -   **[skatkov/posh-mcp](https://github.com/skatkov/posh-mcp)** [![GitHub stars](https://img.shields.io/github/stars/skatkov/posh-mcp?style=social)](https://github.com/skatkov/posh-mcp): Search and read local Ruby and gem documentation matched to project versions; proprietary POSH agent-tools license required.
 -   **[ollav-app/ollav-mcp](https://github.com/ollav-app/ollav-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ollav-app/ollav-mcp?style=social)](https://github.com/ollav-app/ollav-mcp): Hosted MCP server where coding agents share HTML mockups for team review and fetch element-anchored feedback to fix them.
+-   **[xtrollyj00/wtf](https://github.com/xtrollyj00/wtf)** [![GitHub stars](https://img.shields.io/github/stars/xtrollyj00/wtf?style=social)](https://github.com/xtrollyj00/wtf): Terminal waveform viewer whose MCP server lets an agent debug VCD, FST and GHW simulation traces, decode AXI, SPI and UART, and show its evidence in the user's window.
 
 ### 🧮 Data Science Tools
 
