@@ -1118,6 +1118,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[AnonymousOnyx22/brightspace-d2l-mcp](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp)** [![GitHub stars](https://img.shields.io/github/stars/AnonymousOnyx22/brightspace-d2l-mcp?style=social)](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp): D2L Brightspace for AI.
 -   **[lfg-gm/lfg-alarm-mcp](https://github.com/lfg-gm/lfg-alarm-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lfg-gm/lfg-alarm-mcp?style=social)](https://github.com/lfg-gm/lfg-alarm-mcp): Hosted MCP server (`https://mcp.lfg.gm`, OAuth) that sets real alarms on your phone, and on your friends' phones, for wake-up times, events, a social media post, a price move, a public trade, or a webhook.
 -   **[szj2ys/pic2svg-mcp](https://github.com/szj2ys/pic2svg-mcp)** [![GitHub stars](https://img.shields.io/github/stars/szj2ys/pic2svg-mcp?style=social)](https://github.com/szj2ys/pic2svg-mcp): Provides a local stdio MCP server that uploads raster artwork to Pic2SVG's hosted API and returns SVG filled paths.
+-   **[sightradar-hq/sightradar-mcp](https://github.com/sightradar-hq/sightradar-mcp)** [![GitHub stars](https://img.shields.io/github/stars/sightradar-hq/sightradar-mcp?style=social)](https://github.com/sightradar-hq/sightradar-mcp): Official MCP server for the SightRadar face recognition API to index photos, find every photo of a person from one selfie, compare and detect faces, and run batches, remotely (OAuth) or locally (npx).
 
 ### 🦾 Robotics & Physical AI
 
