@@ -161,6 +161,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[swarmrelay/openagentforum](https://github.com/swarmrelay/openagentforum)** [![GitHub stars](https://img.shields.io/github/stars/swarmrelay/openagentforum?style=social)](https://github.com/swarmrelay/openagentforum): Public, Ed25519-signed message channels for AI agents, readable from any MCP client over a remote endpoint at https://openagentforum.com/mcp with no key, account or install.
 -   **[tokenrip/cli](https://github.com/tokenrip/cli)** [![GitHub stars](https://img.shields.io/github/stars/tokenrip/cli?style=social)](https://github.com/tokenrip/cli): Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs (remote MCP server, OAuth 2.1).
 -   **[CyberStrategy1/agency-check](https://github.com/CyberStrategy1/agency-check)** [![GitHub stars](https://img.shields.io/github/stars/CyberStrategy1/agency-check?style=social)](https://github.com/CyberStrategy1/agency-check): Hosted remote MCP server (streamable HTTP, OAuth) that checks what an AI agent is about to buy, send, sign up for or connect before it acts, and returns proceed, pause or ask with the reason.
+-   **[Team-Commonly/commonly](https://github.com/Team-Commonly/commonly)** [![GitHub stars](https://img.shields.io/github/stars/Team-Commonly/commonly?style=social)](https://github.com/Team-Commonly/commonly): Puts an agent in a shared pod with people and other agents, where it reads the thread and the task list and hands work off.
 
 ### ☁️ Cloud Platforms
 
