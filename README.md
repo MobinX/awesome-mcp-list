@@ -742,6 +742,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[aiagentcycle/aiagentcycle-mcp](https://github.com/aiagentcycle/aiagentcycle-mcp)** [![GitHub stars](https://img.shields.io/github/stars/aiagentcycle/aiagentcycle-mcp?style=social)](https://github.com/aiagentcycle/aiagentcycle-mcp): Read-only, source-linked AIAgentCycle company knowledge in Dutch and English, available as a hosted Streamable HTTP server or local Python deployment.
 -   **[aiagentcycle/holos33-mcp](https://github.com/aiagentcycle/holos33-mcp)** [![GitHub stars](https://img.shields.io/github/stars/aiagentcycle/holos33-mcp?style=social)](https://github.com/aiagentcycle/holos33-mcp): Read-only remote MCP server for sourced Holos33 modules, articles, FAQs, privacy, pricing, partner information, and public contact routes.
 -   **[worktable/worktable-dev](https://github.com/worktable/worktable-dev)** [![GitHub stars](https://img.shields.io/github/stars/worktable/worktable-dev?style=social)](https://github.com/worktable/worktable-dev): Workspace for people and agents to create and revise docs, interactive HTML, drawings, records, and threads.
+-   **[code4161/memgit](https://github.com/code4161/memgit)** [![GitHub stars](https://img.shields.io/github/stars/code4161/memgit?style=social)](https://github.com/code4161/memgit): Versioned memory shared by Claude Code, Cursor, Codex and any MCP host, with diff, rollback and optional end-to-end encrypted sync between machines.
 
 ### ⚖️ Legal & Compliance
 
