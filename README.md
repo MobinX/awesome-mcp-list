@@ -945,6 +945,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Sequenzy/mcp](https://github.com/Sequenzy/mcp)** [![GitHub stars](https://img.shields.io/github/stars/Sequenzy/mcp?style=social)](https://github.com/Sequenzy/mcp): Manage email contacts, campaigns, automation sequences, transactional email and analytics.
 -   **[InkRoom-AI/inkroom-prompts](https://github.com/InkRoom-AI/inkroom-prompts)** [![GitHub stars](https://img.shields.io/github/stars/InkRoom-AI/inkroom-prompts?style=social)](https://github.com/InkRoom-AI/inkroom-prompts): Local STDIO MCP server for searching public image prompt ideas, checking model prices, and refining prompt text without an API key.
 
+-   **[impul-co/impulse-mcp](https://github.com/impul-co/impulse-mcp)** [![GitHub stars](https://img.shields.io/github/stars/impul-co/impulse-mcp?style=social)](https://github.com/impul-co/impulse-mcp): Hosted MCP for Impulse event pages, emails, guests, and check-in.
+
 ### 📊 Monitoring
 
 -   **[becoolme/openuptime](https://github.com/becoolme/openuptime)** [![GitHub stars](https://img.shields.io/github/stars/becoolme/openuptime?style=social)](https://github.com/becoolme/openuptime): Manage uptime monitors, incidents and public status pages through a remote MCP server with OAuth.
