@@ -319,6 +319,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 💻 Developer Tools
 
+-   **[systra-tools/systra-tools-plugin](https://github.com/systra-tools/systra-tools-plugin)** [![GitHub stars](https://img.shields.io/github/stars/systra-tools/systra-tools-plugin?style=social)](https://github.com/systra-tools/systra-tools-plugin): Search and retrieve production-ready React and Tailwind UI components, styles and page recipes through a hosted, free-to-start MCP endpoint.
+
 -   **[basementstudio/xmcp](https://github.com/basementstudio/xmcp)** [![GitHub stars](https://img.shields.io/github/stars/basementstudio/xmcp?style=social)](https://github.com/basementstudio/xmcp): Hosts xmcp Docs, a free read-only MCP server for searching official xmcp documentation over Streamable HTTP at https://xmcp.dev/mcp without authentication.
 
 -   **[agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway)** [![GitHub stars](https://img.shields.io/github/stars/agiletec-inc/airis-mcp-gateway?style=social)](https://github.com/agiletec-inc/airis-mcp-gateway): Docker-based MCP multiplexer exposing 60+ tools through 7 meta-tools. Reduces context tokens by 97%. One-command setup, auto-enables servers on demand.
