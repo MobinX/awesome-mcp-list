@@ -254,6 +254,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[campfiresms/campfire-mcp](https://github.com/campfiresms/campfire-mcp)** [![GitHub stars](https://img.shields.io/github/stars/campfiresms/campfire-mcp?style=social)](https://github.com/campfiresms/campfire-mcp): Two-way SMS bridge that lets coding agents (Claude Code, Codex, Cursor, Grok Build) text you when they finish or get blocked and read your SMS replies.
 -   **[mysocialio/mysocial-intelligence](https://github.com/mysocialio/mysocial-intelligence)** [![GitHub stars](https://img.shields.io/github/stars/mysocialio/mysocial-intelligence?style=social)](https://github.com/mysocialio/mysocial-intelligence): Hosted OAuth MCP for social media intelligence from connected content history and performance signals.
 -   **[edouard-claude/ent1-mcp](https://github.com/edouard-claude/ent1-mcp)** [![GitHub stars](https://img.shields.io/github/stars/edouard-claude/ent1-mcp?style=social)](https://github.com/edouard-claude/ent1-mcp): Parent access to ENT ONE, the French primary-school digital workspace (Edifice): teacher messaging, liaison book, homework, news and documents.
+-   **[yehudashtein/wa-bridge-mcp](https://github.com/yehudashtein/wa-bridge-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yehudashtein/wa-bridge-mcp?style=social)](https://github.com/yehudashtein/wa-bridge-mcp): Local WhatsApp MCP client (API-Supp) for files, voice notes and media on one existing number via an unofficial QR bridge.
 
 ### 👤 Customer Data Platforms
 
