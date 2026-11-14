@@ -945,6 +945,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[Sequenzy/mcp](https://github.com/Sequenzy/mcp)** [![GitHub stars](https://img.shields.io/github/stars/Sequenzy/mcp?style=social)](https://github.com/Sequenzy/mcp): Manage email contacts, campaigns, automation sequences, transactional email and analytics.
 -   **[InkRoom-AI/inkroom-prompts](https://github.com/InkRoom-AI/inkroom-prompts)** [![GitHub stars](https://img.shields.io/github/stars/InkRoom-AI/inkroom-prompts?style=social)](https://github.com/InkRoom-AI/inkroom-prompts): Local STDIO MCP server for searching public image prompt ideas, checking model prices, and refining prompt text without an API key.
 
+-   **[TRW123123/bewerbungsfoto-check-mcp](https://github.com/TRW123123/bewerbungsfoto-check-mcp)** [![GitHub stars](https://img.shields.io/github/stars/TRW123123/bewerbungsfoto-check-mcp?style=social)](https://github.com/TRW123123/bewerbungsfoto-check-mcp): Remote MCP server (no auth) that runs a technical check of a profile or job-application photo and returns a score with crop recommendations.
+
 ### 📊 Monitoring
 
 -   **[becoolme/openuptime](https://github.com/becoolme/openuptime)** [![GitHub stars](https://img.shields.io/github/stars/becoolme/openuptime?style=social)](https://github.com/becoolme/openuptime): Manage uptime monitors, incidents and public status pages through a remote MCP server with OAuth.
