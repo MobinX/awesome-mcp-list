@@ -1055,6 +1055,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🛠️ Utilities
 
+-   **[humanpen/humanpen-mcp](https://github.com/humanpen/humanpen-mcp)** [![GitHub stars](https://img.shields.io/github/stars/humanpen/humanpen-mcp?style=social)](https://github.com/humanpen/humanpen-mcp): Rewrites, translates, condenses, and adjusts citations in documents via a credit-based hosted API.
 -   **[imiraoui/pennyocr-mcp](https://github.com/imiraoui/pennyocr-mcp)** [![GitHub stars](https://img.shields.io/github/stars/imiraoui/pennyocr-mcp?style=social)](https://github.com/imiraoui/pennyocr-mcp): Read PDFs and images as Markdown or text with cost estimates, credit balance checks and spend caps; processing requires an API key and credits.
 -   **[zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp)** [![GitHub stars](https://img.shields.io/github/stars/zcaceres/fetch-mcp?style=social)](https://github.com/zcaceres/fetch-mcp): Fetches JSON, text, and HTML data flexibly from URLs.
 -   **[modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Efficiently fetches and processes web content (part of the official servers collection).
