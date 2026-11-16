@@ -1118,6 +1118,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[AnonymousOnyx22/brightspace-d2l-mcp](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp)** [![GitHub stars](https://img.shields.io/github/stars/AnonymousOnyx22/brightspace-d2l-mcp?style=social)](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp): D2L Brightspace for AI.
 -   **[lfg-gm/lfg-alarm-mcp](https://github.com/lfg-gm/lfg-alarm-mcp)** [![GitHub stars](https://img.shields.io/github/stars/lfg-gm/lfg-alarm-mcp?style=social)](https://github.com/lfg-gm/lfg-alarm-mcp): Hosted MCP server (`https://mcp.lfg.gm`, OAuth) that sets real alarms on your phone, and on your friends' phones, for wake-up times, events, a social media post, a price move, a public trade, or a webhook.
 -   **[szj2ys/pic2svg-mcp](https://github.com/szj2ys/pic2svg-mcp)** [![GitHub stars](https://img.shields.io/github/stars/szj2ys/pic2svg-mcp?style=social)](https://github.com/szj2ys/pic2svg-mcp): Provides a local stdio MCP server that uploads raster artwork to Pic2SVG's hosted API and returns SVG filled paths.
+-   **[EphraimElgrabli/gesher](https://github.com/EphraimElgrabli/gesher)** [![GitHub stars](https://img.shields.io/github/stars/EphraimElgrabli/gesher?style=social)](https://github.com/EphraimElgrabli/gesher): Local MCP servers for seven Mac apps (Reminders, Calendar, Contacts, Notes, Maps, Weather, Freeform), 117 tools including Notes tables and Reminders smart lists; macOS 26+ on Apple silicon.
 
 ### 🦾 Robotics & Physical AI
 
