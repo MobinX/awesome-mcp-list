@@ -1053,6 +1053,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[rocosen/flashdata-mcp](https://github.com/rocosen/flashdata-mcp)** [![GitHub stars](https://img.shields.io/github/stars/rocosen/flashdata-mcp?style=social)](https://github.com/rocosen/flashdata-mcp): Local stdio MCP server for Google Search, News, Images, Shopping, Videos and Places, plus YouTube search, metadata, transcripts and captions, using a FlashData API key and paid Credits.
 -   **[Forever-In-Our-Hearts/memorials-mcp-server](https://github.com/Forever-In-Our-Hearts/memorials-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/Forever-In-Our-Hearts/memorials-mcp-server?style=social)](https://github.com/Forever-In-Our-Hearts/memorials-mcp-server): Hosted remote MCP server (no auth) that searches public online memorials, funeral notices and partner funeral homes from Forever In Our Hearts, with links to each page.
 
+-   **[hajejbusiness/roopedia-mcp](https://github.com/hajejbusiness/roopedia-mcp)** [![GitHub stars](https://img.shields.io/github/stars/hajejbusiness/roopedia-mcp?style=social)](https://github.com/hajejbusiness/roopedia-mcp): Searches 786+ verified AI tools, SaaS pricing freshness, and MCP server security records in English and French via the public Roopedia API.
+
 ### 🛠️ Utilities
 
 -   **[imiraoui/pennyocr-mcp](https://github.com/imiraoui/pennyocr-mcp)** [![GitHub stars](https://img.shields.io/github/stars/imiraoui/pennyocr-mcp?style=social)](https://github.com/imiraoui/pennyocr-mcp): Read PDFs and images as Markdown or text with cost estimates, credit balance checks and spend caps; processing requires an API key and credits.
