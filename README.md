@@ -126,6 +126,7 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 -   **[hardhackerlabs/podwise-plugin](https://github.com/hardhackerlabs/podwise-plugin)** [![GitHub stars](https://img.shields.io/github/stars/hardhackerlabs/podwise-plugin?style=social)](https://github.com/hardhackerlabs/podwise-plugin): Podcast knowledge for AI agents: search podcasts and episodes, pull full transcripts, read AI summaries and mind maps, ask questions across episodes, create clips, and export notes as Markdown or SRT. Hosted Streamable HTTP endpoint at `https://mcp.podwise.ai/mcp` with OAuth sign-in (Pro or Enterprise plan required for tool calls).
 
 -   **[arkyu2077/ai-video-upscaler](https://github.com/arkyu2077/ai-video-upscaler)** [![GitHub stars](https://img.shields.io/github/stars/arkyu2077/ai-video-upscaler?style=social)](https://github.com/arkyu2077/ai-video-upscaler): Remote MCP server for VideoUpscaler that lets AI agents upscale, denoise, deinterlace, and frame-interpolate videos up to 4K 60fps on cloud GPUs.
+-   **[meetshiro/shiro-mcp](https://github.com/meetshiro/shiro-mcp)** [![GitHub stars](https://img.shields.io/github/stars/meetshiro/shiro-mcp?style=social)](https://github.com/meetshiro/shiro-mcp): Connects AI assistants to Shiro's hosted server (Streamable HTTP, OAuth 2.1) to work on a novel or non-fiction book: read scenes and the outline, edit prose, fill characters and places, check continuity and export EPUB.
 
 ### 🤖 AI Agents & Frameworks
 
