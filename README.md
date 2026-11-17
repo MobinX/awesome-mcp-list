@@ -771,6 +771,8 @@ Submissions without a **public GitHub repo** or that don't match the entry forma
 
 ### 🗺️ Location Services
 
+-   **[ihouse-corp/maru-japan-hands](https://github.com/ihouse-corp/maru-japan-hands)** [![GitHub stars](https://img.shields.io/github/stars/ihouse-corp/maru-japan-hands?style=social)](https://github.com/ihouse-corp/maru-japan-hands): Human services in Japan for AI agents: Japanese phone calls, reservations, shopping and on-site checks.
+
 -   **[IPGeolocation/ipgeolocation-io-mcp](https://github.com/IPGeolocation/ipgeolocation-io-mcp)** [![GitHub stars](https://img.shields.io/github/stars/IPGeolocation/ipgeolocation-io-mcp?style=social)](https://github.com/IPGeolocation/ipgeolocation-io-mcp): Official IPGeolocation.io server with 17 tools for IP geolocation, company information, ASN and network data, IP security (VPN, proxy, Tor, bot, hosting and spam detection), abuse contacts, time zones, astronomy, currency data and user-agent parsing.
 -   **[stayingapi/hotel-mcp](https://github.com/stayingapi/hotel-mcp)** [![GitHub stars](https://img.shields.io/github/stars/stayingapi/hotel-mcp?style=social)](https://github.com/stayingapi/hotel-mcp): Hosted remote MCP server for live accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels (search, availability, prices, price comparison, reviews, listings).
 -   **[webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo)** [![GitHub stars](https://img.shields.io/github/stars/webcoderz/MCP-Geo?style=social)](https://github.com/webcoderz/MCP-Geo): Offers geocoding capabilities using various services.
